@@ -1,0 +1,4615 @@
+{
+  "book": {
+    "id": "5a",
+    "title": "서울대 한국어 5A",
+    "level_uz": "Yuqori (5-daraja, 1-qism)"
+  },
+  "units": [
+    {
+      "id": "1",
+      "num": 1,
+      "title_kr": "갸름한 얼굴에 긴 생머리",
+      "title_uz": "Ingichka yuz va uzun tekis soch",
+      "available": true,
+      "goals": [
+        "Tashqi ko‘rinishni aniq tasvirlash",
+        "Kutish bilan natijani solishtirish",
+        "Yuzaki bajarilgan ishni tanish"
+      ],
+      "grammar_summary": [
+        "A-(으)ㄴ/V-는 N에 A-(으)ㄴ/V-는 N",
+        "N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다",
+        "V-는 둥 마는 둥"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Tashqi qiyofa",
+          "items": [
+            {
+              "kr": "외모",
+              "rom": "oemo",
+              "uz": "tashqi qiyofa",
+              "pos": "ot"
+            },
+            {
+              "kr": "얼굴형",
+              "rom": "eolgulhyeong",
+              "uz": "yuz shakli",
+              "pos": "ot"
+            },
+            {
+              "kr": "생머리",
+              "rom": "saengmeori",
+              "uz": "tekis soch",
+              "pos": "ot"
+            },
+            {
+              "kr": "곱슬머리",
+              "rom": "gopseulmeori",
+              "uz": "jingalak soch",
+              "pos": "ot"
+            },
+            {
+              "kr": "수염",
+              "rom": "suyeom",
+              "uz": "soqol",
+              "pos": "ot"
+            },
+            {
+              "kr": "인상",
+              "rom": "insang",
+              "uz": "taassurot",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Kiyim va tavsif",
+          "items": [
+            {
+              "kr": "옷차림",
+              "rom": "otcharim",
+              "uz": "kiyinish uslubi",
+              "pos": "ot"
+            },
+            {
+              "kr": "단정하다",
+              "rom": "danjeonghada",
+              "uz": "saranjom bo‘lmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "갸름하다",
+              "rom": "gyareumhada",
+              "uz": "ingichka, cho‘zinchoq yuzli bo‘lmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "길다",
+              "rom": "gilda",
+              "uz": "uzun bo‘lmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "눈매",
+              "rom": "nunmae",
+              "uz": "ko‘z shakli",
+              "pos": "ot"
+            },
+            {
+              "kr": "닮다",
+              "rom": "damda",
+              "uz": "o‘xshamoq",
+              "pos": "fe’l"
+            }
+          ],
+          "tip": "외모 — tashqi ko‘rinish; 인상 — shu ko‘rinish va muomaladan tug‘ilgan umumiy taassurot."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A-(으)ㄴ/V-는 N에 A-(으)ㄴ/V-는 N",
+          "title_uz": "Belgilarni qatma-qat tasvirlash",
+          "explanation": [
+            "Bir odamning ikki ko‘rinish belgisini “...ga ...” tarzida birlashtiradi. Har ikkala sifat yoki fe’l keyingi otni aniqlaydi."
+          ],
+          "analogy": "Portretga ketma-ket chizilgan ikki detal.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ N에 A-(으)ㄴ N",
+              "example": "둥근 얼굴에 긴 머리"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는 N에 A-(으)ㄴ N",
+              "example": "웃는 얼굴에 밝은 눈"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "그는 둥근 얼굴에 짧은 머리예요.",
+              "uz": "Uning yuzi dumaloq, sochi kalta."
+            },
+            {
+              "kr": "민지는 단정한 옷차림에 밝은 표정이에요.",
+              "uz": "Minjining kiyimi saranjom, chehrasi ochiq."
+            },
+            {
+              "kr": "그 배우는 웃는 눈에 부드러운 인상이 있어요.",
+              "uz": "U aktyorning ko‘zi kulib turadi, taassuroti muloyim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "둥글 얼굴에",
+              "right": "둥근 얼굴에",
+              "why": "Sifat ot oldida (으)ㄴ shaklini oladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다",
+          "title_uz": "Bunchalik bo‘lmasa ham shunday deb o‘ylagandim",
+          "explanation": [
+            "Yuqori kutishdan voz kechib, hech bo‘lmaganda pastroq daraja bo‘ladi deb o‘ylaganini aytadi; natija undan ham farq qilgan."
+          ],
+          "analogy": "Kutish zinapoyasidagi ikki pog‘ona va kutilmagan natija.",
+          "rules": [
+            {
+              "condition": "birinchi chegara",
+              "form": "N까지는 못 돼도",
+              "example": "모델까지는 못 돼도"
+            },
+            {
+              "condition": "kutilgan minimum",
+              "form": "N은/는 ... 줄 알았다",
+              "example": "배우는 될 줄 알았다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "모델까지는 못 돼도 배우는 될 줄 알았어요.",
+              "uz": "Model bo‘lmasam ham aktyor bo‘laman deb o‘ylagandim."
+            },
+            {
+              "kr": "전문가까지는 못 돼도 조수는 될 줄 알았어요.",
+              "uz": "Mutaxassis bo‘lmasam ham yordamchi bo‘laman deb o‘ylagandim."
+            },
+            {
+              "kr": "최고상까지는 못 받아도 특별상은 받을 줄 알았어요.",
+              "uz": "Bosh sovrin bo‘lmasa ham maxsus mukofot olaman deb o‘ylagandim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "배우가 되는 줄 알았다 kelajak",
+              "right": "배우가 될 줄 알았다",
+              "why": "O‘tmishdagi kelajak kutishiga -(으)ㄹ 줄 알았다."
+            }
+          ]
+        },
+        {
+          "pattern": "V-는 둥 마는 둥",
+          "title_uz": "Nomigagina qilmoq",
+          "explanation": [
+            "Harakatni chin dildan yoki oxirigacha bajarmay, yarim-yorti qilganini bildiradi. Ko‘pincha tanqid ohangi bor."
+          ],
+          "analogy": "Bajarilgan ish yonidagi yarim to‘ldirilgan katak.",
+          "rules": [
+            {
+              "condition": "fe’l",
+              "form": "V-는 둥 마는 둥",
+              "example": "듣는 둥 마는 둥"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "설명을 듣는 둥 마는 둥 했어요.",
+              "uz": "Izohni nomigagina tingladi."
+            },
+            {
+              "kr": "아침을 먹는 둥 마는 둥 하고 나갔어요.",
+              "uz": "Nonushtani yarim-yorti qilib chiqdi."
+            },
+            {
+              "kr": "사진을 보는 둥 마는 둥 하고 사람을 찾았어요.",
+              "uz": "Suratga yaxshilab qaramay odamni qidirdi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "듣는 등 마는 등",
+              "right": "듣는 둥 마는 둥",
+              "why": "Bu qolipdagi bo‘g‘in 둥, ro‘yxatdagi 등 emas."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Odamni topish",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "그분은 어떤 모습이에요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "둥근 얼굴에 긴 생머리예요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "사진을 보는 둥 마는 둥 해서 못 알아봤어요."
+            }
+          ],
+          "translation": "Aziz: U kishi qanday ko‘rinishda?\nMinji: Yuzi dumaloq, sochi tekis va uzun.\nAziz: Suratga yaxshilab qaramaganim uchun tanimadim.",
+          "new_words": []
+        },
+        {
+          "title": "Eski taxmin",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "어릴 때 어떤 직업을 꿈꿨어요?"
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "모델까지는 못 돼도 배우는 될 줄 알았어요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "지금도 공연을 좋아하잖아요."
+            }
+          ],
+          "translation": "Mariya: Bolalikda qaysi kasbni orzu qilgansiz?\nJisu: Model bo‘lmasam ham aktyor bo‘laman deb o‘ylagandim.\nMariya: Hozir ham sahnani yoqtirasiz-ku.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Yangi suhbatdosh",
+        "intro": "4B sahna chiqishidan keyin do‘stlar radio loyihasiga mehmon chaqiradi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "우리 손님은 둥근 얼굴에 짧은 머리예요.",
+            "uz": "Mehmonimizning yuzi dumaloq, sochi kalta."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "사진만 보는 둥 마는 둥 하지 말고 이름도 확인해요.",
+            "uz": "Suratga yuzaki qaramay, ismini ham tekshiring."
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "배우까지는 못 돼도 진행자는 될 줄 알았어요.",
+            "uz": "Aktyor bo‘lmasam ham boshlovchi bo‘laman deb o‘ylagandim."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "오늘은 그 꿈을 한번 실현해 봐요.",
+            "uz": "Bugun shu orzuni sinab ko‘raylik."
+          }
+        ],
+        "question": "Jisu qaysi ishni qiladi deb o‘ylagandi?"
+      }
+    },
+    {
+      "id": "2",
+      "num": 2,
+      "title_kr": "A형 성격과 B형 성격",
+      "title_uz": "A va B xil xarakter",
+      "available": true,
+      "goals": [
+        "Xarakter haqidagi yorliqni ehtiyotkor ishlatish",
+        "Taassurot va haqiqatni farqlash",
+        "Qat’iy niyatni ifodalash"
+      ],
+      "grammar_summary": [
+        "A/V-다는 소리를 듣다",
+        "A/V-다는 인상을 주다",
+        "V-는 한이 있어도"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Fe’l-atvor",
+          "items": [
+            {
+              "kr": "성격",
+              "rom": "seonggyeok",
+              "uz": "xarakter",
+              "pos": "ot"
+            },
+            {
+              "kr": "외향적",
+              "rom": "oeyangjeok",
+              "uz": "kirishimli",
+              "pos": "sifat"
+            },
+            {
+              "kr": "내향적",
+              "rom": "naehyangjeok",
+              "uz": "ichki dunyosiga moyil, kamgap",
+              "pos": "sifat"
+            },
+            {
+              "kr": "신중하다",
+              "rom": "sinjunghada",
+              "uz": "ehtiyotkor bo‘lmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "솔직하다",
+              "rom": "soljikhada",
+              "uz": "samimiy, ochiq bo‘lmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "완벽주의",
+              "rom": "wanbyeokjuui",
+              "uz": "mukammallikka intilish",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Taassurot",
+          "items": [
+            {
+              "kr": "인상",
+              "rom": "insang",
+              "uz": "taassurot",
+              "pos": "ot"
+            },
+            {
+              "kr": "오해",
+              "rom": "ohae",
+              "uz": "noto‘g‘ri tushunish",
+              "pos": "ot"
+            },
+            {
+              "kr": "비교하다",
+              "rom": "bigyohada",
+              "uz": "taqqoslamoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "장점",
+              "rom": "jangjeom",
+              "uz": "kuchli tomon",
+              "pos": "ot"
+            },
+            {
+              "kr": "단점",
+              "rom": "danjeom",
+              "uz": "zaif tomon",
+              "pos": "ot"
+            },
+            {
+              "kr": "상처",
+              "rom": "sangcheo",
+              "uz": "ko‘ngil yarasi",
+              "pos": "ot"
+            }
+          ],
+          "tip": "Xarakter toifalari qat’iy tashxis emas: odam vaziyatga qarab turlicha tutishi mumkin."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A/V-다는 소리를 듣다",
+          "title_uz": "Shunday deyishlarini eshitmoq",
+          "explanation": [
+            "Boshqalar siz haqingizda qayta-qayta aytadigan fikrni bildiradi. Bu fikr har doim haqiqat bo‘lishi shart emas."
+          ],
+          "analogy": "Odam ortidan yuradigan “yorliq”.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-다는 소리를 듣다",
+              "example": "신중하다는 소리를 듣다"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-ㄴ/는다는 소리를 듣다",
+              "example": "웃는다는 소리를 듣다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "저는 차분하다는 소리를 자주 들어요.",
+              "uz": "Meni ko‘pincha bosiq deyishadi."
+            },
+            {
+              "kr": "민지는 말을 잘 들어 준다는 소리를 들어요.",
+              "uz": "Minjini yaxshi tinglovchi deyishadi."
+            },
+            {
+              "kr": "그 친구는 너무 완벽을 추구한다는 소리를 들었어요.",
+              "uz": "U do‘stni mukammallikka haddan ziyod intiladi deyishdi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "차분하는 소리",
+              "right": "차분하다는 소리",
+              "why": "Sifat bayon shakli -다는 bo‘ladi."
+            }
+          ]
+        },
+        {
+          "pattern": "A/V-다는 인상을 주다",
+          "title_uz": "Shunday taassurot qoldirmoq",
+          "explanation": [
+            "Xatti-harakat yoki ko‘rinish boshqada qaysi tasavvur uyg‘otishini aytadi. 인상 dalil emas, ilk sezgi."
+          ],
+          "analogy": "Uchrashuvdan keyin odam ongida qolgan surat.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-다는 인상을 주다",
+              "example": "성실하다는 인상을 주다"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-ㄴ/는다는 인상을 주다",
+              "example": "잘 듣는다는 인상을 주다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "조용한 말투가 신중하다는 인상을 줘요.",
+              "uz": "Sokin ohang ehtiyotkor degan taassurot beradi."
+            },
+            {
+              "kr": "그의 미소는 친절하다는 인상을 줬어요.",
+              "uz": "Uning tabassumi mehribon taassurot qoldirdi."
+            },
+            {
+              "kr": "끝까지 질문하는 모습이 열심히 공부한다는 인상을 줘요.",
+              "uz": "Oxirigacha savol berishi tirishqoq taassurot beradi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "친절한 인상을 주다 fikrni ifodalashda",
+              "right": "친절하다는 인상을 주다",
+              "why": "To‘liq fikrni -다는 bilan otga bog‘lang."
+            }
+          ]
+        },
+        {
+          "pattern": "V-는 한이 있어도",
+          "title_uz": "Hatto ... qilishga to‘g‘ri kelsa ham",
+          "explanation": [
+            "Katta qiyinchilikni qabul qilib bo‘lsa ham, keyingi niyatdan qaytmaslikni bildiradi. Qat’iy iroda ohangi bor."
+          ],
+          "analogy": "Maqsad sari yo‘lda eng qimmat to‘lovni ham to‘lashga tayyorlik.",
+          "rules": [
+            {
+              "condition": "fe’l",
+              "form": "V-는 한이 있어도",
+              "example": "밤을 새우는 한이 있어도"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "밤을 새우는 한이 있어도 약속을 지킬게요.",
+              "uz": "Tun bo‘yi uxlamasam ham va’damda turaman."
+            },
+            {
+              "kr": "오해를 받는 한이 있어도 사실을 말하겠어요.",
+              "uz": "Noto‘g‘ri tushunishsa ham rostini aytaman."
+            },
+            {
+              "kr": "시간이 더 걸리는 한이 있어도 서로 존중해요.",
+              "uz": "Ko‘proq vaqt ketsa ham bir-birimizni hurmat qilaylik."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "밤을 새울 한이 있어도",
+              "right": "밤을 새우는 한이 있어도",
+              "why": "Fe’l hozirgi aniqlovchi -는 bilan keladi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Birinchi taassurot",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "Aziz는 차분하다는 인상을 줘요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "맞아요. 신중하다는 소리도 자주 들어요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "그래도 친한 사람과는 많이 웃어요."
+            }
+          ],
+          "translation": "Mariya: Aziz bosiq taassurot qoldiradi.\nMinji: To‘g‘ri, uni ehtiyotkor deyishadi.\nAziz: Ammo yaqinlarim bilan ko‘p kulaman.",
+          "new_words": []
+        },
+        {
+          "title": "Va’dada turish",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Jisu",
+              "kr": "시간이 모자라면 어떻게 해요?"
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "밤을 새우는 한이 있어도 끝낼게요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "도움이 필요하면 말하세요."
+            }
+          ],
+          "translation": "Jisu: Vaqt yetmasa nima qilasiz?\nAziz: Tun bo‘yi uxlamasam ham tugataman.\nJisu: Yordam kerak bo‘lsa ayting.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Taassurot va haqiqat",
+        "intro": "Radio jamoasi fe’l-atvor haqida kichik so‘rov o‘tkazadi.",
+        "lines": [
+          {
+            "speaker": "Minji",
+            "kr": "저는 외향적이라는 소리를 들어요.",
+            "uz": "Meni kirishimli deyishadi."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "하지만 처음에는 조용하다는 인상을 줬어요.",
+            "uz": "Ammo avval sokin taassurot qoldirgansiz."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "사람을 빨리 판단하면 오해할 수 있어요.",
+            "uz": "Odamni tez hukm qilsak adashishimiz mumkin."
+          },
+          {
+            "speaker": "Aziz",
+            "kr": "오해를 받는 한이 있어도 솔직하게 말할게요.",
+            "uz": "Noto‘g‘ri tushunishsa ham ochiq gapiraman."
+          }
+        ],
+        "question": "Mariya avval Minji haqida qanday o‘ylagan?"
+      }
+    },
+    {
+      "id": "3",
+      "num": 3,
+      "title_kr": "만나고 싶은 사람",
+      "title_uz": "Uchrashgim keladigan inson",
+      "available": true,
+      "goals": [
+        "Bir insonning faoliyat yo‘lini tanishtirish",
+        "Tajriba va yutuqni farqlash",
+        "Intervyu savolini tayyorlash"
+      ],
+      "grammar_summary": [
+        "V-는 등 (N에) 재능을 발휘하다",
+        "N을/를 시작으로 N을/를 거쳐 N을/를 맡다",
+        "V-(으)ㄴ 바 있다",
+        "N인지/일까"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Inson va kasb",
+          "items": [
+            {
+              "kr": "인물",
+              "rom": "inmul",
+              "uz": "shaxs, siymo",
+              "pos": "ot"
+            },
+            {
+              "kr": "기자",
+              "rom": "gija",
+              "uz": "jurnalist",
+              "pos": "ot"
+            },
+            {
+              "kr": "인터뷰",
+              "rom": "inteobyu",
+              "uz": "suhbat",
+              "pos": "ot"
+            },
+            {
+              "kr": "재능",
+              "rom": "jaeneung",
+              "uz": "iste’dod",
+              "pos": "ot"
+            },
+            {
+              "kr": "경력",
+              "rom": "gyeongnyeok",
+              "uz": "ish tajribasi",
+              "pos": "ot"
+            },
+            {
+              "kr": "업적",
+              "rom": "eopjeok",
+              "uz": "yutuq",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Hayot yo‘li",
+          "items": [
+            {
+              "kr": "데뷔하다",
+              "rom": "debyuhada",
+              "uz": "ilk bor chiqish qilmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "맡다",
+              "rom": "matda",
+              "uz": "vazifani zimmasiga olmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "거치다",
+              "rom": "geochida",
+              "uz": "bosqichdan o‘tmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "존경하다",
+              "rom": "jongyeonghada",
+              "uz": "hurmat qilmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "본받다",
+              "rom": "bonbatda",
+              "uz": "o‘rnak olmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "질문하다",
+              "rom": "jilmunhada",
+              "uz": "savol bermoq",
+              "pos": "fe’l"
+            }
+          ],
+          "tip": "경력 — faoliyat yo‘li; 업적 — shu yo‘lda erishilgan natija."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V-는 등 (N에) 재능을 발휘하다",
+          "title_uz": "Turli ishda iste’dod ko‘rsatmoq",
+          "explanation": [
+            "등 bir nechta ish orasidan misol keltiradi, 재능을 발휘하다 esa qobiliyatni amalda namoyon etishni bildiradi."
+          ],
+          "analogy": "Bir qobiliyatning turli sahnalarda ko‘rinishi.",
+          "rules": [
+            {
+              "condition": "misol sanash",
+              "form": "V-는 등",
+              "example": "노래하는 등"
+            },
+            {
+              "condition": "soha",
+              "form": "N에 재능을 발휘하다",
+              "example": "음악에 재능을 발휘하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "그는 노래하고 작곡하는 등 음악에 재능을 발휘했어요.",
+              "uz": "U kuylash va bastalash kabi ishlarda musiqiy iste’dodini ko‘rsatdi."
+            },
+            {
+              "kr": "민지는 글을 쓰는 등 여러 분야에서 재능을 발휘해요.",
+              "uz": "Minji yozish kabi ko‘p sohada iste’dod ko‘rsatadi."
+            },
+            {
+              "kr": "그 연구자는 실험을 설계하는 등 과학에 재능을 발휘했어요.",
+              "uz": "Tadqiqotchi tajriba tuzishda ilmiy qobiliyatini namoyon etdi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "재능을 발명하다",
+              "right": "재능을 발휘하다",
+              "why": "Iste’dod namoyoni uchun 발휘하다 ishlatiladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N을/를 시작으로 N을/를 거쳐 N을/를 맡다",
+          "title_uz": "Bosqichma-bosqich vazifa olish",
+          "explanation": [
+            "Faoliyatning boshlanishi, oraliq bosqichi va hozirgi vazifasini tartib bilan beradi."
+          ],
+          "analogy": "Rezyumedagi uch bekatli yo‘l.",
+          "rules": [
+            {
+              "condition": "boshlanish",
+              "form": "N을/를 시작으로",
+              "example": "기자 일을 시작으로"
+            },
+            {
+              "condition": "oraliq va yakun",
+              "form": "N을/를 거쳐 N을/를 맡다",
+              "example": "편집자를 거쳐 국장을 맡다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "그는 기자 일을 시작으로 편집자를 거쳐 국장을 맡았어요.",
+              "uz": "U jurnalistlikdan boshlanib, muharrirlikdan o‘tib boshqaruvni oldi."
+            },
+            {
+              "kr": "마리아는 자원봉사를 시작으로 연구 조교를 거쳐 팀장을 맡았어요.",
+              "uz": "Mariya ko‘ngillilikdan boshlanib tadqiqot yordamchisidan o‘tib guruhga bosh bo‘ldi."
+            },
+            {
+              "kr": "저는 안내를 시작으로 통역을 거쳐 진행을 맡았어요.",
+              "uz": "Men yo‘naltirishdan boshladim, tarjimadan o‘tib boshlovchilikni oldim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "편집자를 지나 국장을 맡다",
+              "right": "편집자를 거쳐 국장을 맡다",
+              "why": "Faoliyat bosqichiga 거쳐 tabiiy."
+            }
+          ]
+        },
+        {
+          "pattern": "V-(으)ㄴ 바 있다",
+          "title_uz": "Qilgan tajribasi bor",
+          "explanation": [
+            "Rasmiy yozma uslubda ilgari ro‘y bergan ish yoki mavjud tajribani bildiradi. Kundalik nutqda V-은 적이 있다 tabiiyroq."
+          ],
+          "analogy": "Rezyumedagi tasdiqlangan tajriba satri.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "V-은 바 있다",
+              "example": "읽은 바 있다"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "V-ㄴ 바 있다",
+              "example": "만난 바 있다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "저는 그분을 인터뷰한 바 있습니다.",
+              "uz": "Men u kishidan intervyu olganman."
+            },
+            {
+              "kr": "이 문제를 이미 논의한 바 있어요.",
+              "uz": "Bu masalani avval muhokama qilganmiz."
+            },
+            {
+              "kr": "그 연구 결과를 발표한 바 있습니다.",
+              "uz": "U tadqiqot natijasini ilgari e’lon qilganmiz."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "인터뷰하는 바 있다 o‘tgan",
+              "right": "인터뷰한 바 있다",
+              "why": "Tugallangan tajribaga -(으)ㄴ keladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N인지/일까",
+          "title_uz": "N ekanmi / N bo‘lishi mumkinmi",
+          "explanation": [
+            "인지는 shaxs yoki narsa kim/nima ekanini aniqlashga, 일까 esa ehtimol va mulohazaga yo‘naladi. Ikki shakl vazifasi bir xil emas."
+          ],
+          "analogy": "Biri tekshiruv savoli, biri ichki taxmin.",
+          "rules": [
+            {
+              "condition": "aniqlash",
+              "form": "N인지",
+              "example": "누구인지 알아보다"
+            },
+            {
+              "condition": "taxmin",
+              "form": "N일까",
+              "example": "누구일까 생각하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "그 사람이 누구인지 알아봤어요.",
+              "uz": "U odam kimligini aniqladim."
+            },
+            {
+              "kr": "다음 손님은 누구일까 궁금해요.",
+              "uz": "Keyingi mehmon kim bo‘larkin, qiziq."
+            },
+            {
+              "kr": "이 일이 우연인지 확인해 봅시다.",
+              "uz": "Bu tasodifmi, tekshirib ko‘raylik."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "누구인지? o‘zi mustaqil mulohaza",
+              "right": "누구일까?",
+              "why": "Ichki taxmin uchun 일까 tabiiyroq."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Intervyu tayyorlash",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "그분을 인터뷰한 바 있어요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "아니요. 어떤 분인지 먼저 조사할게요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "음악과 교육에 재능을 발휘한 분이래요."
+            }
+          ],
+          "translation": "Aziz: U kishidan oldin intervyu olganmisiz?\nMinji: Yo‘q. Avval qanday odam ekanini o‘rganaman.\nAziz: Musiqa va ta’limda iste’dod ko‘rsatgan ekan.",
+          "new_words": []
+        },
+        {
+          "title": "Kasbiy yo‘l",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "어떤 일부터 시작했어요?"
+            },
+            {
+              "speaker": "Mehmon",
+              "kr": "봉사를 시작으로 교육을 거쳐 연구를 맡았어요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "다음 도전은 무엇일까 궁금해요."
+            }
+          ],
+          "translation": "Mariya: Qaysi ish bilan boshlagansiz?\nMehmon: Ko‘ngillilikdan boshlab ta’limdan o‘tdim, keyin tadqiqotni oldim.\nJisu: Keyingi sinov nima bo‘larkin, qiziq.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Hurmatli mehmon",
+        "intro": "Radio jamoasi ustoz bilan yangi suhbat tayyorlaydi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "그 선생님은 여러 학생을 도운 바 있어요.",
+            "uz": "U ustoz ko‘p talabaga yordam bergan."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "가르치고 상담하는 등 교육에 재능을 발휘하셨지요.",
+            "uz": "Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "교사를 시작으로 연구자를 거쳐 학장을 맡으셨어요.",
+            "uz": "O‘qituvchilikdan boshlanib, tadqiqotchilikdan o‘tib dekan bo‘lgan."
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "첫 질문은 무엇일까 같이 생각해요.",
+            "uz": "Birinchi savol nima bo‘lishini birga o‘ylaylik."
+          }
+        ],
+        "question": "Ustoz faoliyatini qaysi ish bilan boshlagan?"
+      }
+    },
+    {
+      "id": "4",
+      "num": 4,
+      "title_kr": "사랑의 손길",
+      "title_uz": "Mehr qo‘li",
+      "available": true,
+      "goals": [
+        "Yordamning moddiy va mehnat shaklini farqlash",
+        "Kamtarona taklif qilish",
+        "Rasmiy maqsadni ifodalash"
+      ],
+      "grammar_summary": [
+        "V-다시피",
+        "너나없이 (모두)",
+        "N(이)나마",
+        "V-고자"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Yordam",
+          "items": [
+            {
+              "kr": "사랑",
+              "rom": "sarang",
+              "uz": "mehr-muhabbat",
+              "pos": "ot"
+            },
+            {
+              "kr": "후원",
+              "rom": "huwon",
+              "uz": "homiylik",
+              "pos": "ot"
+            },
+            {
+              "kr": "봉사",
+              "rom": "bongsa",
+              "uz": "ko‘ngilli yordam",
+              "pos": "ot"
+            },
+            {
+              "kr": "기부",
+              "rom": "gibu",
+              "uz": "ehson",
+              "pos": "ot"
+            },
+            {
+              "kr": "이웃",
+              "rom": "iut",
+              "uz": "qo‘shni",
+              "pos": "ot"
+            },
+            {
+              "kr": "연대",
+              "rom": "yeondae",
+              "uz": "birdamlik",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Harakat",
+          "items": [
+            {
+              "kr": "돕다",
+              "rom": "dopda",
+              "uz": "yordam bermoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "나누다",
+              "rom": "nanuda",
+              "uz": "bo‘lishmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "참여하다",
+              "rom": "chamyeohada",
+              "uz": "qatnashmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "모금하다",
+              "rom": "mogeumhada",
+              "uz": "mablag‘ yig‘moq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "위로하다",
+              "rom": "wirohada",
+              "uz": "tasalli bermoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "손길",
+              "rom": "songil",
+              "uz": "yordam qo‘li",
+              "pos": "ot"
+            }
+          ],
+          "tip": "후원 muntazam moddiy yoki tashkiliy qo‘llab-quvvatlash, 봉사 esa vaqt va mehnat berish."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V-다시피",
+          "title_uz": "Bilganingizdek / deyarli",
+          "explanation": [
+            "Gapiruvchi va tinglovchiga ayon ishni eslatadi: 아시다시피. Ba’zi fe’llarda “deyarli” ma’nosi ham bor: 죽다시피."
+          ],
+          "analogy": "Suhbatdagi umumiy bilimga barmoq bilan ishora.",
+          "rules": [
+            {
+              "condition": "eslatish",
+              "form": "V-다시피",
+              "example": "아시다시피"
+            },
+            {
+              "condition": "deyarli",
+              "form": "V-다시피 하다",
+              "example": "살다시피 하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "아시다시피 작은 도움도 큰 힘이 됩니다.",
+              "uz": "Bilganingizdek kichik yordam ham katta kuch bo‘ladi."
+            },
+            {
+              "kr": "보시다시피 많은 사람이 참여했어요.",
+              "uz": "Ko‘rib turganingizdek ko‘p odam qatnashdi."
+            },
+            {
+              "kr": "그는 봉사 센터에서 살다시피 해요.",
+              "uz": "U deyarli ko‘ngillilar markazida yashaydi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "아는 다시피",
+              "right": "아시다시피",
+              "why": "Qolip fe’l o‘zagiga 다시피 ulanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "너나없이 (모두)",
+          "title_uz": "Kim bo‘lishidan qat’i nazar hamma",
+          "explanation": [
+            "Guruhdagi odamlarni ajratmay, barchasi bir ishga qo‘shilganini bildiradi."
+          ],
+          "analogy": "Birgalikdagi ishda ism yorliqlari olib tashlanadi.",
+          "rules": [
+            {
+              "condition": "ravish",
+              "form": "너나없이 모두",
+              "example": "너나없이 참여하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "행사에는 너나없이 모두 참여했어요.",
+              "uz": "Tadbirga hamma birdek qatnashdi."
+            },
+            {
+              "kr": "도움이 필요할 때는 너나없이 손을 내밀었어요.",
+              "uz": "Yordam kerak bo‘lganda hamma qo‘l uzatdi."
+            },
+            {
+              "kr": "이웃들은 너나없이 기부에 동참했어요.",
+              "uz": "Qo‘shnilar barchasi ehsonda qatnashdi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "너나 없이",
+              "right": "너나없이",
+              "why": "Bu ravish birga yoziladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N(이)나마",
+          "title_uz": "Hech bo‘lmasa N",
+          "explanation": [
+            "Katta yordam yoki yaxshi imkon bo‘lmasa ham ozgina narsani kamtarona taklif qiladi."
+          ],
+          "analogy": "Bo‘sh qo‘l o‘rniga berilgan kichik, ammo chin sovg‘a.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "N이나마",
+              "example": "말이나마"
+            },
+            {
+              "condition": "unli",
+              "form": "N나마",
+              "example": "커피나마"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "작은 돈이나마 보태고 싶어요.",
+              "uz": "Ozroq pul bo‘lsa ham qo‘shmoqchiman."
+            },
+            {
+              "kr": "말이나마 위로가 되었으면 좋겠어요.",
+              "uz": "Hech bo‘lmasa so‘zim tasalli bo‘lsin."
+            },
+            {
+              "kr": "물 한 잔이나마 드세요.",
+              "uz": "Hech bo‘lmasa bir stakan suv iching."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "돈나마",
+              "right": "돈이나마",
+              "why": "Undosh bilan tugagan otga 이나마."
+            }
+          ]
+        },
+        {
+          "pattern": "V-고자",
+          "title_uz": "...moq maqsadida",
+          "explanation": [
+            "Rasmiy e’lon va murojaatda maqsadni bildiradi. Kundalik suhbatda -(으)려고 yumshoqroq."
+          ],
+          "analogy": "Ariza tepasidagi aniq maqsad satri.",
+          "rules": [
+            {
+              "condition": "fe’l",
+              "form": "V-고자",
+              "example": "돕고자"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "이웃을 돕고자 모금 행사를 엽니다.",
+              "uz": "Qo‘shnilarga yordam berish maqsadida mablag‘ yig‘amiz."
+            },
+            {
+              "kr": "학생들과 경험을 나누고자 편지를 썼어요.",
+              "uz": "Talabalar bilan tajriba bo‘lishish uchun xat yozdim."
+            },
+            {
+              "kr": "함께 해결하고자 회의를 열었습니다.",
+              "uz": "Birga hal qilish maqsadida yig‘ilish ochdik."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "돕으고자",
+              "right": "돕고자",
+              "why": "Fe’l o‘zagiga 고자 bevosita ulanadi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Yordam xati",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "이웃을 돕고자 편지를 썼어요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "작은 돈이나마 보탤게요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "너나없이 참여하면 큰 힘이 돼요."
+            }
+          ],
+          "translation": "Aziz: Qo‘shniga yordam berish uchun xat yozdim.\nMariya: Ozroq pul bo‘lsa ham qo‘shaman.\nAziz: Hamma qatnashsa katta kuch bo‘ladi.",
+          "new_words": []
+        },
+        {
+          "title": "Tadbir kuni",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Minji",
+              "kr": "보시다시피 사람들이 많이 왔어요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "말이나마 고맙다고 전하고 싶어요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "직접 이야기하면 더 좋아하실 거예요."
+            }
+          ],
+          "translation": "Minji: Ko‘rib turganingizdek ko‘p odam keldi.\nJisu: Hech bo‘lmasa so‘z bilan rahmat aytmoqchiman.\nMinji: Bevosita aytsangiz yanada xursand bo‘lishadi.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Mahalladagi kichik ko‘mak",
+        "intro": "Do‘stlar ko‘ngillilar markaziga yangi loyiha olib keladi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "아시다시피 혼자서는 어려운 일이에요.",
+            "uz": "Bilganingizdek yolg‘iz bajarish qiyin."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "너나없이 함께하면 가능해요.",
+            "uz": "Hamma birga qilsa bo‘ladi."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "시간이나마 내서 도울게요.",
+            "uz": "Hech bo‘lmasa vaqt ajratib yordam beraman."
+          },
+          {
+            "speaker": "Soyon",
+            "kr": "이웃을 돕고자 다음 주에 모입시다.",
+            "uz": "Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik."
+          }
+        ],
+        "question": "Do‘stlar nima maqsadda yig‘iladi?"
+      }
+    },
+    {
+      "id": "5",
+      "num": 5,
+      "title_kr": "사랑이란",
+      "title_uz": "Muhabbat degani",
+      "available": true,
+      "goals": [
+        "Mehr, do‘stlik va ishonchni muhokama qilish",
+        "Kuchli hissiyot darajasini aytish",
+        "Uzoq o‘ylagach qilingan qarorni tushuntirish"
+      ],
+      "grammar_summary": [
+        "A/V-(으)ㄹ 지경이다",
+        "생각다 못해",
+        "N(이)란 N은/는 모두"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Munosabat",
+          "items": [
+            {
+              "kr": "사랑",
+              "rom": "sarang",
+              "uz": "muhabbat",
+              "pos": "ot"
+            },
+            {
+              "kr": "우정",
+              "rom": "ujeong",
+              "uz": "do‘stlik",
+              "pos": "ot"
+            },
+            {
+              "kr": "연애",
+              "rom": "yeonae",
+              "uz": "sevgi munosabati",
+              "pos": "ot"
+            },
+            {
+              "kr": "신뢰",
+              "rom": "silloe",
+              "uz": "ishonch",
+              "pos": "ot"
+            },
+            {
+              "kr": "존중",
+              "rom": "jonjung",
+              "uz": "hurmat",
+              "pos": "ot"
+            },
+            {
+              "kr": "관계",
+              "rom": "gwangye",
+              "uz": "munosabat",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Hissiyot",
+          "items": [
+            {
+              "kr": "고백하다",
+              "rom": "gobaekhada",
+              "uz": "hisni ochiq aytmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "질투하다",
+              "rom": "jiltuhada",
+              "uz": "rashk qilmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "그립다",
+              "rom": "geuripda",
+              "uz": "sog‘inmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "소중하다",
+              "rom": "sojunghada",
+              "uz": "qadrli bo‘lmoq",
+              "pos": "sifat"
+            },
+            {
+              "kr": "실망하다",
+              "rom": "silmanghada",
+              "uz": "hafsalasi pir bo‘lmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "깨닫다",
+              "rom": "kkaedatda",
+              "uz": "anglamoq",
+              "pos": "fe’l"
+            }
+          ],
+          "tip": "우정 va 사랑 bir-biriga yaqin bo‘lishi mumkin; munosabat turini suhbatdoshning o‘zi belgilaydi."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A/V-(으)ㄹ 지경이다",
+          "title_uz": "Shunday darajadaki",
+          "explanation": [
+            "Holat juda kuchayib, og‘ir yoki favqulodda chegaraga yetganini bildiradi. Ko‘pincha salbiy, ba’zan kuchli hissiy holat."
+          ],
+          "analogy": "Holat ko‘rsatkichi qizil chiziqqa yaqinlashadi.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "-을 지경이다",
+              "example": "울 지경이다"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "-ㄹ 지경이다",
+              "example": "쓰러질 지경이다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "걱정돼서 잠을 못 잘 지경이에요.",
+              "uz": "Xavotirdan deyarli uxlay olmaydigan ahvoldaman."
+            },
+            {
+              "kr": "오해가 커져서 헤어질 지경이었어요.",
+              "uz": "Noto‘g‘ri tushunish kuchayib ayriladigan darajaga yetdik."
+            },
+            {
+              "kr": "기뻐서 울 지경이에요.",
+              "uz": "Xursandchilikdan yig‘lagudekman."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "울 정도 지경이에요",
+              "right": "울 지경이에요",
+              "why": "지경이다ning o‘zi darajani bildiradi."
+            }
+          ]
+        },
+        {
+          "pattern": "생각다 못해",
+          "title_uz": "O‘ylab-o‘ylab oxiri",
+          "explanation": [
+            "Masalani uzoq o‘ylab, boshqa yechim topolmay keyingi ishga o‘tilganini bildiradi. Ibora yaxlit holatda ishlatiladi."
+          ],
+          "analogy": "Uzoq o‘y tugagan joydagi qaror.",
+          "rules": [
+            {
+              "condition": "ravish",
+              "form": "생각다 못해",
+              "example": "생각다 못해 전화했다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "생각다 못해 먼저 전화를 걸었어요.",
+              "uz": "O‘ylab-o‘ylab oxiri birinchi bo‘lib qo‘ng‘iroq qildim."
+            },
+            {
+              "kr": "생각다 못해 친구에게 조언을 구했어요.",
+              "uz": "O‘ylab, oxiri do‘stdan maslahat so‘radim."
+            },
+            {
+              "kr": "생각다 못해 솔직한 편지를 썼어요.",
+              "uz": "O‘ylab-o‘ylab samimiy xat yozdim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "생각하지 못해 telefon qildim",
+              "right": "생각다 못해 전화했어요",
+              "why": "Bu ibora “o‘ylay olmaslik” emas, ko‘p o‘ylagach qaror qilish."
+            }
+          ]
+        },
+        {
+          "pattern": "N(이)란 N은/는 모두",
+          "title_uz": "N degani hammasi",
+          "explanation": [
+            "Bir tushunchaga ta’rif berib, unga kiruvchi barcha holatni umumlashtiradi. Keskin umumlashtirishni dalil bilan ishlatish kerak."
+          ],
+          "analogy": "Lug‘atdagi ta’rifdan katta doiraga chizilgan chiziq.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "N이란",
+              "example": "사랑이란"
+            },
+            {
+              "condition": "unli",
+              "form": "N란",
+              "example": "친구란"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "사랑이란 감정은 모두 같은 모습이 아니에요.",
+              "uz": "Muhabbat degan hisning barcha ko‘rinishi bir xil emas."
+            },
+            {
+              "kr": "친구란 사람은 모두 서로 다르지요.",
+              "uz": "Do‘st degan odamlarning barchasi turlicha."
+            },
+            {
+              "kr": "신뢰란 관계의 바탕은 모두에게 중요해요.",
+              "uz": "Ishonch degan asos hamma uchun muhim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "사랑란 감정",
+              "right": "사랑이란 감정",
+              "why": "Undoshli otga 이란 ulanadi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Ishonch haqida",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Minji",
+              "kr": "오해가 커져서 헤어질 지경이었어요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "어떻게 해결했어요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "생각다 못해 솔직하게 이야기했어요."
+            }
+          ],
+          "translation": "Minji: Tushunmovchilik ayriladigan darajaga yetdi.\nMariya: Qanday hal qildingiz?\nMinji: O‘ylab-o‘ylab rost gapirdim.",
+          "new_words": []
+        },
+        {
+          "title": "Muhabbat ta’rifi",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "사랑이란 감정은 모두 같을까요?"
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "아니요. 존중과 신뢰의 모습도 다양해요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "그래서 서로의 말을 들어야겠어요."
+            }
+          ],
+          "translation": "Aziz: Muhabbat degan his hamma uchun bir xilmi?\nJisu: Yo‘q. Hurmat va ishonchning ko‘rinishi turli.\nAziz: Shuning uchun bir-birini tinglash kerak.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Ochiq suhbat",
+        "intro": "Ko‘ngillilar loyihasida kichik tushunmovchilik yuz beradi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "오해 때문에 말을 못 할 지경이었어요.",
+            "uz": "Tushunmovchilikdan gapira olmaydigan bo‘ldim."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "생각다 못해 제가 먼저 이야기할게요.",
+            "uz": "O‘ylab-o‘ylab, avval men gapiraman."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "우정이란 관계는 모두 신뢰를 필요로 해요.",
+            "uz": "Do‘stlik degan munosabat ishonchga muhtoj."
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "서로 설명하니 마음이 가벼워졌어요.",
+            "uz": "Bir-birimizga tushuntirgach yengil tortdik."
+          }
+        ],
+        "question": "Kim birinchi bo‘lib gapirishga qaror qildi?"
+      }
+    },
+    {
+      "id": "6",
+      "num": 6,
+      "title_kr": "변하는 가족",
+      "title_uz": "O‘zgarayotgan oila",
+      "available": true,
+      "goals": [
+        "An’anaviy va zamonaviy oilani qiyoslash",
+        "Xususiyatni aniq ta’riflash",
+        "Qiyos bilan zidlikning farqini anglash"
+      ],
+      "grammar_summary": [
+        "A-(으)ㄴ/V-는 데(에) 비해",
+        "N의 특징은 A/V-다는 데(에) 있다",
+        "A-(으)ㄴ가/V-는가 하면",
+        "A-(으)ㄴ/V-는 데(에) 반해"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Oila tuzilishi",
+          "items": [
+            {
+              "kr": "가족",
+              "rom": "gajok",
+              "uz": "oila",
+              "pos": "ot"
+            },
+            {
+              "kr": "가구",
+              "rom": "gagu",
+              "uz": "xonadon",
+              "pos": "ot"
+            },
+            {
+              "kr": "세대",
+              "rom": "sedae",
+              "uz": "avlod",
+              "pos": "ot"
+            },
+            {
+              "kr": "대가족",
+              "rom": "daegajok",
+              "uz": "katta oila",
+              "pos": "ot"
+            },
+            {
+              "kr": "핵가족",
+              "rom": "haekgajok",
+              "uz": "kichik oila",
+              "pos": "ot"
+            },
+            {
+              "kr": "독신",
+              "rom": "doksin",
+              "uz": "yolg‘iz yashash holati",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "O‘zgarish",
+          "items": [
+            {
+              "kr": "전통적",
+              "rom": "jeontongjeok",
+              "uz": "an’anaviy",
+              "pos": "sifat"
+            },
+            {
+              "kr": "현대적",
+              "rom": "hyeondaejeok",
+              "uz": "zamonaviy",
+              "pos": "sifat"
+            },
+            {
+              "kr": "부양",
+              "rom": "buyang",
+              "uz": "boqish, ta’minlash",
+              "pos": "ot"
+            },
+            {
+              "kr": "변화",
+              "rom": "byeonhwa",
+              "uz": "o‘zgarish",
+              "pos": "ot"
+            },
+            {
+              "kr": "분담하다",
+              "rom": "bundamhada",
+              "uz": "bo‘lib olish",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "돌봄",
+              "rom": "dolbom",
+              "uz": "parvarish",
+              "pos": "ot"
+            }
+          ],
+          "tip": "가족 a’zolar guruhini, 가구 esa bir uy xo‘jaligi sifatidagi statistik birlikni bildiradi."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A-(으)ㄴ/V-는 데(에) 비해",
+          "title_uz": "...ga nisbatan",
+          "explanation": [
+            "Ikki holatni bir mezonda qiyoslab farqini ko‘rsatadi. 4A’dagi N에 비해서ning gapli shakli."
+          ],
+          "analogy": "Ikki davrni yonma-yon qo‘ygan surat.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ 데 비해",
+              "example": "작은 데 비해"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는 데 비해",
+              "example": "늘어나는 데 비해"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "예전에는 대가족이 많았던 데 비해 지금은 1인 가구가 늘었어요.",
+              "uz": "Ilgari katta oila ko‘p edi, hozir esa yolg‘iz xonadon ko‘paydi."
+            },
+            {
+              "kr": "형은 조용한 데 비해 동생은 활발해요.",
+              "uz": "Aka sokin, uka esa faol."
+            },
+            {
+              "kr": "가구 수가 늘어나는 데 비해 평균 인원은 줄어요.",
+              "uz": "Xonadon soni oshmoqda, o‘rtacha odam soni kamaymoqda."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "조용는데 비해",
+              "right": "조용한 데 비해",
+              "why": "Sifatga (으)ㄴ 데 비해 ulanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "N의 특징은 A/V-다는 데(에) 있다",
+          "title_uz": "Xususiyati shundaki",
+          "explanation": [
+            "Bir narsaning asosiy farqlovchi belgisini to‘liq fikr orqali ta’riflaydi. Rasmiy matnda foydali."
+          ],
+          "analogy": "Ta’rif ichidagi eng muhim satrni ajratish.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-다는 데 있다",
+              "example": "다양하다는 데 있다"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-ㄴ/는다는 데 있다",
+              "example": "함께 산다는 데 있다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "이 가족의 특징은 일을 함께 나눈다는 데 있어요.",
+              "uz": "Bu oilaning xususiyati ishni birga bo‘lishishidadir."
+            },
+            {
+              "kr": "현대 가족의 특징은 형태가 다양하다는 데 있습니다.",
+              "uz": "Zamonaviy oilaning xususiyati shakllari turlicha ekanidadir."
+            },
+            {
+              "kr": "우리 집의 장점은 서로 잘 듣는다는 데 있어요.",
+              "uz": "Uyimizning afzalligi bir-birimizni tinglashimizdadir."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "특징은 다양하다는 있다",
+              "right": "특징은 다양하다는 데 있다",
+              "why": "Fikrni joy ko‘rsatuvchi 데 있다 bilan yakunlang."
+            }
+          ]
+        },
+        {
+          "pattern": "A-(으)ㄴ가/V-는가 하면",
+          "title_uz": "Bir tomondan..., boshqa tomondan",
+          "explanation": [
+            "Bir mavzuning ikki jihatini yoki turli guruhdagi qarama-qarshi holatlarni beradi. 4A’da o‘rganilgan qolipni bu yerda oila qiyosida qo‘llaymiz."
+          ],
+          "analogy": "Bitta manzaraning chap va o‘ng tomoni.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ가 하면",
+              "example": "조용한가 하면"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는가 하면",
+              "example": "늘어나는가 하면"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "어떤 집은 조용한가 하면 어떤 집은 늘 북적여요.",
+              "uz": "Ba’zi uy sokin, boshqasi doim gavjum."
+            },
+            {
+              "kr": "혼자 사는 사람이 늘어나는가 하면 함께 사는 가족도 있어요.",
+              "uz": "Yolg‘iz yashovchilar ko‘paymoqda, birga yashovchi oilalar ham bor."
+            },
+            {
+              "kr": "부모가 일하는가 하면 조부모가 아이를 돌보기도 해요.",
+              "uz": "Ota-ona ishlaydi, ba’zan buvi-bobo bolaga qaraydi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "늘어난가 하면 hozirgi odat",
+              "right": "늘어나는가 하면",
+              "why": "Davomiy fe’lga -는가 하면."
+            }
+          ]
+        },
+        {
+          "pattern": "A-(으)ㄴ/V-는 데(에) 반해",
+          "title_uz": "...ga zid ravishda",
+          "explanation": [
+            "Ikki holat o‘rtasidagi keskinroq qarama-qarshilikni bildiradi. 비해 qiyoslaydi, 반해 esa zidlikni kuchliroq ko‘rsatadi."
+          ],
+          "analogy": "Bir yo‘l ikki tomonga ajralgan manzara.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ 데 반해",
+              "example": "작은 데 반해"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는 데 반해",
+              "example": "줄어드는 데 반해"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "출생률은 줄어드는 데 반해 1인 가구는 늘어요.",
+              "uz": "Tug‘ilish kamaymoqda, yolg‘iz xonadonlar esa ortmoqda."
+            },
+            {
+              "kr": "아버지는 조용한 데 반해 어머니는 활발하세요.",
+              "uz": "Otam sokin, onam esa faol."
+            },
+            {
+              "kr": "예전에는 역할이 고정된 데 반해 지금은 함께 나눕니다.",
+              "uz": "Ilgari vazifalar qat’iy edi, hozir esa bo‘lishiladi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "줄어든 데 반해 davomiy",
+              "right": "줄어드는 데 반해",
+              "why": "Hozir davom etayotgan o‘zgarishga -는."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Oila qiyosi",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "예전에는 대가족이 많았던 데 비해 지금은 1인 가구가 많아요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "가족 형태가 다양하다는 데 특징이 있어요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "그렇지만 서로 돌보는 마음은 중요해요."
+            }
+          ],
+          "translation": "Aziz: Ilgari katta oila ko‘p edi, hozir yolg‘iz xonadonlar ko‘p.\nMinji: Xususiyati oila shakllari turlicha ekanida.\nAziz: Ammo bir-biriga g‘amxo‘rlik hamon muhim.",
+          "new_words": []
+        },
+        {
+          "title": "Vazifalar",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "어떤 가족은 일을 나누는가 하면 한 사람이 모두 하기도 해요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "역할이 고정된 데 반해 우리 집은 번갈아 해요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "그게 더 공평하겠어요."
+            }
+          ],
+          "translation": "Mariya: Ba’zi oila ishni bo‘ladi, boshqasida bir odam hammasini qiladi.\nJisu: Vazifa qat’iy oilalardan farqli, biz navbatlashamiz.\nMariya: Bu adolatliroq ko‘rinadi.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Oila haqida suhbat",
+        "intro": "Do‘stlar turli davlatlardagi oila hayotini solishtiradi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "대가족이 흔했던 데 비해 지금은 작은 가구가 많아요.",
+            "uz": "Ilgari katta oila odatiy edi, hozir kichik xonadon ko‘p."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "우리 집의 특징은 식사를 함께 한다는 데 있어요.",
+            "uz": "Uyimizning xususiyati birga ovqatlanishimizda."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "어떤 날은 모두 모이는가 하면 바쁜 날은 따로 먹어요.",
+            "uz": "Ba’zi kun hamma yig‘iladi, band kunlar alohida yeydi."
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "형태가 다른 데 반해 서로 아끼는 마음은 비슷해요.",
+            "uz": "Shakllar farq qiladi, ammo mehr o‘xshash."
+          }
+        ],
+        "question": "Minji oilasining asosiy odati nima?"
+      }
+    },
+    {
+      "id": "7",
+      "num": 7,
+      "title_kr": "행복한 가정을 위해",
+      "title_uz": "Baxtli oila uchun",
+      "available": true,
+      "goals": [
+        "Oila siyosatini aniq mezon bilan muhokama qilish",
+        "Rasmiy o‘zgarish va ro‘yxat ifodalarini ishlatish",
+        "Qisqargan xabar shaklini tanish"
+      ],
+      "grammar_summary": [
+        "V-(으)ㅁ에 따라",
+        "-단 (=-다고 하는)",
+        "N 및 N"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Oila siyosati",
+          "items": [
+            {
+              "kr": "정책",
+              "rom": "jeongchaek",
+              "uz": "siyosat, chora",
+              "pos": "ot"
+            },
+            {
+              "kr": "출산율",
+              "rom": "chulsanyul",
+              "uz": "tug‘ilish darajasi",
+              "pos": "ot"
+            },
+            {
+              "kr": "육아",
+              "rom": "yuga",
+              "uz": "bola tarbiyasi",
+              "pos": "ot"
+            },
+            {
+              "kr": "지원금",
+              "rom": "jiwongeum",
+              "uz": "yordam puli",
+              "pos": "ot"
+            },
+            {
+              "kr": "복지",
+              "rom": "bokji",
+              "uz": "ijtimoiy yordam",
+              "pos": "ot"
+            },
+            {
+              "kr": "보육 시설",
+              "rom": "boyuk siseol",
+              "uz": "bolalar parvarish muassasasi",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Yig‘ilish",
+          "items": [
+            {
+              "kr": "회의",
+              "rom": "hoeui",
+              "uz": "yig‘ilish",
+              "pos": "ot"
+            },
+            {
+              "kr": "제안",
+              "rom": "jean",
+              "uz": "taklif",
+              "pos": "ot"
+            },
+            {
+              "kr": "기관",
+              "rom": "gigwan",
+              "uz": "muassasa",
+              "pos": "ot"
+            },
+            {
+              "kr": "업무",
+              "rom": "eommu",
+              "uz": "vazifa",
+              "pos": "ot"
+            },
+            {
+              "kr": "확대하다",
+              "rom": "hwakdaehada",
+              "uz": "kengaytirmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "개선하다",
+              "rom": "gaeseonhada",
+              "uz": "yaxshilamoq",
+              "pos": "fe’l"
+            }
+          ],
+          "tip": "정책 faqat niyat emas: kimga, qanday yordam, qaysi muddatda berilishi bilan baholanadi."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V-(으)ㅁ에 따라",
+          "title_uz": "...ishiga qarab",
+          "explanation": [
+            "Bir jarayon o‘zgargani sari boshqa natija ham o‘zgarishini rasmiy uslubda bildiradi."
+          ],
+          "analogy": "Birinchi grafik chizig‘i siljisa, ikkinchisi ergashadi.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "V-음에 따라",
+              "example": "줄어듦에 따라"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "V-ㅁ에 따라",
+              "example": "늘어남에 따라"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "가구 수가 늘어남에 따라 주택 수요도 커져요.",
+              "uz": "Xonadonlar ko‘paygani sari uyga talab ham ortadi."
+            },
+            {
+              "kr": "출산율이 낮아짐에 따라 지원 정책이 바뀌었어요.",
+              "uz": "Tug‘ilish pasaygani sari yordam siyosati o‘zgardi."
+            },
+            {
+              "kr": "보육 시설이 늘어남에 따라 선택지가 넓어져요.",
+              "uz": "Bolalar muassasalari ko‘paygach tanlov kengaydi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "늘어나는에 따라",
+              "right": "늘어남에 따라",
+              "why": "Rasmiy qolipda fe’l -(으)ㅁ bilan otlashadi."
+            }
+          ]
+        },
+        {
+          "pattern": "-단 (=-다고 하는)",
+          "title_uz": "...deb ataladigan",
+          "explanation": [
+            "Boshqa birov aytgan gapni ot oldida ixchamlashtiradi: 좋단 말 = 좋다고 하는 말. Og‘zaki va yozma kontekstga qarab shaklni tekshiring."
+          ],
+          "analogy": "Uzun xabarni bitta kichik yorliqqa yig‘ish.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-단 N",
+              "example": "좋단 말"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-ㄴ/는단 N",
+              "example": "돕는단 약속"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "지원이 늘어난단 소식을 들었어요.",
+              "uz": "Yordam ko‘payadi degan xabarni eshitdim."
+            },
+            {
+              "kr": "가족에게 좋단 정책도 모두에게 같지는 않아요.",
+              "uz": "Oila uchun yaxshi deyilgan siyosat ham hammaga bir xil emas."
+            },
+            {
+              "kr": "곧 회의가 열린단 말을 들었어요.",
+              "uz": "Yaqinda yig‘ilish bo‘ladi degan gapni eshitdim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "좋다는 말 qisqa shaklda",
+              "right": "좋단 말",
+              "why": "-단 qisqargan uslub, -다는 esa to‘liq uslub."
+            }
+          ]
+        },
+        {
+          "pattern": "N 및 N",
+          "title_uz": "N va N",
+          "explanation": [
+            "Rasmiy hujjat, e’lon va ro‘yxatda teng ikki bo‘lakni bog‘laydi. Kundalik suhbatda 와/과 yoki 하고 tabiiyroq."
+          ],
+          "analogy": "Hujjatdagi tartibli “va” bog‘lovchisi.",
+          "rules": [
+            {
+              "condition": "otlar",
+              "form": "N 및 N",
+              "example": "부모 및 자녀"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "부모 및 자녀를 위한 상담이 열립니다.",
+              "uz": "Ota-ona va bolalar uchun maslahat o‘tkaziladi."
+            },
+            {
+              "kr": "예산 및 일정은 다음 회의에서 정합니다.",
+              "uz": "Budjet va jadval keyingi yig‘ilishda belgilanadi."
+            },
+            {
+              "kr": "기관 및 단체의 협력이 필요합니다.",
+              "uz": "Muassasa va tashkilot hamkorligi kerak."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "부모 및과 자녀",
+              "right": "부모 및 자녀",
+              "why": "및dan keyin qo‘shimcha bog‘lovchi kelmaydi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Siyosat yig‘ilishi",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Minji",
+              "kr": "가구 형태가 다양해짐에 따라 지원도 달라져야 해요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "부모 및 자녀를 위한 시설이 필요해요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "좋단 정책인지 실제로 확인해 봅시다."
+            }
+          ],
+          "translation": "Minji: Oila shakli turlicha bo‘lgani sari yordam ham moslashishi kerak.\nAziz: Ota-ona va bolalar uchun muassasa kerak.\nMinji: Yaxshi deyilgan siyosatmi, amalda tekshiraylik.",
+          "new_words": []
+        },
+        {
+          "title": "Taklif",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "보육 시설이 늘어난단 소식을 들었어요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "예산 및 일정은 정해졌어요?"
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "아직 회의에서 논의 중이에요."
+            }
+          ],
+          "translation": "Mariya: Bog‘cha ko‘payadi degan xabar eshitdim.\nJisu: Budjet va jadval belgilanganmi?\nMariya: Hali yig‘ilishda muhokama qilinyapti.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Mahalla taklifi",
+        "intro": "Do‘stlar mahalladagi oilalar uchun yordam rejasini yozadi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "가구 수가 늘어남에 따라 상담 수요도 커졌어요.",
+            "uz": "Xonadonlar ko‘paygani sari maslahatga talab ortdi."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "주민 및 기관의 협력이 필요해요.",
+            "uz": "Aholi va muassasalar hamkorligi kerak."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "곧 회의가 열린단 소식을 전할게요.",
+            "uz": "Yaqinda yig‘ilish bo‘ladi degan xabarni yetkazaman."
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "좋단 계획인지 결과로 평가해요.",
+            "uz": "Reja yaxshi deyilganmi, natijadan baholaylik."
+          }
+        ],
+        "question": "Qaysi ikki tomon hamkorligi kerak?"
+      }
+    },
+    {
+      "id": "8",
+      "num": 8,
+      "title_kr": "듣고 싶은 말",
+      "title_uz": "Eshitgim keladigan so‘zlar",
+      "available": true,
+      "goals": [
+        "So‘rov natijasini son bilan ifodalash",
+        "Chegaralangan miqdor va umumiy tendensiyani ajratish",
+        "Oilaviy muloqotni muhokama qilish"
+      ],
+      "grammar_summary": [
+        "A/V-다는 응답이 N에 달하다",
+        "N은/는 N에 그치다",
+        "V-는 경향을 보이다"
+      ],
+      "vocab_groups": [
+        {
+          "title": "So‘rov",
+          "items": [
+            {
+              "kr": "설문",
+              "rom": "seolmun",
+              "uz": "so‘rovnoma",
+              "pos": "ot"
+            },
+            {
+              "kr": "응답",
+              "rom": "eungdap",
+              "uz": "javob",
+              "pos": "ot"
+            },
+            {
+              "kr": "비율",
+              "rom": "biyul",
+              "uz": "ulush",
+              "pos": "ot"
+            },
+            {
+              "kr": "경향",
+              "rom": "gyeonghyang",
+              "uz": "moyillik, tendensiya",
+              "pos": "ot"
+            },
+            {
+              "kr": "통계",
+              "rom": "tonggye",
+              "uz": "statistika",
+              "pos": "ot"
+            },
+            {
+              "kr": "항목",
+              "rom": "hangmok",
+              "uz": "band",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Oila hayoti",
+          "items": [
+            {
+              "kr": "전업주부",
+              "rom": "jeoneopjubu",
+              "uz": "uy bekasi yoki uy xo‘jayini",
+              "pos": "ot"
+            },
+            {
+              "kr": "칭찬",
+              "rom": "chingchan",
+              "uz": "maqtov",
+              "pos": "ot"
+            },
+            {
+              "kr": "격려",
+              "rom": "gyeongnyeo",
+              "uz": "dalda",
+              "pos": "ot"
+            },
+            {
+              "kr": "감사",
+              "rom": "gamsa",
+              "uz": "minnatdorlik",
+              "pos": "ot"
+            },
+            {
+              "kr": "대화",
+              "rom": "daehwa",
+              "uz": "suhbat",
+              "pos": "ot"
+            },
+            {
+              "kr": "분담",
+              "rom": "bundam",
+              "uz": "taqsimot",
+              "pos": "ot"
+            }
+          ],
+          "tip": "응답 수 — javob berganlar soni; 비율 — shu sonning umumiy qatnashchilarga nisbati."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A/V-다는 응답이 N에 달하다",
+          "title_uz": "Javob N miqdorga yetdi",
+          "explanation": [
+            "So‘rovda berilgan javob qancha odam yoki foizga yetganini rasmiy tarzda aytadi. “Yetdi” avtomatik ravishda yaxshi-yomon baho emas."
+          ],
+          "analogy": "So‘rov ustunining balandligi.",
+          "rules": [
+            {
+              "condition": "sifat/fe’l",
+              "form": "-다는 응답이 N에 달하다",
+              "example": "중요하다는 응답이 60%에 달하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "대화가 중요하다는 응답이 70퍼센트에 달했어요.",
+              "uz": "Suhbat muhim degan javob 70 foizga yetdi."
+            },
+            {
+              "kr": "칭찬이 필요하다는 응답이 절반에 달했어요.",
+              "uz": "Maqtov kerak degan javob yarmiga yetdi."
+            },
+            {
+              "kr": "가사 분담을 원한다는 응답이 백 명에 달했습니다.",
+              "uz": "Uy ishini bo‘lishishni istaganlar yuz kishiga yetdi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "70퍼센트로 달하다",
+              "right": "70퍼센트에 달하다",
+              "why": "Miqdorga 에 달하다 ulanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "N은/는 N에 그치다",
+          "title_uz": "Atigi Nda to‘xtamoq",
+          "explanation": [
+            "Miqdor kutilgan chegaradan oshmay, shu darajada qolganini bildiradi. Baholovchi ohang bor."
+          ],
+          "analogy": "O‘sishi kutilgan ustunning pastda to‘xtashi.",
+          "rules": [
+            {
+              "condition": "mavzu va miqdor",
+              "form": "N은/는 N에 그치다",
+              "example": "응답은 10명에 그치다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "남성의 응답은 열 명에 그쳤어요.",
+              "uz": "Erkaklarning javobi atigi o‘n kishi bilan cheklangan."
+            },
+            {
+              "kr": "긍정적인 평가는 전체의 삼 분의 일에 그쳤어요.",
+              "uz": "Ijobiy baho jami uchdan bir qismda to‘xtadi."
+            },
+            {
+              "kr": "첫날 참여자는 스무 명에 그쳤습니다.",
+              "uz": "Birinchi kun qatnashchilar atigi yigirma kishi bo‘ldi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "열 명으로 그치다",
+              "right": "열 명에 그치다",
+              "why": "Chegaraviy miqdorga 에 ulanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "V-는 경향을 보이다",
+          "title_uz": "...ishga moyillik ko‘rsatmoq",
+          "explanation": [
+            "Bir necha kuzatuvdan ko‘rinadigan umumiy yo‘nalishni ifodalaydi. Alohida bitta holatdan qat’iy xulosa qilmang."
+          ],
+          "analogy": "Grafikdagi bitta nuqta emas, butun chiziq yo‘nalishi.",
+          "rules": [
+            {
+              "condition": "fe’l",
+              "form": "V-는 경향을 보이다",
+              "example": "늘어나는 경향을 보이다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "젊은 층은 문자를 자주 쓰는 경향을 보여요.",
+              "uz": "Yoshlar xabar yozishga moyillik ko‘rsatadi."
+            },
+            {
+              "kr": "가족들은 식사 중에 대화하는 경향을 보였어요.",
+              "uz": "Oilalar ovqat payti suhbatlashish tendensiyasini ko‘rsatdi."
+            },
+            {
+              "kr": "응답자는 감사 표현을 더 듣고 싶어 하는 경향을 보여요.",
+              "uz": "Respondentlar ko‘proq minnatdorlik eshitishni istashga moyil."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "쓰는 경향이 보다",
+              "right": "쓰는 경향을 보이다",
+              "why": "Qolipda 경향을 obyekti bilan 보이다 keladi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "So‘rov natijasi",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "칭찬이 필요하다는 응답이 70퍼센트에 달했어요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "감사가 필요 없다는 답은 얼마예요?"
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "열 명에 그쳤어요."
+            }
+          ],
+          "translation": "Mariya: Maqtov kerak degan javob 70 foizga yetdi.\nAziz: Minnatdorlik kerak emas degan javob qancha?\nMariya: Atigi o‘n kishi.",
+          "new_words": []
+        },
+        {
+          "title": "Tendensiya",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Jisu",
+              "kr": "가족들은 어떤 말을 듣고 싶어 해요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "서로 수고했다고 말하는 경향을 보여요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "그럼 우리도 오늘 말해 봐요."
+            }
+          ],
+          "translation": "Jisu: Oilalar qanday so‘z eshitishni istaydi?\nMinji: Bir-biriga “mehnatingizga rahmat” deyishga moyillik bor.\nJisu: Unda biz ham bugun aytaylik.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Eshitishni istagan so‘z",
+        "intro": "Do‘stlar mahalladagi oilalar so‘rovini umumlashtiradi.",
+        "lines": [
+          {
+            "speaker": "Mariya",
+            "kr": "고맙다는 말을 원한다는 응답이 절반에 달했어요.",
+            "uz": "Rahmat eshitishni istagan javoblar yarmiga yetdi."
+          },
+          {
+            "speaker": "Aziz",
+            "kr": "관심 없다는 답은 몇 명이에요?",
+            "uz": "Qiziqmayman deganlar nechta?"
+          },
+          {
+            "speaker": "Minji",
+            "kr": "열 명에 그쳤어요.",
+            "uz": "Atigi o‘n kishi."
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "사람들은 작은 칭찬을 오래 기억하는 경향을 보여요.",
+            "uz": "Odamlar kichik maqtovni uzoq eslab qolishga moyil."
+          }
+        ],
+        "question": "Qaysi javob yarmiga yetdi?"
+      }
+    },
+    {
+      "id": "9",
+      "num": 9,
+      "title_kr": "일하는 사람들",
+      "title_uz": "Ishlaydigan odamlar",
+      "available": true,
+      "goals": [
+        "Kasblarni misollar bilan taqdim etish",
+        "Maoshdan tashqari mezonlarni ko‘rish",
+        "Farazga tayangan maslahat berish"
+      ],
+      "grammar_summary": [
+        "N의 (대표적인) 예로 N을/를 들다",
+        "N 외",
+        "A/V-다면"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Kasb va mehnat",
+          "items": [
+            {
+              "kr": "직업",
+              "rom": "jigeop",
+              "uz": "kasb",
+              "pos": "ot"
+            },
+            {
+              "kr": "직장",
+              "rom": "jikjang",
+              "uz": "ish joyi",
+              "pos": "ot"
+            },
+            {
+              "kr": "사원",
+              "rom": "sawon",
+              "uz": "xodim",
+              "pos": "ot"
+            },
+            {
+              "kr": "전문가",
+              "rom": "jeonmunga",
+              "uz": "mutaxassis",
+              "pos": "ot"
+            },
+            {
+              "kr": "기술자",
+              "rom": "gisulja",
+              "uz": "texnik mutaxassis",
+              "pos": "ot"
+            },
+            {
+              "kr": "창업",
+              "rom": "changeop",
+              "uz": "biznes boshlash",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Tanlov",
+          "items": [
+            {
+              "kr": "선택",
+              "rom": "seontaek",
+              "uz": "tanlov",
+              "pos": "ot"
+            },
+            {
+              "kr": "전망",
+              "rom": "jeonmang",
+              "uz": "istiqbol",
+              "pos": "ot"
+            },
+            {
+              "kr": "조건",
+              "rom": "jogeon",
+              "uz": "shart",
+              "pos": "ot"
+            },
+            {
+              "kr": "적성",
+              "rom": "jeokseong",
+              "uz": "moyillik",
+              "pos": "ot"
+            },
+            {
+              "kr": "안정성",
+              "rom": "anjeongseong",
+              "uz": "barqarorlik",
+              "pos": "ot"
+            },
+            {
+              "kr": "만족도",
+              "rom": "manjokdo",
+              "uz": "qoniqish darajasi",
+              "pos": "ot"
+            }
+          ],
+          "tip": "직업 — qanday ish bilan shug‘ullanish; 직장 — shu ish bajariladigan tashkilot yoki joy."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "N의 (대표적인) 예로 N을/를 들다",
+          "title_uz": "Misol sifatida Nni keltirmoq",
+          "explanation": [
+            "Umumiy fikrni aniq misol bilan asoslaydi. N을/를 들다 bu yerda “ko‘tarmoq” emas, “misol keltirmoq”."
+          ],
+          "analogy": "Xulosaga tayanch bo‘ladigan bitta aniq g‘isht.",
+          "rules": [
+            {
+              "condition": "soha",
+              "form": "N의 예로",
+              "example": "새 직업의 예로"
+            },
+            {
+              "condition": "misol",
+              "form": "N을/를 들다",
+              "example": "데이터 분석가를 들다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "새로운 직업의 예로 데이터 분석가를 들 수 있어요.",
+              "uz": "Yangi kasbga misol sifatida ma’lumot tahlilchisini keltirish mumkin."
+            },
+            {
+              "kr": "유연한 근무의 예로 재택근무를 들어요.",
+              "uz": "Moslashuvchan ishga misol sifatida uydan ishlashni aytaman."
+            },
+            {
+              "kr": "저는 안정적인 직장의 예로 공공기관을 들겠습니다.",
+              "uz": "Barqaror ish joyiga misol sifatida davlat muassasasini keltiraman."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "예를 들어 데이터 분석가를 들다 takror",
+              "right": "데이터 분석가를 예로 들다",
+              "why": "예를 들어 va 예로 들다ni bir gapda takrorlamang."
+            }
+          ]
+        },
+        {
+          "pattern": "N 외",
+          "title_uz": "Ndan tashqari",
+          "explanation": [
+            "Ro‘yxatdagi asosiy narsadan tashqaridagi boshqa imkon yoki istisnoni bildiradi. Rasmiy e’lonlarda ko‘p uchraydi."
+          ],
+          "analogy": "Ro‘yxat doirasidan tashqaridagi qo‘shimcha katak.",
+          "rules": [
+            {
+              "condition": "ot",
+              "form": "N 외",
+              "example": "급여 외"
+            },
+            {
+              "condition": "kishilar",
+              "form": "N 외에도",
+              "example": "직원 외에도"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "급여 외에 교육 기회도 중요해요.",
+              "uz": "Maoshdan tashqari o‘qish imkoniyati ham muhim."
+            },
+            {
+              "kr": "전공 외의 경험도 평가해요.",
+              "uz": "Mutaxassislikdan tashqari tajriba ham baholanadi."
+            },
+            {
+              "kr": "직원 외에도 자원봉사자가 있어요.",
+              "uz": "Xodimlardan tashqari ko‘ngillilar ham bor."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "급여밖에 taqqos",
+              "right": "급여 외에",
+              "why": "외에 “undan tashqari”, 밖에 esa inkor bilan “faqat”."
+            }
+          ]
+        },
+        {
+          "pattern": "A/V-다면",
+          "title_uz": "Agar shunday bo‘lsa",
+          "explanation": [
+            "Faraz qilingan vaziyatga tayangan maslahat yoki xulosa. 3B’da o‘rganilgan qolip kasb tanlash muhokamasida mustahkamlanadi."
+          ],
+          "analogy": "Qaror oldidagi xayoliy sinov sharti.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-다면",
+              "example": "안정적이라면"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-ㄴ/는다면",
+              "example": "이직한다면"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "안정적인 직장을 원한다면 조건을 비교하세요.",
+              "uz": "Barqaror ish istasangiz shartlarni solishtiring."
+            },
+            {
+              "kr": "다른 일을 선택한다면 무엇을 고려할 거예요?",
+              "uz": "Boshqa ish tanlasangiz nimani hisobga olasiz?"
+            },
+            {
+              "kr": "만족도가 낮다면 이유를 찾아봐요.",
+              "uz": "Qoniqish past bo‘lsa sababini izlang."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "선택하면다면",
+              "right": "선택한다면",
+              "why": "Fe’lga bayon shakli -ㄴ/는다면 ulanadi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Kasb tanlash",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "새로운 직업의 예로 무엇을 들 수 있어요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "데이터 분석가를 들 수 있어요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "급여 외에 전망도 중요하겠어요."
+            }
+          ],
+          "translation": "Aziz: Yangi kasbga nima misol bo‘ladi?\nMinji: Ma’lumot tahlilchisini keltirish mumkin.\nAziz: Maoshdan tashqari istiqbol ham muhim.",
+          "new_words": []
+        },
+        {
+          "title": "Ishni o‘zgartirish",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "이직한다면 무엇을 먼저 보겠어요?"
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "적성 외에 근무 환경도 볼 거예요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "좋은 기준이에요."
+            }
+          ],
+          "translation": "Mariya: Ishni o‘zgartirsangiz avval nimaga qaraysiz?\nJisu: Moyillikdan tashqari ish muhitiga ham qarayman.\nMariya: Yaxshi mezon.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Kasb ko‘rgazmasi",
+        "intro": "Do‘stlar yoshlar uchun yangi kasblar haqida radio ko‘rsatuv tayyorlaydi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "미래 직업의 예로 환경 기술자를 들 수 있어요.",
+            "uz": "Kelajak kasbiga misol sifatida ekologiya texnikini aytish mumkin."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "기술 외에 협력 능력도 필요해요.",
+            "uz": "Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "이 일을 선택한다면 무엇을 배워야 할까요?",
+            "uz": "Bu ishni tanlasak nimani o‘rganish kerak?"
+          },
+          {
+            "speaker": "Jisu",
+            "kr": "현장에서 일하는 사람에게 직접 물어봐요.",
+            "uz": "Shu sohada ishlovchi odamdan bevosita so‘raylik."
+          }
+        ],
+        "question": "Aziz kelajak kasbiga qaysi misolni keltirdi?"
+      }
+    },
+    {
+      "id": "10",
+      "num": 10,
+      "title_kr": "취업 준비",
+      "title_uz": "Ishga kirishga tayyorgarlik",
+      "available": true,
+      "goals": [
+        "Rasmiy e’lonni tushunish",
+        "Ariza va suhbat tartibini ajratish",
+        "Cheklovchi shart va rasmiy murojaatni ishlatish"
+      ],
+      "grammar_summary": [
+        "아래와 같이",
+        "V-(으)오니",
+        "N에 한하여"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Ishga kirish",
+          "items": [
+            {
+              "kr": "채용",
+              "rom": "chaeyong",
+              "uz": "ishga qabul",
+              "pos": "ot"
+            },
+            {
+              "kr": "공고",
+              "rom": "gonggo",
+              "uz": "e’lon",
+              "pos": "ot"
+            },
+            {
+              "kr": "지원서",
+              "rom": "jiwonseo",
+              "uz": "ariza",
+              "pos": "ot"
+            },
+            {
+              "kr": "서류",
+              "rom": "seoryu",
+              "uz": "hujjat",
+              "pos": "ot"
+            },
+            {
+              "kr": "면접",
+              "rom": "myeonjeop",
+              "uz": "suhbat",
+              "pos": "ot"
+            },
+            {
+              "kr": "자격",
+              "rom": "jagyeok",
+              "uz": "malaka, huquq",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Tartib",
+          "items": [
+            {
+              "kr": "절차",
+              "rom": "jeolcha",
+              "uz": "jarayon tartibi",
+              "pos": "ot"
+            },
+            {
+              "kr": "마감",
+              "rom": "magam",
+              "uz": "oxirgi muddat",
+              "pos": "ot"
+            },
+            {
+              "kr": "제출하다",
+              "rom": "jechulhada",
+              "uz": "topshirmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "확인하다",
+              "rom": "hwaginhada",
+              "uz": "tekshirmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "합격하다",
+              "rom": "hapgyeokhada",
+              "uz": "muvaffaqiyatli o‘tmoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "자기소개",
+              "rom": "jagisogae",
+              "uz": "o‘zini tanishtirish",
+              "pos": "ot"
+            }
+          ],
+          "tip": "모집 공고 — kim, qachon, qanday hujjat bilan murojaat qilishi yozilgan rasmiy e’lon."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "아래와 같이",
+          "title_uz": "Quyidagicha",
+          "explanation": [
+            "Rasmiy xat yoki e’londa keyin keladigan ro‘yxat, tartib va ma’lumotni ko‘rsatadi."
+          ],
+          "analogy": "E’lon ichidagi pastga yo‘naltirgan strelka.",
+          "rules": [
+            {
+              "condition": "e’lon kirishi",
+              "form": "아래와 같이",
+              "example": "아래와 같이 모집합니다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "지원 절차는 아래와 같이 진행됩니다.",
+              "uz": "Murojaat tartibi quyidagicha amalga oshadi."
+            },
+            {
+              "kr": "면접 일정은 아래와 같이 안내합니다.",
+              "uz": "Suhbat jadvali quyidagicha beriladi."
+            },
+            {
+              "kr": "필요 서류를 아래와 같이 제출하세요.",
+              "uz": "Kerakli hujjatlarni quyidagicha topshiring."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "아래처럼 같이",
+              "right": "아래와 같이",
+              "why": "Ikki o‘xshash qo‘shimchani birga ishlatmang."
+            }
+          ]
+        },
+        {
+          "pattern": "V-(으)오니",
+          "title_uz": "...gani uchun, marhamat",
+          "explanation": [
+            "Rasmiy murojaatda sabab yoki ma’lumotni aytib, undan keyin iltimos yoki ko‘rsatma beradi. Oddiy suhbatda -으니까 tabiiyroq."
+          ],
+          "analogy": "Rasmiy e’lonning muloyim sabab bog‘lovchisi.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "V-으오니",
+              "example": "받으오니"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "V-오니",
+              "example": "진행하오니"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "서류 접수가 시작되오니 기한을 확인하세요.",
+              "uz": "Hujjat qabul qilish boshlanayotgani sabab muddatni tekshiring."
+            },
+            {
+              "kr": "면접 장소를 변경하오니 안내를 읽어 주세요.",
+              "uz": "Suhbat joyini o‘zgartirayotganimiz sabab e’lonni o‘qing."
+            },
+            {
+              "kr": "모집을 마감하오니 늦지 않게 제출하세요.",
+              "uz": "Qabul yopilayotgani uchun kechikmay topshiring."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "시작하니까 rasmiy e’lon",
+              "right": "시작하오니",
+              "why": "Rasmiy e’lon ohangida -(으)오니 mos."
+            }
+          ]
+        },
+        {
+          "pattern": "N에 한하여",
+          "title_uz": "Faqat Nga",
+          "explanation": [
+            "Qoida yoki imkon kimga/nimaga tatbiq etilishini cheklaydi. Rasmiy shartlarda uchraydi; kundalik tilda N만 ishlatilishi mumkin."
+          ],
+          "analogy": "E’lon ichidagi kirish sharti.",
+          "rules": [
+            {
+              "condition": "ot",
+              "form": "N에 한하여",
+              "example": "지원자에 한하여"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "서류 합격자에 한하여 면접을 진행합니다.",
+              "uz": "Faqat hujjatdan o‘tganlar suhbatga kiradi."
+            },
+            {
+              "kr": "재학생에 한하여 신청할 수 있습니다.",
+              "uz": "Faqat hozir o‘qiyotgan talabalar murojaat qila oladi."
+            },
+            {
+              "kr": "이번 주에 한하여 접수 시간을 연장합니다.",
+              "uz": "Faqat shu hafta qabul vaqti uzayadi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "합격자만에 한하여",
+              "right": "합격자에 한하여",
+              "why": "한하여ning o‘zi cheklov bildiradi; 만 shart emas."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "E’lonni o‘qish",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "지원 절차가 아래와 같이 나와 있어요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "서류 합격자에 한하여 면접을 보네요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "그럼 서류를 먼저 정확히 준비할게요."
+            }
+          ],
+          "translation": "Aziz: Murojaat tartibi quyidagicha yozilgan.\nMinji: Faqat hujjatdan o‘tganlar suhbatga kirarkan.\nAziz: Unda hujjatni avval aniq tayyorlayman.",
+          "new_words": []
+        },
+        {
+          "title": "Suhbat kuni",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Jisu",
+              "kr": "면접 장소를 변경하오니 확인해 주세요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "알겠습니다. 면접은 몇 시예요?"
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "오전 열 시에 시작됩니다."
+            }
+          ],
+          "translation": "Jisu: Suhbat joyini o‘zgartirayotganimiz sabab tekshirib ko‘ring.\nMariya: Tushunarli. Suhbat soat nechada?\nJisu: Ertalab soat o‘nda boshlanadi.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Birinchi ariza",
+        "intro": "Aziz tarjimonlik amaliyotiga ariza beradi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "필요 서류는 아래와 같이 적혀 있어요.",
+            "uz": "Kerakli hujjatlar quyidagicha yozilgan."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "접수를 곧 마감하오니 오늘 제출하세요.",
+            "uz": "Qabul tez orada tugatilgani uchun bugun topshiring."
+          },
+          {
+            "speaker": "Aziz",
+            "kr": "서류 합격자에 한하여 연락이 온대요.",
+            "uz": "Faqat hujjatdan o‘tganlarga xabar berilar ekan."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "자기소개도 미리 연습해 두세요.",
+            "uz": "O‘zingizni tanishtirishni ham oldindan mashq qiling."
+          }
+        ],
+        "question": "Azizga qachon xabar beriladi?"
+      }
+    },
+    {
+      "id": "11",
+      "num": 11,
+      "title_kr": "학교 이야기",
+      "title_uz": "Maktab haqida",
+      "available": true,
+      "goals": [
+        "Ta’lim tizimlarini qiyoslash",
+        "Ulush, rol va sababni aniq ajratish",
+        "Baholash haqida dalil bilan fikr aytish"
+      ],
+      "grammar_summary": [
+        "N이/가 중요한 역할을 하다",
+        "N에서 N의 비중이 높다",
+        "N(으)로 인해"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Ta’lim tizimi",
+          "items": [
+            {
+              "kr": "교육",
+              "rom": "gyoyuk",
+              "uz": "ta’lim",
+              "pos": "ot"
+            },
+            {
+              "kr": "학교",
+              "rom": "hakgyo",
+              "uz": "maktab",
+              "pos": "ot"
+            },
+            {
+              "kr": "제도",
+              "rom": "jedo",
+              "uz": "tizim",
+              "pos": "ot"
+            },
+            {
+              "kr": "평가",
+              "rom": "pyeongga",
+              "uz": "baholash",
+              "pos": "ot"
+            },
+            {
+              "kr": "시험",
+              "rom": "siheom",
+              "uz": "imtihon",
+              "pos": "ot"
+            },
+            {
+              "kr": "교과서",
+              "rom": "gyogwaseo",
+              "uz": "darslik",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Natija va sabab",
+          "items": [
+            {
+              "kr": "비중",
+              "rom": "bijung",
+              "uz": "ulush, ahamiyat",
+              "pos": "ot"
+            },
+            {
+              "kr": "역할",
+              "rom": "yeokhal",
+              "uz": "rol",
+              "pos": "ot"
+            },
+            {
+              "kr": "기회",
+              "rom": "gihoe",
+              "uz": "imkoniyat",
+              "pos": "ot"
+            },
+            {
+              "kr": "격차",
+              "rom": "gyeokcha",
+              "uz": "tafovut",
+              "pos": "ot"
+            },
+            {
+              "kr": "개선하다",
+              "rom": "gaeseonhada",
+              "uz": "yaxshilamoq",
+              "pos": "fe’l"
+            },
+            {
+              "kr": "영향",
+              "rom": "yeonghyang",
+              "uz": "ta’sir",
+              "pos": "ot"
+            }
+          ],
+          "tip": "평가 faqat yakuniy ball emas: jarayon davomida o‘quvchi nimani tushunganini aniqlashga ham xizmat qiladi."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "N이/가 중요한 역할을 하다",
+          "title_uz": "N muhim rol o‘ynaydi",
+          "explanation": [
+            "Bir tizimdagi eng ta’sirli omilni ko‘rsatadi. Rolni aytish sababning o‘zini isbotlamaydi; dalil qo‘shish kerak."
+          ],
+          "analogy": "Mexanizmdagi zarur tishli g‘ildirak.",
+          "rules": [
+            {
+              "condition": "ot",
+              "form": "N이/가 중요한 역할을 하다",
+              "example": "교사가 중요한 역할을 하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "교사가 학습 동기에 중요한 역할을 해요.",
+              "uz": "O‘qituvchi o‘qish ishtiyoqida muhim rol o‘ynaydi."
+            },
+            {
+              "kr": "가정이 언어 발달에 중요한 역할을 합니다.",
+              "uz": "Oila til rivojida muhim rol o‘ynaydi."
+            },
+            {
+              "kr": "피드백이 실력 향상에 중요한 역할을 해요.",
+              "uz": "Fikr-mulohaza mahorat oshishida muhim rol o‘ynaydi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "중요한 역할이 하다",
+              "right": "중요한 역할을 하다",
+              "why": "역할 하다 ifodasida obyekt qo‘shimchasi 을 ishlatiladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N에서 N의 비중이 높다",
+          "title_uz": "N ichida N ulushi katta",
+          "explanation": [
+            "Bir guruh yoki tizim ichidagi qismning ulushi yoki ahamiyati yuqoriligini aytadi. Son bo‘lsa uni ham keltirish foydali."
+          ],
+          "analogy": "Doira diagrammadagi katta bo‘lak.",
+          "rules": [
+            {
+              "condition": "soha va qism",
+              "form": "N에서 N의 비중이 높다",
+              "example": "평가에서 시험의 비중이 높다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "이 학교에서는 발표의 비중이 높아요.",
+              "uz": "Bu maktabda taqdimotning ulushi katta."
+            },
+            {
+              "kr": "평가에서 시험의 비중이 너무 높다는 의견이 있어요.",
+              "uz": "Baholashda imtihon ulushi juda katta degan fikr bor."
+            },
+            {
+              "kr": "수업에서 토론의 비중을 높였어요.",
+              "uz": "Darsda bahsning ulushini oshirdik."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "시험에 비중이 높다",
+              "right": "시험의 비중이 높다",
+              "why": "Ulushning egasi 의 bilan ko‘rsatiladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N(으)로 인해",
+          "title_uz": "N tufayli",
+          "explanation": [
+            "Rasmiy matnda sabab va natijani bog‘laydi. Ko‘pincha ijtimoiy muammo yoki tahlilga mos; kundalik suhbatda 때문에 sodda."
+          ],
+          "analogy": "Hisobotdagi sababdan natijaga chizilgan o‘q.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "N으로 인해",
+              "example": "시험 부담으로 인해"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "N로 인해",
+              "example": "기회로 인해"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "시험 부담으로 인해 학생들이 지쳤어요.",
+              "uz": "Imtihon bosimi tufayli o‘quvchilar charchadi."
+            },
+            {
+              "kr": "교육 격차로 인해 기회가 달라질 수 있어요.",
+              "uz": "Ta’lim tafovuti sabab imkoniyat farqlanishi mumkin."
+            },
+            {
+              "kr": "새 제도로 인해 평가 방식이 바뀌었어요.",
+              "uz": "Yangi tizim tufayli baholash usuli o‘zgardi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "부담에 인해",
+              "right": "부담으로 인해",
+              "why": "Undoshli otga 으로 인해 ulanadi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Ta’lim qiyosi",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "한국 학교에서는 시험의 비중이 높아요?"
+            },
+            {
+              "speaker": "Soyon",
+              "kr": "학교마다 달라요. 발표도 중요한 역할을 해요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "평가 방식이 다양하면 좋겠어요."
+            }
+          ],
+          "translation": "Aziz: Koreya maktablarida imtihon ulushi kattami?\nSoyon: Maktabga qarab farq qiladi. Taqdimot ham muhim rol o‘ynaydi.\nAziz: Baholash turlicha bo‘lsa yaxshi.",
+          "new_words": []
+        },
+        {
+          "title": "Tafovut haqida",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "기회 부족으로 인해 격차가 생길 수 있어요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "그럼 어떤 지원이 필요해요?"
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "교사와 지역 사회가 함께 역할을 해야 해요."
+            }
+          ],
+          "translation": "Mariya: Imkon kamligi sabab tafovut yuzaga kelishi mumkin.\nMinji: Unda qanday yordam kerak?\nMariya: O‘qituvchi va mahalla birga hissa qo‘shishi kerak.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Ta’lim haqidagi suhbat",
+        "intro": "Aziz amaliyot suhbatiga tayyorlanib, turli mamlakat ta’limini solishtiradi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "우리 학교에서는 토론의 비중이 높아요.",
+            "uz": "Maktabimizda bahsning ulushi katta."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "교사가 대화를 이끄는 데 중요한 역할을 해요.",
+            "uz": "O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "시험 부담으로 인해 어려움을 겪는 학생도 있어요.",
+            "uz": "Imtihon bosimi tufayli qiynaladigan talabalar ham bor."
+          },
+          {
+            "speaker": "Soyon",
+            "kr": "그래서 평가 방식을 함께 검토해야 해요.",
+            "uz": "Shuning uchun baholash usulini birga ko‘rib chiqish kerak."
+          }
+        ],
+        "question": "Mariya qaysi muammoni aytdi?"
+      }
+    },
+    {
+      "id": "12",
+      "num": 12,
+      "title_kr": "한석봉의 어머니",
+      "title_uz": "Han Seokbongning onasi",
+      "available": true,
+      "goals": [
+        "Tarbiya usulini bugungi mezon bilan muhokama qilish",
+        "Ayblov ohangi va oddiy sababni farqlash",
+        "Dalda va mashqning ikkala tomonini ko‘rish"
+      ],
+      "grammar_summary": [
+        "A-(으)ㄴ/V-는 탓",
+        "A/V-(으)면 그만이다",
+        "A/V-(으)ㄹ뿐더러",
+        "이래 가지고(서)(야)"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Ta’lim va tarbiya",
+          "items": [
+            {
+              "kr": "어머니",
+              "rom": "eomeoni",
+              "uz": "ona",
+              "pos": "ot"
+            },
+            {
+              "kr": "가르침",
+              "rom": "gareuchim",
+              "uz": "ta’lim, o‘git",
+              "pos": "ot"
+            },
+            {
+              "kr": "교육열",
+              "rom": "gyoyungnyeol",
+              "uz": "ta’limga ishtiyoq",
+              "pos": "ot"
+            },
+            {
+              "kr": "훈련",
+              "rom": "hullyeon",
+              "uz": "mashq, tayyorgarlik",
+              "pos": "ot"
+            },
+            {
+              "kr": "재능",
+              "rom": "jaeneung",
+              "uz": "iste’dod",
+              "pos": "ot"
+            },
+            {
+              "kr": "노력",
+              "rom": "noryeok",
+              "uz": "mehnat, intilish",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Bahs",
+          "items": [
+            {
+              "kr": "찬성",
+              "rom": "chanseong",
+              "uz": "rozilik",
+              "pos": "ot"
+            },
+            {
+              "kr": "반대",
+              "rom": "bandae",
+              "uz": "qarshilik",
+              "pos": "ot"
+            },
+            {
+              "kr": "부담",
+              "rom": "budam",
+              "uz": "bosim",
+              "pos": "ot"
+            },
+            {
+              "kr": "성취",
+              "rom": "seongchwi",
+              "uz": "yutuq",
+              "pos": "ot"
+            },
+            {
+              "kr": "격려",
+              "rom": "gyeongnyeo",
+              "uz": "dalda",
+              "pos": "ot"
+            },
+            {
+              "kr": "실패",
+              "rom": "silpae",
+              "uz": "muvaffaqiyatsizlik",
+              "pos": "ot"
+            }
+          ],
+          "tip": "Tarixiy ibrat haqidagi matnni baholashda qahramonning usuli va bugungi bolalarga ta’sirini alohida ko‘ring."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A-(으)ㄴ/V-는 탓",
+          "title_uz": "...ning aybi / sababi",
+          "explanation": [
+            "Ko‘pincha salbiy natijani bir sababga yuklaydi. Oddiy 때문에dan ayblash ohangi kuchliroq."
+          ],
+          "analogy": "Muammo yoniga qo‘yilgan javobgarlik yorlig‘i.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ 탓",
+              "example": "부족한 탓"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는 탓",
+              "example": "서두르는 탓"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "너무 서두르는 탓에 실수가 났어요.",
+              "uz": "Juda shoshilgani sabab xato chiqdi."
+            },
+            {
+              "kr": "잠이 부족한 탓에 집중하지 못했어요.",
+              "uz": "Uyqu yetmagani sabab diqqat jamlay olmadim."
+            },
+            {
+              "kr": "부담이 큰 탓에 아이가 공부를 싫어해요.",
+              "uz": "Bosim katta bo‘lgani sabab bola o‘qishni yoqtirmay qoldi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "서두른 탓 hozir davomiy sabab",
+              "right": "서두르는 탓",
+              "why": "Hozirgi odat yoki sababga -는 탓."
+            }
+          ]
+        },
+        {
+          "pattern": "A/V-(으)면 그만이다",
+          "title_uz": "...sa kifoya",
+          "explanation": [
+            "Muammoni hal qilish uchun shu ishning o‘zi yetarli degan fikrni bildiradi. Ba’zan boshqalarning hissini yengil ko‘rgandek eshitilishi mumkin."
+          ],
+          "analogy": "Masala ustiga qo‘yilgan “shu yetarli” tamg‘asi.",
+          "rules": [
+            {
+              "condition": "fe’l/sifat",
+              "form": "-(으)면 그만이다",
+              "example": "다시 하면 그만이다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "틀리면 다시 배우면 그만이에요.",
+              "uz": "Xato bo‘lsa qayta o‘rgansak kifoya."
+            },
+            {
+              "kr": "방법이 안 맞으면 바꾸면 그만이죠.",
+              "uz": "Usul mos kelmasa almashtirsak bo‘ladi."
+            },
+            {
+              "kr": "힘들면 쉬면 그만이라고 쉽게 말할 수 없어요.",
+              "uz": "Qiynalsa dam olsin deb yengil aytib bo‘lmaydi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "바꾸면 그만 된다",
+              "right": "바꾸면 그만이다",
+              "why": "Qolip 그만이다 bilan yakunlanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "A/V-(으)ㄹ뿐더러",
+          "title_uz": "Nafaqat, balki",
+          "explanation": [
+            "Birinchi fikrga uni kuchaytiruvchi ikkinchi fikrni qo‘shadi. Yozma va rasmiy uslubda ko‘proq."
+          ],
+          "analogy": "Bitta dalil yoniga ikkinchi kuchli dalil.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "-을뿐더러",
+              "example": "깊을뿐더러"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "-ㄹ뿐더러",
+              "example": "배울뿐더러"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "그 방법은 재미있을뿐더러 기억에도 남아요.",
+              "uz": "Bu usul qiziq, ustiga-ustak esda qoladi."
+            },
+            {
+              "kr": "어머니는 엄격할뿐더러 따뜻했어요.",
+              "uz": "Ona talabchan, shu bilan birga mehribon edi."
+            },
+            {
+              "kr": "토론은 생각을 넓힐뿐더러 듣는 힘도 길러요.",
+              "uz": "Bahs fikrni kengaytiradi, tinglashni ham rivojlantiradi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "재미있을 뿐 더러",
+              "right": "재미있을뿐더러",
+              "why": "-(으)ㄹ뿐더러 odatda birga yoziladi."
+            }
+          ]
+        },
+        {
+          "pattern": "이래 가지고(서)(야)",
+          "title_uz": "Bunday qilib ... bo‘ladimi?",
+          "explanation": [
+            "Hozirgi ahvolni ko‘rib, shu holat bilan maqsadga yetish qiyinligini tanqidiy yoki hazil ohangida aytadi."
+          ],
+          "analogy": "Maqsadga ketayotgan mashinaning bo‘sh baki.",
+          "rules": [
+            {
+              "condition": "holat + savol",
+              "form": "이래 가지고서야 ...?",
+              "example": "이래 가지고서야 끝내겠어요?"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "이래 가지고서야 시험을 준비할 수 있겠어요?",
+              "uz": "Bunday qilib imtihonga tayyorlana olamizmi?"
+            },
+            {
+              "kr": "계획이 없는데 이래 가지고서야 성과가 나겠어요?",
+              "uz": "Reja yo‘q, bunday qilib natija chiqadimi?"
+            },
+            {
+              "kr": "서로 듣지 않는데 이래 가지고야 토론이 되겠어요?",
+              "uz": "Bir-birini tinglamasa, shunday qilib bahs bo‘ladimi?"
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "이렇게 가지고서야",
+              "right": "이래 가지고서야",
+              "why": "Turg‘un ifodaning boshi 이래."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Tarbiya haqida",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Minji",
+              "kr": "압박이 큰 탓에 아이가 지쳤어요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "실수하면 다시 배우면 그만이라고만 해도 될까요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "격려도 필요해요."
+            }
+          ],
+          "translation": "Minji: Bosim katta bo‘lgani sabab bola charchadi.\nMariya: Xato qilsa qayta o‘rgansin deyishning o‘zi yetadimi?\nMinji: Dalda ham kerak.",
+          "new_words": []
+        },
+        {
+          "title": "O‘qish usuli",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "이 방법은 재미있을뿐더러 기억에도 남아요."
+            },
+            {
+              "speaker": "Soyon",
+              "kr": "그런데 계획이 없으면 이래 가지고서야 오래 못 가요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "매일 조금씩 하겠습니다."
+            }
+          ],
+          "translation": "Aziz: Bu usul qiziq va esda qoladi.\nSoyon: Ammo reja bo‘lmasa bunday uzoqqa borib bo‘lmaydi.\nAziz: Har kuni oz-ozdan qilaman.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Qattiqlik va dalda",
+        "intro": "Do‘stlar tarixiy tarbiya hikoyasini bugungi ta’lim bilan solishtiradi.",
+        "lines": [
+          {
+            "speaker": "Mariya",
+            "kr": "압박이 심한 탓에 자신감이 줄 수도 있어요.",
+            "uz": "Bosim kuchli bo‘lgani sabab ishonch kamayishi mumkin."
+          },
+          {
+            "speaker": "Aziz",
+            "kr": "그래도 연습은 실력을 높일뿐더러 습관도 만들어요.",
+            "uz": "Mashq mahoratni oshiradi, odat ham yaratadi."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "실패하면 다시 하면 그만이라고만 말하지 마요.",
+            "uz": "Muvaffaqiyatsiz bo‘lsa qayta qilsa bo‘ladi deb qo‘ya qolmang."
+          },
+          {
+            "speaker": "Soyon",
+            "kr": "서로의 마음을 모르는데 이래 가지고서야 좋은 교육이 되겠어요?",
+            "uz": "Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?"
+          }
+        ],
+        "question": "Soyon yaxshi ta’lim uchun nimani tushunish kerak dedi?"
+      }
+    },
+    {
+      "id": "13",
+      "num": 13,
+      "title_kr": "공부 잘하는 비결",
+      "title_uz": "Yaxshi o‘qish siri",
+      "available": true,
+      "goals": [
+        "O‘qish usulini dalil bilan baholash",
+        "Vosita va natijani aniq bog‘lash",
+        "Bir usulning foydali va qiyin tomonini ko‘rish"
+      ],
+      "grammar_summary": [
+        "V-(으)ㅁ으로써",
+        "N을/를 통해서",
+        "A-(으)ㄴ/V-는 면이 있다",
+        "N은/는 N을/를 보여 주는 좋은 예이다"
+      ],
+      "vocab_groups": [
+        {
+          "title": "O‘rganish",
+          "items": [
+            {
+              "kr": "비결",
+              "rom": "bigyeol",
+              "uz": "sir, usul",
+              "pos": "ot"
+            },
+            {
+              "kr": "학습",
+              "rom": "hakseup",
+              "uz": "o‘rganish",
+              "pos": "ot"
+            },
+            {
+              "kr": "목표",
+              "rom": "mokpyo",
+              "uz": "maqsad",
+              "pos": "ot"
+            },
+            {
+              "kr": "계획",
+              "rom": "gyehoek",
+              "uz": "reja",
+              "pos": "ot"
+            },
+            {
+              "kr": "복습",
+              "rom": "bokseup",
+              "uz": "takrorlash",
+              "pos": "ot"
+            },
+            {
+              "kr": "집중력",
+              "rom": "jipjungnyeok",
+              "uz": "diqqat kuchi",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Natija",
+          "items": [
+            {
+              "kr": "습관",
+              "rom": "seupgwan",
+              "uz": "odat",
+              "pos": "ot"
+            },
+            {
+              "kr": "효율",
+              "rom": "hyoyul",
+              "uz": "samaradorlik",
+              "pos": "ot"
+            },
+            {
+              "kr": "성장",
+              "rom": "seongjang",
+              "uz": "o‘sish",
+              "pos": "ot"
+            },
+            {
+              "kr": "발표",
+              "rom": "balpyo",
+              "uz": "taqdimot",
+              "pos": "ot"
+            },
+            {
+              "kr": "메모",
+              "rom": "memo",
+              "uz": "qayd",
+              "pos": "ot"
+            },
+            {
+              "kr": "실천하다",
+              "rom": "silcheonhada",
+              "uz": "amalga oshirmoq",
+              "pos": "fe’l"
+            }
+          ],
+          "tip": "공부 시간ining uzunligi natijani yolg‘iz tushuntirmaydi; qayta tekshirish va tushuntira olish ham muhim."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "V-(으)ㅁ으로써",
+          "title_uz": "...ish orqali",
+          "explanation": [
+            "Harakatning usul yoki vosita bo‘lib, keyingi natijaga erishtirishini yozma uslubda bildiradi."
+          ],
+          "analogy": "Natijaga eltuvchi bajarilgan ish ko‘prigi.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "V-음으로써",
+              "example": "읽음으로써"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "V-ㅁ으로써",
+              "example": "나눔으로써"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "매일 복습함으로써 내용을 오래 기억해요.",
+              "uz": "Har kuni takrorlash orqali mazmunni uzoq eslayman."
+            },
+            {
+              "kr": "다른 사람에게 설명함으로써 이해를 확인해요.",
+              "uz": "Boshqaga tushuntirish orqali tushunishni tekshiraman."
+            },
+            {
+              "kr": "목표를 적음으로써 계획을 분명히 해요.",
+              "uz": "Maqsadni yozish orqali rejani aniqlashtiraman."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "복습하는 것으로써",
+              "right": "복습함으로써",
+              "why": "Bu qolip fe’lni -(으)ㅁ bilan otlashtiradi."
+            }
+          ]
+        },
+        {
+          "pattern": "N을/를 통해서",
+          "title_uz": "N orqali",
+          "explanation": [
+            "Vosita, kanal yoki tajriba orqali bilim/natijaga erishishni bildiradi. Ot bilan keladi."
+          ],
+          "analogy": "Ma’lumot o‘tadigan kanal.",
+          "rules": [
+            {
+              "condition": "ot",
+              "form": "N을/를 통해서",
+              "example": "토론을 통해서"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "토론을 통해서 다른 생각을 배웠어요.",
+              "uz": "Bahs orqali boshqa fikrni o‘rgandim."
+            },
+            {
+              "kr": "실수를 통해서 약점을 알게 됐어요.",
+              "uz": "Xatolar orqali zaif tomonimni bildim."
+            },
+            {
+              "kr": "인터뷰를 통해서 공부 비결을 들었어요.",
+              "uz": "Intervyu orqali o‘qish sirini eshitdim."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "토론에 통해서",
+              "right": "토론을 통해서",
+              "why": "Vosita otiga 을/를 orqali ulanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "A-(으)ㄴ/V-는 면이 있다",
+          "title_uz": "...tomoni bor",
+          "explanation": [
+            "Odam yoki usulni faqat bitta yorliq bilan baholamay, ma’lum jihatini ajratadi."
+          ],
+          "analogy": "Ko‘p qirrali buyumning faqat bir tomoniga yorug‘lik tushirish.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ 면이 있다",
+              "example": "좋은 면이 있다"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는 면이 있다",
+              "example": "도움이 되는 면이 있다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "혼자 공부하는 데에도 좋은 면이 있어요.",
+              "uz": "Yolg‘iz o‘qishning ham yaxshi tomoni bor."
+            },
+            {
+              "kr": "이 방법은 시간이 많이 드는 면이 있어요.",
+              "uz": "Bu usul ko‘p vaqt oladigan jihatga ega."
+            },
+            {
+              "kr": "토론 수업은 듣기 능력을 키우는 면이 있어요.",
+              "uz": "Bahs darsi tinglashni rivojlantiradigan tomonga ega."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "좋는 면이 있다",
+              "right": "좋은 면이 있다",
+              "why": "Sifat (으)ㄴ shaklini oladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N은/는 N을/를 보여 주는 좋은 예이다",
+          "title_uz": "Nga yaxshi misol",
+          "explanation": [
+            "Abstrakt fikrni bitta kuzatiladigan hodisa bilan isbotlaydi. Misol fikrni yoritadi, lekin barcha holatni avtomatik qamramaydi."
+          ],
+          "analogy": "Fikr ostiga qo‘yilgan aniq surat.",
+          "rules": [
+            {
+              "condition": "mavzu",
+              "form": "N은/는",
+              "example": "이 사례는"
+            },
+            {
+              "condition": "misol",
+              "form": "N을/를 보여 주는 좋은 예이다",
+              "example": "협력의 힘을 보여 주는 좋은 예이다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "이 프로젝트는 협력의 힘을 보여 주는 좋은 예예요.",
+              "uz": "Bu loyiha hamkorlik kuchiga yaxshi misol."
+            },
+            {
+              "kr": "매일 메모하는 습관은 꾸준함을 보여 주는 좋은 예입니다.",
+              "uz": "Har kuni qayd qilish tirishqoqlikka yaxshi misol."
+            },
+            {
+              "kr": "그 학생의 성장은 복습의 효과를 보여 주는 좋은 예예요.",
+              "uz": "U talabaning o‘sishi takrorlash foydasiga yaxshi misol."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "보여 주는 좋은 예를 이다",
+              "right": "보여 주는 좋은 예이다",
+              "why": "예이다 bog‘lama bilan gap tugaydi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "O‘qish usuli",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "매일 복습함으로써 실력이 늘었어요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "인터뷰를 통해서 다른 방법도 배워요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "제 방법에도 시간이 많이 드는 면이 있어요."
+            }
+          ],
+          "translation": "Aziz: Har kuni takrorlab mahoratim oshdi.\nMinji: Intervyu orqali boshqa usullarni ham o‘rganing.\nAziz: Mening usulimning ham ko‘p vaqt oladigan tomoni bor.",
+          "new_words": []
+        },
+        {
+          "title": "Yaxshi misol",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Soyon",
+              "kr": "이 발표는 협력의 힘을 보여 주는 좋은 예예요."
+            },
+            {
+              "speaker": "Jisu",
+              "kr": "서로 설명함으로써 내용을 더 이해했어요."
+            },
+            {
+              "speaker": "Soyon",
+              "kr": "바로 그 점을 발표에서 말하세요."
+            }
+          ],
+          "translation": "Soyon: Bu taqdimot hamkorlik kuchiga yaxshi misol.\nJisu: Bir-birimizga tushuntirib mazmunni yaxshiroq angladik.\nSoyon: Aynan shu jihatni taqdimotda ayting.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Azizning yangi odati",
+        "intro": "Aziz suhbatga tayyorlanish usulini do‘stlariga ko‘rsatadi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "질문을 적음으로써 생각을 정리해요.",
+            "uz": "Savollarni yozib fikrimni tartiblayman."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "친구와 연습하는 데 좋은 면이 있어요.",
+            "uz": "Do‘st bilan mashq qilishning yaxshi tomoni bor."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "인터뷰를 통해서 자신감도 생기겠어요.",
+            "uz": "Intervyu orqali ishonch ham oshadi."
+          },
+          {
+            "speaker": "Soyon",
+            "kr": "이 연습은 꾸준함을 보여 주는 좋은 예예요.",
+            "uz": "Bu mashq muntazamlikka yaxshi misol."
+          }
+        ],
+        "question": "Aziz fikrini qanday tartiblaydi?"
+      }
+    },
+    {
+      "id": "14",
+      "num": 14,
+      "title_kr": "한국인 이해하기",
+      "title_uz": "Koreyslarni tushunish",
+      "available": true,
+      "goals": [
+        "정 va muomala haqidagi kuzatuvlarni ifodalash",
+        "Bir odamning tajribasidan barcha haqida xulosa chiqarmaslik",
+        "Ehtiyotkor fikr bildirish"
+      ],
+      "grammar_summary": [
+        "A-기 그지없다",
+        "A/V-기에",
+        "A/V-지 않을까 하다"
+      ],
+      "vocab_groups": [
+        {
+          "title": "Insonlar va munosabat",
+          "items": [
+            {
+              "kr": "기질",
+              "rom": "gijil",
+              "uz": "tabiat, mijoz",
+              "pos": "ot"
+            },
+            {
+              "kr": "정",
+              "rom": "jeong",
+              "uz": "odamlar orasidagi mehr rishtasi",
+              "pos": "ot"
+            },
+            {
+              "kr": "공동체",
+              "rom": "gongdongche",
+              "uz": "jamoa",
+              "pos": "ot"
+            },
+            {
+              "kr": "예절",
+              "rom": "yejeol",
+              "uz": "odob, muomala qoidasi",
+              "pos": "ot"
+            },
+            {
+              "kr": "친절",
+              "rom": "chinjeol",
+              "uz": "xushmuomalalik",
+              "pos": "ot"
+            },
+            {
+              "kr": "배려",
+              "rom": "baeryeo",
+              "uz": "boshqani o‘ylash",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Madaniyatni tushunish",
+          "items": [
+            {
+              "kr": "문화",
+              "rom": "munhwa",
+              "uz": "madaniyat",
+              "pos": "ot"
+            },
+            {
+              "kr": "경험",
+              "rom": "gyeongheom",
+              "uz": "tajriba",
+              "pos": "ot"
+            },
+            {
+              "kr": "일반화",
+              "rom": "ilbanhwa",
+              "uz": "umumlashtirish",
+              "pos": "ot"
+            },
+            {
+              "kr": "다양성",
+              "rom": "dayangseong",
+              "uz": "xilma-xillik",
+              "pos": "ot"
+            },
+            {
+              "kr": "인식",
+              "rom": "insik",
+              "uz": "tasavvur, idrok",
+              "pos": "ot"
+            },
+            {
+              "kr": "교류",
+              "rom": "gyoryu",
+              "uz": "almashinuv, muloqot",
+              "pos": "ot"
+            }
+          ],
+          "tip": "정 — yaqinlik va vaqt davomida paydo bo‘ladigan mehr. Bir madaniyat haqidagi kuzatuvni hamma insonga tegishli qoida deb qabul qilmang."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A-기 그지없다",
+          "title_uz": "Nihoyatda ...",
+          "explanation": [
+            "Kuchli hissiyot yoki belgini ta’kidlaydigan yozma va balandroq uslub. Oddiy suhbatda 정말 yoki 아주 yengilroq eshitiladi."
+          ],
+          "analogy": "Sifat kuchini oxirgi chegaragacha ko‘targan ko‘rsatkich.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-기 그지없다",
+              "example": "고맙기 그지없다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "친절한 안내가 고맙기 그지없어요.",
+              "uz": "Xushmuomala yo‘l-yo‘riq uchun nihoyatda minnatdorman."
+            },
+            {
+              "kr": "오랜 친구를 다시 만나 반갑기 그지없었어요.",
+              "uz": "Eski do‘stimni qayta ko‘rib juda xursand bo‘ldim."
+            },
+            {
+              "kr": "그의 배려가 따뜻하기 그지없어요.",
+              "uz": "Uning e’tibori nihoyatda iliq."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "고마울 그지없다",
+              "right": "고맙기 그지없다",
+              "why": "Bu ta’kidda sifatga -기 ulanadi."
+            }
+          ]
+        },
+        {
+          "pattern": "A/V-기에",
+          "title_uz": "...gani sababli",
+          "explanation": [
+            "Sababni biroz rasmiyroq ohangda beradi. Keyingi gap odatda shu sababdan chiqqan xulosa yoki qaror bo‘ladi."
+          ],
+          "analogy": "Xulosa ostidagi sokin sabab.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-기에",
+              "example": "충분하기에"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-기에",
+              "example": "배려하기에"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "서로 배려하기에 신뢰가 쌓여요.",
+              "uz": "Bir-birini o‘ylagani uchun ishonch ortadi."
+            },
+            {
+              "kr": "설명이 충분하기에 이해할 수 있어요.",
+              "uz": "Izoh yetarli bo‘lgani sabab tushuna olamiz."
+            },
+            {
+              "kr": "시간이 부족하기에 핵심만 말하겠습니다.",
+              "uz": "Vaqt kamligi sabab faqat asosiy fikrni aytaman."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "부족하니까 rasmiy taqdimot",
+              "right": "부족하기에",
+              "why": "Rasmiyroq bayonda -기에 mosroq."
+            }
+          ]
+        },
+        {
+          "pattern": "A/V-지 않을까 하다",
+          "title_uz": "Balki ...dir deb o‘ylayman",
+          "explanation": [
+            "Fikrni qat’iy hukm qilib aytmay, muloyim taxmin yoki ehtiyotkor taklif sifatida beradi. Madaniyat haqida gapirganda ayniqsa foydali."
+          ],
+          "analogy": "Fikr yonidagi kichik savol belgisi.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-지 않을까 하다",
+              "example": "다르지 않을까 하다"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-지 않을까 하다",
+              "example": "생기지 않을까 하다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "사람마다 경험이 다르지 않을까 해요.",
+              "uz": "Har odamning tajribasi har xil bo‘lsa kerak deb o‘ylayman."
+            },
+            {
+              "kr": "이 표현을 다시 살펴봐야 하지 않을까 해요.",
+              "uz": "Bu ifodani qayta ko‘rib chiqish kerakdir deb o‘ylayman."
+            },
+            {
+              "kr": "정은 함께 보낸 시간에서 생기지 않을까 해요.",
+              "uz": "Mehr rishtasi birga o‘tgan vaqtdan tug‘ilsa kerak."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "모두 같지 않을까 한다 qat’iy xulosa",
+              "right": "사람마다 다르지 않을까 한다",
+              "why": "Ehtiyotkor fikrni ham aniq dalil va xilma-xillik bilan bog‘lang."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Madaniyat haqida",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "정이라는 말을 한마디로 설명하기 어렵지 않을까 해요."
+            },
+            {
+              "speaker": "Minji",
+              "kr": "맞아요. 함께한 경험이 다르기에 느끼는 방식도 달라요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "그래서 여러 사람의 이야기를 듣고 싶어요."
+            }
+          ],
+          "translation": "Aziz: Jeong degan so‘zni bir og‘izda tushuntirish qiyin bo‘lsa kerak.\nMinji: Ha. Tajribalar turlicha bo‘lgani sabab uni his qilish ham farq qiladi.\nAziz: Shuning uchun turli odamlarning hikoyasini eshitmoqchiman.",
+          "new_words": []
+        },
+        {
+          "title": "Umumlashtirmaslik",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "친절한 도움을 받아서 고맙기 그지없었어요."
+            },
+            {
+              "speaker": "Soyon",
+              "kr": "좋은 경험이네요. 하지만 한 사람의 행동으로 모두를 판단하면 안 되지 않을까 해요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "그렇죠. 사람마다 달라요."
+            }
+          ],
+          "translation": "Mariya: Xushmuomala yordam uchun nihoyatda minnatdor bo‘ldim.\nSoyon: Yaxshi tajriba. Lekin bir odamga qarab hammaga baho bermaslik kerakdir.\nMariya: To‘g‘ri. Odamlar turlicha.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "Madaniyat kuni",
+        "intro": "Radio jamoasi madaniyat kunida odamlar bilan suhbatlashadi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "서로의 경험을 듣기에 새로운 생각이 생겨요.",
+            "uz": "Bir-birimizning tajribamizni eshitganimiz sabab yangi fikr tug‘iladi."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "도와준 분들이 고맙기 그지없어요.",
+            "uz": "Yordam berganlardan nihoyatda minnatdorman."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "하지만 한 경험을 모두에게 적용하면 안 되지 않을까 해요.",
+            "uz": "Ammo bir tajribani hammaga tatbiq qilmaslik kerakdir."
+          },
+          {
+            "speaker": "Soyon",
+            "kr": "맞아요. 다양성을 보여 주는 발표로 만들어요.",
+            "uz": "Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik."
+          }
+        ],
+        "question": "Mariya nimadan ehtiyot bo‘lishni aytdi?"
+      }
+    },
+    {
+      "id": "15",
+      "num": 15,
+      "title_kr": "한국의 멋",
+      "title_uz": "Koreys san’atining o‘ziga xos go‘zalligi",
+      "available": true,
+      "goals": [
+        "San’atdagi aniq belgilarni tasvirlash",
+        "Kuzatuvni qisqa xulosaga keltirish",
+        "O‘z didiga ko‘ra namuna tanlash"
+      ],
+      "grammar_summary": [
+        "A/V-(으)ㅁ에 틀림없다",
+        "한마디로 말하자면",
+        "A-(으)ㄴ/V-는 점이 특징적이다",
+        "N을/를 N(으)로 꼽다"
+      ],
+      "vocab_groups": [
+        {
+          "title": "San’at buyumi",
+          "items": [
+            {
+              "kr": "멋",
+              "rom": "meot",
+              "uz": "o‘ziga xos go‘zallik, did",
+              "pos": "ot"
+            },
+            {
+              "kr": "미",
+              "rom": "mi",
+              "uz": "go‘zallik",
+              "pos": "ot"
+            },
+            {
+              "kr": "도자기",
+              "rom": "dojagi",
+              "uz": "sopol buyum",
+              "pos": "ot"
+            },
+            {
+              "kr": "곡선",
+              "rom": "gokseon",
+              "uz": "egri chiziq",
+              "pos": "ot"
+            },
+            {
+              "kr": "문양",
+              "rom": "munyang",
+              "uz": "naqsh",
+              "pos": "ot"
+            },
+            {
+              "kr": "색채",
+              "rom": "saekchae",
+              "uz": "ranglar",
+              "pos": "ot"
+            }
+          ]
+        },
+        {
+          "title": "Badiiy tasvir",
+          "items": [
+            {
+              "kr": "조화",
+              "rom": "johwa",
+              "uz": "uyg‘unlik",
+              "pos": "ot"
+            },
+            {
+              "kr": "여백",
+              "rom": "yeobaek",
+              "uz": "bo‘sh joy",
+              "pos": "ot"
+            },
+            {
+              "kr": "자연스러움",
+              "rom": "jayeonseureoum",
+              "uz": "tabiiylik",
+              "pos": "ot"
+            },
+            {
+              "kr": "전통",
+              "rom": "jeontong",
+              "uz": "an’ana",
+              "pos": "ot"
+            },
+            {
+              "kr": "공예",
+              "rom": "gongye",
+              "uz": "hunarmandchilik",
+              "pos": "ot"
+            },
+            {
+              "kr": "꼽다",
+              "rom": "kkopda",
+              "uz": "tanlab ko‘rsatmoq",
+              "pos": "fe’l"
+            }
+          ],
+          "tip": "멋 faqat tashqi bezak emas: shakl, ma’no va taassurot uyg‘unligidan keladigan o‘ziga xos did."
+        }
+      ],
+      "grammar": [
+        {
+          "pattern": "A/V-(으)ㅁ에 틀림없다",
+          "title_uz": "...ekani shubhasiz",
+          "explanation": [
+            "Ko‘rilgan dalilga tayangan kuchli ishonchni bildiradi. Haqiqatni isbotlash uchun esa dalilni ham ayting; taxminni faktga aylantirib yubormang."
+          ],
+          "analogy": "Dalildan keyin qo‘yilgan kuchli tasdiq.",
+          "rules": [
+            {
+              "condition": "undosh",
+              "form": "A/V-음에 틀림없다",
+              "example": "깊음에 틀림없다"
+            },
+            {
+              "condition": "unli/ㄹ",
+              "form": "A/V-ㅁ에 틀림없다",
+              "example": "다름에 틀림없다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "이 문양은 손으로 그렸음에 틀림없어요.",
+              "uz": "Bu naqsh qo‘lda chizilgani shubhasiz."
+            },
+            {
+              "kr": "이 도자기는 오래되었음에 틀림없어요.",
+              "uz": "Bu sopol buyum qadimiy ekani shubhasiz."
+            },
+            {
+              "kr": "곡선의 느낌이 특별함에 틀림없어요.",
+              "uz": "Egri chiziqlar taassuroti o‘zgacha ekani shubhasiz."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "그렸는 틀림없다",
+              "right": "그렸음에 틀림없다",
+              "why": "Harakatni -(으)ㅁ bilan otlashtirib 에 틀림없다ga ulang."
+            }
+          ]
+        },
+        {
+          "pattern": "한마디로 말하자면",
+          "title_uz": "Bir so‘z bilan aytganda",
+          "explanation": [
+            "Uzun kuzatuvdan keyin asosiy fikrni qisqa xulosaga jamlaydi. Yangi dalil o‘rnini bosmaydi."
+          ],
+          "analogy": "Ko‘p tafsilotdan olingan bitta sarlavha.",
+          "rules": [
+            {
+              "condition": "xulosa boshi",
+              "form": "한마디로 말하자면,",
+              "example": "한마디로 말하자면, 조화예요"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "한마디로 말하자면, 이 작품의 멋은 조화예요.",
+              "uz": "Bir so‘z bilan aytganda, bu asar go‘zalligi uyg‘unlikda."
+            },
+            {
+              "kr": "한마디로 말하자면, 여백이 그림을 살려요.",
+              "uz": "Qisqasi, bo‘sh joy rasmga jon beradi."
+            },
+            {
+              "kr": "한마디로 말하자면, 전통과 새로움이 만났어요.",
+              "uz": "Qisqasi, an’ana va yangilik uchrashgan."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "한마디로 말하면 말하자면",
+              "right": "한마디로 말하자면",
+              "why": "Bir xil xulosa kirishini takrorlamang."
+            }
+          ]
+        },
+        {
+          "pattern": "A-(으)ㄴ/V-는 점이 특징적이다",
+          "title_uz": "...jihat xosdir",
+          "explanation": [
+            "Buyum yoki uslubning aynan qaysi belgisi ajralib turishini aytadi. “Chiroyli” deyishdan aniqroq tasvir."
+          ],
+          "analogy": "Asardagi diqqatga loyiq bitta detalga yo‘naltirilgan chiroq.",
+          "rules": [
+            {
+              "condition": "sifat",
+              "form": "A-(으)ㄴ 점이 특징적이다",
+              "example": "색이 은은한 점이 특징적이다"
+            },
+            {
+              "condition": "fe’l",
+              "form": "V-는 점이 특징적이다",
+              "example": "여백을 남기는 점이 특징적이다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "색이 은은한 점이 특징적이에요.",
+              "uz": "Rangi mayinligi uning o‘ziga xos jihati."
+            },
+            {
+              "kr": "곡선을 많이 사용하는 점이 특징적이에요.",
+              "uz": "Egri chiziqlar ko‘p ishlatilishi o‘ziga xos."
+            },
+            {
+              "kr": "여백을 남기는 점이 특징적입니다.",
+              "uz": "Bo‘sh joy qoldirilishi xarakterli jihat."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "색이 은은하는 점",
+              "right": "색이 은은한 점",
+              "why": "Sifat ot oldida -(으)ㄴ shaklini oladi."
+            }
+          ]
+        },
+        {
+          "pattern": "N을/를 N(으)로 꼽다",
+          "title_uz": "Nni N sifatida ko‘rsatmoq",
+          "explanation": [
+            "Bir necha imkon ichidan birini namuna, sabab yoki belgi sifatida tanlab aytadi. Kim tanlaganini aytish fikrni aniqroq qiladi."
+          ],
+          "analogy": "Ko‘rgazmadagi bitta asarga ishora qilish.",
+          "rules": [
+            {
+              "condition": "tanlangan narsa",
+              "form": "N을/를",
+              "example": "백자를"
+            },
+            {
+              "condition": "toifa",
+              "form": "N(으)로 꼽다",
+              "example": "대표적인 도자기로 꼽다"
+            }
+          ],
+          "examples": [
+            {
+              "kr": "많은 사람이 백자를 대표적인 도자기로 꼽아요.",
+              "uz": "Ko‘pchilik oq sopolni taniqli sopol buyum sifatida ko‘rsatadi."
+            },
+            {
+              "kr": "저는 이 문양을 가장 아름다운 요소로 꼽아요.",
+              "uz": "Men bu naqshni eng go‘zal unsur deb tanlayman."
+            },
+            {
+              "kr": "전문가는 여백을 중요한 특징으로 꼽았어요.",
+              "uz": "Mutaxassis bo‘sh joyni muhim belgi sifatida ko‘rsatdi."
+            }
+          ],
+          "mistakes": [
+            {
+              "wrong": "백자가 대표로 꼽다",
+              "right": "백자를 대표로 꼽다",
+              "why": "Tanlangan narsaga 을/를 ulanadi."
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Ko‘rgazmada",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Aziz",
+              "kr": "이 도자기는 어떤 점이 특징적이에요?"
+            },
+            {
+              "speaker": "Minji",
+              "kr": "색이 은은하고 여백을 남기는 점이 특징적이에요."
+            },
+            {
+              "speaker": "Aziz",
+              "kr": "한마디로 말하자면, 조화가 아름답군요."
+            }
+          ],
+          "translation": "Aziz: Bu sopol buyumning qaysi jihati o‘ziga xos?\nMinji: Rangi mayin va bo‘sh joy qoldirilgani o‘ziga xos.\nAziz: Qisqasi, uyg‘unligi chiroyli ekan.",
+          "new_words": []
+        },
+        {
+          "title": "Tanlangan asar",
+          "style": "kundalik-hurmatli uslub",
+          "lines": [
+            {
+              "speaker": "Mariya",
+              "kr": "어떤 작품을 대표적인 예로 꼽아요?"
+            },
+            {
+              "speaker": "Soyon",
+              "kr": "저는 이 도자기를 좋은 예로 꼽아요."
+            },
+            {
+              "speaker": "Mariya",
+              "kr": "손으로 만든 작품임에 틀림없네요."
+            }
+          ],
+          "translation": "Mariya: Qaysi asarni asosiy namuna deb aytasiz?\nSoyon: Men bu sopol buyumni yaxshi namuna deb ko‘rsataman.\nMariya: Bu qo‘lda yasalgan asar ekani shubhasiz ekan.",
+          "new_words": []
+        }
+      ],
+      "story": {
+        "title": "5A ko‘rgazmasi",
+        "intro": "Do‘stlar o‘rgangan mavzularini madaniyat ko‘rgazmasidagi yakuniy taqdimotga birlashtiradi.",
+        "lines": [
+          {
+            "speaker": "Aziz",
+            "kr": "이 도자기는 곡선을 살리는 점이 특징적이에요.",
+            "uz": "Bu sopol buyum egri chiziqni ko‘rsatishi bilan ajraladi."
+          },
+          {
+            "speaker": "Minji",
+            "kr": "저는 여백을 가장 아름다운 요소로 꼽아요.",
+            "uz": "Men bo‘sh joyni eng go‘zal unsur deb bilaman."
+          },
+          {
+            "speaker": "Mariya",
+            "kr": "한마디로 말하자면, 서로 다른 생각이 조화를 이뤄요.",
+            "uz": "Qisqasi, turli fikrlar uyg‘unlashadi."
+          },
+          {
+            "speaker": "Soyon",
+            "kr": "여러분이 함께 만든 발표임에 틀림없어요.",
+            "uz": "Bu siz birga tayyorlagan taqdimot ekani shubhasiz."
+          }
+        ],
+        "question": "Minji qaysi jihatni eng go‘zal deb tanladi?"
+      }
+    }
+  ],
+  "metadata": {
+    "source": "서울대 한국어 5A Student’s Book (o‘quv rejasi)",
+    "note": "Izohlar, tarjimalar, dialoglar va hikoyalar ushbu bot uchun yangidan yozilgan."
+  }
+}
