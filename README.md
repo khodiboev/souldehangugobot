@@ -1,10 +1,12 @@
 <div align="center">
 
-# 서울대 한국어 · Uzbek Telegram Bot
+<img src="assets/bot-avatar.png" alt="Open book and speech bubble bot avatar" width="112">
 
-**Learn Korean in Uzbek, one lesson at a time.**
+# 서울대 한국어 · O‘zbekcha
 
-A lightweight Telegram bot with vocabulary, clear grammar explanations, original dialogues and a continuing story across the Seoul Korean 1A–6B learning sequence.
+**Koreys tilini o‘zbekcha, bosqichma-bosqich o‘rganing.**
+
+A lightweight Telegram study companion for the Seoul Korean 1A–6B sequence: vocabulary, clear grammar explanations, original dialogues and a continuing story.
 
 ### [▶ Open the bot on Telegram](https://t.me/souldehangugobot)
 
@@ -17,6 +19,28 @@ A lightweight Telegram bot with vocabulary, clear grammar explanations, original
 **12 books** · **133 learning units** · **1,942 vocabulary entries** · **442 grammar modules** · **267 original dialogues**
 
 </div>
+
+## See the bot
+
+<p align="center">
+  <img src="assets/screenshots/profile.png" alt="Telegram bot profile with avatar, Uzbek bio and public username" width="550">
+</p>
+
+| Choose a book | Browse its lessons |
+|:---:|:---:|
+| <img src="assets/screenshots/books.png" alt="Book picker showing all twelve books from 1A to 6B" width="450"> | <img src="assets/screenshots/lessons.png" alt="2A lesson list in Korean and Uzbek" width="450"> |
+
+| Open a lesson | Study the grammar |
+|:---:|:---:|
+| <img src="assets/screenshots/sections.png" alt="Lesson overview and section navigation buttons" width="450"> | <img src="assets/screenshots/grammar.png" alt="Grammar explanation with examples and page navigation" width="450"> |
+
+<details>
+<summary>First-launch welcome screen</summary>
+<br>
+<img src="assets/screenshots/welcome.png" alt="Telegram introduction describing the bot in Uzbek" width="315">
+</details>
+
+These are real Telegram screenshots with only the empty margins and app sidebar cropped away. The bot's display language is Uzbek; Korean examples retain their original script.
 
 ## What the bot does
 
