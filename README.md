@@ -75,14 +75,14 @@ flowchart LR
 
 | Level | Books | Focus |
 |:---:|:---:|---|
-| 1 | [1A](1A-mazmun.md) · [1B](1B-mazmun.md) | Hangul, introductions and everyday basics |
-| 2 | [2A](2A-mazmun.md) · [2B](2B-mazmun.md) | Daily situations and longer sentences |
-| 3 | [3A](3A-mazmun.md) · [3B](3B-mazmun.md) | Explaining experiences and opinions |
-| 4 | [4A](4A-mazmun.md) · [4B](4B-mazmun.md) | Abstract topics and nuanced grammar |
-| 5 | [5A](5A-mazmun.md) · [5B](5B-mazmun.md) | Media, society, literature and analysis |
-| 6 | [6A](6A-mazmun.md) · [6B](6B-mazmun.md) | Advanced discussion, culture and social issues |
+| 1 | [1A](docs/COURSE_CONTENT.md#book-1a) · [1B](docs/COURSE_CONTENT.md#book-1b) | Hangul, introductions and everyday basics |
+| 2 | [2A](docs/COURSE_CONTENT.md#book-2a) · [2B](docs/COURSE_CONTENT.md#book-2b) | Daily situations and longer sentences |
+| 3 | [3A](docs/COURSE_CONTENT.md#book-3a) · [3B](docs/COURSE_CONTENT.md#book-3b) | Explaining experiences and opinions |
+| 4 | [4A](docs/COURSE_CONTENT.md#book-4a) · [4B](docs/COURSE_CONTENT.md#book-4b) | Abstract topics and nuanced grammar |
+| 5 | [5A](docs/COURSE_CONTENT.md#book-5a) · [5B](docs/COURSE_CONTENT.md#book-5b) | Media, society, literature and analysis |
+| 6 | [6A](docs/COURSE_CONTENT.md#book-6a) · [6B](docs/COURSE_CONTENT.md#book-6b) | Advanced discussion, culture and social issues |
 
-Each unit contains themed words with pronunciation and Uzbek meaning, grammar patterns with formation rules and common mistakes, two short dialogues, and a story scene. The `*-mazmun.md` files above are readable exports; `data/*.json` is what the bot loads. The [content review notes](CONTENT_REVIEW.md) and matching `CONTENT_REVIEW_*.md` files record source coverage and editorial notes.
+Each unit contains themed words with pronunciation and Uzbek meaning, grammar patterns with formation rules and common mistakes, two short dialogues, and a story scene. The linked sections in [the combined course document](docs/COURSE_CONTENT.md) are readable exports with source and editorial notes; `data/*.json` is what the bot loads.
 
 **Content boundary:** lesson themes, vocabulary topics and grammar patterns follow the supplied *Seoul Korean Student's Books*. Uzbek explanations, translations, examples, dialogues and stories were written for this project. Textbook pages and dialogues are not bundled. This is an adapted study companion, not a copy of the books or every workbook exercise.
 
@@ -129,8 +129,7 @@ After changing a lesson JSON file, restart the running bot. Do not run the local
 src/             Telegram handlers, keyboards, rendering and content validation
 data/            Prepared JSON lessons for 1A–6B
 tests/           Pagination, safety, navigation and content checks
-*-mazmun.md      Human-readable lesson exports
-CONTENT_REVIEW*   Curriculum coverage and editorial notes
+docs/            Combined lesson export and curriculum review notes
 Dockerfile        Multi-stage Node 22 image
 ```
 
