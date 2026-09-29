@@ -1,0 +1,17 @@
+{
+  "bookId": "1a",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {"id":"u01","topic":"vocab","prompt":"의사 so‘zining ma’nosi nima?","options":["talaba","shifokor","o‘qituvchi","oshpaz"],"correctIndex":1,"explanation":"의사 — shifokor. Kasblar guruhidagi so‘zlarni bir-biri bilan solishtirib yodlang.","reviewSection":"v"},
+    {"id":"u02","topic":"vocab","prompt":"회사원 kim?","options":["kompaniyada ishlovchi xodim","harbiy","jurnalist","uy bekasi"],"correctIndex":0,"explanation":"회사원 — kompaniya yoki ofis xodimi.","reviewSection":"v"},
+    {"id":"u03","topic":"vocab","prompt":"우즈베키스탄 qaysi davlat?","options":["Koreya","Germaniya","O‘zbekiston","Yaponiya"],"correctIndex":2,"explanation":"우즈베키스탄 — O‘zbekiston. Aziz o‘zini shu davlatdan deb tanishtiradi.","reviewSection":"v"},
+    {"id":"u04","topic":"vocab","prompt":"이름 so‘zining o‘zbekchasi nima?","options":["kasb","ism","davlat","til"],"correctIndex":1,"explanation":"이름 — ism. Tanishuvda ism so‘rash uchun kerak bo‘ladi.","reviewSection":"v"},
+    {"id":"u05","topic":"grammar","prompt":"«Men talabaman» deganda qaysi gap to‘g‘ri?","options":["저는 학생예요.","저는 학생이에요.","저는 학생가예요.","저는 학생아니에요."],"correctIndex":1,"explanation":"학생 undosh bilan tugaydi, shuning uchun otga 이에요 qo‘shiladi: 학생이에요.","reviewSection":"g"},
+    {"id":"u06","topic":"grammar","prompt":"«Men shifokorman» deganda qaysi shakl to‘g‘ri?","options":["저는 의사이에요.","저는 의사예요.","저는 의사입니까?","저는 의사아닙니다."],"correctIndex":1,"explanation":"의사 unli bilan tugaydi, shuning uchun 예요 ishlatiladi: 의사예요.","reviewSection":"g"},
+    {"id":"u07","topic":"grammar","prompt":"Rasmiy uslubda «Talabamisiz?» savoli qanday aytiladi?","options":["학생입니다.","학생이에요.","학생입니까?","학생이 아닙니다."],"correctIndex":2,"explanation":"Rasmiy savolda -입니까? ishlatiladi. -입니다 esa xabar gap uchun.","reviewSection":"g"},
+    {"id":"u08","topic":"grammar","prompt":"«Shifokor emasman» uchun qaysi shakl to‘g‘ri?","options":["의사이 아닙니다.","의사가 아닙니다.","의사입니다.","의사입니까?"],"correctIndex":1,"explanation":"의사 unli bilan tugagani uchun inkorda 가 keladi: 의사가 아닙니다.","reviewSection":"g"},
+    {"id":"u09","topic":"context","prompt":"O‘qituvchi ketayotgan talabalarga nima deydi?","options":["안녕히 계세요!","안녕히 가세요!","안녕하세요!","반갑습니다!"],"correctIndex":1,"explanation":"Suhbatdosh ketayotgan bo‘lsa, qolayotgan odam 안녕히 가세요 — «yaxshi boring» deydi.","reviewSection":"g"},
+    {"id":"u10","topic":"context","prompt":"1과 hikoyasida Mariyaning kasbi nima?","options":["talaba","o‘qituvchi","shifokor","jurnalist"],"correctIndex":2,"explanation":"Mariya «저는 의사예요» deydi: «Men shifokorman». Hikoyani qayta o‘qib ko‘ring.","reviewSection":"s"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "bookId": "1a",
+  "unitId": "hangul",
+  "version": 1,
+  "questions": [
+    {"id":"h01","topic":"vocab","prompt":"ㅏ harfi qaysi tovushga yaqin?","options":["a","eo","u","i"],"correctIndex":0,"explanation":"ㅏ o‘zbekchadagi «a» tovushiga yaqin. Masalan, 나 — na.","reviewSection":"v"},
+    {"id":"h02","topic":"vocab","prompt":"ㅓ harfining lotincha o‘qilishi qaysi?","options":["o","a","eo","eu"],"correctIndex":2,"explanation":"ㅓ odatda eo deb yoziladi. Bu faqat taxminiy yozuv; tovushni eshitib mashq qilish ham kerak.","reviewSection":"v"},
+    {"id":"h03","topic":"vocab","prompt":"ㄴ undoshi qaysi tovushga yaqin?","options":["m","n","r/l","s"],"correctIndex":1,"explanation":"ㄴ — n tovushiga yaqin. ㄴ + ㅏ = 나 (na).","reviewSection":"v"},
+    {"id":"h04","topic":"vocab","prompt":"우유 so‘zi qanday o‘qiladi?","options":["uyu","aya","muyu","uno"],"correctIndex":0,"explanation":"우 = u, 유 = yu. Birga 우유 — uyu; ma’nosi «sut».","reviewSection":"v"},
+    {"id":"h05","topic":"grammar","prompt":"ㄴ + ㅏ bir bo‘g‘inga qo‘shilsa nima hosil bo‘ladi?","options":["다","나","마","너"],"correctIndex":1,"explanation":"ㄴ undoshi va ㅏ unlisi bitta katakda 나 bo‘g‘inini hosil qiladi.","reviewSection":"g"},
+    {"id":"h06","topic":"grammar","prompt":"ㅇ bo‘g‘in boshida, masalan 아 da qanday vazifa bajaradi?","options":["ng bo‘lib o‘qiladi","m bo‘lib o‘qiladi","ovozsiz o‘rin to‘ldiradi","unlini cho‘zadi"],"correctIndex":2,"explanation":"Unli bilan boshlanadigan bo‘g‘inda ㅇ boshida yoziladi, lekin o‘qilmaydi: 아 — a.","reviewSection":"g"},
+    {"id":"h07","topic":"grammar","prompt":"ㅇ pastki undosh (받침) bo‘lsa qaysi tovushga yaqinlashadi?","options":["ng","n","k","umuman o‘qilmaydi"],"correctIndex":0,"explanation":"Bo‘g‘in oxiridagi ㅇ «ng» tovushiga yaqin: 방 — bang.","reviewSection":"g"},
+    {"id":"h08","topic":"grammar","prompt":"ㄱ, ㅋ, ㄲ orasida qaysi biri kuchliroq havo chiqarib aytiladi?","options":["ㄱ","ㅋ","ㄲ","uchalasi bir xil"],"correctIndex":1,"explanation":"ㅋ — havo kuchliroq chiqadigan undosh. ㄲ esa tarang aytiladi; bu ikkalasini adashtirmang.","reviewSection":"g"},
+    {"id":"h09","topic":"context","prompt":"문 bo‘g‘inidagi pastki undosh (받침) qaysi?","options":["ㅁ","ㅜ","ㄴ","ㅇ"],"correctIndex":2,"explanation":"문 = ㅁ + ㅜ + ㄴ. Pastda yozilgan ㄴ — 받침.","reviewSection":"d"},
+    {"id":"h10","topic":"context","prompt":"책 bo‘g‘inidagi pastki undosh qaysi?","options":["ㅊ","ㅐ","ㄱ","ㅋ"],"correctIndex":2,"explanation":"책 = ㅊ + ㅐ + ㄱ. Oxirgi ㄱ pastki undosh bo‘lib yoziladi.","reviewSection":"d"}
+  ]
+}

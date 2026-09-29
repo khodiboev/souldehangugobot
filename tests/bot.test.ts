@@ -8,6 +8,7 @@ import {splitHtml,explanation,render,sectionNames,type Section} from '../src/ren
 import {createBot} from '../src/bot.js';
 import {unitKeyboard} from '../src/keyboards.js';
 import {createStats} from '../src/stats.js';
+import {createQuizProgress,loadQuizzes,progressKey,quizSchema} from '../src/quiz.js';
 const books=loadBooks();
 function plain(s:string){return s.replace(/<[^>]+>/g,'').replaceAll('&lt;','<').replaceAll('&gt;','>').replaceAll('&amp;','&');}
 function balanced(s:string){const stack:string[]=[];for(const t of s.match(/<[^>]+>/g)??[]){if(t.startsWith('</'))assert.equal(stack.pop(),t.slice(2,-1));else stack.push(t.slice(1,-1));}assert.equal(stack.length,0);}
@@ -186,5 +187,77 @@ test('only the configured owner sees stats in a private chat',async()=>{
   assert.match(await command(101,'stats'),/Jami: 2/);
   assert.match(await command(303,'stats','group'),/faqat bot egasi/);
   assert.equal(stats.snapshot().total,2);
+ }finally{rmSync(dir,{recursive:true});}
+});
+test('pilot quiz banks have ten valid original questions for Hangul and 1A lesson one',()=>{
+ const quizzes=loadQuizzes(books);
+ assert.deepEqual([...quizzes.keys()].sort(),['1a:1','1a:hangul']);
+ for(const quiz of quizzes.values()){
+  assert.equal(quiz.questions.length,10);
+  assert.equal(quiz.questions.filter(q=>q.topic==='vocab').length,4);
+  assert.equal(quiz.questions.filter(q=>q.topic==='grammar').length,4);
+  assert.equal(quiz.questions.filter(q=>q.topic==='context').length,2);
+  assert.ok(quiz.questions.every(q=>q.explanation && q.options[q.correctIndex]));
+ }
+ const broken=structuredClone(quizzes.get('1a:1')!);
+ broken.questions[0].options[1]=broken.questions[0].options[0];
+ assert.equal(quizSchema.safeParse(broken).success,false);
+});
+test('quiz progress survives restart and ignores duplicate or old answers',()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-quiz-'));
+ try{
+  const file=join(dir,'progress.json');
+  const quiz=loadQuizzes(books).get('1a:1')!;
+  let progress=createQuizProgress(file);
+  const key=progressKey(quiz);
+  const first=progress.begin(101,key);
+  const wrong=(quiz.questions[0].correctIndex+1)%4;
+  assert.equal(progress.answer(101,quiz,first.token,0,wrong).kind,'accepted');
+  assert.equal(progress.answer(101,quiz,first.token,0,wrong).kind,'stale');
+  progress=createQuizProgress(file);
+  assert.equal(progress.get(101,key).active?.answers.length,1);
+  for(let i=1;i<10;i++)assert.equal(progress.answer(101,quiz,first.token,i,quiz.questions[i].correctIndex).kind,'accepted');
+  assert.deepEqual({completed:progress.get(101,key).completed,best:progress.get(101,key).best}, {completed:1,best:9});
+  assert.equal(progress.get(101,key).lastAnswers?.[0],wrong);
+  const second=progress.begin(101,key);
+  assert.notEqual(second.token,first.token);
+  assert.equal(progress.answer(101,quiz,first.token,0,wrong).kind,'stale');
+  assert.equal(progress.get(202,key).completed,0);
+ }finally{rmSync(dir,{recursive:true});}
+});
+test('quiz buttons show private questions, explanations and reject stale callbacks',async()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-quiz-bot-'));
+ try{
+  const progress=createQuizProgress(join(dir,'progress.json'));
+  const quizzes=loadQuizzes(books);
+  const bot=createBot('123:test-only',books,{quizzes,quizProgress:progress});
+  bot.botInfo={id:123,is_bot:true,first_name:'Test',username:'test_bot',can_join_groups:true,can_read_all_group_messages:false,supports_inline_queries:false,can_connect_to_business:false,has_main_web_app:false};
+  const calls:{method:string,payload:any}[]=[];
+  bot.api.config.use(async(_prev,method,payload)=>{calls.push({method,payload});return {ok:true,result:true} as any;});
+  let update=0;
+  async function click(data:string,chatType:'private'|'group'='private'){
+   calls.length=0;
+   await bot.handleUpdate({update_id:++update,callback_query:{id:String(update),from:{id:101,is_bot:false,first_name:'User'},chat_instance:'quiz-test',data,message:{message_id:2,date:0,chat:{id:chatType==='private'?101:-1,type:chatType},text:'Menu'}}});
+   return calls.at(-1);
+  }
+  assert.equal((await click('u:1a:1'))?.payload.reply_markup.inline_keyboard.flat().some((button:any)=>button.text==='🧠 10 savollik test'),true);
+  assert.match((await click('q:1a:1'))?.payload.text,/10 savollik test/);
+  assert.match((await click('qs:1a:1'))?.payload.text,/1\/10/);
+  const token=progress.get(101,progressKey(quizzes.get('1a:1')!)).active!.token;
+  assert.match((await click(`qa:1a:1:${token}:0:1`))?.payload.text,/To‘g‘ri/);
+  assert.match((await click(`qn:1a:1:${token}`))?.payload.text,/2\/10/);
+  assert.equal((await click(`qa:1a:1:${token}:0:1`))?.method,'answerCallbackQuery');
+  assert.equal((await click('q:1a:1','group'))?.method,'answerCallbackQuery');
+  const quiz=quizzes.get('1a:1')!;
+  for(let i=1;i<10;i++){
+   const choice=i===1?(quiz.questions[i].correctIndex+1)%4:quiz.questions[i].correctIndex;
+   assert.match((await click(`qa:1a:1:${token}:${i}:${choice}`))?.payload.text,/💡/);
+   if(i<9)assert.match((await click(`qn:1a:1:${token}`))?.payload.text,new RegExp(`${i+2}\\/10`));
+  }
+  assert.match((await click('qres:1a:1'))?.payload.text,/9\/10/);
+  assert.match((await click('qr:1a:1:0'))?.payload.text,/To‘g‘ri javob/);
+  assert.equal(progress.get(101,progressKey(quiz)).completed,1);
+  assert.match((await click('qs:1a:1'))?.payload.text,/1\/10/);
+  assert.equal((await click(`qa:1a:1:${token}:0:1`))?.method,'answerCallbackQuery');
  }finally{rmSync(dir,{recursive:true});}
 });

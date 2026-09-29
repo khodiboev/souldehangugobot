@@ -60,6 +60,7 @@ These are real Telegram screenshots with only the empty margins and app sidebar 
 - **Learn, then reveal:** Uzbek translations of examples and dialogues are hidden behind Telegram spoilers.
 - **Read comfortably:** long sections are split into Telegram-sized pages with previous/next controls.
 - **Keep the thread:** the original story follows the same characters across lessons; Hangul has its own beginner section in 1A.
+- **Practice after a lesson:** the first quiz pilot covers Hangul and 1A lesson 1 with 10 explained questions each, saved results and mistake review.
 - **Stay lightweight:** lessons are prepared JSON files. The running bot does not call an AI model, process PDFs or need a database.
 - **See basic usage:** the owner can see unique private-chat users and recent activity with `/stats` after setting `ADMIN_USER_ID`.
 
@@ -84,6 +85,8 @@ flowchart LR
 | 6 | [6A](docs/COURSE_CONTENT.md#book-6a) · [6B](docs/COURSE_CONTENT.md#book-6b) | Advanced discussion, culture and social issues |
 
 Each unit contains themed words with pronunciation and Uzbek meaning, grammar patterns with formation rules and common mistakes, two short dialogues, and a story scene. The linked sections in [the combined course document](docs/COURSE_CONTENT.md) are readable exports with source and editorial notes; `data/*.json` is what the bot loads.
+
+The quiz pilot is available under **1A → 한글** and **1A → 1과**. Open **🧠 10 savollik test** in a private chat. Each answer gets an explanation; the result shows the score, best attempt and mistakes, with a link back to the relevant lesson section. An unfinished attempt resumes after a restart. Quiz questions are original and live in `data/quizzes/*.json`. The optional placement test and the remaining lesson quizzes are planned for later, after reviewing this pilot. When changing a quiz's correct answers, increment its `version` so old attempts are not scored against new questions.
 
 **Content boundary:** lesson themes, vocabulary topics and grammar patterns follow the supplied *Seoul Korean Student's Books*. Uzbek explanations, translations, examples, dialogues and stories were written for this project. Textbook pages and dialogues are not bundled. This is an adapted study companion, not a copy of the books or every workbook exercise.
 
@@ -120,7 +123,7 @@ docker compose up -d --build
 docker compose logs --tail=30
 ```
 
-Compose uses `restart: unless-stopped`; the container is separate from the terminal. The production bot runs on an Ubuntu VPS, so closing the Mac terminal does not stop it. Docker's named `bot-state` volume keeps the usage data across container rebuilds. This does not replace server monitoring or backups.
+Compose uses `restart: unless-stopped`; the container is separate from the terminal. The production bot runs on an Ubuntu VPS, so closing the Mac terminal does not stop it. Docker's named `bot-state` volume keeps usage data and quiz progress across container rebuilds. This does not replace server monitoring or backups.
 
 `/stats` reports total unique users plus users active in the last 24 hours, 7 days and 30 days. Only private-chat interactions from the time tracking was enabled are counted; opening the link without starting the bot is not visible. The bot stores only Telegram numeric IDs and first/last activity times in the private state volume, not names or message text. Without `ADMIN_USER_ID`, `/stats` is unavailable to everyone. The state file is excluded from Git.
 
@@ -133,11 +136,11 @@ src/             Telegram handlers, keyboards, rendering and content validation
 data/            Prepared JSON lessons for 1A–6B
 tests/           Pagination, safety, navigation and content checks
 docs/            Combined lesson export and curriculum review notes
-state/           Local usage counts (ignored by Git; Docker uses a named volume)
+state/           Local usage counts and quiz progress (ignored by Git; Docker uses a named volume)
 Dockerfile        Multi-stage Node 22 image
 ```
 
-`npm run check` validates all lesson JSON files, message lengths and callback data. `npm test` covers Unicode-safe pagination, HTML escaping, navigation and lesson structure. `npm run build` type-checks the TypeScript app. The bot uses long polling, so it needs no webhook or domain.
+`npm run check` validates lesson and quiz JSON, message lengths and callback data. `npm test` covers Unicode-safe pagination, HTML escaping, navigation, quiz progress and lesson structure. `npm run build` type-checks the TypeScript app. The bot uses long polling, so it needs no webhook or domain.
 
 ## Credentials and contributions
 
