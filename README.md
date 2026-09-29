@@ -62,6 +62,7 @@ These are real Telegram screenshots with only the empty margins and app sidebar 
 - **Keep the thread:** the original story follows the same characters across lessons; Hangul has its own beginner section in 1A.
 - **Practice after every lesson:** all 133 units have quizzes with explanations, saved results and mistake review. Question counts rise with the level: 10, 15 or 20.
 - **Find a starting point:** an optional 24-question test in `/start` suggests a book from 1A to 6B. It is a rough guide, not a formal proficiency assessment.
+- **Keep the study chat tidy:** unsupported text, photos, audio and files sent to the bot's private chat are deleted when Telegram permits it. The bot shows a short usage reminder at most once per minute. Ordinary group messages are left alone.
 - **Stay lightweight:** lessons are prepared JSON files. The running bot does not call an AI model, process PDFs or need a database.
 - **See basic usage:** the owner can see unique private-chat users and recent activity with `/stats` after setting `ADMIN_USER_ID`.
 

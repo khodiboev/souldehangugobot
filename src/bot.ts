@@ -9,6 +9,7 @@ import { placementIntro,placementIntroKeyboard,placementQuestion,placementQuesti
 type BotOptions = { stats?: UserStats; adminUserId?: string; quizzes?: QuizBank; quizProgress?: QuizProgress; placement?: Placement };
 export function createBot(token:string,books:Book[],options: BotOptions = {}) {
  const bot=new Bot(token);
+ const lastUnsupportedWarning=new Map<number,number>();
  bot.use(async(ctx,next)=>{
   if(ctx.chat?.type==='private' && ctx.from && options.stats){
    try{options.stats.record(ctx.from.id);}catch{console.error('Foydalanuvchi statistikasi saqlanmadi.');}
@@ -34,6 +35,18 @@ export function createBot(token:string,books:Book[],options: BotOptions = {}) {
    return ctx.reply('Bu buyruq faqat bot egasi uchun.');
   const s=options.stats.snapshot();
   return ctx.reply(`📊 Bot foydalanuvchilari\n\nJami: ${s.total}\nOxirgi 24 soat: ${s.last24Hours}\nOxirgi 7 kun: ${s.last7Days}\nOxirgi 30 kun: ${s.last30Days}\n\nHisob faqat statistika yoqilgandan keyin botni shaxsiy chatda ishlatganlarni qamrab oladi.`);
+ });
+ // The bot is a button-driven study guide. Limit cleanup to its private chat;
+ // it must never moderate unrelated conversations in a group.
+ bot.on('message',async ctx=>{
+  if(ctx.chat.type!=='private')return;
+  try{await ctx.deleteMessage();}catch{console.error('Keraksiz xabarni o‘chirib bo‘lmadi.');}
+  const now=Date.now(),last=lastUnsupportedWarning.get(ctx.chat.id)??0;
+  if(now-last<60_000)return;
+  lastUnsupportedWarning.set(ctx.chat.id,now);
+  if(lastUnsupportedWarning.size>2048)for(const [id,time] of lastUnsupportedWarning)
+   if(now-time>=60_000)lastUnsupportedWarning.delete(id);
+  await ctx.reply('⚠️ Bu bot darslar va testlar uchun. Iltimos, erkin matn, rasm, audio yoki fayl yubormang. Kitob va bo‘limlarni tugmalar orqali tanlang. /start — boshlash, /help — yordam.',{reply_markup:booksKeyboard(books,Boolean(options.placement&&options.quizProgress))});
  });
  bot.on('callback_query:data',async ctx=>{
   const data=ctx.callbackQuery.data;

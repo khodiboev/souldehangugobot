@@ -190,6 +190,30 @@ test('only the configured owner sees stats in a private chat',async()=>{
   assert.equal(stats.snapshot().total,2);
  }finally{rmSync(dir,{recursive:true});}
 });
+test('unsupported private messages are deleted and warned once; group messages are untouched',async()=>{
+ const bot=createBot('123:test-only',books);
+ bot.botInfo={id:123,is_bot:true,first_name:'Test',username:'test_bot',can_join_groups:true,can_read_all_group_messages:false,supports_inline_queries:false,can_connect_to_business:false,has_main_web_app:false};
+ const calls:{method:string,payload:any}[]=[];
+ bot.api.config.use(async(_prev,method,payload)=>{calls.push({method,payload});return {ok:true,result:true} as any;});
+ const user={id:101,is_bot:false,first_name:'User'};let update=0;
+ async function send(message:any,type:'private'|'group'='private'){
+  calls.length=0;
+  await bot.handleUpdate({update_id:++update,message:{message_id:update,date:0,chat:{id:type==='private'?101:-1,type},from:user,...message}});
+  return [...calls];
+ }
+ let result=await send({text:'/start',entities:[{offset:0,length:6,type:'bot_command'}]});
+ assert.deepEqual(result.map(c=>c.method),['sendMessage']);
+ result=await send({photo:[{file_id:'photo',file_unique_id:'photo-1',width:100,height:100}]});
+ assert.deepEqual(result.map(c=>c.method),['deleteMessage','sendMessage']);
+ assert.match(result[1].payload.text,/rasm, audio yoki fayl yubormang/);
+ assert.equal(result[0].payload.message_id,2);
+ result=await send({text:'assalomu alaykum'});
+ assert.deepEqual(result.map(c=>c.method),['deleteMessage']);
+ result=await send({document:{file_id:'file',file_unique_id:'file-1',file_name:'extra.pdf'}});
+ assert.deepEqual(result.map(c=>c.method),['deleteMessage']);
+ result=await send({text:'guruhdagi oddiy xabar'},'group');
+ assert.deepEqual(result,[]);
+});
 test('every ready unit has a valid quiz with increasing question count',()=>{
  const quizzes=loadQuizzes(books);
  assert.equal(quizzes.size,133);
