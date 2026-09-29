@@ -2,8 +2,15 @@ import { Bot, GrammyError, type Context, type InlineKeyboard } from 'grammy';
 import type { Book } from './content.js';
 import { booksKeyboard,tocKeyboard,unitKeyboard } from './keyboards.js';
 import { esc,topic,render,sectionNames,type Section } from './render.js';
-export function createBot(token:string,books:Book[]) {
+import type { UserStats } from './stats.js';
+export function createBot(token:string,books:Book[],options: { stats?: UserStats; adminUserId?: string } = {}) {
  const bot=new Bot(token);
+ bot.use(async(ctx,next)=>{
+  if(ctx.chat?.type==='private' && ctx.from && options.stats){
+   try{options.stats.record(ctx.from.id);}catch{console.error('Foydalanuvchi statistikasi saqlanmadi.');}
+  }
+  await next();
+ });
  async function show(ctx:Context,text:string,keyboard:InlineKeyboard){
   const options={parse_mode:'HTML' as const,reply_markup:keyboard};
   if(ctx.callbackQuery?.message){
@@ -16,7 +23,14 @@ export function createBot(token:string,books:Book[]) {
  }
  const welcome=(ctx:Context)=>show(ctx,'🇰🇷 Koreys tilini o‘zbekcha o‘rganamiz!\n\n📚 Kitobni tanlang:',booksKeyboard(books));
  bot.command(['start','books'],welcome);
- bot.command('help',ctx=>ctx.reply('Kitob → dars → bo‘limni tanlang. ◀️ ▶️ bilan sahifalarni almashtiring. Yashirin tarjimani bosib oching. ⏳ — dars hali tayyor emas.\n\n/books — kitoblar\n/start — boshlash'));
+ bot.command('help',ctx=>ctx.reply('Kitob → dars → bo‘limni tanlang. ◀️ ▶️ bilan sahifalarni almashtiring. Yashirin tarjimani bosib oching. ⏳ — dars hali tayyor emas.\n\n/books — kitoblar\n/start — boshlash\n/myid — Telegram ID'));
+ bot.command('myid',ctx=>ctx.chat.type==='private'&&ctx.from?ctx.reply(`Telegram ID: ${ctx.from.id}`):ctx.reply('ID ni ko‘rish uchun botga shaxsiy chatda /myid yuboring.'));
+ bot.command('stats',ctx=>{
+  if(ctx.chat.type!=='private' || !ctx.from || !options.adminUserId || String(ctx.from.id)!==options.adminUserId || !options.stats)
+   return ctx.reply('Bu buyruq faqat bot egasi uchun.');
+  const s=options.stats.snapshot();
+  return ctx.reply(`📊 Bot foydalanuvchilari\n\nJami: ${s.total}\nOxirgi 24 soat: ${s.last24Hours}\nOxirgi 7 kun: ${s.last7Days}\nOxirgi 30 kun: ${s.last30Days}\n\nHisob faqat statistika yoqilgandan keyin botni shaxsiy chatda ishlatganlarni qamrab oladi.`);
+ });
  bot.on('callback_query:data',async ctx=>{
   const data=ctx.callbackQuery.data;
   if(data==='noop'){await ctx.answerCallbackQuery();return;}

@@ -7,6 +7,7 @@ import {loadBooks,bookSchema} from '../src/content.js';
 import {splitHtml,explanation,render,sectionNames,type Section} from '../src/render.js';
 import {createBot} from '../src/bot.js';
 import {unitKeyboard} from '../src/keyboards.js';
+import {createStats} from '../src/stats.js';
 const books=loadBooks();
 function plain(s:string){return s.replace(/<[^>]+>/g,'').replaceAll('&lt;','<').replaceAll('&gt;','>').replaceAll('&amp;','&');}
 function balanced(s:string){const stack:string[]=[];for(const t of s.match(/<[^>]+>/g)??[]){if(t.startsWith('</'))assert.equal(stack.pop(),t.slice(2,-1));else stack.push(t.slice(1,-1));}assert.equal(stack.length,0);}
@@ -154,4 +155,36 @@ test('published core lessons contain the full alphabet, four patterns and biling
   assert.equal(unit.vocab_groups.reduce((n,g)=>n+g.items.length,0),12);
   for(const grammar of unit.grammar)assert.ok(grammar.examples.length>=3 && grammar.mistakes.length>=1);
  }
+});
+test('private users are counted once and remain after reopening the stats file',()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-stats-'));
+ const file=join(dir,'users.json');
+ try{
+  const stats=createStats(file);
+  const now=new Date('2026-09-29T12:00:00.000Z');
+  stats.record(101,new Date('2026-09-01T12:00:00.000Z'));
+  stats.record(101,now);
+  stats.record(202,new Date('2026-09-20T12:00:00.000Z'));
+  assert.deepEqual(createStats(file).snapshot(now),{total:2,last24Hours:1,last7Days:1,last30Days:2});
+ }finally{rmSync(dir,{recursive:true});}
+});
+test('only the configured owner sees stats in a private chat',async()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-stats-bot-'));
+ try{
+  const stats=createStats(join(dir,'users.json'));
+  const bot=createBot('123:test-only',books,{stats,adminUserId:'101'});
+  bot.botInfo={id:123,is_bot:true,first_name:'Test',username:'test_bot',can_join_groups:true,can_read_all_group_messages:false,supports_inline_queries:false,can_connect_to_business:false,has_main_web_app:false};
+  const calls:{method:string,payload:any}[]=[];
+  bot.api.config.use(async(_prev,method,payload)=>{calls.push({method,payload});return {ok:true,result:true} as any;});
+  async function command(id:number,name:string,type:'private'|'group'='private'){
+   calls.length=0;
+   await bot.handleUpdate({update_id:id,message:{message_id:id,date:0,chat:{id:type==='private'?id:-1,type},from:{id,is_bot:false,first_name:'User'},text:`/${name}`,entities:[{offset:0,length:name.length+1,type:'bot_command'}]}});
+   return calls.at(-1)?.payload.text as string;
+  }
+  assert.match(await command(101,'myid'),/101/);
+  assert.match(await command(202,'stats'),/faqat bot egasi/);
+  assert.match(await command(101,'stats'),/Jami: 2/);
+  assert.match(await command(303,'stats','group'),/faqat bot egasi/);
+  assert.equal(stats.snapshot().total,2);
+ }finally{rmSync(dir,{recursive:true});}
 });

@@ -12,5 +12,6 @@ COPY --from=build /app/node_modules ./node_modules
 COPY --from=build /app/dist ./dist
 COPY package.json ./
 COPY data ./data
+RUN mkdir /app/state && chown node:node /app/state
 USER node
 CMD ["node", "dist/index.js"]

@@ -61,6 +61,7 @@ These are real Telegram screenshots with only the empty margins and app sidebar 
 - **Read comfortably:** long sections are split into Telegram-sized pages with previous/next controls.
 - **Keep the thread:** the original story follows the same characters across lessons; Hangul has its own beginner section in 1A.
 - **Stay lightweight:** lessons are prepared JSON files. The running bot does not call an AI model, process PDFs or need a database.
+- **See basic usage:** the owner can see unique private-chat users and recent activity with `/stats` after setting `ADMIN_USER_ID`.
 
 ```mermaid
 flowchart LR
@@ -101,7 +102,7 @@ npm test
 npm run dev
 ```
 
-Send `/start` to your bot. `/books` opens the book list and `/help` explains the controls. Only **one polling instance** may use a token at a time. `npm run dev` runs in the foreground: closing the terminal stops it.
+Send `/start` to your bot. `/books` opens the book list, `/help` explains the controls, and `/myid` shows your Telegram numeric ID in a private chat. Put that ID in `ADMIN_USER_ID` in `.env` to enable the owner-only `/stats` command. Only **one polling instance** may use a token at a time. `npm run dev` runs in the foreground: closing the terminal stops it.
 
 For compiled execution:
 
@@ -119,7 +120,9 @@ docker compose up -d --build
 docker compose logs --tail=30
 ```
 
-Compose uses `restart: unless-stopped`; the container is separate from the terminal. A Mac-hosted bot still stops when the Mac sleeps or shuts down. For 24/7 availability, run it on an always-on server. This repository is **not itself a hosting service**, and the Compose deployment has not been performed here.
+Compose uses `restart: unless-stopped`; the container is separate from the terminal. The production bot runs on an Ubuntu VPS, so closing the Mac terminal does not stop it. Docker's named `bot-state` volume keeps the usage data across container rebuilds. This does not replace server monitoring or backups.
+
+`/stats` reports total unique users plus users active in the last 24 hours, 7 days and 30 days. Only private-chat interactions from the time tracking was enabled are counted; opening the link without starting the bot is not visible. The bot stores only Telegram numeric IDs and first/last activity times in the private state volume, not names or message text. Without `ADMIN_USER_ID`, `/stats` is unavailable to everyone. The state file is excluded from Git.
 
 After changing a lesson JSON file, restart the running bot. Do not run the local process and the container with the same token simultaneously.
 
@@ -130,6 +133,7 @@ src/             Telegram handlers, keyboards, rendering and content validation
 data/            Prepared JSON lessons for 1A–6B
 tests/           Pagination, safety, navigation and content checks
 docs/            Combined lesson export and curriculum review notes
+state/           Local usage counts (ignored by Git; Docker uses a named volume)
 Dockerfile        Multi-stage Node 22 image
 ```
 
