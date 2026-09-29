@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«한국» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dunyo",
+        "Koreya",
+        "ko‘chib kelish",
+        "til"
+      ],
+      "correctIndex": 1,
+      "explanation": "«한국» — «Koreya». Bu so‘z darsdagi «Ko‘p madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«til» koreyschada qaysi so‘z?",
+      "options": [
+        "세계",
+        "이주",
+        "문화",
+        "언어"
+      ],
+      "correctIndex": 3,
+      "explanation": "«언어» — «til». Bu so‘z darsdagi «Ko‘p madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«교류» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘chib kelish",
+        "almashinuv",
+        "Koreya",
+        "dunyo"
+      ],
+      "correctIndex": 1,
+      "explanation": "«교류» — «almashinuv». Bu so‘z darsdagi «Ko‘p madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tadbir» koreyschada qaysi so‘z?",
+      "options": [
+        "경험",
+        "참여하다",
+        "이웃",
+        "행사"
+      ],
+      "correctIndex": 3,
+      "explanation": "«행사» — «tadbir». Bu so‘z darsdagi «Birga yashash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«경험» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jamoa",
+        "tadbir",
+        "qo‘shni",
+        "tajriba"
+      ],
+      "correctIndex": 3,
+      "explanation": "«경험» — «tajriba». Bu so‘z darsdagi «Birga yashash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qatnashmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "경험",
+        "이웃",
+        "참여하다",
+        "행사"
+      ],
+      "correctIndex": 2,
+      "explanation": "«참여하다» — «qatnashmoq». Bu so‘z darsdagi «Birga yashash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-던 차에[차이다]» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ib berishingizni so‘rab",
+        "...ib ham",
+        "... paytda aynan",
+        "N tufayli"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-던 차에[차이다]» — ... paytda aynan. Kerak bo‘lgan paytda ochilgan eshik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-고도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ib ham",
+        "Nning o‘ziyoq",
+        "... paytda aynan",
+        "... bo‘lishi mumkin emas"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-고도» — ...ib ham. Qadam tashlangan, ammo manzil hali ko‘rinmagan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«자료를 찾던 차에 새 이웃을 만났어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ma’lumot izlayotgan paytimda yangi qo‘shni bilan tanishdim.",
+        "Tadbirga tayyorlanayotganda yaxshi taklif oldik.",
+        "Ko‘p marta uchrashib ham ismni chalkashtirdim.",
+        "Izohni eshitib ham tushunmadim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«자료를 찾던 차에 새 이웃을 만났어요.» — «Ma’lumot izlayotgan paytimda yangi qo‘shni bilan tanishdim.». Bu yerda «A/V-던 차에[차이다]» qolipi ishlatilgan: ... paytda aynan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Izohni eshitib ham tushunmadim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "행사를 준비하던 차에 좋은 제안을 받았어요.",
+        "여러 번 만나고도 이름을 헷갈렸어요.",
+        "함께 일하고도 서로의 경험을 몰랐어요.",
+        "설명을 듣고도 이해하지 못했어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«설명을 듣고도 이해하지 못했어요.» — «Izohni eshitib ham tushunmadim.». Bu yerda «V-고도» qolipi ishlatilgan: ...ib ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«행사를 준비하던 차에 좋은 제안을 받았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ma’lumot izlayotgan paytimda yangi qo‘shni bilan tanishdim.",
+        "Tadbirga tayyorlanayotganda yaxshi taklif oldik.",
+        "Birga ishlab ham bir-birimiz tajribasini bilmadik.",
+        "Izohni eshitib ham tushunmadim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«행사를 준비하던 차에 좋은 제안을 받았어요.» — «Tadbirga tayyorlanayotganda yaxshi taklif oldik.». Bu yerda «A/V-던 차에[차이다]» qolipi ishlatilgan: ... paytda aynan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Ko‘p marta uchrashib ham ismni chalkashtirdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "함께 일하고도 서로의 경험을 몰랐어요.",
+        "여러 번 만나고도 이름을 헷갈렸어요.",
+        "자료를 찾던 차에 새 이웃을 만났어요.",
+        "다른 언어가 궁금하던 차에 수업이 열렸어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«여러 번 만나고도 이름을 헷갈렸어요.» — «Ko‘p marta uchrashib ham ismni chalkashtirdim.». Bu yerda «V-고도» qolipi ishlatilgan: ...ib ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«다른 언어가 궁금하던 차에 수업이 열렸어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tadbirga tayyorlanayotganda yaxshi taklif oldik.",
+        "Boshqa tilga qiziqib turganimda dars ochildi.",
+        "Ko‘p marta uchrashib ham ismni chalkashtirdim.",
+        "Izohni eshitib ham tushunmadim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«다른 언어가 궁금하던 차에 수업이 열렸어요.» — «Boshqa tilga qiziqib turganimda dars ochildi.». Bu yerda «A/V-던 차에[차이다]» qolipi ishlatilgan: ... paytda aynan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Birga ishlab ham bir-birimiz tajribasini bilmadik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "자료를 찾던 차에 새 이웃을 만났어요.",
+        "다른 언어가 궁금하던 차에 수업이 열렸어요.",
+        "행사를 준비하던 차에 좋은 제안을 받았어요.",
+        "함께 일하고도 서로의 경험을 몰랐어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«함께 일하고도 서로의 경험을 몰랐어요.» — «Birga ishlab ham bir-birimiz tajribasini bilmadik.». Bu yerda «V-고도» qolipi ishlatilgan: ...ib ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «참가자를 찾던 차에 이웃의 연락을 받았어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Anchadan beri tanish bo‘lsak ham uning tilini bilmagan ekanman.",
+        "Turli tajribalarni o‘z holicha yozaman.",
+        "Ishtirokchi izlayotganimda qo‘shni bog‘landi.",
+        "Avval u o‘zini qanday tanishtirishni istashini so‘radim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «참가자를 찾던 차에 이웃의 연락을 받았어요.» deydi. Ma’nosi: «Ishtirokchi izlayotganimda qo‘shni bog‘landi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오래 알고 지내고도 그분의 언어를 몰랐어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval u o‘zini qanday tanishtirishni istashini so‘radim.",
+        "Anchadan beri tanish bo‘lsak ham uning tilini bilmagan ekanman.",
+        "Turli tajribalarni o‘z holicha yozaman.",
+        "Ishtirokchi izlayotganimda qo‘shni bog‘landi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «오래 알고 지내고도 그분의 언어를 몰랐어요.» deydi. Ma’nosi: «Anchadan beri tanish bo‘lsak ham uning tilini bilmagan ekanman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «먼저 본인이 어떻게 소개되길 원하는지 물었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Anchadan beri tanish bo‘lsak ham uning tilini bilmagan ekanman.",
+        "Turli tajribalarni o‘z holicha yozaman.",
+        "Ishtirokchi izlayotganimda qo‘shni bog‘landi.",
+        "Avval u o‘zini qanday tanishtirishni istashini so‘radim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «먼저 본인이 어떻게 소개되길 원하는지 물었어요.» deydi. Ma’nosi: «Avval u o‘zini qanday tanishtirishni istashini so‘radim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로 다른 경험을 그대로 기록할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Turli tajribalarni o‘z holicha yozaman.",
+        "Avval u o‘zini qanday tanishtirishni istashini so‘radim.",
+        "Ishtirokchi izlayotganimda qo‘shni bog‘landi.",
+        "Anchadan beri tanish bo‘lsak ham uning tilini bilmagan ekanman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «서로 다른 경험을 그대로 기록할게요.» deydi. Ma’nosi: «Turli tajribalarni o‘z holicha yozaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «오래 알고 지내고도 그분의 언어를 몰랐어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Anchadan beri tanish bo‘lsak ham uning tilini bilmagan ekanman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «서로 다른 경험을 그대로 기록할게요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Turli tajribalarni o‘z holicha yozaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

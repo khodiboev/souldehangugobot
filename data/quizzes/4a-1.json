@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«적성» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ishontirish qobiliyati",
+        "qobiliyat",
+        "tabiiy moyillik",
+        "iste’dod"
+      ],
+      "correctIndex": 2,
+      "explanation": "«적성» — «tabiiy moyillik». Bu so‘z darsdagi «Qobiliyat va moyillik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«kuchli tomon» koreyschada qaysi so‘z?",
+      "options": [
+        "장점",
+        "책임감",
+        "능력",
+        "적성"
+      ],
+      "correctIndex": 0,
+      "explanation": "«장점» — «kuchli tomon». Bu so‘z darsdagi «Qobiliyat va moyillik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«설득력» so‘zining ma’nosi qaysi?",
+      "options": [
+        "iste’dod",
+        "kuchli tomon",
+        "ishontirish qobiliyati",
+        "tabiiy moyillik"
+      ],
+      "correctIndex": 2,
+      "explanation": "«설득력» — «ishontirish qobiliyati». Bu so‘z darsdagi «Qobiliyat va moyillik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«mutaxassislik» koreyschada qaysi so‘z?",
+      "options": [
+        "결정하다",
+        "살리다",
+        "전공",
+        "상담하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전공» — «mutaxassislik». Bu so‘z darsdagi «Kasb yo‘li» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«상담하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maslahatlashmoq",
+        "qaror qilmoq",
+        "ishga solmoq, rivojlantirmoq",
+        "kasbiy yo‘l"
+      ],
+      "correctIndex": 0,
+      "explanation": "«상담하다» — «maslahatlashmoq». Bu so‘z darsdagi «Kasb yo‘li» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qaror qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "살리다",
+        "결정하다",
+        "진로",
+        "적응하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«결정하다» — «qaror qilmoq». Bu so‘z darsdagi «Kasb yo‘li» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-다면서(요)? · V-ㄴ/는다면서(요)?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilaverilsa, bora-bora",
+        "Asosiy jihat shuki",
+        "Eshitdim, shundaymi?",
+        "...ganidek / ...ga muvofiq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-다면서(요)? · V-ㄴ/는다면서(요)?» — Eshitdim, shundaymi?. 다면서요 — eshitilgan xabar yoniga qo‘yilgan tasdiq belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-다 보면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilaverilsa, bora-bora",
+        "Eshitdim, shundaymi?",
+        "Asosiy jihat shuki",
+        "...ganidek / ...ga muvofiq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-다 보면» — Qilaverilsa, bora-bora. Takrorlangan kichik qadamlar oxirida paydo bo‘lgan katta o‘zgarish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N은/는 A-다는 것이다[점이다] · V-ㄴ/는다는 것이다[점이다]» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilaverilsa, bora-bora",
+        "...ganidek / ...ga muvofiq",
+        "Asosiy jihat shuki",
+        "Eshitdim, shundaymi?"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N은/는 A-다는 것이다[점이다] · V-ㄴ/는다는 것이다[점이다]» — Asosiy jihat shuki. Uzun tushuntirish oxirida marker bilan chizilgan asosiy satr.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«V-는 대로 · N대로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilaverilsa, bora-bora",
+        "Eshitdim, shundaymi?",
+        "Asosiy jihat shuki",
+        "...ganidek / ...ga muvofiq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-는 대로 · N대로» — ...ganidek / ...ga muvofiq. 대로 — nusxa ko‘chirgich: ko‘rsatmani shaklini o‘zgartirmay bajaradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«한국학과에 합격했다면서요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Mutaxassislikni o‘qiyversangiz ishonch paydo bo‘ladi.",
+        "Turli ishlarni qilib ko‘raverib moyilligingizni bilib olasiz.",
+        "Koreyashunoslikka kiribsiz deb eshitdim, rostmi?",
+        "Bu kasbning xususiyati ko‘p odam uchratishdir."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한국학과에 합격했다면서요?» — «Koreyashunoslikka kiribsiz deb eshitdim, rostmi?». Bu yerda «A-다면서(요)? · V-ㄴ/는다면서(요)?» qolipi ishlatilgan: Eshitdim, shundaymi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Turli ishlarni qilib ko‘raverib moyilligingizni bilib olasiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "선생님이 조언하는 대로 해 보세요.",
+        "제 장점은 책임감이 강하다는 점입니다.",
+        "여러 일을 해 보다 보면 적성을 알게 돼요.",
+        "계획대로 전공을 선택했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«여러 일을 해 보다 보면 적성을 알게 돼요.» — «Turli ishlarni qilib ko‘raverib moyilligingizni bilib olasiz.». Bu yerda «V-다 보면» qolipi ishlatilgan: Qilaverilsa, bora-bora.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«제 장점은 책임감이 강하다는 점입니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Turli ishlarni qilib ko‘raverib moyilligingizni bilib olasiz.",
+        "Ustoz maslahat berganidek qilib ko‘ring.",
+        "Mening kuchli jihatim mas’uliyatim kuchli ekanidir.",
+        "Mutaxassislikni o‘qiyversangiz ishonch paydo bo‘ladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«제 장점은 책임감이 강하다는 점입니다.» — «Mening kuchli jihatim mas’uliyatim kuchli ekanidir.». Bu yerda «N은/는 A-다는 것이다[점이다] · V-ㄴ/는다는 것이다[점이다]» qolipi ishlatilgan: Asosiy jihat shuki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Ustoz maslahat berganidek qilib ko‘ring.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "계획대로 전공을 선택했어요.",
+        "선생님이 조언하는 대로 해 보세요.",
+        "전공 공부를 하다 보면 자신감이 생겨요.",
+        "새 전공이 재미있다면서요?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«선생님이 조언하는 대로 해 보세요.» — «Ustoz maslahat berganidek qilib ko‘ring.». Bu yerda «V-는 대로 · N대로» qolipi ishlatilgan: ...ganidek / ...ga muvofiq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 통역 대회에 나간다면서요? 소문이 빨라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tarjima tanloviga qatnashar ekanman deb eshitdingizmi? Gap tez tarqalibdi.",
+        "Kuchli tomonim ishni oxirigacha mas’uliyat bilan bajarishimdir.",
+        "Shu kuchli tomoningizni ishga solib, reja bo‘yicha tayyorlaning.",
+        "Mashq qilaversangiz mahoratingiz oshadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «제가 통역 대회에 나간다면서요? 소문이 빨라요.» deydi. Ma’nosi: «Tarjima tanloviga qatnashar ekanman deb eshitdingizmi? Gap tez tarqalibdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «연습하다 보면 실력이 더 좋아질 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tarjima tanloviga qatnashar ekanman deb eshitdingizmi? Gap tez tarqalibdi.",
+        "Kuchli tomonim ishni oxirigacha mas’uliyat bilan bajarishimdir.",
+        "Mashq qilaversangiz mahoratingiz oshadi.",
+        "Shu kuchli tomoningizni ishga solib, reja bo‘yicha tayyorlaning."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «연습하다 보면 실력이 더 좋아질 거예요.» deydi. Ma’nosi: «Mashq qilaversangiz mahoratingiz oshadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제 장점은 끝까지 책임진다는 점이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shu kuchli tomoningizni ishga solib, reja bo‘yicha tayyorlaning.",
+        "Kuchli tomonim ishni oxirigacha mas’uliyat bilan bajarishimdir.",
+        "Mashq qilaversangiz mahoratingiz oshadi.",
+        "Tarjima tanloviga qatnashar ekanman deb eshitdingizmi? Gap tez tarqalibdi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «제 장점은 끝까지 책임진다는 점이에요.» deydi. Ma’nosi: «Kuchli tomonim ishni oxirigacha mas’uliyat bilan bajarishimdir.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그 장점을 살려서 계획대로 준비하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tarjima tanloviga qatnashar ekanman deb eshitdingizmi? Gap tez tarqalibdi.",
+        "Mashq qilaversangiz mahoratingiz oshadi.",
+        "Shu kuchli tomoningizni ishga solib, reja bo‘yicha tayyorlaning.",
+        "Kuchli tomonim ishni oxirigacha mas’uliyat bilan bajarishimdir."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «그 장점을 살려서 계획대로 준비하세요.» deydi. Ma’nosi: «Shu kuchli tomoningizni ishga solib, reja bo‘yicha tayyorlaning.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «제 장점은 끝까지 책임진다는 점이에요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Kuchli tomonim ishni oxirigacha mas’uliyat bilan bajarishimdir.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그 장점을 살려서 계획대로 준비하세요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Shu kuchli tomoningizni ishga solib, reja bo‘yicha tayyorlaning.».",
+      "reviewSection": "s"
+    }
+  ]
+}

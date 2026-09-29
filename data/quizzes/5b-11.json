@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«한강» so‘zining ma’nosi qaysi?",
+      "options": [
+        "Han daryosi",
+        "shaharlashuv",
+        "sanoat",
+        "qatnov"
+      ],
+      "correctIndex": 0,
+      "explanation": "«한강» — «Han daryosi». Bu so‘z darsdagi «Tarix va daryo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«qatnov» koreyschada qaysi so‘z?",
+      "options": [
+        "한강",
+        "역사",
+        "산업",
+        "교통"
+      ],
+      "correctIndex": 3,
+      "explanation": "«교통» — «qatnov». Bu so‘z darsdagi «Tarix va daryo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«도시화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sanoat",
+        "daryo",
+        "shaharlashuv",
+        "qatnov"
+      ],
+      "correctIndex": 2,
+      "explanation": "«도시화» — «shaharlashuv». Bu so‘z darsdagi «Tarix va daryo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«manba, ma’lumot» koreyschada qaysi so‘z?",
+      "options": [
+        "설명하다",
+        "보존",
+        "시대",
+        "자료"
+      ],
+      "correctIndex": 3,
+      "explanation": "«자료» — «manba, ma’lumot». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«발전» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tushuntirmoq",
+        "asrash",
+        "rivojlanish",
+        "o‘zgarish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«발전» — «rivojlanish». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tushuntirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "설명하다",
+        "보존",
+        "발전",
+        "자료"
+      ],
+      "correctIndex": 0,
+      "explanation": "«설명하다» — «tushuntirmoq». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N을/를 바탕으로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yuqorida ko‘rganimizdek",
+        "...gani oqibatida",
+        "Oxir-oqibat ... qilib qo‘ymoq",
+        "Nga tayangan holda"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N을/를 바탕으로» — Nga tayangan holda. Bino tagidagi poydevor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-고 말다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Oxir-oqibat ... qilib qo‘ymoq",
+        "Nga tayangan holda",
+        "Yuqorida ko‘rganimizdek",
+        "Boshqaning jihatini tan olish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-고 말다» — Oxir-oqibat ... qilib qo‘ymoq. To‘xtatmoqchi bo‘lsangiz ham yuz bergan yakun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«이상에서 본 바와 같이» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yuqorida ko‘rganimizdek",
+        "Oxir-oqibat ... qilib qo‘ymoq",
+        "Nga tayangan holda",
+        "Ndan qat’i nazar"
+      ],
+      "correctIndex": 0,
+      "explanation": "«이상에서 본 바와 같이» — Yuqorida ko‘rganimizdek. Taqdimot so‘ngida oldingi slaydlarga qaytish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«옛 지도를 바탕으로 강의 변화를 설명해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Eski xaritaga tayanib daryo o‘zgarishini tushuntiramiz.",
+        "Bir necha manbaga tayanib taqdimot tayyorladim.",
+        "Oxiri taqdimotni tugatdim-ku.",
+        "Manbani tekshirmay sanani xato yozib qo‘ydim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«옛 지도를 바탕으로 강의 변화를 설명해요.» — «Eski xaritaga tayanib daryo o‘zgarishini tushuntiramiz.». Bu yerda «N을/를 바탕으로» qolipi ishlatilgan: Nga tayangan holda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Manbani tekshirmay sanani xato yozib qo‘ydim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이상에서 본 바와 같이, 보존과 개발을 함께 생각해야 해요.",
+        "결국 발표를 끝내고 말았어요.",
+        "자료를 확인하지 않아 날짜를 틀리고 말았어요.",
+        "여러 자료를 바탕으로 발표를 준비했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«자료를 확인하지 않아 날짜를 틀리고 말았어요.» — «Manbani tekshirmay sanani xato yozib qo‘ydim.». Bu yerda «V-고 말다» qolipi ishlatilgan: Oxir-oqibat ... qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«이상에서 본 바와 같이, 강 주변의 모습은 시대에 따라 달라졌어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yuqorida ko‘rganimizdek, daryo atrofi davrga qarab o‘zgargan.",
+        "Intervyuga tayanib maqola yozdim.",
+        "Eski xaritaga tayanib daryo o‘zgarishini tushuntiramiz.",
+        "Eski suratni yo‘qotib qo‘ydim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이상에서 본 바와 같이, 강 주변의 모습은 시대에 따라 달라졌어요.» — «Yuqorida ko‘rganimizdek, daryo atrofi davrga qarab o‘zgargan.». Bu yerda «이상에서 본 바와 같이» qolipi ishlatilgan: Yuqorida ko‘rganimizdek.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Intervyuga tayanib maqola yozdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "옛 지도를 바탕으로 강의 변화를 설명해요.",
+        "결국 발표를 끝내고 말았어요.",
+        "인터뷰를 바탕으로 기사를 썼어요.",
+        "이상에서 본 바와 같이, 보존과 개발을 함께 생각해야 해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«인터뷰를 바탕으로 기사를 썼어요.» — «Intervyuga tayanib maqola yozdim.». Bu yerda «N을/를 바탕으로» qolipi ishlatilgan: Nga tayangan holda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«오래된 사진을 잃어버리고 말았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Intervyuga tayanib maqola yozdim.",
+        "Bir necha manbaga tayanib taqdimot tayyorladim.",
+        "Eski suratni yo‘qotib qo‘ydim.",
+        "Ko‘rganimizdek, eski va yangi xarita farq qiladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«오래된 사진을 잃어버리고 말았어요.» — «Eski suratni yo‘qotib qo‘ydim.». Bu yerda «V-고 말다» qolipi ishlatilgan: Oxir-oqibat ... qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «옛 사진을 바탕으로 강 주변을 비교해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir suratni yo‘qotib qo‘ydim.",
+        "Yuqorida ko‘rganimizdek, qaydlarni asrash muhim.",
+        "Eski suratga tayanib daryo atrofi bilan solishtiraylik.",
+        "Nusxasi bor. Qayta tekshiraylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «옛 사진을 바탕으로 강 주변을 비교해요.» deydi. Ma’nosi: «Eski suratga tayanib daryo atrofi bilan solishtiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 장을 잃어버리고 말았어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yuqorida ko‘rganimizdek, qaydlarni asrash muhim.",
+        "Nusxasi bor. Qayta tekshiraylik.",
+        "Eski suratga tayanib daryo atrofi bilan solishtiraylik.",
+        "Bir suratni yo‘qotib qo‘ydim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «한 장을 잃어버리고 말았어요.» deydi. Ma’nosi: «Bir suratni yo‘qotib qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «복사본이 있어요. 다시 확인해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Eski suratga tayanib daryo atrofi bilan solishtiraylik.",
+        "Yuqorida ko‘rganimizdek, qaydlarni asrash muhim.",
+        "Nusxasi bor. Qayta tekshiraylik.",
+        "Bir suratni yo‘qotib qo‘ydim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «복사본이 있어요. 다시 확인해요.» deydi. Ma’nosi: «Nusxasi bor. Qayta tekshiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이상에서 본 바와 같이, 기록을 보존하는 일이 중요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Eski suratga tayanib daryo atrofi bilan solishtiraylik.",
+        "Bir suratni yo‘qotib qo‘ydim.",
+        "Nusxasi bor. Qayta tekshiraylik.",
+        "Yuqorida ko‘rganimizdek, qaydlarni asrash muhim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «이상에서 본 바와 같이, 기록을 보존하는 일이 중요해요.» deydi. Ma’nosi: «Yuqorida ko‘rganimizdek, qaydlarni asrash muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «한 장을 잃어버리고 말았어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bir suratni yo‘qotib qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «이상에서 본 바와 같이, 기록을 보존하는 일이 중요해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Yuqorida ko‘rganimizdek, qaydlarni asrash muhim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

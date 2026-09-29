@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«극복» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ishonch",
+        "muvaffaqiyatsizlik",
+        "og‘ir sinov",
+        "yengib o‘tish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«극복» — «yengib o‘tish». Bu so‘z darsdagi «Qiyinchilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«muvaffaqiyatsizlik» koreyschada qaysi so‘z?",
+      "options": [
+        "시련",
+        "극복",
+        "희망",
+        "실패"
+      ],
+      "correctIndex": 3,
+      "explanation": "«실패» — «muvaffaqiyatsizlik». Bu so‘z darsdagi «Qiyinchilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«믿음» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tiklanish",
+        "ishonch",
+        "muvaffaqiyatsizlik",
+        "umid"
+      ],
+      "correctIndex": 1,
+      "explanation": "«믿음» — «ishonch». Bu so‘z darsdagi «Qiyinchilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«shamol» koreyschada qaysi so‘z?",
+      "options": [
+        "뿌리",
+        "바람",
+        "흔들리다",
+        "피다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«바람» — «shamol». Bu so‘z darsdagi «Tasvir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«흔들리다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "gullamoq",
+        "tebranmoq",
+        "bardosh bermoq",
+        "ildiz"
+      ],
+      "correctIndex": 1,
+      "explanation": "«흔들리다» — «tebranmoq». Bu so‘z darsdagi «Tasvir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«bardosh bermoq» koreyschada qaysi so‘z?",
+      "options": [
+        "견디다",
+        "꽃",
+        "흔들리다",
+        "피다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«견디다» — «bardosh bermoq». Bu so‘z darsdagi «Tasvir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ지라도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham",
+        "N u yoqda tursin",
+        "...ish degani",
+        "... ekan / ... davom etgan muddatda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-(으)ㄹ지라도» — ...sa ham. Shamolda egilsa ham sinmaydigan shox.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-는 한» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishi bilan",
+        "... ekan / ... davom etgan muddatda",
+        "Ko‘pincha ... qilib qo‘ymoq",
+        "...sa ham"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-는 한» — ... ekan / ... davom etgan muddatda. Shart bajarilib turgancha yonadigan chiroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«길이 어려울지라도 계속 걸어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bir-birimizga yordam berar ekanmiz qayta boshlay olamiz.",
+        "Yo‘l qiyin bo‘lsa ham yurishda davom etamiz.",
+        "Gul kech ochilsa ham kutaman.",
+        "Muvaffaqiyatsizlik bo‘lsa ham qayta o‘rganaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«길이 어려울지라도 계속 걸어요.» — «Yo‘l qiyin bo‘lsa ham yurishda davom etamiz.». Bu yerda «A/V-(으)ㄹ지라도» qolipi ishlatilgan: ...sa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Bir-birimizga yordam berar ekanmiz qayta boshlay olamiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "계속 연습하는 한 조금씩 늘 거예요.",
+        "서로 돕는 한 다시 시작할 수 있어요.",
+        "길이 어려울지라도 계속 걸어요.",
+        "실패할지라도 다시 배우겠어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«서로 돕는 한 다시 시작할 수 있어요.» — «Bir-birimizga yordam berar ekanmiz qayta boshlay olamiz.». Bu yerda «V-는 한» qolipi ishlatilgan: ... ekan / ... davom etgan muddatda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«실패할지라도 다시 배우겠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Taslim bo‘lmas ekanmiz imkon qoladi.",
+        "Bir-birimizga yordam berar ekanmiz qayta boshlay olamiz.",
+        "Yo‘l qiyin bo‘lsa ham yurishda davom etamiz.",
+        "Muvaffaqiyatsizlik bo‘lsa ham qayta o‘rganaman."
+      ],
+      "correctIndex": 3,
+      "explanation": "«실패할지라도 다시 배우겠어요.» — «Muvaffaqiyatsizlik bo‘lsa ham qayta o‘rganaman.». Bu yerda «A/V-(으)ㄹ지라도» qolipi ishlatilgan: ...sa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Taslim bo‘lmas ekanmiz imkon qoladi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "길이 어려울지라도 계속 걸어요.",
+        "포기하지 않는 한 기회는 남아 있어요.",
+        "꽃이 늦게 필지라도 기다릴게요.",
+        "계속 연습하는 한 조금씩 늘 거예요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«포기하지 않는 한 기회는 남아 있어요.» — «Taslim bo‘lmas ekanmiz imkon qoladi.». Bu yerda «V-는 한» qolipi ishlatilgan: ... ekan / ... davom etgan muddatda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«꽃이 늦게 필지라도 기다릴게요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yo‘l qiyin bo‘lsa ham yurishda davom etamiz.",
+        "Mashqni davom ettirar ekanmiz oz-ozdan o‘samiz.",
+        "Gul kech ochilsa ham kutaman.",
+        "Bir-birimizga yordam berar ekanmiz qayta boshlay olamiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "«꽃이 늦게 필지라도 기다릴게요.» — «Gul kech ochilsa ham kutaman.». Bu yerda «A/V-(으)ㄹ지라도» qolipi ishlatilgan: ...sa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Mashqni davom ettirar ekanmiz oz-ozdan o‘samiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "포기하지 않는 한 기회는 남아 있어요.",
+        "실패할지라도 다시 배우겠어요.",
+        "서로 돕는 한 다시 시작할 수 있어요.",
+        "계속 연습하는 한 조금씩 늘 거예요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«계속 연습하는 한 조금씩 늘 거예요.» — «Mashqni davom ettirar ekanmiz oz-ozdan o‘samiz.». Bu yerda «V-는 한» qolipi ishlatilgan: ... ekan / ... davom etgan muddatda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «반응이 적을지라도 계속 만들겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu safar manbani ekranga yozaylik.",
+        "Kichik o‘zgarish keyingi imkonni yaratadi.",
+        "Fikrlar kam bo‘lsa ham davom ettiraman.",
+        "Birga ko‘rib chiqar ekanmiz xatoni kamaytiramiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «반응이 적을지라도 계속 만들겠어요.» deydi. Ma’nosi: «Fikrlar kam bo‘lsa ham davom ettiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로 검토하는 한 실수를 줄일 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu safar manbani ekranga yozaylik.",
+        "Kichik o‘zgarish keyingi imkonni yaratadi.",
+        "Birga ko‘rib chiqar ekanmiz xatoni kamaytiramiz.",
+        "Fikrlar kam bo‘lsa ham davom ettiraman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «서로 검토하는 한 실수를 줄일 수 있어요.» deydi. Ma’nosi: «Birga ko‘rib chiqar ekanmiz xatoni kamaytiramiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이번에는 자료 출처를 화면에 적어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Birga ko‘rib chiqar ekanmiz xatoni kamaytiramiz.",
+        "Kichik o‘zgarish keyingi imkonni yaratadi.",
+        "Bu safar manbani ekranga yozaylik.",
+        "Fikrlar kam bo‘lsa ham davom ettiraman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «이번에는 자료 출처를 화면에 적어요.» deydi. Ma’nosi: «Bu safar manbani ekranga yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «작은 변화가 다음 기회를 만들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kichik o‘zgarish keyingi imkonni yaratadi.",
+        "Birga ko‘rib chiqar ekanmiz xatoni kamaytiramiz.",
+        "Fikrlar kam bo‘lsa ham davom ettiraman.",
+        "Bu safar manbani ekranga yozaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «작은 변화가 다음 기회를 만들어요.» deydi. Ma’nosi: «Kichik o‘zgarish keyingi imkonni yaratadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «서로 검토하는 한 실수를 줄일 수 있어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Birga ko‘rib chiqar ekanmiz xatoni kamaytiramiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «작은 변화가 다음 기회를 만들어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Kichik o‘zgarish keyingi imkonni yaratadi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

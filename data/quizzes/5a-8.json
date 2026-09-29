@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«응답» so‘zining ma’nosi qaysi?",
+      "options": [
+        "statistika",
+        "so‘rovnoma",
+        "javob",
+        "ulush"
+      ],
+      "correctIndex": 2,
+      "explanation": "«응답» — «javob». Bu so‘z darsdagi «So‘rov» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«moyillik, tendensiya» koreyschada qaysi so‘z?",
+      "options": [
+        "항목",
+        "설문",
+        "응답",
+        "경향"
+      ],
+      "correctIndex": 3,
+      "explanation": "«경향» — «moyillik, tendensiya». Bu so‘z darsdagi «So‘rov» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«항목» so‘zining ma’nosi qaysi?",
+      "options": [
+        "band",
+        "statistika",
+        "moyillik, tendensiya",
+        "javob"
+      ],
+      "correctIndex": 0,
+      "explanation": "«항목» — «band». Bu so‘z darsdagi «So‘rov» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«maqtov» koreyschada qaysi so‘z?",
+      "options": [
+        "격려",
+        "대화",
+        "칭찬",
+        "분담"
+      ],
+      "correctIndex": 2,
+      "explanation": "«칭찬» — «maqtov». Bu so‘z darsdagi «Oila hayoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«감사» so‘zining ma’nosi qaysi?",
+      "options": [
+        "minnatdorlik",
+        "suhbat",
+        "taqsimot",
+        "maqtov"
+      ],
+      "correctIndex": 0,
+      "explanation": "«감사» — «minnatdorlik». Bu so‘z darsdagi «Oila hayoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«taqsimot» koreyschada qaysi so‘z?",
+      "options": [
+        "칭찬",
+        "대화",
+        "분담",
+        "감사"
+      ],
+      "correctIndex": 2,
+      "explanation": "«분담» — «taqsimot». Bu so‘z darsdagi «Oila hayoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 응답이 N에 달하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Atigi Nda to‘xtamoq",
+        "Nni N sifatida ko‘rsatmoq",
+        "Javob N miqdorga yetdi",
+        "...ishga moyillik ko‘rsatmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-다는 응답이 N에 달하다» — Javob N miqdorga yetdi. So‘rov ustunining balandligi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N은/는 N에 그치다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Javob N miqdorga yetdi",
+        "...ishga moyillik ko‘rsatmoq",
+        "...gani uchun, marhamat",
+        "Atigi Nda to‘xtamoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N은/는 N에 그치다» — Atigi Nda to‘xtamoq. O‘sishi kutilgan ustunning pastda to‘xtashi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-는 경향을 보이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ga nisbatan",
+        "...ishga moyillik ko‘rsatmoq",
+        "Javob N miqdorga yetdi",
+        "Atigi Nda to‘xtamoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-는 경향을 보이다» — ...ishga moyillik ko‘rsatmoq. Grafikdagi bitta nuqta emas, butun chiziq yo‘nalishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«대화가 중요하다는 응답이 70퍼센트에 달했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Erkaklarning javobi atigi o‘n kishi bilan cheklangan.",
+        "Suhbat muhim degan javob 70 foizga yetdi.",
+        "Yoshlar xabar yozishga moyillik ko‘rsatadi.",
+        "Respondentlar ko‘proq minnatdorlik eshitishni istashga moyil."
+      ],
+      "correctIndex": 1,
+      "explanation": "«대화가 중요하다는 응답이 70퍼센트에 달했어요.» — «Suhbat muhim degan javob 70 foizga yetdi.». Bu yerda «A/V-다는 응답이 N에 달하다» qolipi ishlatilgan: Javob N miqdorga yetdi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Erkaklarning javobi atigi o‘n kishi bilan cheklangan.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가족들은 식사 중에 대화하는 경향을 보였어요.",
+        "젊은 층은 문자를 자주 쓰는 경향을 보여요.",
+        "첫날 참여자는 스무 명에 그쳤습니다.",
+        "남성의 응답은 열 명에 그쳤어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«남성의 응답은 열 명에 그쳤어요.» — «Erkaklarning javobi atigi o‘n kishi bilan cheklangan.». Bu yerda «N은/는 N에 그치다» qolipi ishlatilgan: Atigi Nda to‘xtamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«젊은 층은 문자를 자주 쓰는 경향을 보여요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Oilalar ovqat payti suhbatlashish tendensiyasini ko‘rsatdi.",
+        "Birinchi kun qatnashchilar atigi yigirma kishi bo‘ldi.",
+        "Maqtov kerak degan javob yarmiga yetdi.",
+        "Yoshlar xabar yozishga moyillik ko‘rsatadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«젊은 층은 문자를 자주 쓰는 경향을 보여요.» — «Yoshlar xabar yozishga moyillik ko‘rsatadi.». Bu yerda «V-는 경향을 보이다» qolipi ishlatilgan: ...ishga moyillik ko‘rsatmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Maqtov kerak degan javob yarmiga yetdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "칭찬이 필요하다는 응답이 절반에 달했어요.",
+        "첫날 참여자는 스무 명에 그쳤습니다.",
+        "대화가 중요하다는 응답이 70퍼센트에 달했어요.",
+        "남성의 응답은 열 명에 그쳤어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«칭찬이 필요하다는 응답이 절반에 달했어요.» — «Maqtov kerak degan javob yarmiga yetdi.». Bu yerda «A/V-다는 응답이 N에 달하다» qolipi ishlatilgan: Javob N miqdorga yetdi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«긍정적인 평가는 전체의 삼 분의 일에 그쳤어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ijobiy baho jami uchdan bir qismda to‘xtadi.",
+        "Birinchi kun qatnashchilar atigi yigirma kishi bo‘ldi.",
+        "Erkaklarning javobi atigi o‘n kishi bilan cheklangan.",
+        "Maqtov kerak degan javob yarmiga yetdi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«긍정적인 평가는 전체의 삼 분의 일에 그쳤어요.» — «Ijobiy baho jami uchdan bir qismda to‘xtadi.». Bu yerda «N은/는 N에 그치다» qolipi ishlatilgan: Atigi Nda to‘xtamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «고맙다는 말을 원한다는 응답이 절반에 달했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qiziqmayman deganlar nechta?",
+        "Rahmat eshitishni istagan javoblar yarmiga yetdi.",
+        "Odamlar kichik maqtovni uzoq eslab qolishga moyil.",
+        "Atigi o‘n kishi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «고맙다는 말을 원한다는 응답이 절반에 달했어요.» deydi. Ma’nosi: «Rahmat eshitishni istagan javoblar yarmiga yetdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «관심 없다는 답은 몇 명이에요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Atigi o‘n kishi.",
+        "Rahmat eshitishni istagan javoblar yarmiga yetdi.",
+        "Odamlar kichik maqtovni uzoq eslab qolishga moyil.",
+        "Qiziqmayman deganlar nechta?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «관심 없다는 답은 몇 명이에요?» deydi. Ma’nosi: «Qiziqmayman deganlar nechta?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «열 명에 그쳤어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Rahmat eshitishni istagan javoblar yarmiga yetdi.",
+        "Qiziqmayman deganlar nechta?",
+        "Odamlar kichik maqtovni uzoq eslab qolishga moyil.",
+        "Atigi o‘n kishi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «열 명에 그쳤어요.» deydi. Ma’nosi: «Atigi o‘n kishi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람들은 작은 칭찬을 오래 기억하는 경향을 보여요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Rahmat eshitishni istagan javoblar yarmiga yetdi.",
+        "Odamlar kichik maqtovni uzoq eslab qolishga moyil.",
+        "Atigi o‘n kishi.",
+        "Qiziqmayman deganlar nechta?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «사람들은 작은 칭찬을 오래 기억하는 경향을 보여요.» deydi. Ma’nosi: «Odamlar kichik maqtovni uzoq eslab qolishga moyil.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «관심 없다는 답은 몇 명이에요?» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Qiziqmayman deganlar nechta?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «사람들은 작은 칭찬을 오래 기억하는 경향을 보여요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Odamlar kichik maqtovni uzoq eslab qolishga moyil.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«거리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bozor",
+        "maydon",
+        "Seul",
+        "ko‘cha"
+      ],
+      "correctIndex": 3,
+      "explanation": "«거리» — «ko‘cha». Bu so‘z darsdagi «Shahar bo‘ylab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«bozor» koreyschada qaysi so‘z?",
+      "options": [
+        "골목",
+        "관광지",
+        "시장",
+        "광장"
+      ],
+      "correctIndex": 2,
+      "explanation": "«시장» — «bozor». Bu so‘z darsdagi «Shahar bo‘ylab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«관광지» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘cha",
+        "maydon",
+        "sayyohlik joyi",
+        "Seul"
+      ],
+      "correctIndex": 2,
+      "explanation": "«관광지» — «sayyohlik joyi». Bu so‘z darsdagi «Shahar bo‘ylab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«surat» koreyschada qaysi so‘z?",
+      "options": [
+        "눈길",
+        "풍경",
+        "사진",
+        "지도"
+      ],
+      "correctIndex": 2,
+      "explanation": "«사진» — «surat». Bu so‘z darsdagi «Sayr» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«추천하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tavsiya qilmoq",
+        "xarita",
+        "e’tibor, nigoh",
+        "sayr qilmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«추천하다» — «tavsiya qilmoq». Bu so‘z darsdagi «Sayr» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«e’tibor, nigoh» koreyschada qaysi so‘z?",
+      "options": [
+        "산책하다",
+        "사진",
+        "눈길",
+        "풍경"
+      ],
+      "correctIndex": 2,
+      "explanation": "«눈길» — «e’tibor, nigoh». Bu so‘z darsdagi «Sayr» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-다고 해도 과언이 아니다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N e’tiborni tortmoq",
+        "Desak mubolag‘a bo‘lmaydi",
+        "Ham ... ham ... niyatida",
+        "Shunday bo‘lsa kerak deb"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-다고 해도 과언이 아니다» — Desak mubolag‘a bo‘lmaydi. Katta xulosa ostiga qo‘yilgan dalil ustuni.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N이/가 눈길을 끌다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ham ... ham ... niyatida",
+        "Desak mubolag‘a bo‘lmaydi",
+        "N e’tiborni tortmoq",
+        "Boshqacha aytganda"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N이/가 눈길을 끌다» — N e’tiborni tortmoq. Nigohni o‘ziga tortgan yorqin nuqta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«(V-(으)ㄹ 겸) V-(으)ㄹ 겸 (해서)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Desak mubolag‘a bo‘lmaydi",
+        "N e’tiborni tortmoq",
+        "Ham ... ham ... niyatida",
+        "Qanday qilishga bog‘liq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«(V-(으)ㄹ 겸) V-(으)ㄹ 겸 (해서)» — Ham ... ham ... niyatida. Bitta sayr bilan ikki ishni bitirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«이 시장은 하루 종일 활기차다고 해도 과언이 아니에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tor ko‘chadagi kichik devor rasmi e’tiborni tortadi.",
+        "Maydonning kengligi e’tiborni tortadi.",
+        "Do‘stni ko‘rish ham ko‘chani aylanish ham uchun chiqdim.",
+        "Bu bozor kun bo‘yi gavjum desak mubolag‘a emas."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이 시장은 하루 종일 활기차다고 해도 과언이 아니에요.» — «Bu bozor kun bo‘yi gavjum desak mubolag‘a emas.». Bu yerda «A/V-다고 해도 과언이 아니다» qolipi ishlatilgan: Desak mubolag‘a bo‘lmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Tor ko‘chadagi kichik devor rasmi e’tiborni tortadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구도 만날 겸 골목도 볼 겸 나왔어요.",
+        "골목의 작은 벽화가 눈길을 끌어요.",
+        "지도를 살펴볼 겸 잠깐 쉴 겸 카페에 들어갔어요.",
+        "서울에는 다양한 거리가 모인다고 해도 과언이 아니에요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«골목의 작은 벽화가 눈길을 끌어요.» — «Tor ko‘chadagi kichik devor rasmi e’tiborni tortadi.». Bu yerda «N이/가 눈길을 끌다» qolipi ishlatilgan: N e’tiborni tortmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«사진도 찍을 겸 산책도 할 겸 시장에 갔어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suratga olish ham sayr qilish ham uchun bozorga bordik.",
+        "Bozordagi eski peshlavha diqqatni tortdi.",
+        "Do‘stni ko‘rish ham ko‘chani aylanish ham uchun chiqdim.",
+        "Maydonning kengligi e’tiborni tortadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사진도 찍을 겸 산책도 할 겸 시장에 갔어요.» — «Suratga olish ham sayr qilish ham uchun bozorga bordik.». Bu yerda «(V-(으)ㄹ 겸) V-(으)ㄹ 겸 (해서)» qolipi ishlatilgan: Ham ... ham ... niyatida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Bu tor ko‘cha shahar tarixini ko‘rsatadi desak mubolag‘a emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구도 만날 겸 골목도 볼 겸 나왔어요.",
+        "이 골목은 도시의 역사를 보여 준다고 해도 과언이 아니에요.",
+        "지도를 살펴볼 겸 잠깐 쉴 겸 카페에 들어갔어요.",
+        "사진도 찍을 겸 산책도 할 겸 시장에 갔어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«이 골목은 도시의 역사를 보여 준다고 해도 과언이 아니에요.» — «Bu tor ko‘cha shahar tarixini ko‘rsatadi desak mubolag‘a emas.». Bu yerda «A/V-다고 해도 과언이 아니다» qolipi ishlatilgan: Desak mubolag‘a bo‘lmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«시장의 오래된 간판이 눈길을 끌었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tor ko‘chadagi kichik devor rasmi e’tiborni tortadi.",
+        "Bozordagi eski peshlavha diqqatni tortdi.",
+        "Do‘stni ko‘rish ham ko‘chani aylanish ham uchun chiqdim.",
+        "Bu tor ko‘cha shahar tarixini ko‘rsatadi desak mubolag‘a emas."
+      ],
+      "correctIndex": 1,
+      "explanation": "«시장의 오래된 간판이 눈길을 끌었어요.» — «Bozordagi eski peshlavha diqqatni tortdi.». Bu yerda «N이/가 눈길을 끌다» qolipi ishlatilgan: N e’tiborni tortmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 거리는 작은 가게가 눈길을 끌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Unda borish yo‘lini ham maqolaga yozing.",
+        "Turli hikoyalar jamlanadigan joy desak mubolag‘a emas.",
+        "Bu ko‘chada kichik do‘konlar e’tiborni tortadi.",
+        "Surat ham intervyu ham uchun boraylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «이 거리는 작은 가게가 눈길을 끌어요.» deydi. Ma’nosi: «Bu ko‘chada kichik do‘konlar e’tiborni tortadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진도 찍을 겸 인터뷰도 할 겸 가요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu ko‘chada kichik do‘konlar e’tiborni tortadi.",
+        "Surat ham intervyu ham uchun boraylik.",
+        "Turli hikoyalar jamlanadigan joy desak mubolag‘a emas.",
+        "Unda borish yo‘lini ham maqolaga yozing."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «사진도 찍을 겸 인터뷰도 할 겸 가요.» deydi. Ma’nosi: «Surat ham intervyu ham uchun boraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다양한 이야기가 모이는 곳이라고 해도 과언이 아니에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Surat ham intervyu ham uchun boraylik.",
+        "Unda borish yo‘lini ham maqolaga yozing.",
+        "Turli hikoyalar jamlanadigan joy desak mubolag‘a emas.",
+        "Bu ko‘chada kichik do‘konlar e’tiborni tortadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «다양한 이야기가 모이는 곳이라고 해도 과언이 아니에요.» deydi. Ma’nosi: «Turli hikoyalar jamlanadigan joy desak mubolag‘a emas.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그러면 길 찾는 방법도 기사에 써요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Surat ham intervyu ham uchun boraylik.",
+        "Bu ko‘chada kichik do‘konlar e’tiborni tortadi.",
+        "Turli hikoyalar jamlanadigan joy desak mubolag‘a emas.",
+        "Unda borish yo‘lini ham maqolaga yozing."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «그러면 길 찾는 방법도 기사에 써요.» deydi. Ma’nosi: «Unda borish yo‘lini ham maqolaga yozing.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «사진도 찍을 겸 인터뷰도 할 겸 가요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Surat ham intervyu ham uchun boraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그러면 길 찾는 방법도 기사에 써요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Unda borish yo‘lini ham maqolaga yozing.».",
+      "reviewSection": "s"
+    }
+  ]
+}

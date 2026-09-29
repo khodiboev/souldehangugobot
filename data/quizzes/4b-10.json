@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«전설» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qadimiy hikoya",
+        "afsona",
+        "quritilgan xurmo",
+        "rivoyat"
+      ],
+      "correctIndex": 3,
+      "explanation": "«전설» — «rivoyat». Bu so‘z darsdagi «Hikoya va afsona» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«yo‘lbars» koreyschada qaysi so‘z?",
+      "options": [
+        "도깨비",
+        "신화",
+        "호랑이",
+        "전설"
+      ],
+      "correctIndex": 2,
+      "explanation": "«호랑이» — «yo‘lbars». Bu so‘z darsdagi «Hikoya va afsona» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«도깨비» so‘zining ma’nosi qaysi?",
+      "options": [
+        "rivoyat",
+        "qadimiy hikoya",
+        "quritilgan xurmo",
+        "koreys afsonaviy maxluqi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«도깨비» — «koreys afsonaviy maxluqi». Bu so‘z darsdagi «Hikoya va afsona» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«fe’l-atvor» koreyschada qaysi so‘z?",
+      "options": [
+        "겁이 많다",
+        "상상하다",
+        "주인공",
+        "성격"
+      ],
+      "correctIndex": 3,
+      "explanation": "«성격» — «fe’l-atvor». Bu so‘z darsdagi «Qahramon va xarakter» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«겁이 많다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘xshatmoq",
+        "qo‘rqoq bo‘lmoq",
+        "bosh qahramon",
+        "tasavvur qilmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«겁이 많다» — «qo‘rqoq bo‘lmoq». Bu so‘z darsdagi «Qahramon va xarakter» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tasavvur qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "상상하다",
+        "주인공",
+        "성격",
+        "겁이 많다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«상상하다» — «tasavvur qilmoq». Bu so‘z darsdagi «Qahramon va xarakter» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 리(가) 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bo‘lishi mumkin emas",
+        "...ammo",
+        "Qilishi bilanoq",
+        "...dan so‘ng / ...ichida"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-(으)ㄹ 리(가) 없다» — Bo‘lishi mumkin emas. Mantiq eshigidagi “kirish mumkin emas” belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-기(가) 무섭게» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishi bilanoq",
+        "...dan so‘ng / ...ichida",
+        "...ammo",
+        "Bo‘lishi mumkin emas"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-기(가) 무섭게» — Qilishi bilanoq. Birinchi eshik yopilishi bilan ikkinchisi ochiladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N 만에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishi bilanoq",
+        "Bo‘lishi mumkin emas",
+        "...ammo",
+        "...dan so‘ng / ...ichida"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N 만에» — ...dan so‘ng / ...ichida. Start va finish orasidagi sekundomer.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)나» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...dan so‘ng / ...ichida",
+        "Qilishi bilanoq",
+        "...ammo",
+        "Bo‘lishi mumkin emas"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)나» — ...ammo. Rasmiy matndagi burilish nuqtasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«그 착한 사람이 거짓말할 리가 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu rivoyat qisqa, ammo sabog‘i chuqur.",
+        "U mehribon odam yolg‘on gapirishi mumkin emas.",
+        "Besh yildan so‘ng yurtlik do‘stimni ko‘rdim.",
+        "Eshik ochilishi bilanoq yo‘lbars yugurib chiqdi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«그 착한 사람이 거짓말할 리가 없어요.» — «U mehribon odam yolg‘on gapirishi mumkin emas.». Bu yerda «A/V-(으)ㄹ 리(가) 없다» qolipi ishlatilgan: Bo‘lishi mumkin emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Hikoya tugashi bilanoq bolalar savol berdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 전설은 짧으나 교훈이 깊어요.",
+        "호랑이가 곶감을 무서워할 리가 없지요.",
+        "며칠 만에 새로운 전설을 만들었어요.",
+        "이야기가 끝나기가 무섭게 아이들이 질문했어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이야기가 끝나기가 무섭게 아이들이 질문했어요.» — «Hikoya tugashi bilanoq bolalar savol berdi.». Bu yerda «V-기(가) 무섭게» qolipi ishlatilgan: Qilishi bilanoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«한 시간 만에 이야기를 다 읽었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bir soat ichida hikoyani o‘qib tugatdim.",
+        "Eshik ochilishi bilanoq yo‘lbars yugurib chiqdi.",
+        "Qahramon qo‘rqdi, ammo oxirigacha yurdi.",
+        "Besh yildan so‘ng yurtlik do‘stimni ko‘rdim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«한 시간 만에 이야기를 다 읽었어요.» — «Bir soat ichida hikoyani o‘qib tugatdim.». Bu yerda «N 만에» qolipi ishlatilgan: ...dan so‘ng / ...ichida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bu rivoyat qisqa, ammo sabog‘i chuqur.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "한 시간 만에 이야기를 다 읽었어요.",
+        "이야기가 사실일 리는 없지만 재미있어요.",
+        "이 전설은 짧으나 교훈이 깊어요.",
+        "소식을 듣기가 무섭게 친구에게 전화했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«이 전설은 짧으나 교훈이 깊어요.» — «Bu rivoyat qisqa, ammo sabog‘i chuqur.». Bu yerda «A/V-(으)나» qolipi ishlatilgan: ...ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 시간 만에 새 이야기를 썼어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Afsonaviy maxluq qo‘rqoq bo‘lishi mumkin emas-ku?",
+        "Bir soatda yangi hikoya yozdim.",
+        "O‘qishim bilanoq bolalar kuldi.",
+        "Kuchlidek ko‘rinadi, ammo aslida kichik tovushdan ham qo‘rqadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «한 시간 만에 새 이야기를 썼어요.» deydi. Ma’nosi: «Bir soatda yangi hikoya yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «도깨비가 겁이 많을 리가 없는데요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Kuchlidek ko‘rinadi, ammo aslida kichik tovushdan ham qo‘rqadi.",
+        "O‘qishim bilanoq bolalar kuldi.",
+        "Afsonaviy maxluq qo‘rqoq bo‘lishi mumkin emas-ku?",
+        "Bir soatda yangi hikoya yozdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «도깨비가 겁이 많을 리가 없는데요?» deydi. Ma’nosi: «Afsonaviy maxluq qo‘rqoq bo‘lishi mumkin emas-ku?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «강해 보이나 사실은 작은 소리도 무서워해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Afsonaviy maxluq qo‘rqoq bo‘lishi mumkin emas-ku?",
+        "Kuchlidek ko‘rinadi, ammo aslida kichik tovushdan ham qo‘rqadi.",
+        "Bir soatda yangi hikoya yozdim.",
+        "O‘qishim bilanoq bolalar kuldi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «강해 보이나 사실은 작은 소리도 무서워해요.» deydi. Ma’nosi: «Kuchlidek ko‘rinadi, ammo aslida kichik tovushdan ham qo‘rqadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «읽기가 무섭게 아이들이 웃었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Afsonaviy maxluq qo‘rqoq bo‘lishi mumkin emas-ku?",
+        "O‘qishim bilanoq bolalar kuldi.",
+        "Kuchlidek ko‘rinadi, ammo aslida kichik tovushdan ham qo‘rqadi.",
+        "Bir soatda yangi hikoya yozdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «읽기가 무섭게 아이들이 웃었어요.» deydi. Ma’nosi: «O‘qishim bilanoq bolalar kuldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «강해 보이나 사실은 작은 소리도 무서워해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Kuchlidek ko‘rinadi, ammo aslida kichik tovushdan ham qo‘rqadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «읽기가 무섭게 아이들이 웃었어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Soyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «O‘qishim bilanoq bolalar kuldi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

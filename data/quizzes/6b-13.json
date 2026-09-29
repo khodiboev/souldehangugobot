@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«민주화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "siyosat",
+        "demokratlashuv",
+        "tizim",
+        "saylov"
+      ],
+      "correctIndex": 1,
+      "explanation": "«민주화» — «demokratlashuv». Bu so‘z darsdagi «Tarix va siyosat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ishtirok» koreyschada qaysi so‘z?",
+      "options": [
+        "제도",
+        "선거",
+        "민주화",
+        "참여"
+      ],
+      "correctIndex": 3,
+      "explanation": "«참여» — «ishtirok». Bu so‘z darsdagi «Tarix va siyosat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«제도» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tizim",
+        "huquq",
+        "saylov",
+        "siyosat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«제도» — «tizim». Bu so‘z darsdagi «Tarix va siyosat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«guvohlik» koreyschada qaysi so‘z?",
+      "options": [
+        "증언",
+        "비교하다",
+        "확인하다",
+        "사건"
+      ],
+      "correctIndex": 0,
+      "explanation": "«증언» — «guvohlik». Bu so‘z darsdagi «Manbalar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«사건» so‘zining ma’nosi qaysi?",
+      "options": [
+        "davr",
+        "voqea",
+        "solishtirmoq",
+        "qayd"
+      ],
+      "correctIndex": 1,
+      "explanation": "«사건» — «voqea». Bu so‘z darsdagi «Manbalar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tekshirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "기록",
+        "확인하다",
+        "증언",
+        "시기"
+      ],
+      "correctIndex": 1,
+      "explanation": "«확인하다» — «tekshirmoq». Bu so‘z darsdagi «Manbalar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)라 V-(으)라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...moqchi bo‘lsam esa",
+        "... yoki ... kabi",
+        "... bo‘lib qolmasin deb",
+        "Buni qil, unisini qil deyish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)라 V-(으)라» — Buni qil, unisini qil deyish. Ikki tomondan kelayotgan talablar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ세라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lib qolmasin deb",
+        "Buni qil, unisini qil deyish",
+        "...ning iloji yo‘q",
+        "... qilaman deb"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄹ세라» — ... bo‘lib qolmasin deb. Ehtiyotkorlik bilan yopilgan eshik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«사람들은 빨리 정리하라 천천히 검토하라 말이 달랐어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Guvohlik tushib qolmasin deb ro‘yxatni qayta tekshirdim.",
+        "Muhim sanani unutib qo‘ymay deb daftarga yozdim.",
+        "Odamlar tez yakunla yoki sekin tekshir deb turli talab qo‘ydi.",
+        "Ma’lumotni o‘qi, qisqartir degancha vaqt o‘tdi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«사람들은 빨리 정리하라 천천히 검토하라 말이 달랐어요.» — «Odamlar tez yakunla yoki sekin tekshir deb turli talab qo‘ydi.». Bu yerda «V-(으)라 V-(으)라» qolipi ishlatilgan: Buni qil, unisini qil deyish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Muhim sanani unutib qo‘ymay deb daftarga yozdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "사람들은 빨리 정리하라 천천히 검토하라 말이 달랐어요.",
+        "한쪽 말만 들을세라 다른 기록도 찾았어요.",
+        "중요한 날짜를 잊을세라 수첩에 적었어요.",
+        "증언이 빠질세라 목록을 다시 확인했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«중요한 날짜를 잊을세라 수첩에 적었어요.» — «Muhim sanani unutib qo‘ymay deb daftarga yozdim.». Bu yerda «V-(으)ㄹ세라» qolipi ishlatilgan: ... bo‘lib qolmasin deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«자료를 읽으라 요약하라 하는 사이에 시간이 갔어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qatnash yoki kut degan gapdan ko‘ra sabab muhim.",
+        "Guvohlik tushib qolmasin deb ro‘yxatni qayta tekshirdim.",
+        "Ma’lumotni o‘qi, qisqartir degancha vaqt o‘tdi.",
+        "Faqat bir tomon gapini eshitib qo‘ymay deb boshqa qaydni ham izladim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«자료를 읽으라 요약하라 하는 사이에 시간이 갔어요.» — «Ma’lumotni o‘qi, qisqartir degancha vaqt o‘tdi.». Bu yerda «V-(으)라 V-(으)라» qolipi ishlatilgan: Buni qil, unisini qil deyish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Faqat bir tomon gapini eshitib qo‘ymay deb boshqa qaydni ham izladim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "한쪽 말만 들을세라 다른 기록도 찾았어요.",
+        "자료를 읽으라 요약하라 하는 사이에 시간이 갔어요.",
+        "증언이 빠질세라 목록을 다시 확인했어요.",
+        "사람들은 빨리 정리하라 천천히 검토하라 말이 달랐어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«한쪽 말만 들을세라 다른 기록도 찾았어요.» — «Faqat bir tomon gapini eshitib qo‘ymay deb boshqa qaydni ham izladim.». Bu yerda «V-(으)ㄹ세라» qolipi ishlatilgan: ... bo‘lib qolmasin deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«참여하라 기다리라 하는 말보다 이유가 중요해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Faqat bir tomon gapini eshitib qo‘ymay deb boshqa qaydni ham izladim.",
+        "Odamlar tez yakunla yoki sekin tekshir deb turli talab qo‘ydi.",
+        "Ma’lumotni o‘qi, qisqartir degancha vaqt o‘tdi.",
+        "Qatnash yoki kut degan gapdan ko‘ra sabab muhim."
+      ],
+      "correctIndex": 3,
+      "explanation": "«참여하라 기다리라 하는 말보다 이유가 중요해요.» — «Qatnash yoki kut degan gapdan ko‘ra sabab muhim.». Bu yerda «V-(으)라 V-(으)라» qolipi ishlatilgan: Buni qil, unisini qil deyish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Guvohlik tushib qolmasin deb ro‘yxatni qayta tekshirdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "참여하라 기다리라 하는 말보다 이유가 중요해요.",
+        "증언이 빠질세라 목록을 다시 확인했어요.",
+        "한쪽 말만 들을세라 다른 기록도 찾았어요.",
+        "중요한 날짜를 잊을세라 수첩에 적었어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«증언이 빠질세라 목록을 다시 확인했어요.» — «Guvohlik tushib qolmasin deb ro‘yxatni qayta tekshirdim.». Bu yerda «V-(으)ㄹ세라» qolipi ishlatilgan: ... bo‘lib qolmasin deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «넣으라 빼라 의견이 많아서 기준을 정했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tushib qolgan ovoz yo‘qligini ham tekshirdim.",
+        "Fakt va bahoni boshqa katakka yozdim.",
+        "Qo‘sh, olib tashla degan fikr ko‘p bo‘lgani uchun mezon belgiladik.",
+        "Sanani o‘tkazib yubormay deb qaydlarni qiyosladim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «넣으라 빼라 의견이 많아서 기준을 정했어요.» deydi. Ma’nosi: «Qo‘sh, olib tashla degan fikr ko‘p bo‘lgani uchun mezon belgiladik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «날짜를 놓칠세라 기록을 다시 대조했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tushib qolgan ovoz yo‘qligini ham tekshirdim.",
+        "Fakt va bahoni boshqa katakka yozdim.",
+        "Sanani o‘tkazib yubormay deb qaydlarni qiyosladim.",
+        "Qo‘sh, olib tashla degan fikr ko‘p bo‘lgani uchun mezon belgiladik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «날짜를 놓칠세라 기록을 다시 대조했어요.» deydi. Ma’nosi: «Sanani o‘tkazib yubormay deb qaydlarni qiyosladim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사실과 평가를 다른 칸에 적었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qo‘sh, olib tashla degan fikr ko‘p bo‘lgani uchun mezon belgiladik.",
+        "Tushib qolgan ovoz yo‘qligini ham tekshirdim.",
+        "Fakt va bahoni boshqa katakka yozdim.",
+        "Sanani o‘tkazib yubormay deb qaydlarni qiyosladim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «사실과 평가를 다른 칸에 적었어요.» deydi. Ma’nosi: «Fakt va bahoni boshqa katakka yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «빠진 목소리가 없는지도 살폈어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Fakt va bahoni boshqa katakka yozdim.",
+        "Qo‘sh, olib tashla degan fikr ko‘p bo‘lgani uchun mezon belgiladik.",
+        "Tushib qolgan ovoz yo‘qligini ham tekshirdim.",
+        "Sanani o‘tkazib yubormay deb qaydlarni qiyosladim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «빠진 목소리가 없는지도 살폈어요.» deydi. Ma’nosi: «Tushib qolgan ovoz yo‘qligini ham tekshirdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «날짜를 놓칠세라 기록을 다시 대조했어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Jisu",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Sanani o‘tkazib yubormay deb qaydlarni qiyosladim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «빠진 목소리가 없는지도 살폈어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Tushib qolgan ovoz yo‘qligini ham tekshirdim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«배» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bosh",
+        "tish",
+        "shamollash",
+        "qorin"
+      ],
+      "correctIndex": 3,
+      "explanation": "«배» — «qorin». Bu so‘z darsdagi «Tana va alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«isitma» koreyschada qaysi so‘z?",
+      "options": [
+        "감기",
+        "머리",
+        "배",
+        "열"
+      ],
+      "correctIndex": 3,
+      "explanation": "«열» — «isitma». Bu so‘z darsdagi «Tana va alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«약» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kasalxona",
+        "shifokor",
+        "dori",
+        "yaxshilab, miriqib"
+      ],
+      "correctIndex": 2,
+      "explanation": "«약» — «dori». Bu so‘z darsdagi «Davolanish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«xavotirlanmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "약",
+        "아프다",
+        "걱정하다",
+        "의사"
+      ],
+      "correctIndex": 2,
+      "explanation": "«걱정하다» — «xavotirlanmoq». Bu so‘z darsdagi «Davolanish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-지 마세요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "ㅡ unlisi tushishi",
+        "Qilish kerak",
+        "Faqat",
+        "Iltimos, qilmang"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-지 마세요» — Iltimos, qilmang. 지 마세요 — harakat oldidagi muloyim qizil chiroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아야/어야 되다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faqat",
+        "ㅡ unlisi tushishi",
+        "Iltimos, qilmang",
+        "Qilish kerak"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-아야/어야 되다» — Qilish kerak. 야 돼요 — bajarilishi shart bo‘lgan vazifa belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«머리가 아파요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Boshim og‘riyapti.",
+        "Ko‘p xavotir olmang.",
+        "Yaxshilab dam olish kerak.",
+        "Faqat bugun dam olaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«머리가 아파요.» — «Boshim og‘riyapti.». Bu yerda «‘ㅡ’ 탈락» qolipi ishlatilgan: ㅡ unlisi tushishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Sovuq suv ichmang.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "오늘만 쉬어요.",
+        "오늘 운동하지 마세요.",
+        "약을 써요.",
+        "찬물을 마시지 마세요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«찬물을 마시지 마세요.» — «Sovuq suv ichmang.». Bu yerda «V-지 마세요» qolipi ishlatilgan: Iltimos, qilmang.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오늘은 밖에 나가지 마세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bugun tashqariga chiqmang.",
+        "Boshim og‘riyapti va yo‘talyapman.",
+        "Ha, bugun faqat ko‘p suv ichaman.",
+        "Dori ichib yaxshilab dam olishingiz kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «오늘은 밖에 나가지 마세요.» deydi. Ma’nosi: «Bugun tashqariga chiqmang.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «네, 오늘은 물만 많이 마실게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ha, bugun faqat ko‘p suv ichaman.",
+        "Boshim og‘riyapti va yo‘talyapman.",
+        "Bugun tashqariga chiqmang.",
+        "Dori ichib yaxshilab dam olishingiz kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «네, 오늘은 물만 많이 마실게요.» deydi. Ma’nosi: «Ha, bugun faqat ko‘p suv ichaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

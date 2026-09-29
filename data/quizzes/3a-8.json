@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«충돌» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jarohat",
+        "voqea joyi",
+        "to‘qnashuv",
+        "yo‘l-transport hodisasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«충돌» — «to‘qnashuv». Bu so‘z darsdagi «Hodisa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«voqea joyi» koreyschada qaysi so‘z?",
+      "options": [
+        "목격자",
+        "교통사고",
+        "현장",
+        "신고"
+      ],
+      "correctIndex": 2,
+      "explanation": "«현장» — «voqea joyi». Bu so‘z darsdagi «Hodisa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«문병» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kasalxonadan chiqmoq",
+        "ehtiyot bo‘lmoq",
+        "jarohatlanmoq",
+        "kasal ko‘rish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«문병» — «kasal ko‘rish». Bu so‘z darsdagi «Kasal ko‘rish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kasalxonadan chiqmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "입원하다",
+        "퇴원하다",
+        "회복하다",
+        "문병"
+      ],
+      "correctIndex": 1,
+      "explanation": "«퇴원하다» — «kasalxonadan chiqmoq». Bu so‘z darsdagi «Kasal ko‘rish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«다치다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kasal ko‘rish",
+        "tiklanmoq",
+        "ehtiyot bo‘lmoq",
+        "jarohatlanmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«다치다» — «jarohatlanmoq». Bu so‘z darsdagi «Kasal ko‘rish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-다(가)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hayrat bilan qayta so‘rash",
+        "Harakat o‘rtasida",
+        "Qilish kerak bo‘ladi, xavotir",
+        "Qanchalik ... bo‘lsa ham"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-다(가)» — Harakat o‘rtasida. 다가 — davom etayotgan yo‘lga keskin kirgan voqea.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«아무리 A/V-아도/어도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qanchalik ... bo‘lsa ham",
+        "Hayrat bilan qayta so‘rash",
+        "Harakat o‘rtasida",
+        "Qilish kerak bo‘ladi, xavotir"
+      ],
+      "correctIndex": 0,
+      "explanation": "«아무리 A/V-아도/어도» — Qanchalik ... bo‘lsa ham. 아무리 — to‘siqni kattalashtiradi, 아도 natijani saqlaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-아야/어야 할 텐데» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilish kerak bo‘ladi, xavotir",
+        "Qanchalik ... bo‘lsa ham",
+        "Hayrat bilan qayta so‘rash",
+        "Harakat o‘rtasida"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-아야/어야 할 텐데» — Qilish kerak bo‘ladi, xavotir. 해야 할 텐데 — kelajak vazifasi ustidagi xavotir buluti.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«길을 건너다가 사고가 났어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Zinadan tushayotib yiqildim.",
+        "Politsiyaga xabar berish kerak.",
+        "Yo‘lni kesib o‘tayotganda hodisa bo‘ldi.",
+        "Kasalxonaga borish kerak bo‘ladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«길을 건너다가 사고가 났어요.» — «Yo‘lni kesib o‘tayotganda hodisa bo‘ldi.». Bu yerda «V-다(가)» qolipi ishlatilgan: Harakat o‘rtasida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yo‘l hodisasi bo‘ldimi?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "병원에 가야 할 텐데요.",
+        "교통사고가 났다고요?",
+        "아무리 조심해도 사고가 날 수 있어요.",
+        "경찰에 신고해야 할 텐데요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«교통사고가 났다고요?» — «Yo‘l hodisasi bo‘ldimi?». Bu yerda «A-다고요? · V-ㄴ/는다고요? · N(이)라고요?» qolipi ishlatilgan: Hayrat bilan qayta so‘rash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«아무리 바빠도 병문안을 가야 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Minji kasalxonaga yotdimi?",
+        "Qanchalik band bo‘lsam ham kasal ko‘rgani borishim kerak.",
+        "Guvoh talaba ekanmi?",
+        "Qancha so‘rasam ham javob yo‘q."
+      ],
+      "correctIndex": 1,
+      "explanation": "«아무리 바빠도 병문안을 가야 해요.» — «Qanchalik band bo‘lsam ham kasal ko‘rgani borishim kerak.». Bu yerda «아무리 A/V-아도/어도» qolipi ishlatilgan: Qanchalik ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «자전거를 타다가 사람이 넘어졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Velosiped minayotganda bir kishi yiqildi.",
+        "Men darhol xabar beraman.",
+        "Jarohatlandimi?",
+        "Qanchalik yaxshi ko‘rinsa ham tekshiruvdan o‘tishi kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «자전거를 타다가 사람이 넘어졌어요.» deydi. Ma’nosi: «Velosiped minayotganda bir kishi yiqildi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아무리 괜찮아 보여도 검사를 받아야 할 텐데요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Jarohatlandimi?",
+        "Qanchalik yaxshi ko‘rinsa ham tekshiruvdan o‘tishi kerak.",
+        "Men darhol xabar beraman.",
+        "Velosiped minayotganda bir kishi yiqildi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «아무리 괜찮아 보여도 검사를 받아야 할 텐데요.» deydi. Ma’nosi: «Qanchalik yaxshi ko‘rinsa ham tekshiruvdan o‘tishi kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 바로 신고할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Jarohatlandimi?",
+        "Qanchalik yaxshi ko‘rinsa ham tekshiruvdan o‘tishi kerak.",
+        "Velosiped minayotganda bir kishi yiqildi.",
+        "Men darhol xabar beraman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «제가 바로 신고할게요.» deydi. Ma’nosi: «Men darhol xabar beraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «아무리 괜찮아 보여도 검사를 받아야 할 텐데요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Qanchalik yaxshi ko‘rinsa ham tekshiruvdan o‘tishi kerak.».",
+      "reviewSection": "s"
+    }
+  ]
+}

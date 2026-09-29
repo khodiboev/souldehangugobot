@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«주장» so‘zining ma’nosi qaysi?",
+      "options": [
+        "da’vo, qat’iy fikr",
+        "to‘g‘ri bo‘lmoq",
+        "hukm qilmoq",
+        "noto‘g‘ri bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«주장» — «da’vo, qat’iy fikr». Bu so‘z darsdagi «Fikr va hukm» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«to‘g‘ri bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "판단하다",
+        "옳다",
+        "의견",
+        "근거"
+      ],
+      "correctIndex": 1,
+      "explanation": "«옳다» — «to‘g‘ri bo‘lmoq». Bu so‘z darsdagi «Fikr va hukm» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«판단하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "fikr",
+        "to‘g‘ri bo‘lmoq",
+        "hukm qilmoq",
+        "asos, dalil"
+      ],
+      "correctIndex": 2,
+      "explanation": "«판단하다» — «hukm qilmoq». Bu so‘z darsdagi «Fikr va hukm» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tartib» koreyschada qaysi so‘z?",
+      "options": [
+        "질서",
+        "배려하다",
+        "피해",
+        "행동"
+      ],
+      "correctIndex": 0,
+      "explanation": "«질서» — «tartib». Bu so‘z darsdagi «Jamoat odobi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«소음» so‘zining ma’nosi qaysi?",
+      "options": [
+        "shovqin",
+        "boshqani o‘ylamoq",
+        "xatti-harakat",
+        "zarar"
+      ],
+      "correctIndex": 0,
+      "explanation": "«소음» — «shovqin». Bu so‘z darsdagi «Jamoat odobi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qoidaga rioya qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "소음",
+        "피해",
+        "규칙을 지키다",
+        "행동"
+      ],
+      "correctIndex": 2,
+      "explanation": "«규칙을 지키다» — «qoidaga rioya qilmoq». Bu so‘z darsdagi «Jamoat odobi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-더라도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qaysi ekanini bilmay",
+        "Hatto ... bo‘lsa ham",
+        "...gan holicha",
+        "Deb hisoblamoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-더라도» — Hatto ... bo‘lsa ham. To‘siq kattalashsa ham yo‘nalishini o‘zgartirmaydigan kompas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-다고 보다 · V-ㄴ/는다고 보다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Deb hisoblamoq",
+        "...gan holicha",
+        "Qaysi ekanini bilmay",
+        "Hatto ... bo‘lsa ham"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-다고 보다 · V-ㄴ/는다고 보다» — Deb hisoblamoq. Dalillarni ko‘rib, tarozining qaysi tomoni og‘irligini aytish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 채(로)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qaysi ekanini bilmay",
+        "Deb hisoblamoq",
+        "...gan holicha",
+        "Hatto ... bo‘lsa ham"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)ㄴ 채(로)» — ...gan holicha. Birinchi kadr muzlab turadi, ikkinchi harakat uning ustida davom etadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ지 A-(으)ㄴ지 · V-는지 V-는지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Deb hisoblamoq",
+        "...gan holicha",
+        "Hatto ... bo‘lsa ham",
+        "Qaysi ekanini bilmay"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-(으)ㄴ지 A-(으)ㄴ지 · V-는지 V-는지» — Qaysi ekanini bilmay. Tarozining ikki pallasi orasida ko‘rsatkich hali to‘xtamagan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«불편하더라도 공공 규칙은 지켜야 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Men bu xatti-harakatni noto‘g‘ri deb hisoblayman.",
+        "Noqulay bo‘lsa ham jamoat qoidasiga rioya qilish kerak.",
+        "Mutaxassislar shovqin sog‘liqqa ta’sir qiladi deb hisoblaydi.",
+        "Oyoq kiyimini yechmay xonaga kirish mumkin emas."
+      ],
+      "correctIndex": 1,
+      "explanation": "«불편하더라도 공공 규칙은 지켜야 해요.» — «Noqulay bo‘lsa ham jamoat qoidasiga rioya qilish kerak.». Bu yerda «A/V-더라도» qolipi ishlatilgan: Hatto ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Men bu xatti-harakatni noto‘g‘ri deb hisoblayman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "의견이 다르더라도 끝까지 들어 주세요.",
+        "불편하더라도 공공 규칙은 지켜야 해요.",
+        "저는 그 행동이 옳지 않다고 봐요.",
+        "누가 말했는지 기억이 나지 않아요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«저는 그 행동이 옳지 않다고 봐요.» — «Men bu xatti-harakatni noto‘g‘ri deb hisoblayman.». Bu yerda «A-다고 보다 · V-ㄴ/는다고 보다» qolipi ishlatilgan: Deb hisoblamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«문을 연 채로 큰 소리로 이야기했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Telefonni yoqiq qoldirib kino ko‘rdi.",
+        "Avval qoidani tushuntirish kerak deb hisoblayman.",
+        "Xato qilgan bo‘lsangiz ham darhol uzr so‘rasa bo‘ladi.",
+        "Eshikni ochiq qoldirgan holda baland gaplashdi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«문을 연 채로 큰 소리로 이야기했어요.» — «Eshikni ochiq qoldirgan holda baland gaplashdi.». Bu yerda «V-(으)ㄴ 채(로)» qolipi ishlatilgan: ...gan holicha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bu fikr to‘g‘rimi-noto‘g‘rimi, avval dalilni ko‘raylik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "관리실이 해결하는지 안 하는지 지켜볼게요.",
+        "저는 그 행동이 옳지 않다고 봐요.",
+        "그 의견이 옳은지 그른지 근거부터 봅시다.",
+        "문을 연 채로 큰 소리로 이야기했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그 의견이 옳은지 그른지 근거부터 봅시다.» — «Bu fikr to‘g‘rimi-noto‘g‘rimi, avval dalilni ko‘raylik.». Bu yerda «A-(으)ㄴ지 A-(으)ㄴ지 · V-는지 V-는지» qolipi ishlatilgan: Qaysi ekanini bilmay.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «축제가 있더라도 밤에는 소음을 줄여야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Festival bo‘lsa ham tunda shovqinni kamaytirish kerak.",
+        "Bir-birini o‘ylaydigan qoida kerak deb hisoblayman.",
+        "Boshqaruv bildimi-bilmadimi, avval aniqlaylik.",
+        "Derazani ochiq qoldirib musiqani baland qo‘yishdi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «축제가 있더라도 밤에는 소음을 줄여야 해요.» deydi. Ma’nosi: «Festival bo‘lsa ham tunda shovqinni kamaytirish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «창문을 연 채로 음악을 크게 틀었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Festival bo‘lsa ham tunda shovqinni kamaytirish kerak.",
+        "Boshqaruv bildimi-bilmadimi, avval aniqlaylik.",
+        "Bir-birini o‘ylaydigan qoida kerak deb hisoblayman.",
+        "Derazani ochiq qoldirib musiqani baland qo‘yishdi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «창문을 연 채로 음악을 크게 틀었어요.» deydi. Ma’nosi: «Derazani ochiq qoldirib musiqani baland qo‘yishdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «관리실이 알았는지 몰랐는지 먼저 확인해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Festival bo‘lsa ham tunda shovqinni kamaytirish kerak.",
+        "Derazani ochiq qoldirib musiqani baland qo‘yishdi.",
+        "Boshqaruv bildimi-bilmadimi, avval aniqlaylik.",
+        "Bir-birini o‘ylaydigan qoida kerak deb hisoblayman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «관리실이 알았는지 몰랐는지 먼저 확인해요.» deydi. Ma’nosi: «Boshqaruv bildimi-bilmadimi, avval aniqlaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로 배려하는 규칙이 필요하다고 봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Derazani ochiq qoldirib musiqani baland qo‘yishdi.",
+        "Festival bo‘lsa ham tunda shovqinni kamaytirish kerak.",
+        "Boshqaruv bildimi-bilmadimi, avval aniqlaylik.",
+        "Bir-birini o‘ylaydigan qoida kerak deb hisoblayman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Soyon «서로 배려하는 규칙이 필요하다고 봐요.» deydi. Ma’nosi: «Bir-birini o‘ylaydigan qoida kerak deb hisoblayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «창문을 연 채로 음악을 크게 틀었어요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Derazani ochiq qoldirib musiqani baland qo‘yishdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «서로 배려하는 규칙이 필요하다고 봐요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Soyon",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Bir-birini o‘ylaydigan qoida kerak deb hisoblayman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

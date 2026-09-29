@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«출산율» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tug‘ilish darajasi",
+        "bola tarbiyasi",
+        "yordam puli",
+        "bolalar parvarish muassasasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«출산율» — «tug‘ilish darajasi». Bu so‘z darsdagi «Oila siyosati» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«yordam puli» koreyschada qaysi so‘z?",
+      "options": [
+        "복지",
+        "보육 시설",
+        "육아",
+        "지원금"
+      ],
+      "correctIndex": 3,
+      "explanation": "«지원금» — «yordam puli». Bu so‘z darsdagi «Oila siyosati» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«보육 시설» so‘zining ma’nosi qaysi?",
+      "options": [
+        "siyosat, chora",
+        "tug‘ilish darajasi",
+        "bolalar parvarish muassasasi",
+        "yordam puli"
+      ],
+      "correctIndex": 2,
+      "explanation": "«보육 시설» — «bolalar parvarish muassasasi». Bu so‘z darsdagi «Oila siyosati» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«taklif» koreyschada qaysi so‘z?",
+      "options": [
+        "기관",
+        "회의",
+        "확대하다",
+        "제안"
+      ],
+      "correctIndex": 3,
+      "explanation": "«제안» — «taklif». Bu so‘z darsdagi «Yig‘ilish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«업무» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yaxshilamoq",
+        "muassasa",
+        "kengaytirmoq",
+        "vazifa"
+      ],
+      "correctIndex": 3,
+      "explanation": "«업무» — «vazifa». Bu so‘z darsdagi «Yig‘ilish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«yaxshilamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "기관",
+        "확대하다",
+        "업무",
+        "개선하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«개선하다» — «yaxshilamoq». Bu so‘z darsdagi «Yig‘ilish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㅁ에 따라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishiga qarab",
+        "Bunchalik bo‘lmasa ham shunday deb o‘ylagandim",
+        "...deb ataladigan",
+        "N va N"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㅁ에 따라» — ...ishiga qarab. Birinchi grafik chizig‘i siljisa, ikkinchisi ergashadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«-단 (=-다고 하는)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...deb ataladigan",
+        "N va N",
+        "...ishiga qarab",
+        "...tomoni bor"
+      ],
+      "correctIndex": 0,
+      "explanation": "«-단 (=-다고 하는)» — ...deb ataladigan. Uzun xabarni bitta kichik yorliqqa yig‘ish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N 및 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa kifoya",
+        "N va N",
+        "...deb ataladigan",
+        "...ishiga qarab"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N 및 N» — N va N. Hujjatdagi tartibli “va” bog‘lovchisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«가구 수가 늘어남에 따라 주택 수요도 커져요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Budjet va jadval keyingi yig‘ilishda belgilanadi.",
+        "Xonadonlar ko‘paygani sari uyga talab ham ortadi.",
+        "Bolalar muassasalari ko‘paygach tanlov kengaydi.",
+        "Yordam ko‘payadi degan xabarni eshitdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«가구 수가 늘어남에 따라 주택 수요도 커져요.» — «Xonadonlar ko‘paygani sari uyga talab ham ortadi.». Bu yerda «V-(으)ㅁ에 따라» qolipi ishlatilgan: ...ishiga qarab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yordam ko‘payadi degan xabarni eshitdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "예산 및 일정은 다음 회의에서 정합니다.",
+        "곧 회의가 열린단 말을 들었어요.",
+        "가족에게 좋단 정책도 모두에게 같지는 않아요.",
+        "지원이 늘어난단 소식을 들었어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지원이 늘어난단 소식을 들었어요.» — «Yordam ko‘payadi degan xabarni eshitdim.». Bu yerda «-단 (=-다고 하는)» qolipi ishlatilgan: ...deb ataladigan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«부모 및 자녀를 위한 상담이 열립니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bolalar muassasalari ko‘paygach tanlov kengaydi.",
+        "Yordam ko‘payadi degan xabarni eshitdim.",
+        "Ota-ona va bolalar uchun maslahat o‘tkaziladi.",
+        "Budjet va jadval keyingi yig‘ilishda belgilanadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«부모 및 자녀를 위한 상담이 열립니다.» — «Ota-ona va bolalar uchun maslahat o‘tkaziladi.». Bu yerda «N 및 N» qolipi ishlatilgan: N va N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Tug‘ilish pasaygani sari yordam siyosati o‘zgardi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "부모 및 자녀를 위한 상담이 열립니다.",
+        "가구 수가 늘어남에 따라 주택 수요도 커져요.",
+        "곧 회의가 열린단 말을 들었어요.",
+        "출산율이 낮아짐에 따라 지원 정책이 바뀌었어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«출산율이 낮아짐에 따라 지원 정책이 바뀌었어요.» — «Tug‘ilish pasaygani sari yordam siyosati o‘zgardi.». Bu yerda «V-(으)ㅁ에 따라» qolipi ishlatilgan: ...ishiga qarab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«가족에게 좋단 정책도 모두에게 같지는 않아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xonadonlar ko‘paygani sari uyga talab ham ortadi.",
+        "Budjet va jadval keyingi yig‘ilishda belgilanadi.",
+        "Ota-ona va bolalar uchun maslahat o‘tkaziladi.",
+        "Oila uchun yaxshi deyilgan siyosat ham hammaga bir xil emas."
+      ],
+      "correctIndex": 3,
+      "explanation": "«가족에게 좋단 정책도 모두에게 같지는 않아요.» — «Oila uchun yaxshi deyilgan siyosat ham hammaga bir xil emas.». Bu yerda «-단 (=-다고 하는)» qolipi ishlatilgan: ...deb ataladigan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «가구 수가 늘어남에 따라 상담 수요도 커졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Reja yaxshi deyilganmi, natijadan baholaylik.",
+        "Xonadonlar ko‘paygani sari maslahatga talab ortdi.",
+        "Aholi va muassasalar hamkorligi kerak.",
+        "Yaqinda yig‘ilish bo‘ladi degan xabarni yetkazaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «가구 수가 늘어남에 따라 상담 수요도 커졌어요.» deydi. Ma’nosi: «Xonadonlar ko‘paygani sari maslahatga talab ortdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주민 및 기관의 협력이 필요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaqinda yig‘ilish bo‘ladi degan xabarni yetkazaman.",
+        "Xonadonlar ko‘paygani sari maslahatga talab ortdi.",
+        "Aholi va muassasalar hamkorligi kerak.",
+        "Reja yaxshi deyilganmi, natijadan baholaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «주민 및 기관의 협력이 필요해요.» deydi. Ma’nosi: «Aholi va muassasalar hamkorligi kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «곧 회의가 열린단 소식을 전할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Reja yaxshi deyilganmi, natijadan baholaylik.",
+        "Yaqinda yig‘ilish bo‘ladi degan xabarni yetkazaman.",
+        "Xonadonlar ko‘paygani sari maslahatga talab ortdi.",
+        "Aholi va muassasalar hamkorligi kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «곧 회의가 열린단 소식을 전할게요.» deydi. Ma’nosi: «Yaqinda yig‘ilish bo‘ladi degan xabarni yetkazaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋단 계획인지 결과로 평가해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaqinda yig‘ilish bo‘ladi degan xabarni yetkazaman.",
+        "Xonadonlar ko‘paygani sari maslahatga talab ortdi.",
+        "Aholi va muassasalar hamkorligi kerak.",
+        "Reja yaxshi deyilganmi, natijadan baholaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «좋단 계획인지 결과로 평가해요.» deydi. Ma’nosi: «Reja yaxshi deyilganmi, natijadan baholaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «주민 및 기관의 협력이 필요해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Aholi va muassasalar hamkorligi kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «좋단 계획인지 결과로 평가해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Reja yaxshi deyilganmi, natijadan baholaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

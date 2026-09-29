@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«강수량» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kuchli qor",
+        "harorat",
+        "to‘fon",
+        "yog‘in miqdori"
+      ],
+      "correctIndex": 3,
+      "explanation": "«강수량» — «yog‘in miqdori». Bu so‘z darsdagi «Ob-havo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«kuchli qor» koreyschada qaysi so‘z?",
+      "options": [
+        "폭우",
+        "강수량",
+        "폭설",
+        "습도"
+      ],
+      "correctIndex": 2,
+      "explanation": "«폭설» — «kuchli qor». Bu so‘z darsdagi «Ob-havo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«예보» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jala",
+        "bekor qilmoq",
+        "prognoz",
+        "bulutli bo‘lmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«예보» — «prognoz». Bu so‘z darsdagi «Prognoz va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ochiq bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "예보",
+        "소나기",
+        "흐리다",
+        "맑다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«맑다» — «ochiq bo‘lmoq». Bu so‘z darsdagi «Prognoz va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«취소하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "keyinga surmoq",
+        "jala",
+        "bekor qilmoq",
+        "bulutli bo‘lmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«취소하다» — «bekor qilmoq». Bu so‘z darsdagi «Prognoz va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 텐데» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Taklifni yetkazish",
+        "Shunday bo‘lishini bilmagan edim",
+        "Savolni yetkazish",
+        "Kutilayotgan holat fonida"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)ㄹ 텐데» — Kutilayotgan holat fonida. 텐데 — kelajak taxmini ustiga ochilgan keyingi gap oynasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 줄 몰랐다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunday bo‘lishini bilmagan edim",
+        "Taklifni yetkazish",
+        "Kutilayotgan holat fonida",
+        "Savolni yetkazish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-(으)ㄹ 줄 몰랐다» — Shunday bo‘lishini bilmagan edim. 줄 몰랐다 — kutilmagan voqea kelganida ochilgan ko‘z.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-자고 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Savolni yetkazish",
+        "Kutilayotgan holat fonida",
+        "Taklifni yetkazish",
+        "Shunday bo‘lishini bilmagan edim"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-자고 하다» — Taklifni yetkazish. 자고 하다 — birgalikdagi taklifni tashib keladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«내일 비가 올 텐데 우산을 가져가세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ustoz ertaga dam olish kunimi deb so‘radi.",
+        "Reja bekor bo‘lishini bilmagandim.",
+        "Havo sovuq bo‘lishini bilmagandim.",
+        "Ertaga yomg‘ir yog‘adi, soyabon oling."
+      ],
+      "correctIndex": 3,
+      "explanation": "«내일 비가 올 텐데 우산을 가져가세요.» — «Ertaga yomg‘ir yog‘adi, soyabon oling.». Bu yerda «A/V-(으)ㄹ 텐데» qolipi ishlatilgan: Kutilayotgan holat fonida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Do‘stim yomg‘ir yog‘yaptimi deb so‘radi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구가 비가 오느냐고 물었어요.",
+        "친구가 계획을 바꾸자고 했어요.",
+        "주말에는 추울 텐데 괜찮아요?",
+        "선생님이 내일 휴일이냐고 물었어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«친구가 비가 오느냐고 물었어요.» — «Do‘stim yomg‘ir yog‘yaptimi deb so‘radi.». Bu yerda «A-(으)냐고 · V-느냐고 · N(이)냐고 하다» qolipi ishlatilgan: Savolni yetkazish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«비가 이렇게 많이 올 줄 몰랐어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Do‘stim rejani o‘zgartiraylik dedi.",
+        "Yomg‘ir sabab bormaylik dedi.",
+        "Yomg‘ir buncha ko‘p yog‘ishini bilmagandim.",
+        "Onam sovuq emasmi deb so‘radi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«비가 이렇게 많이 올 줄 몰랐어요.» — «Yomg‘ir buncha ko‘p yog‘ishini bilmagandim.». Bu yerda «A/V-(으)ㄹ 줄 몰랐다» qolipi ishlatilgan: Shunday bo‘lishini bilmagan edim.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «소나기가 이렇게 빨리 올 줄 몰랐어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yomg‘ir davom etadi, kafega boraylik.",
+        "Mariya kutubxonada uchrashaylik dedi.",
+        "Jala buncha tez kelishini bilmagandim.",
+        "Qayeri yaxshi deb so‘rayman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «소나기가 이렇게 빨리 올 줄 몰랐어요.» deydi. Ma’nosi: «Jala buncha tez kelishini bilmagandim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «마리아가 도서관에서 만나자고 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qayeri yaxshi deb so‘rayman.",
+        "Mariya kutubxonada uchrashaylik dedi.",
+        "Yomg‘ir davom etadi, kafega boraylik.",
+        "Jala buncha tez kelishini bilmagandim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «마리아가 도서관에서 만나자고 했어요.» deydi. Ma’nosi: «Mariya kutubxonada uchrashaylik dedi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어디가 좋으냐고 물어볼게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yomg‘ir davom etadi, kafega boraylik.",
+        "Mariya kutubxonada uchrashaylik dedi.",
+        "Jala buncha tez kelishini bilmagandim.",
+        "Qayeri yaxshi deb so‘rayman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «어디가 좋으냐고 물어볼게요.» deydi. Ma’nosi: «Qayeri yaxshi deb so‘rayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «비가 계속 올 텐데 카페로 갑시다.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Xonadosh",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yomg‘ir davom etadi, kafega boraylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

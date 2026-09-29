@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기행문» so‘zining ma’nosi qaysi?",
+      "options": [
+        "madaniy meros obyekti",
+        "sayohat xotirasi",
+        "Gyeongju shahri",
+        "tarixiy yodgorlik joyi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«기행문» — «sayohat xotirasi». Bu so‘z darsdagi «Sayohat va meros» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«Gyeongju shahri» koreyschada qaysi so‘z?",
+      "options": [
+        "안내문",
+        "문화재",
+        "기행문",
+        "경주"
+      ],
+      "correctIndex": 3,
+      "explanation": "«경주» — «Gyeongju shahri». Bu so‘z darsdagi «Sayohat va meros» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«안내문» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sayohat",
+        "izoh taxtasi",
+        "Gyeongju shahri",
+        "madaniy meros obyekti"
+      ],
+      "correctIndex": 1,
+      "explanation": "«안내문» — «izoh taxtasi». Bu so‘z darsdagi «Sayohat va meros» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«manzara» koreyschada qaysi so‘z?",
+      "options": [
+        "걷다",
+        "보존하다",
+        "경치",
+        "상상하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«경치» — «manzara». Bu so‘z darsdagi «Kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«보존하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yurmoq",
+        "asramoq",
+        "taassurot",
+        "tasavvur qilmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«보존하다» — «asramoq». Bu so‘z darsdagi «Kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qayd qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "경치",
+        "상상하다",
+        "기록하다",
+        "인상"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기록하다» — «qayd qilmoq». Bu so‘z darsdagi «Kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-되» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ib yursangiz, bora-bora",
+        "... lekin / ... sharti bilan",
+        "N ...ligini ko‘rsatadi",
+        "... jihatni tan olmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-되» — ... lekin / ... sharti bilan. Rozilik yonidagi kichik shart belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-노라면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ib yursangiz, bora-bora",
+        "N ...ligini ko‘rsatadi",
+        "N haqida gapirsam",
+        "... lekin / ... sharti bilan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-노라면» — ...ib yursangiz, bora-bora. Uzoq yo‘lning oxirida asta paydo bo‘lgan manzara.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N은/는 A/V-(으)ㅁ을 말해 주다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nning bor-yo‘qligi",
+        "...ib yursangiz, bora-bora",
+        "... lekin / ... sharti bilan",
+        "N ...ligini ko‘rsatadi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N은/는 A/V-(으)ㅁ을 말해 주다» — N ...ligini ko‘rsatadi. Belgi ostidagi izohli yorliq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«유적지를 보되 안내선을 지켜요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Odamlar qaydlari sayohat muhim bo‘lganini ko‘rsatadi.",
+        "Izoh taxtasi bu joy asralganini bildiradi.",
+        "Yodgorlikni ko‘ring, lekin belgilangan yo‘ldan chiqmang.",
+        "Izoh batafsil bo‘lsin, lekin uzun bo‘lmasin."
+      ],
+      "correctIndex": 2,
+      "explanation": "«유적지를 보되 안내선을 지켜요.» — «Yodgorlikni ko‘ring, lekin belgilangan yo‘ldan chiqmang.». Bu yerda «A/V-되» qolipi ishlatilgan: ... lekin / ... sharti bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Eski yo‘lda yursangiz bora-bora o‘tgan davrni tasavvur qilasiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "유적을 살펴보노라면 작은 차이를 발견해요.",
+        "사람들의 기록은 여행이 중요했음을 말해 줘요.",
+        "설명은 자세하되 길지 않게 써요.",
+        "옛길을 걷노라면 지난 시대를 상상하게 돼요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«옛길을 걷노라면 지난 시대를 상상하게 돼요.» — «Eski yo‘lda yursangiz bora-bora o‘tgan davrni tasavvur qilasiz.». Bu yerda «V-노라면» qolipi ishlatilgan: ...ib yursangiz, bora-bora.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«낡은 돌은 이 길이 오래되었음을 말해 줘요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Eskirgan tosh bu yo‘l qadimiyligini ko‘rsatadi.",
+        "Yodgorlikni ko‘rib yursangiz mayda farqlarni topasiz.",
+        "Eski yo‘lda yursangiz bora-bora o‘tgan davrni tasavvur qilasiz.",
+        "Yodgorlikni ko‘ring, lekin belgilangan yo‘ldan chiqmang."
+      ],
+      "correctIndex": 0,
+      "explanation": "«낡은 돌은 이 길이 오래되었음을 말해 줘요.» — «Eskirgan tosh bu yo‘l qadimiyligini ko‘rsatadi.». Bu yerda «N은/는 A/V-(으)ㅁ을 말해 주다» qolipi ishlatilgan: N ...ligini ko‘rsatadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Suratga oling, ammo boshqalarga xalaqit bermang.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "유적지를 보되 안내선을 지켜요.",
+        "안내문은 이곳이 보존되었음을 말해 줘요.",
+        "설명은 자세하되 길지 않게 써요.",
+        "사진을 찍되 다른 사람을 방해하지 마세요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«사진을 찍되 다른 사람을 방해하지 마세요.» — «Suratga oling, ammo boshqalarga xalaqit bermang.». Bu yerda «A/V-되» qolipi ishlatilgan: ... lekin / ... sharti bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«유적을 살펴보노라면 작은 차이를 발견해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suratga oling, ammo boshqalarga xalaqit bermang.",
+        "Odamlar qaydlari sayohat muhim bo‘lganini ko‘rsatadi.",
+        "Izoh batafsil bo‘lsin, lekin uzun bo‘lmasin.",
+        "Yodgorlikni ko‘rib yursangiz mayda farqlarni topasiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "«유적을 살펴보노라면 작은 차이를 발견해요.» — «Yodgorlikni ko‘rib yursangiz mayda farqlarni topasiz.». Bu yerda «V-노라면» qolipi ishlatilgan: ...ib yursangiz, bora-bora.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «유적을 보되 손으로 만지지 않겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yodgorlikni ko‘raman, ammo qo‘l tekkizmayman.",
+        "Izoh bu joy qadimiyligini ko‘rsatadi.",
+        "Fakt bilan tasavvurni ajratib yozaylik.",
+        "Ko‘chada yursam bora-bora eski odamlarning hayoti qiziq tuyuladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «유적을 보되 손으로 만지지 않겠어요.» deydi. Ma’nosi: «Yodgorlikni ko‘raman, ammo qo‘l tekkizmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «골목을 걷노라면 옛사람의 생활이 궁금해져요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘chada yursam bora-bora eski odamlarning hayoti qiziq tuyuladi.",
+        "Yodgorlikni ko‘raman, ammo qo‘l tekkizmayman.",
+        "Fakt bilan tasavvurni ajratib yozaylik.",
+        "Izoh bu joy qadimiyligini ko‘rsatadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «골목을 걷노라면 옛사람의 생활이 궁금해져요.» deydi. Ma’nosi: «Ko‘chada yursam bora-bora eski odamlarning hayoti qiziq tuyuladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «안내문은 이곳이 오래되었음을 말해 줘요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Fakt bilan tasavvurni ajratib yozaylik.",
+        "Yodgorlikni ko‘raman, ammo qo‘l tekkizmayman.",
+        "Izoh bu joy qadimiyligini ko‘rsatadi.",
+        "Ko‘chada yursam bora-bora eski odamlarning hayoti qiziq tuyuladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «안내문은 이곳이 오래되었음을 말해 줘요.» deydi. Ma’nosi: «Izoh bu joy qadimiyligini ko‘rsatadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사실과 상상을 구분해서 써요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘chada yursam bora-bora eski odamlarning hayoti qiziq tuyuladi.",
+        "Fakt bilan tasavvurni ajratib yozaylik.",
+        "Izoh bu joy qadimiyligini ko‘rsatadi.",
+        "Yodgorlikni ko‘raman, ammo qo‘l tekkizmayman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «사실과 상상을 구분해서 써요.» deydi. Ma’nosi: «Fakt bilan tasavvurni ajratib yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «골목을 걷노라면 옛사람의 생활이 궁금해져요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Jisu",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Ko‘chada yursam bora-bora eski odamlarning hayoti qiziq tuyuladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «사실과 상상을 구분해서 써요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Fakt bilan tasavvurni ajratib yozaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

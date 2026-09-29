@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«자유» so‘zining ma’nosi qaysi?",
+      "options": [
+        "erkinlik",
+        "javobgarlik",
+        "jamoatga mas’ullik",
+        "ifoda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«자유» — «erkinlik». Bu so‘z darsdagi «Ommaviy axborot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«javobgarlik» koreyschada qaysi so‘z?",
+      "options": [
+        "책임",
+        "표현",
+        "자유",
+        "사생활"
+      ],
+      "correctIndex": 0,
+      "explanation": "«책임» — «javobgarlik». Bu so‘z darsdagi «Ommaviy axborot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«사생활» so‘zining ma’nosi qaysi?",
+      "options": [
+        "javobgarlik",
+        "shaxsiy hayot",
+        "erkinlik",
+        "jamoatga mas’ullik"
+      ],
+      "correctIndex": 1,
+      "explanation": "«사생활» — «shaxsiy hayot». Bu so‘z darsdagi «Ommaviy axborot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«manba» koreyschada qaysi so‘z?",
+      "options": [
+        "과장하다",
+        "출처",
+        "삭제하다",
+        "확인"
+      ],
+      "correctIndex": 1,
+      "explanation": "«출처» — «manba». Bu so‘z darsdagi «Tahrir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«논쟁» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bahs",
+        "bo‘rttirmoq",
+        "sarlavha",
+        "manba"
+      ],
+      "correctIndex": 0,
+      "explanation": "«논쟁» — «bahs». Bu so‘z darsdagi «Tahrir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«o‘chirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "확인",
+        "과장하다",
+        "삭제하다",
+        "논쟁"
+      ],
+      "correctIndex": 2,
+      "explanation": "«삭제하다» — «o‘chirmoq». Bu so‘z darsdagi «Tahrir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-ㄴ/는답시고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lib qolmasin deb",
+        "...ning iloji yo‘q",
+        "... qilaman deb",
+        "N bilan tenglashmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-ㄴ/는답시고» — ... qilaman deb. “Yordam beraman” degan niqob ortidagi noqulay ish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 턱이 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ning iloji yo‘q",
+        "... qilaman deb",
+        "Ndan qat’i nazar",
+        "Ndan ortiq emas"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-(으)ㄹ 턱이 없다» — ...ning iloji yo‘q. Tayanchsiz ko‘prik qurilmasligi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«알린답시고 확인되지 않은 이름을 공개했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xabar beraman deb tasdiqlanmagan ismni oshkor qildi.",
+        "Tushuntiraman deb murakkab gaplarni cho‘zdi.",
+        "O‘zidan eshitmay vaziyatni tushunib bo‘lmaydi.",
+        "Yordam beraman deb kishining fikrini so‘ramadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«알린답시고 확인되지 않은 이름을 공개했어요.» — «Xabar beraman deb tasdiqlanmagan ismni oshkor qildi.». Bu yerda «V-ㄴ/는답시고» qolipi ishlatilgan: ... qilaman deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Manbasi yo‘q xabarga ishonib bo‘lmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "알린답시고 확인되지 않은 이름을 공개했어요.",
+        "당사자 말을 안 듣고 사정을 이해할 턱이 없어요.",
+        "출처도 없는데 믿을 턱이 없어요.",
+        "돕는답시고 당사자 의견을 묻지 않았어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«출처도 없는데 믿을 턱이 없어요.» — «Manbasi yo‘q xabarga ishonib bo‘lmaydi.». Bu yerda «A/V-(으)ㄹ 턱이 없다» qolipi ishlatilgan: ...ning iloji yo‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«돕는답시고 당사자 의견을 묻지 않았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tushuntiraman deb murakkab gaplarni cho‘zdi.",
+        "Yordam beraman deb kishining fikrini so‘ramadi.",
+        "Izohsiz hamma bilishi mumkin emas.",
+        "O‘zidan eshitmay vaziyatni tushunib bo‘lmaydi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«돕는답시고 당사자 의견을 묻지 않았어요.» — «Yordam beraman deb kishining fikrini so‘ramadi.». Bu yerda «V-ㄴ/는답시고» qolipi ishlatilgan: ... qilaman deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Izohsiz hamma bilishi mumkin emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "돕는답시고 당사자 의견을 묻지 않았어요.",
+        "설명 없이 모두가 알 턱이 없어요.",
+        "당사자 말을 안 듣고 사정을 이해할 턱이 없어요.",
+        "출처도 없는데 믿을 턱이 없어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«설명 없이 모두가 알 턱이 없어요.» — «Izohsiz hamma bilishi mumkin emas.». Bu yerda «A/V-(으)ㄹ 턱이 없다» qolipi ishlatilgan: ...ning iloji yo‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«설명한답시고 복잡한 말을 늘어놓았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘zidan eshitmay vaziyatni tushunib bo‘lmaydi.",
+        "Manbasi yo‘q xabarga ishonib bo‘lmaydi.",
+        "Xabar beraman deb tasdiqlanmagan ismni oshkor qildi.",
+        "Tushuntiraman deb murakkab gaplarni cho‘zdi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«설명한답시고 복잡한 말을 늘어놓았어요.» — «Tushuntiraman deb murakkab gaplarni cho‘zdi.». Bu yerda «V-ㄴ/는답시고» qolipi ishlatilgan: ... qilaman deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«O‘zidan eshitmay vaziyatni tushunib bo‘lmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "알린답시고 확인되지 않은 이름을 공개했어요.",
+        "당사자 말을 안 듣고 사정을 이해할 턱이 없어요.",
+        "설명한답시고 복잡한 말을 늘어놓았어요.",
+        "설명 없이 모두가 알 턱이 없어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«당사자 말을 안 듣고 사정을 이해할 턱이 없어요.» — «O‘zidan eshitmay vaziyatni tushunib bo‘lmaydi.». Bu yerda «A/V-(으)ㄹ 턱이 없다» qolipi ishlatilgan: ...ning iloji yo‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «눈길을 끈답시고 제목을 과장했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Diqqat tortaman deb sarlavhani bo‘rttirdim.",
+        "Fakt bilan fikrni ajratib qayta yozdim.",
+        "Tuzatish sababini ham ko‘rsataman.",
+        "Shunday yozilsa ishonish qiyin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «눈길을 끈답시고 제목을 과장했어요.» deydi. Ma’nosi: «Diqqat tortaman deb sarlavhani bo‘rttirdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그렇게 쓰면 믿을 턱이 없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tuzatish sababini ham ko‘rsataman.",
+        "Shunday yozilsa ishonish qiyin.",
+        "Diqqat tortaman deb sarlavhani bo‘rttirdim.",
+        "Fakt bilan fikrni ajratib qayta yozdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «그렇게 쓰면 믿을 턱이 없어요.» deydi. Ma’nosi: «Shunday yozilsa ishonish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사실과 의견을 구분해 다시 썼어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Diqqat tortaman deb sarlavhani bo‘rttirdim.",
+        "Fakt bilan fikrni ajratib qayta yozdim.",
+        "Shunday yozilsa ishonish qiyin.",
+        "Tuzatish sababini ham ko‘rsataman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «사실과 의견을 구분해 다시 썼어요.» deydi. Ma’nosi: «Fakt bilan fikrni ajratib qayta yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «수정 이유도 공개하겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tuzatish sababini ham ko‘rsataman.",
+        "Fakt bilan fikrni ajratib qayta yozdim.",
+        "Diqqat tortaman deb sarlavhani bo‘rttirdim.",
+        "Shunday yozilsa ishonish qiyin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «수정 이유도 공개하겠습니다.» deydi. Ma’nosi: «Tuzatish sababini ham ko‘rsataman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그렇게 쓰면 믿을 턱이 없어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Shunday yozilsa ishonish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «수정 이유도 공개하겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Tuzatish sababini ham ko‘rsataman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

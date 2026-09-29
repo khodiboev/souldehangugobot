@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«무역» so‘zining ma’nosi qaysi?",
+      "options": [
+        "korxona",
+        "bozor",
+        "iqtisod",
+        "savdo aloqalari"
+      ],
+      "correctIndex": 3,
+      "explanation": "«무역» — «savdo aloqalari». Bu so‘z darsdagi «Savdo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«import» koreyschada qaysi so‘z?",
+      "options": [
+        "기업",
+        "경제",
+        "수입",
+        "시장"
+      ],
+      "correctIndex": 2,
+      "explanation": "«수입» — «import». Bu so‘z darsdagi «Savdo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«기업» so‘zining ma’nosi qaysi?",
+      "options": [
+        "korxona",
+        "import",
+        "iqtisod",
+        "bozor"
+      ],
+      "correctIndex": 0,
+      "explanation": "«기업» — «korxona». Bu so‘z darsdagi «Savdo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qarash» koreyschada qaysi so‘z?",
+      "options": [
+        "변화",
+        "관점",
+        "성장",
+        "기준"
+      ],
+      "correctIndex": 1,
+      "explanation": "«관점» — «qarash». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«변화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘zgarish",
+        "ma’lumot",
+        "mezon",
+        "o‘sish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«변화» — «o‘zgarish». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tahlil qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "자료",
+        "관점",
+        "분석하다",
+        "변화"
+      ],
+      "correctIndex": 2,
+      "explanation": "«분석하다» — «tahlil qilmoq». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N(으)로[에서] 보다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N jihatidan qaraganda",
+        "... sharoitida / davomida",
+        "N u yoqda tursin",
+        "... bo‘lsa-da, ayni paytda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N(으)로[에서] 보다» — N jihatidan qaraganda. Bir manzaraga boshqa derazadan qarash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 가운데» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faqat ... xolos",
+        "... sharoitida / davomida",
+        "... qilgandan ko‘ra yaxshisi",
+        "N jihatidan qaraganda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ/V-는 가운데» — ... sharoitida / davomida. Katta voqea fonidagi kichikroq sahna.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«수출 규모로 보면 올해가 더 커요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uzoq muddatli qarashdan o‘zgarish sekin.",
+        "Eksport hajmi jihatidan bu yil kattaroq.",
+        "Eksport o‘sayotgan paytda korxonalar yangi bozor izlayapti.",
+        "Fikrlar bo‘lingan holatda yig‘ilish davom etdi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«수출 규모로 보면 올해가 더 커요.» — «Eksport hajmi jihatidan bu yil kattaroq.». Bu yerda «N(으)로[에서] 보다» qolipi ishlatilgan: N jihatidan qaraganda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Eksport o‘sayotgan paytda korxonalar yangi bozor izlayapti.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "경제가 어려운 가운데 작은 가게도 힘들어요.",
+        "수출 규모로 보면 올해가 더 커요.",
+        "수출이 늘어나는 가운데 기업들이 새 시장을 찾고 있어요.",
+        "장기적인 관점에서 보면 변화가 느려요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«수출이 늘어나는 가운데 기업들이 새 시장을 찾고 있어요.» — «Eksport o‘sayotgan paytda korxonalar yangi bozor izlayapti.». Bu yerda «A-(으)ㄴ/V-는 가운데» qolipi ishlatilgan: ... sharoitida / davomida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«소비자 입장에서 보면 가격이 중요해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Iqtisod qiyin sharoitda kichik do‘konlar ham qiynalmoqda.",
+        "Eksport hajmi jihatidan bu yil kattaroq.",
+        "Iste’molchi nuqtayi nazaridan narx muhim.",
+        "Uzoq muddatli qarashdan o‘zgarish sekin."
+      ],
+      "correctIndex": 2,
+      "explanation": "«소비자 입장에서 보면 가격이 중요해요.» — «Iste’molchi nuqtayi nazaridan narx muhim.». Bu yerda «N(으)로[에서] 보다» qolipi ishlatilgan: N jihatidan qaraganda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Iqtisod qiyin sharoitda kichik do‘konlar ham qiynalmoqda.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "경제가 어려운 가운데 작은 가게도 힘들어요.",
+        "장기적인 관점에서 보면 변화가 느려요.",
+        "소비자 입장에서 보면 가격이 중요해요.",
+        "의견이 갈리는 가운데 회의가 계속됐어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«경제가 어려운 가운데 작은 가게도 힘들어요.» — «Iqtisod qiyin sharoitda kichik do‘konlar ham qiynalmoqda.». Bu yerda «A-(으)ㄴ/V-는 가운데» qolipi ishlatilgan: ... sharoitida / davomida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«장기적인 관점에서 보면 변화가 느려요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Eksport o‘sayotgan paytda korxonalar yangi bozor izlayapti.",
+        "Iste’molchi nuqtayi nazaridan narx muhim.",
+        "Fikrlar bo‘lingan holatda yig‘ilish davom etdi.",
+        "Uzoq muddatli qarashdan o‘zgarish sekin."
+      ],
+      "correctIndex": 3,
+      "explanation": "«장기적인 관점에서 보면 변화가 느려요.» — «Uzoq muddatli qarashdan o‘zgarish sekin.». Bu yerda «N(으)로[에서] 보다» qolipi ishlatilgan: N jihatidan qaraganda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Fikrlar bo‘lingan holatda yig‘ilish davom etdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "수출 규모로 보면 올해가 더 커요.",
+        "의견이 갈리는 가운데 회의가 계속됐어요.",
+        "수출이 늘어나는 가운데 기업들이 새 시장을 찾고 있어요.",
+        "경제가 어려운 가운데 작은 가게도 힘들어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«의견이 갈리는 가운데 회의가 계속됐어요.» — «Fikrlar bo‘lingan holatda yig‘ilish davom etdi.». Bu yerda «A-(으)ㄴ/V-는 가운데» qolipi ishlatilgan: ... sharoitida / davomida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «수출액으로 보면 성장했다고 말할 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ma’lumot ko‘payar ekan, qiyos mezonini ham aniqlaylik.",
+        "Iste’molchi uchun narx va sifat birga muhim.",
+        "Unda jadvalda davrni ham ko‘rsataman.",
+        "Eksport qiymatiga qaralsa o‘sdi deyish mumkin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «수출액으로 보면 성장했다고 말할 수 있어요.» deydi. Ma’nosi: «Eksport qiymatiga qaralsa o‘sdi deyish mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «자료가 늘어나는 가운데 비교 기준도 분명히 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Eksport qiymatiga qaralsa o‘sdi deyish mumkin.",
+        "Ma’lumot ko‘payar ekan, qiyos mezonini ham aniqlaylik.",
+        "Iste’molchi uchun narx va sifat birga muhim.",
+        "Unda jadvalda davrni ham ko‘rsataman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «자료가 늘어나는 가운데 비교 기준도 분명히 해요.» deydi. Ma’nosi: «Ma’lumot ko‘payar ekan, qiyos mezonini ham aniqlaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «소비자 입장에서 보면 가격과 품질이 함께 중요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ma’lumot ko‘payar ekan, qiyos mezonini ham aniqlaylik.",
+        "Eksport qiymatiga qaralsa o‘sdi deyish mumkin.",
+        "Unda jadvalda davrni ham ko‘rsataman.",
+        "Iste’molchi uchun narx va sifat birga muhim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «소비자 입장에서 보면 가격과 품질이 함께 중요해요.» deydi. Ma’nosi: «Iste’molchi uchun narx va sifat birga muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그럼 표에 기간도 표시하겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Iste’molchi uchun narx va sifat birga muhim.",
+        "Eksport qiymatiga qaralsa o‘sdi deyish mumkin.",
+        "Unda jadvalda davrni ham ko‘rsataman.",
+        "Ma’lumot ko‘payar ekan, qiyos mezonini ham aniqlaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «그럼 표에 기간도 표시하겠습니다.» deydi. Ma’nosi: «Unda jadvalda davrni ham ko‘rsataman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «자료가 늘어나는 가운데 비교 기준도 분명히 해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Ma’lumot ko‘payar ekan, qiyos mezonini ham aniqlaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그럼 표에 기간도 표시하겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Unda jadvalda davrni ham ko‘rsataman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

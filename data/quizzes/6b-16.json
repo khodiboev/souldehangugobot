@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "16",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«표준어» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sheva",
+        "so‘z boyligi",
+        "adabiy til",
+        "ifoda"
+      ],
+      "correctIndex": 2,
+      "explanation": "«표준어» — «adabiy til». Bu so‘z darsdagi «Til xilma-xilligi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ohang» koreyschada qaysi so‘z?",
+      "options": [
+        "표준어",
+        "억양",
+        "방언",
+        "어휘"
+      ],
+      "correctIndex": 1,
+      "explanation": "«억양» — «ohang». Bu so‘z darsdagi «Til xilma-xilligi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«어휘» so‘zining ma’nosi qaysi?",
+      "options": [
+        "so‘z boyligi",
+        "talaffuz",
+        "sheva",
+        "ohang"
+      ],
+      "correctIndex": 0,
+      "explanation": "«어휘» — «so‘z boyligi». Bu so‘z darsdagi «Til xilma-xilligi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«so‘zlovchi» koreyschada qaysi so‘z?",
+      "options": [
+        "화자",
+        "다양성",
+        "조사",
+        "존중"
+      ],
+      "correctIndex": 0,
+      "explanation": "«화자» — «so‘zlovchi». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«조사» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qayd",
+        "xilma-xillik",
+        "hurmat",
+        "tadqiqot"
+      ],
+      "correctIndex": 3,
+      "explanation": "«조사» — «tadqiqot». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«xilma-xillik» koreyschada qaysi so‘z?",
+      "options": [
+        "조사",
+        "화자",
+        "다양성",
+        "기록"
+      ],
+      "correctIndex": 2,
+      "explanation": "«다양성» — «xilma-xillik». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-는 게 고작이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishdan nariga o‘tmaydi",
+        "... paytda aynan",
+        "Faqat ... xolos",
+        "...ning iloji yo‘q"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-는 게 고작이다» — ...ishdan nariga o‘tmaydi. Katta ish uchun juda kichik qadam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 따름이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... ekan, endi",
+        "...ib berishingizni so‘rab",
+        "...ishdan nariga o‘tmaydi",
+        "Faqat ... xolos"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)ㄹ 따름이다» — Faqat ... xolos. Gapning oxiridagi sodda, ammo kuchli nuqta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«짧은 녹음만 듣는 게 고작이면 방언을 다 안다고 할 수 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Faqat qisqa yozuvni eshitish bilan shevani to‘liq bilib bo‘lmaydi.",
+        "Tadqiqotda qatnashganlarga faqat minnatdorman.",
+        "Bir hududga borish bilangina cheklansak keng xulosa qilmang.",
+        "Ko‘proq odam ovozini eshitishni tilayman, xolos."
+      ],
+      "correctIndex": 0,
+      "explanation": "«짧은 녹음만 듣는 게 고작이면 방언을 다 안다고 할 수 없어요.» — «Faqat qisqa yozuvni eshitish bilan shevani to‘liq bilib bo‘lmaydi.». Bu yerda «V-는 게 고작이다» qolipi ishlatilgan: ...ishdan nariga o‘tmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Bir-birimizning gapini hurmat qilish, xolos.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "서로의 말을 존중할 따름이에요.",
+        "더 많은 목소리를 들을 수 있기를 바랄 따름이에요.",
+        "짧은 녹음만 듣는 게 고작이면 방언을 다 안다고 할 수 없어요.",
+        "한 지역만 찾는 게 고작이라면 결론을 넓히지 말아요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«서로의 말을 존중할 따름이에요.» — «Bir-birimizning gapini hurmat qilish, xolos.». Bu yerda «A/V-(으)ㄹ 따름이다» qolipi ishlatilgan: Faqat ... xolos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«한 지역만 찾는 게 고작이라면 결론을 넓히지 말아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tadqiqotda qatnashganlarga faqat minnatdorman.",
+        "Bir hududga borish bilangina cheklansak keng xulosa qilmang.",
+        "Bir-birimizning gapini hurmat qilish, xolos.",
+        "Ko‘proq odam ovozini eshitishni tilayman, xolos."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한 지역만 찾는 게 고작이라면 결론을 넓히지 말아요.» — «Bir hududga borish bilangina cheklansak keng xulosa qilmang.». Bu yerda «V-는 게 고작이다» qolipi ishlatilgan: ...ishdan nariga o‘tmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Ko‘proq odam ovozini eshitishni tilayman, xolos.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "조사에 참여해 주신 분들께 감사할 따름이에요.",
+        "짧은 녹음만 듣는 게 고작이면 방언을 다 안다고 할 수 없어요.",
+        "더 많은 목소리를 들을 수 있기를 바랄 따름이에요.",
+        "서로의 말을 존중할 따름이에요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«더 많은 목소리를 들을 수 있기를 바랄 따름이에요.» — «Ko‘proq odam ovozini eshitishni tilayman, xolos.». Bu yerda «A/V-(으)ㄹ 따름이다» qolipi ishlatilgan: Faqat ... xolos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«단어 몇 개 적는 게 고작이었지만 좋은 시작이었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bir-birimizning gapini hurmat qilish, xolos.",
+        "Bir necha so‘z yozishdan nariga o‘tmadik, ammo yaxshi boshlanish edi.",
+        "Ko‘proq odam ovozini eshitishni tilayman, xolos.",
+        "Faqat qisqa yozuvni eshitish bilan shevani to‘liq bilib bo‘lmaydi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«단어 몇 개 적는 게 고작이었지만 좋은 시작이었어요.» — «Bir necha so‘z yozishdan nariga o‘tmadik, ammo yaxshi boshlanish edi.». Bu yerda «V-는 게 고작이다» qolipi ishlatilgan: ...ishdan nariga o‘tmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Tadqiqotda qatnashganlarga faqat minnatdorman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "서로의 말을 존중할 따름이에요.",
+        "단어 몇 개 적는 게 고작이었지만 좋은 시작이었어요.",
+        "한 지역만 찾는 게 고작이라면 결론을 넓히지 말아요.",
+        "조사에 참여해 주신 분들께 감사할 따름이에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«조사에 참여해 주신 분들께 감사할 따름이에요.» — «Tadqiqotda qatnashganlarga faqat minnatdorman.». Bu yerda «A/V-(으)ㄹ 따름이다» qolipi ishlatilgan: Faqat ... xolos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «처음에는 인사 몇 마디 아는 게 고작이었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval bir necha salomlashishni bilardim, xolos.",
+        "Keyingi qaydimiz ham ochiq savoldan boshlanadi.",
+        "Endi turli tajribani yanada eshitamiz, xolos.",
+        "Odamni bitta “to‘g‘ri javob” bilan tushuntirmaymiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «처음에는 인사 몇 마디 아는 게 고작이었어요.» deydi. Ma’nosi: «Avval bir necha salomlashishni bilardim, xolos.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이제 서로 다른 경험을 더 들을 따름이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odamni bitta “to‘g‘ri javob” bilan tushuntirmaymiz.",
+        "Keyingi qaydimiz ham ochiq savoldan boshlanadi.",
+        "Avval bir necha salomlashishni bilardim, xolos.",
+        "Endi turli tajribani yanada eshitamiz, xolos."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «이제 서로 다른 경험을 더 들을 따름이에요.» deydi. Ma’nosi: «Endi turli tajribani yanada eshitamiz, xolos.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «정답 하나로 사람을 설명하지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Keyingi qaydimiz ham ochiq savoldan boshlanadi.",
+        "Endi turli tajribani yanada eshitamiz, xolos.",
+        "Odamni bitta “to‘g‘ri javob” bilan tushuntirmaymiz.",
+        "Avval bir necha salomlashishni bilardim, xolos."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «정답 하나로 사람을 설명하지 않아요.» deydi. Ma’nosi: «Odamni bitta “to‘g‘ri javob” bilan tushuntirmaymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리의 다음 기록도 열린 질문에서 시작해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval bir necha salomlashishni bilardim, xolos.",
+        "Endi turli tajribani yanada eshitamiz, xolos.",
+        "Keyingi qaydimiz ham ochiq savoldan boshlanadi.",
+        "Odamni bitta “to‘g‘ri javob” bilan tushuntirmaymiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «우리의 다음 기록도 열린 질문에서 시작해요.» deydi. Ma’nosi: «Keyingi qaydimiz ham ochiq savoldan boshlanadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «이제 서로 다른 경험을 더 들을 따름이에요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Endi turli tajribani yanada eshitamiz, xolos.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «우리의 다음 기록도 열린 질문에서 시작해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Keyingi qaydimiz ham ochiq savoldan boshlanadi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

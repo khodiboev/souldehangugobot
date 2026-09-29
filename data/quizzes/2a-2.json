@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«동호회» so‘zining ma’nosi qaysi?",
+      "options": [
+        "rasm",
+        "qiziqish klubi",
+        "cholg‘u asbobi",
+        "uchrashuv, yig‘in"
+      ],
+      "correctIndex": 1,
+      "explanation": "«동호회» — «qiziqish klubi». Bu so‘z darsdagi «Qiziqish va klublar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tog‘ga chiqish» koreyschada qaysi so‘z?",
+      "options": [
+        "그림",
+        "회원",
+        "등산",
+        "사진"
+      ],
+      "correctIndex": 2,
+      "explanation": "«등산» — «tog‘ga chiqish». Bu so‘z darsdagi «Qiziqish va klublar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«아주» so‘zining ma’nosi qaysi?",
+      "options": [
+        "juda",
+        "unchalik",
+        "umuman",
+        "biroz"
+      ],
+      "correctIndex": 0,
+      "explanation": "«아주» — «juda». Bu so‘z darsdagi «Daraja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«unchalik» koreyschada qaysi so‘z?",
+      "options": [
+        "별로",
+        "전혀",
+        "잘하다",
+        "꽤"
+      ],
+      "correctIndex": 0,
+      "explanation": "«별로» — «unchalik». Bu so‘z darsdagi «Daraja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«가입하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "a’zo bo‘lmoq",
+        "unchalik",
+        "yaxshi bajarmoq",
+        "biroz"
+      ],
+      "correctIndex": 0,
+      "explanation": "«가입하다» — «a’zo bo‘lmoq». Bu so‘z darsdagi «Daraja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-는 것» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakatni otga aylantirish",
+        "O‘tgan harakatdagi ot",
+        "Qilishni bilish/bilmaslik",
+        "Rasmiyroq inkor"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-는 것» — Harakatni otga aylantirish. 는 것 — harakatni qutiga solib, bitta “narsa”ga aylantiradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Rasmiyroq inkor",
+        "Harakatni otga aylantirish",
+        "Qilishni bilish/bilmaslik",
+        "O‘tgan harakatdagi ot"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)ㄴ N» — O‘tgan harakatdagi ot. (으)ㄴ — otga yopishtirilgan o‘tgan voqea surati.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-지 않다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Rasmiyroq inkor",
+        "Qilishni bilish/bilmaslik",
+        "O‘tgan harakatdagi ot",
+        "Harakatni otga aylantirish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-지 않다» — Rasmiyroq inkor. 지 않다 — fe’l ortidan keladigan aniq “emas” muhri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«제 취미는 사진을 찍는 것이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu kecha olgan suratim.",
+        "Hobbim suratga olish.",
+        "Ovqat tayyorlash qiziq.",
+        "Bu kitob qiyin emas."
+      ],
+      "correctIndex": 1,
+      "explanation": "«제 취미는 사진을 찍는 것이에요.» — «Hobbim suratga olish.». Bu yerda «V-는 것» qolipi ishlatilgan: Harakatni otga aylantirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Gitara chalishni bilaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기타를 칠 줄 알아요.",
+        "어제 찍은 사진이에요.",
+        "제가 만든 그림이에요.",
+        "이 책은 어렵지 않아요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«기타를 칠 줄 알아요.» — «Gitara chalishni bilaman.». Bu yerda «V-(으)ㄹ 줄 알다/모르다» qolipi ishlatilgan: Qilishni bilish/bilmaslik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«어제 찍은 사진이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ovqat tayyorlash qiziq.",
+        "Bu kecha olgan suratim.",
+        "Musiqa tinglashni yoqtiraman.",
+        "Hafta oxiri ishlamayman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«어제 찍은 사진이에요.» — «Bu kecha olgan suratim.». Bu yerda «V-(으)ㄴ N» qolipi ishlatilgan: O‘tgan harakatdagi ot.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 가입한 동호회는 사진 동호회예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men a’zo bo‘lgan klub surat klubidir.",
+        "Unda birga a’zo bo‘laylik.",
+        "Men yaxshi surat olishni bilmayman.",
+        "Mayli. O‘rganish qiyin emas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «제가 가입한 동호회는 사진 동호회예요.» deydi. Ma’nosi: «Men a’zo bo‘lgan klub surat klubidir.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «괜찮아요. 배우는 것이 어렵지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men yaxshi surat olishni bilmayman.",
+        "Unda birga a’zo bo‘laylik.",
+        "Mayli. O‘rganish qiyin emas.",
+        "Men a’zo bo‘lgan klub surat klubidir."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «괜찮아요. 배우는 것이 어렵지 않아요.» deydi. Ma’nosi: «Mayli. O‘rganish qiyin emas.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그럼 우리 같이 가입해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Unda birga a’zo bo‘laylik.",
+        "Men a’zo bo‘lgan klub surat klubidir.",
+        "Men yaxshi surat olishni bilmayman.",
+        "Mayli. O‘rganish qiyin emas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «그럼 우리 같이 가입해요.» deydi. Ma’nosi: «Unda birga a’zo bo‘laylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «저는 좋은 사진을 찍을 줄 몰라요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Xodim",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Men yaxshi surat olishni bilmayman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

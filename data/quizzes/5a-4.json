@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«후원» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ehson",
+        "homiylik",
+        "qo‘shni",
+        "birdamlik"
+      ],
+      "correctIndex": 1,
+      "explanation": "«후원» — «homiylik». Bu so‘z darsdagi «Yordam» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ehson» koreyschada qaysi so‘z?",
+      "options": [
+        "사랑",
+        "후원",
+        "연대",
+        "기부"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기부» — «ehson». Bu so‘z darsdagi «Yordam» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«연대» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mehr-muhabbat",
+        "homiylik",
+        "ehson",
+        "birdamlik"
+      ],
+      "correctIndex": 3,
+      "explanation": "«연대» — «birdamlik». Bu so‘z darsdagi «Yordam» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bo‘lishmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "나누다",
+        "위로하다",
+        "참여하다",
+        "모금하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«나누다» — «bo‘lishmoq». Bu so‘z darsdagi «Harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«모금하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yordam qo‘li",
+        "yordam bermoq",
+        "qatnashmoq",
+        "mablag‘ yig‘moq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«모금하다» — «mablag‘ yig‘moq». Bu so‘z darsdagi «Harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«yordam qo‘li» koreyschada qaysi so‘z?",
+      "options": [
+        "위로하다",
+        "돕다",
+        "손길",
+        "참여하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«손길» — «yordam qo‘li». Bu so‘z darsdagi «Harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-다시피» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...moq maqsadida",
+        "Bilganingizdek / deyarli",
+        "Hech bo‘lmasa N",
+        "Kim bo‘lishidan qat’i nazar hamma"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-다시피» — Bilganingizdek / deyarli. Suhbatdagi umumiy bilimga barmoq bilan ishora.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«너나없이 (모두)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bilganingizdek / deyarli",
+        "Hech bo‘lmasa N",
+        "Kim bo‘lishidan qat’i nazar hamma",
+        "...moq maqsadida"
+      ],
+      "correctIndex": 2,
+      "explanation": "«너나없이 (모두)» — Kim bo‘lishidan qat’i nazar hamma. Birgalikdagi ishda ism yorliqlari olib tashlanadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)나마» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hech bo‘lmasa N",
+        "...moq maqsadida",
+        "Bilganingizdek / deyarli",
+        "Kim bo‘lishidan qat’i nazar hamma"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N(이)나마» — Hech bo‘lmasa N. Bo‘sh qo‘l o‘rniga berilgan kichik, ammo chin sovg‘a.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«V-고자» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kim bo‘lishidan qat’i nazar hamma",
+        "...moq maqsadida",
+        "Bilganingizdek / deyarli",
+        "Hech bo‘lmasa N"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-고자» — ...moq maqsadida. Ariza tepasidagi aniq maqsad satri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«아시다시피 작은 도움도 큰 힘이 됩니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "U deyarli ko‘ngillilar markazida yashaydi.",
+        "Hech bo‘lmasa bir stakan suv iching.",
+        "Bilganingizdek kichik yordam ham katta kuch bo‘ladi.",
+        "Birga hal qilish maqsadida yig‘ilish ochdik."
+      ],
+      "correctIndex": 2,
+      "explanation": "«아시다시피 작은 도움도 큰 힘이 됩니다.» — «Bilganingizdek kichik yordam ham katta kuch bo‘ladi.». Bu yerda «V-다시피» qolipi ishlatilgan: Bilganingizdek / deyarli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Tadbirga hamma birdek qatnashdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "말이나마 위로가 되었으면 좋겠어요.",
+        "행사에는 너나없이 모두 참여했어요.",
+        "물 한 잔이나마 드세요.",
+        "아시다시피 작은 도움도 큰 힘이 됩니다."
+      ],
+      "correctIndex": 1,
+      "explanation": "«행사에는 너나없이 모두 참여했어요.» — «Tadbirga hamma birdek qatnashdi.». Bu yerda «너나없이 (모두)» qolipi ishlatilgan: Kim bo‘lishidan qat’i nazar hamma.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«작은 돈이나마 보태고 싶어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qo‘shnilar barchasi ehsonda qatnashdi.",
+        "Ozroq pul bo‘lsa ham qo‘shmoqchiman.",
+        "Tadbirga hamma birdek qatnashdi.",
+        "U deyarli ko‘ngillilar markazida yashaydi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«작은 돈이나마 보태고 싶어요.» — «Ozroq pul bo‘lsa ham qo‘shmoqchiman.». Bu yerda «N(이)나마» qolipi ishlatilgan: Hech bo‘lmasa N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Qo‘shnilarga yordam berish maqsadida mablag‘ yig‘amiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "보시다시피 많은 사람이 참여했어요.",
+        "아시다시피 작은 도움도 큰 힘이 됩니다.",
+        "이웃을 돕고자 모금 행사를 엽니다.",
+        "함께 해결하고자 회의를 열었습니다."
+      ],
+      "correctIndex": 2,
+      "explanation": "«이웃을 돕고자 모금 행사를 엽니다.» — «Qo‘shnilarga yordam berish maqsadida mablag‘ yig‘amiz.». Bu yerda «V-고자» qolipi ishlatilgan: ...moq maqsadida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아시다시피 혼자서는 어려운 일이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bilganingizdek yolg‘iz bajarish qiyin.",
+        "Hamma birga qilsa bo‘ladi.",
+        "Hech bo‘lmasa vaqt ajratib yordam beraman.",
+        "Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «아시다시피 혼자서는 어려운 일이에요.» deydi. Ma’nosi: «Bilganingizdek yolg‘iz bajarish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «너나없이 함께하면 가능해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hech bo‘lmasa vaqt ajratib yordam beraman.",
+        "Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik.",
+        "Hamma birga qilsa bo‘ladi.",
+        "Bilganingizdek yolg‘iz bajarish qiyin."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «너나없이 함께하면 가능해요.» deydi. Ma’nosi: «Hamma birga qilsa bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시간이나마 내서 도울게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hamma birga qilsa bo‘ladi.",
+        "Hech bo‘lmasa vaqt ajratib yordam beraman.",
+        "Bilganingizdek yolg‘iz bajarish qiyin.",
+        "Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «시간이나마 내서 도울게요.» deydi. Ma’nosi: «Hech bo‘lmasa vaqt ajratib yordam beraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이웃을 돕고자 다음 주에 모입시다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik.",
+        "Hamma birga qilsa bo‘ladi.",
+        "Hech bo‘lmasa vaqt ajratib yordam beraman.",
+        "Bilganingizdek yolg‘iz bajarish qiyin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «이웃을 돕고자 다음 주에 모입시다.» deydi. Ma’nosi: «Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «너나없이 함께하면 가능해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Soyon",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Hamma birga qilsa bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «이웃을 돕고자 다음 주에 모입시다.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Soyon",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Qo‘shniga yordam berish uchun kelasi hafta yig‘ilaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

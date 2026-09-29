@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "17",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«오해» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xurofot, oldindan hukm",
+        "haqiqat",
+        "tekshirmoq",
+        "noto‘g‘ri tushunish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«오해» — «noto‘g‘ri tushunish». Bu so‘z darsdagi «Mish-mish va dalil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«haqiqat» koreyschada qaysi so‘z?",
+      "options": [
+        "사실",
+        "확인하다",
+        "증거",
+        "오해"
+      ],
+      "correctIndex": 0,
+      "explanation": "«사실» — «haqiqat». Bu so‘z darsdagi «Mish-mish va dalil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«연인» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yashirmoq",
+        "oshkor qilmoq",
+        "munosabat, ora",
+        "sevishgan inson"
+      ],
+      "correctIndex": 3,
+      "explanation": "«연인» — «sevishgan inson». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«hamkasb» koreyschada qaysi so‘z?",
+      "options": [
+        "밝히다",
+        "동료",
+        "숨기다",
+        "친한 척하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«동료» — «hamkasb». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«숨기다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "oshkor qilmoq",
+        "hamkasb",
+        "yashirmoq",
+        "yaqindek ko‘rinmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«숨기다» — «yashirmoq». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-고 보니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilib ko‘rib anglasam",
+        "...dek ko‘rsatmoq",
+        "Nahotki / deganingiz nima?",
+        "Hammasi ham shunday emas"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-고 보니» — Qilib ko‘rib anglasam. 고 보니 — tajribadan keyin yongan chiroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다니(요) · N(이)라니(요)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hammasi ham shunday emas",
+        "Qilib ko‘rib anglasam",
+        "Nahotki / deganingiz nima?",
+        "...dek ko‘rsatmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-다니(요) · N(이)라니(요)» — Nahotki / deganingiz nima?. 다니요 — eshitilgan gapni hayrat bilan qaytaruvchi aks-sado.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)라고 해서 다 A-(으)ㄴ/V-는 것은 아니다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilib ko‘rib anglasam",
+        "Nahotki / deganingiz nima?",
+        "Hammasi ham shunday emas",
+        "...dek ko‘rsatmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N(이)라고 해서 다 A-(으)ㄴ/V-는 것은 아니다» — Hammasi ham shunday emas. 다 ... 것은 아니다 — katta cho‘tka bilan bo‘yalgan hukmni mayda tafsilotlarga ajratadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«직접 만나고 보니 친절한 사람이었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Shaxsan uchrashib ko‘rsam, mehribon odam ekan.",
+        "Bilib qarasam, ikki kishi hamkasb ekan.",
+        "Do‘st bo‘lsa ham hamma sirni bilavermaydi.",
+        "Men yolg‘on gapiryapman deganingiz nima?"
+      ],
+      "correctIndex": 0,
+      "explanation": "«직접 만나고 보니 친절한 사람이었어요.» — «Shaxsan uchrashib ko‘rsam, mehribon odam ekan.». Bu yerda «V-고 보니» qolipi ishlatilgan: Qilib ko‘rib anglasam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Minji mish-mishni bilmagandek bo‘ldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구라고 해서 다 비밀을 아는 것은 아니에요.",
+        "민지는 소문을 모르는 척했어요.",
+        "유명인이라고 해서 다 행복한 것은 아니에요.",
+        "확인하고 보니 그 소문은 사실이 아니었어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«민지는 소문을 모르는 척했어요.» — «Minji mish-mishni bilmagandek bo‘ldi.». Bu yerda «A-(으)ㄴ/V-는 척하다» qolipi ishlatilgan: ...dek ko‘rsatmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«두 사람이 연인 사이라니요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bilib qarasam, ikki kishi hamkasb ekan.",
+        "Men yolg‘on gapiryapman deganingiz nima?",
+        "Ikki kishi sevishgan deganingiz nima?",
+        "Shaxsan uchrashib ko‘rsam, mehribon odam ekan."
+      ],
+      "correctIndex": 2,
+      "explanation": "«두 사람이 연인 사이라니요?» — «Ikki kishi sevishgan deganingiz nima?». Bu yerda «A/V-다니(요) · N(이)라니(요)» qolipi ishlatilgan: Nahotki / deganingiz nima?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «Aziz가 팀을 그만둔다니요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Aziz hech narsa bo‘lmagandek ko‘rindi, ammo xavotirlandi.",
+        "Bevosita so‘rab ko‘rsam, biroz dam olar ekan.",
+        "Mish-mish bo‘lsa ham hammasiga ishonilmaydi.",
+        "Aziz jamoadan chiqadi deganingiz nima?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «Aziz가 팀을 그만둔다니요?» deydi. Ma’nosi: «Aziz jamoadan chiqadi deganingiz nima?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «직접 물어보고 보니 잠깐 쉬는 거래요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mish-mish bo‘lsa ham hammasiga ishonilmaydi.",
+        "Aziz hech narsa bo‘lmagandek ko‘rindi, ammo xavotirlandi.",
+        "Bevosita so‘rab ko‘rsam, biroz dam olar ekan.",
+        "Aziz jamoadan chiqadi deganingiz nima?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «직접 물어보고 보니 잠깐 쉬는 거래요.» deydi. Ma’nosi: «Bevosita so‘rab ko‘rsam, biroz dam olar ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «소문이라고 해서 다 믿는 것은 아니에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bevosita so‘rab ko‘rsam, biroz dam olar ekan.",
+        "Mish-mish bo‘lsa ham hammasiga ishonilmaydi.",
+        "Aziz jamoadan chiqadi deganingiz nima?",
+        "Aziz hech narsa bo‘lmagandek ko‘rindi, ammo xavotirlandi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Soyon «소문이라고 해서 다 믿는 것은 아니에요.» deydi. Ma’nosi: «Mish-mish bo‘lsa ham hammasiga ishonilmaydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «직접 물어보고 보니 잠깐 쉬는 거래요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Soyon",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Bevosita so‘rab ko‘rsam, biroz dam olar ekan.».",
+      "reviewSection": "s"
+    }
+  ]
+}

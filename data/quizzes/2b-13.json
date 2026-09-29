@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«아파트» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kvartira",
+        "depozit",
+        "xizmat haqi",
+        "ko‘chish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«아파트» — «kvartira». Bu so‘z darsdagi «Uy-joy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«oylik ijara» koreyschada qaysi so‘z?",
+      "options": [
+        "월세",
+        "이사",
+        "원룸",
+        "관리비"
+      ],
+      "correctIndex": 0,
+      "explanation": "«월세» — «oylik ijara». Bu so‘z darsdagi «Uy-joy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«주변» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tabiiy yorug‘lik",
+        "atrof",
+        "transport",
+        "keng bo‘lmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«주변» — «atrof». Bu so‘z darsdagi «Yashash sharoiti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tabiiy yorug‘lik» koreyschada qaysi so‘z?",
+      "options": [
+        "채광",
+        "주변",
+        "편의 시설",
+        "교통"
+      ],
+      "correctIndex": 0,
+      "explanation": "«채광» — «tabiiy yorug‘lik». Bu so‘z darsdagi «Yashash sharoiti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«가깝다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "topmoq, izlab olmoq",
+        "qulaylik obyektlari",
+        "yaqin bo‘lmoq",
+        "atrof"
+      ],
+      "correctIndex": 2,
+      "explanation": "«가깝다» — «yaqin bo‘lmoq». Bu so‘z darsdagi «Yashash sharoiti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ지 모르겠다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakat qilish oson/qiyin",
+        "...gani sababli",
+        "Bilmayman, balki...",
+        "To‘g‘ri, lekin..."
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄹ지 모르겠다» — Bilmayman, balki.... (으)ㄹ지 — yopiq eshik ortidagi noma’lum javob.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-기 때문에 · N(이)기 때문에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakat qilish oson/qiyin",
+        "To‘g‘ri, lekin...",
+        "Bilmayman, balki...",
+        "...gani sababli"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-기 때문에 · N(이)기 때문에» — ...gani sababli. 기 때문에 — natijani ushlab turgan mustahkam sabab ustuni.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-기(가) A» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakat qilish oson/qiyin",
+        "Bilmayman, balki...",
+        "To‘g‘ri, lekin...",
+        "...gani sababli"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-기(가) A» — Harakat qilish oson/qiyin. 기 — harakatni baholash stoliga qo‘yadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«월세가 비쌀지 모르겠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu mahallada yashash yaxshi.",
+        "Ijara qimmat bo‘ladimi, bilmayman.",
+        "Talaba bo‘lganim uchun yotoqxonaga ariza bera olaman.",
+        "Stansiya yaqin bo‘lgani uchun qulay."
+      ],
+      "correctIndex": 1,
+      "explanation": "«월세가 비쌀지 모르겠어요.» — «Ijara qimmat bo‘ladimi, bilmayman.». Bu yerda «A/V-(으)ㄹ지 모르겠다» qolipi ishlatilgan: Bilmayman, balki....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Xona keng, lekin qimmat.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "주변이 조용하기 때문에 살기 좋아요.",
+        "학교에서 멀기는 하지만 조용해요.",
+        "이 방은 청소하기 어려워요.",
+        "방이 넓기는 하지만 비싸요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«방이 넓기는 하지만 비싸요.» — «Xona keng, lekin qimmat.». Bu yerda «A/V-기는 하지만» qolipi ishlatilgan: To‘g‘ri, lekin....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«주변이 조용하기 때문에 살기 좋아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Atrof sokin bo‘lgani uchun yashash yaxshi.",
+        "Xona topa olamanmi, bilmayman.",
+        "Stansiya yaqin bo‘lgani uchun qulay.",
+        "Bu xonani tozalash qiyin."
+      ],
+      "correctIndex": 0,
+      "explanation": "«주변이 조용하기 때문에 살기 좋아요.» — «Atrof sokin bo‘lgani uchun yashash yaxshi.». Bu yerda «A/V-기 때문에 · N(이)기 때문에» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋은 방을 구할 수 있을지 모르겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Transport qulay bo‘lgani uchun yashash yaxshi bo‘ladi.",
+        "Bu xona kichik, lekin stansiya yaqin.",
+        "Yaxshi xona topa olamanmi, bilmayman.",
+        "Shartnoma qilishdan oldin xizmat haqini tekshiring."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «좋은 방을 구할 수 있을지 모르겠어요.» deydi. Ma’nosi: «Yaxshi xona topa olamanmi, bilmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «교통이 편리하기 때문에 살기 좋겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi xona topa olamanmi, bilmayman.",
+        "Transport qulay bo‘lgani uchun yashash yaxshi bo‘ladi.",
+        "Shartnoma qilishdan oldin xizmat haqini tekshiring.",
+        "Bu xona kichik, lekin stansiya yaqin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «교통이 편리하기 때문에 살기 좋겠어요.» deydi. Ma’nosi: «Transport qulay bo‘lgani uchun yashash yaxshi bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «계약하기 전에 관리비를 확인하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shartnoma qilishdan oldin xizmat haqini tekshiring.",
+        "Transport qulay bo‘lgani uchun yashash yaxshi bo‘ladi.",
+        "Yaxshi xona topa olamanmi, bilmayman.",
+        "Bu xona kichik, lekin stansiya yaqin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «계약하기 전에 관리비를 확인하세요.» deydi. Ma’nosi: «Shartnoma qilishdan oldin xizmat haqini tekshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «이 방은 작기는 하지만 역이 가까워요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Jisu",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bu xona kichik, lekin stansiya yaqin.».",
+      "reviewSection": "s"
+    }
+  ]
+}

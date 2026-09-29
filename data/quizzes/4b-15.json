@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«진돗개» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yo‘qolib ketish",
+        "jindo iti",
+        "hayvon",
+        "muhofaza qilinadigan tur"
+      ],
+      "correctIndex": 1,
+      "explanation": "«진돗개» — «jindo iti». Bu so‘z darsdagi «Hayvonlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«yo‘qolib ketish» koreyschada qaysi so‘z?",
+      "options": [
+        "동물",
+        "멸종",
+        "보호종",
+        "서식지"
+      ],
+      "correctIndex": 1,
+      "explanation": "«멸종» — «yo‘qolib ketish». Bu so‘z darsdagi «Hayvonlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«보호종» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hayvon",
+        "muhofaza qilinadigan tur",
+        "yashash muhiti",
+        "yo‘lboshlovchi it"
+      ],
+      "correctIndex": 1,
+      "explanation": "«보호종» — «muhofaza qilinadigan tur». Bu so‘z darsdagi «Hayvonlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«mugunghva guli» koreyschada qaysi so‘z?",
+      "options": [
+        "기르다",
+        "식물",
+        "책임",
+        "무궁화"
+      ],
+      "correctIndex": 3,
+      "explanation": "«무궁화» — «mugunghva guli». Bu so‘z darsdagi «O‘simlik va parvarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«기르다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mugunghva guli",
+        "g‘amxo‘rlik qilmoq",
+        "parvarishlamoq",
+        "o‘simlik"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기르다» — «parvarishlamoq». Bu so‘z darsdagi «O‘simlik va parvarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«mas’uliyat» koreyschada qaysi so‘z?",
+      "options": [
+        "씨앗",
+        "기르다",
+        "식물",
+        "책임"
+      ],
+      "correctIndex": 3,
+      "explanation": "«책임» — «mas’uliyat». Bu so‘z darsdagi «O‘simlik va parvarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N만 못하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N sifatida",
+        "Nchalik yaxshi emas",
+        "...ish o‘rniga",
+        "...gani sababli"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N만 못하다» — Nchalik yaxshi emas. Tarozida ikkinchi tomon og‘irroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ 게 아니라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nchalik yaxshi emas",
+        "...gani sababli",
+        "...ish o‘rniga",
+        "N sifatida"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)ㄹ 게 아니라» — ...ish o‘rniga. Yaroqsiz rejani chizib, o‘rniga yaxshisini yozish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(으)로서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nchalik yaxshi emas",
+        "...ish o‘rniga",
+        "...gani sababli",
+        "N sifatida"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N(으)로서» — N sifatida. Gapiruvchining qaysi “shlyapa” bilan gapirayotganini ko‘rsatish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)므로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N sifatida",
+        "Nchalik yaxshi emas",
+        "...ish o‘rniga",
+        "...gani sababli"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)므로» — ...gani sababli. Rasmiy bayondagi sababdan xulosaga boradigan ko‘prik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«사진은 직접 본 풍경만 못해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Surat bevosita ko‘rgan manzarachalik emas.",
+        "Fuqaro sifatida yo‘qolish xavfidagi turlarni asrashim kerak.",
+        "Sun’iy gul tirik gulchalik emas.",
+        "Hayvonni shunchaki sotib olish o‘rniga oxirigacha parvarishlash kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사진은 직접 본 풍경만 못해요.» — «Surat bevosita ko‘rgan manzarachalik emas.». Bu yerda «N만 못하다» qolipi ishlatilgan: Nchalik yaxshi emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Hayvonni shunchaki sotib olish o‘rniga oxirigacha parvarishlash kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "멸종을 걱정만 할 게 아니라 서식지를 보호해요.",
+        "작은 화분이지만 큰 정원만 못한 것은 아니에요.",
+        "동물을 사기만 할 게 아니라 끝까지 돌봐야 해요.",
+        "반려동물은 소중하므로 신중하게 결정해야 합니다."
+      ],
+      "correctIndex": 2,
+      "explanation": "«동물을 사기만 할 게 아니라 끝까지 돌봐야 해요.» — «Hayvonni shunchaki sotib olish o‘rniga oxirigacha parvarishlash kerak.». Bu yerda «V-(으)ㄹ 게 아니라» qolipi ishlatilgan: ...ish o‘rniga.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«보호자로서 반려동물을 책임져야 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Parvarishlovchi sifatida uy hayvoni uchun mas’ulman.",
+        "Hayvonni shunchaki sotib olish o‘rniga oxirigacha parvarishlash kerak.",
+        "Yo‘qolishidan faqat xavotir qilish o‘rniga yashash muhitini asraylik.",
+        "Tadqiqotchi sifatida aniq ma’lumotdan foydalanish kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "«보호자로서 반려동물을 책임져야 해요.» — «Parvarishlovchi sifatida uy hayvoni uchun mas’ulman.». Bu yerda «N(으)로서» qolipi ishlatilgan: N sifatida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Yashash hududi kamaygani sabab himoya choralari kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "인공 꽃은 살아 있는 꽃만 못해요.",
+        "멸종을 걱정만 할 게 아니라 서식지를 보호해요.",
+        "시민으로서 멸종위기종을 보호해야 해요.",
+        "서식지가 줄어들므로 보호 대책이 필요합니다."
+      ],
+      "correctIndex": 3,
+      "explanation": "«서식지가 줄어들므로 보호 대책이 필요합니다.» — «Yashash hududi kamaygani sabab himoya choralari kerak.». Bu yerda «A/V-(으)므로» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «구경만 할 게 아니라 씨앗을 함께 심어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Joy kichik bo‘lgani sabab turlarni ehtiyotkor tanlaylik.",
+        "Surat haqiqiy bog‘chalik emas. Uni bevosita ko‘rish go‘zal.",
+        "Ko‘ngilli sifatida har hafta suv quyaman.",
+        "Faqat tomosha qilish o‘rniga urug‘ni birga ekaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «구경만 할 게 아니라 씨앗을 함께 심어요.» deydi. Ma’nosi: «Faqat tomosha qilish o‘rniga urug‘ni birga ekaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «자원봉사자로서 매주 물을 줄게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘ngilli sifatida har hafta suv quyaman.",
+        "Joy kichik bo‘lgani sabab turlarni ehtiyotkor tanlaylik.",
+        "Surat haqiqiy bog‘chalik emas. Uni bevosita ko‘rish go‘zal.",
+        "Faqat tomosha qilish o‘rniga urug‘ni birga ekaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «자원봉사자로서 매주 물을 줄게요.» deydi. Ma’nosi: «Ko‘ngilli sifatida har hafta suv quyaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «공간이 작으므로 식물 종류를 신중히 골라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Surat haqiqiy bog‘chalik emas. Uni bevosita ko‘rish go‘zal.",
+        "Ko‘ngilli sifatida har hafta suv quyaman.",
+        "Joy kichik bo‘lgani sabab turlarni ehtiyotkor tanlaylik.",
+        "Faqat tomosha qilish o‘rniga urug‘ni birga ekaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «공간이 작으므로 식물 종류를 신중히 골라요.» deydi. Ma’nosi: «Joy kichik bo‘lgani sabab turlarni ehtiyotkor tanlaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진은 직접 본 정원만 못해요. 실제로 보면 아름다워요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Faqat tomosha qilish o‘rniga urug‘ni birga ekaylik.",
+        "Joy kichik bo‘lgani sabab turlarni ehtiyotkor tanlaylik.",
+        "Surat haqiqiy bog‘chalik emas. Uni bevosita ko‘rish go‘zal.",
+        "Ko‘ngilli sifatida har hafta suv quyaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «사진은 직접 본 정원만 못해요. 실제로 보면 아름다워요.» deydi. Ma’nosi: «Surat haqiqiy bog‘chalik emas. Uni bevosita ko‘rish go‘zal.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «자원봉사자로서 매주 물을 줄게요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Ko‘ngilli sifatida har hafta suv quyaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «사진은 직접 본 정원만 못해요. 실제로 보면 아름다워요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Surat haqiqiy bog‘chalik emas. Uni bevosita ko‘rish go‘zal.».",
+      "reviewSection": "s"
+    }
+  ]
+}

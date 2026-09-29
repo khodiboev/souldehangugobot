@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«학습» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maqsad",
+        "o‘rganish",
+        "sir, usul",
+        "reja"
+      ],
+      "correctIndex": 1,
+      "explanation": "«학습» — «o‘rganish». Bu so‘z darsdagi «O‘rganish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«reja» koreyschada qaysi so‘z?",
+      "options": [
+        "복습",
+        "계획",
+        "비결",
+        "학습"
+      ],
+      "correctIndex": 1,
+      "explanation": "«계획» — «reja». Bu so‘z darsdagi «O‘rganish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«집중력» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maqsad",
+        "reja",
+        "takrorlash",
+        "diqqat kuchi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«집중력» — «diqqat kuchi». Bu so‘z darsdagi «O‘rganish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«samaradorlik» koreyschada qaysi so‘z?",
+      "options": [
+        "효율",
+        "메모",
+        "실천하다",
+        "습관"
+      ],
+      "correctIndex": 0,
+      "explanation": "«효율» — «samaradorlik». Bu so‘z darsdagi «Natija» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«발표» so‘zining ma’nosi qaysi?",
+      "options": [
+        "odat",
+        "samaradorlik",
+        "taqdimot",
+        "amalga oshirmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«발표» — «taqdimot». Bu so‘z darsdagi «Natija» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«amalga oshirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "성장",
+        "효율",
+        "습관",
+        "실천하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«실천하다» — «amalga oshirmoq». Bu so‘z darsdagi «Natija» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㅁ으로써» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nga yaxshi misol",
+        "...ish orqali",
+        "N orqali",
+        "...tomoni bor"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)ㅁ으로써» — ...ish orqali. Natijaga eltuvchi bajarilgan ish ko‘prigi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N을/를 통해서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nga yaxshi misol",
+        "...ish orqali",
+        "N orqali",
+        "...tomoni bor"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N을/를 통해서» — N orqali. Ma’lumot o‘tadigan kanal.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 면이 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ish orqali",
+        "...tomoni bor",
+        "Nga yaxshi misol",
+        "N orqali"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ/V-는 면이 있다» — ...tomoni bor. Ko‘p qirrali buyumning faqat bir tomoniga yorug‘lik tushirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N은/는 N을/를 보여 주는 좋은 예이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nga yaxshi misol",
+        "...ish orqali",
+        "N orqali",
+        "...tomoni bor"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N은/는 N을/를 보여 주는 좋은 예이다» — Nga yaxshi misol. Fikr ostiga qo‘yilgan aniq surat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«매일 복습함으로써 내용을 오래 기억해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bahs darsi tinglashni rivojlantiradigan tomonga ega.",
+        "Har kuni takrorlash orqali mazmunni uzoq eslayman.",
+        "Bahs orqali boshqa fikrni o‘rgandim.",
+        "Intervyu orqali o‘qish sirini eshitdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«매일 복습함으로써 내용을 오래 기억해요.» — «Har kuni takrorlash orqali mazmunni uzoq eslayman.». Bu yerda «V-(으)ㅁ으로써» qolipi ishlatilgan: ...ish orqali.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bahs orqali boshqa fikrni o‘rgandim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "토론을 통해서 다른 생각을 배웠어요.",
+        "다른 사람에게 설명함으로써 이해를 확인해요.",
+        "이 방법은 시간이 많이 드는 면이 있어요.",
+        "실수를 통해서 약점을 알게 됐어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«토론을 통해서 다른 생각을 배웠어요.» — «Bahs orqali boshqa fikrni o‘rgandim.». Bu yerda «N을/를 통해서» qolipi ishlatilgan: N orqali.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«혼자 공부하는 데에도 좋은 면이 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bahs darsi tinglashni rivojlantiradigan tomonga ega.",
+        "Yolg‘iz o‘qishning ham yaxshi tomoni bor.",
+        "Bu loyiha hamkorlik kuchiga yaxshi misol.",
+        "Bahs orqali boshqa fikrni o‘rgandim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«혼자 공부하는 데에도 좋은 면이 있어요.» — «Yolg‘iz o‘qishning ham yaxshi tomoni bor.». Bu yerda «A-(으)ㄴ/V-는 면이 있다» qolipi ishlatilgan: ...tomoni bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bu loyiha hamkorlik kuchiga yaxshi misol.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "다른 사람에게 설명함으로써 이해를 확인해요.",
+        "토론을 통해서 다른 생각을 배웠어요.",
+        "이 프로젝트는 협력의 힘을 보여 주는 좋은 예예요.",
+        "인터뷰를 통해서 공부 비결을 들었어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«이 프로젝트는 협력의 힘을 보여 주는 좋은 예예요.» — «Bu loyiha hamkorlik kuchiga yaxshi misol.». Bu yerda «N은/는 N을/를 보여 주는 좋은 예이다» qolipi ishlatilgan: Nga yaxshi misol.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «질문을 적음으로써 생각을 정리해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Do‘st bilan mashq qilishning yaxshi tomoni bor.",
+        "Savollarni yozib fikrimni tartiblayman.",
+        "Bu mashq muntazamlikka yaxshi misol.",
+        "Intervyu orqali ishonch ham oshadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «질문을 적음으로써 생각을 정리해요.» deydi. Ma’nosi: «Savollarni yozib fikrimni tartiblayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «친구와 연습하는 데 좋은 면이 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Savollarni yozib fikrimni tartiblayman.",
+        "Bu mashq muntazamlikka yaxshi misol.",
+        "Intervyu orqali ishonch ham oshadi.",
+        "Do‘st bilan mashq qilishning yaxshi tomoni bor."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «친구와 연습하는 데 좋은 면이 있어요.» deydi. Ma’nosi: «Do‘st bilan mashq qilishning yaxshi tomoni bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «인터뷰를 통해서 자신감도 생기겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Savollarni yozib fikrimni tartiblayman.",
+        "Bu mashq muntazamlikka yaxshi misol.",
+        "Do‘st bilan mashq qilishning yaxshi tomoni bor.",
+        "Intervyu orqali ishonch ham oshadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «인터뷰를 통해서 자신감도 생기겠어요.» deydi. Ma’nosi: «Intervyu orqali ishonch ham oshadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 연습은 꾸준함을 보여 주는 좋은 예예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Intervyu orqali ishonch ham oshadi.",
+        "Bu mashq muntazamlikka yaxshi misol.",
+        "Savollarni yozib fikrimni tartiblayman.",
+        "Do‘st bilan mashq qilishning yaxshi tomoni bor."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Soyon «이 연습은 꾸준함을 보여 주는 좋은 예예요.» deydi. Ma’nosi: «Bu mashq muntazamlikka yaxshi misol.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «친구와 연습하는 데 좋은 면이 있어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Aziz",
+        "Soyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Do‘st bilan mashq qilishning yaxshi tomoni bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «이 연습은 꾸준함을 보여 주는 좋은 예예요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Mariya",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Bu mashq muntazamlikka yaxshi misol.».",
+      "reviewSection": "s"
+    }
+  ]
+}

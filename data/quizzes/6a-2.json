@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«사생활» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jamoat manfaati",
+        "huquq",
+        "shaxsiy hayot",
+        "xavfsizlik"
+      ],
+      "correctIndex": 2,
+      "explanation": "«사생활» — «shaxsiy hayot». Bu so‘z darsdagi «Jamoat va shaxs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ma’lumot» koreyschada qaysi so‘z?",
+      "options": [
+        "정보",
+        "공익",
+        "동의",
+        "권리"
+      ],
+      "correctIndex": 0,
+      "explanation": "«정보» — «ma’lumot». Bu so‘z darsdagi «Jamoat va shaxs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«안전» so‘zining ma’nosi qaysi?",
+      "options": [
+        "huquq",
+        "ma’lumot",
+        "shaxsiy hayot",
+        "xavfsizlik"
+      ],
+      "correctIndex": 3,
+      "explanation": "«안전» — «xavfsizlik». Bu so‘z darsdagi «Jamoat va shaxs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«himoya» koreyschada qaysi so‘z?",
+      "options": [
+        "판단하다",
+        "보호",
+        "공개",
+        "책임"
+      ],
+      "correctIndex": 1,
+      "explanation": "«보호» — «himoya». Bu so‘z darsdagi «Oshkoralik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«기자» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hukm qilmoq",
+        "javobgarlik",
+        "muxbir",
+        "himoya"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기자» — «muxbir». Bu so‘z darsdagi «Oshkoralik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«hukm qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "기록",
+        "기자",
+        "판단하다",
+        "책임"
+      ],
+      "correctIndex": 2,
+      "explanation": "«판단하다» — «hukm qilmoq». Bu so‘z darsdagi «Oshkoralik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-거니와» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gani sababli",
+        "... deb faraz qilsak ham",
+        "... ham, qolaversa",
+        "N jihatidan qaraganda"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-거니와» — ... ham, qolaversa. Dalillar zinapoyasining ikkinchi pog‘onasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다손 치더라도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... ham, qolaversa",
+        "... deb faraz qilsak ham",
+        "...ishi uchun shunday qilib",
+        "... deb ishonib / ... bo‘ladi deb"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-다손 치더라도» — ... deb faraz qilsak ham. Bahsdagi “xo‘p, shunday bo‘lsin” ko‘prigi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«공익도 중요하거니와 사생활도 지켜야 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Maqola faktni yetkazadi, qolaversa odamga ta’sir qiladi.",
+        "Jamoat foydasi muhim, qolaversa shaxsiy hayot ham asralishi kerak.",
+        "Oshkor qilish kerak deylik, baribir rozilik olish kerak.",
+        "Xabar jamoatga foydali deylik, baribir ismni yashirish mumkin."
+      ],
+      "correctIndex": 1,
+      "explanation": "«공익도 중요하거니와 사생활도 지켜야 해요.» — «Jamoat foydasi muhim, qolaversa shaxsiy hayot ham asralishi kerak.». Bu yerda «A/V-거니와» qolipi ishlatilgan: ... ham, qolaversa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Oshkor qilish kerak deylik, baribir rozilik olish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "보도가 공익적이다손 치더라도 이름은 가릴 수 있어요.",
+        "정보가 맞다손 치더라도 출처를 밝혀야 해요.",
+        "기록은 유용하거니와 관리 책임도 커요.",
+        "공개가 필요하다손 치더라도 동의를 받아야 해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«공개가 필요하다손 치더라도 동의를 받아야 해요.» — «Oshkor qilish kerak deylik, baribir rozilik olish kerak.». Bu yerda «A/V-다손 치더라도» qolipi ishlatilgan: ... deb faraz qilsak ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«기록은 유용하거니와 관리 책임도 커요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xabar jamoatga foydali deylik, baribir ismni yashirish mumkin.",
+        "Maqola faktni yetkazadi, qolaversa odamga ta’sir qiladi.",
+        "Qayd foydali, shu bilan birga uni boshqarish mas’uliyati katta.",
+        "Ma’lumot to‘g‘ri deylik, baribir manbani ko‘rsatish kerak."
+      ],
+      "correctIndex": 2,
+      "explanation": "«기록은 유용하거니와 관리 책임도 커요.» — «Qayd foydali, shu bilan birga uni boshqarish mas’uliyati katta.». Bu yerda «A/V-거니와» qolipi ishlatilgan: ... ham, qolaversa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Xabar jamoatga foydali deylik, baribir ismni yashirish mumkin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기사는 사실을 알리거니와 사람에게 영향도 줘요.",
+        "공개가 필요하다손 치더라도 동의를 받아야 해요.",
+        "공익도 중요하거니와 사생활도 지켜야 해요.",
+        "보도가 공익적이다손 치더라도 이름은 가릴 수 있어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«보도가 공익적이다손 치더라도 이름은 가릴 수 있어요.» — «Xabar jamoatga foydali deylik, baribir ismni yashirish mumkin.». Bu yerda «A/V-다손 치더라도» qolipi ishlatilgan: ... deb faraz qilsak ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«기사는 사실을 알리거니와 사람에게 영향도 줘요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Oshkor qilish kerak deylik, baribir rozilik olish kerak.",
+        "Maqola faktni yetkazadi, qolaversa odamga ta’sir qiladi.",
+        "Jamoat foydasi muhim, qolaversa shaxsiy hayot ham asralishi kerak.",
+        "Xabar jamoatga foydali deylik, baribir ismni yashirish mumkin."
+      ],
+      "correctIndex": 1,
+      "explanation": "«기사는 사실을 알리거니와 사람에게 영향도 줘요.» — «Maqola faktni yetkazadi, qolaversa odamga ta’sir qiladi.». Bu yerda «A/V-거니와» qolipi ishlatilgan: ... ham, qolaversa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Ma’lumot to‘g‘ri deylik, baribir manbani ko‘rsatish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "공개가 필요하다손 치더라도 동의를 받아야 해요.",
+        "공익도 중요하거니와 사생활도 지켜야 해요.",
+        "보도가 공익적이다손 치더라도 이름은 가릴 수 있어요.",
+        "정보가 맞다손 치더라도 출처를 밝혀야 해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«정보가 맞다손 치더라도 출처를 밝혀야 해요.» — «Ma’lumot to‘g‘ri deylik, baribir manbani ko‘rsatish kerak.». Bu yerda «A/V-다손 치더라도» qolipi ishlatilgan: ... deb faraz qilsak ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진은 설명에 도움이 되거니와 위험도 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tadbir ochiq bo‘lgan deylik, baribir suratdagi odamdan so‘raylik.",
+        "Shaxsiy ma’lumotga ehtiyot bo‘laylik.",
+        "Rozilik olsak qayd qilib qo‘yaman.",
+        "Surat tushuntirishga yordam beradi, ammo xavfi ham bor."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «사진은 설명에 도움이 되거니와 위험도 있어요.» deydi. Ma’nosi: «Surat tushuntirishga yordam beradi, ammo xavfi ham bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «행사가 공개되었다손 치더라도 당사자에게 물어봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tadbir ochiq bo‘lgan deylik, baribir suratdagi odamdan so‘raylik.",
+        "Shaxsiy ma’lumotga ehtiyot bo‘laylik.",
+        "Surat tushuntirishga yordam beradi, ammo xavfi ham bor.",
+        "Rozilik olsak qayd qilib qo‘yaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «행사가 공개되었다손 치더라도 당사자에게 물어봐요.» deydi. Ma’nosi: «Tadbir ochiq bo‘lgan deylik, baribir suratdagi odamdan so‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «동의를 받으면 기록해 둘게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shaxsiy ma’lumotga ehtiyot bo‘laylik.",
+        "Rozilik olsak qayd qilib qo‘yaman.",
+        "Tadbir ochiq bo‘lgan deylik, baribir suratdagi odamdan so‘raylik.",
+        "Surat tushuntirishga yordam beradi, ammo xavfi ham bor."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «동의를 받으면 기록해 둘게요.» deydi. Ma’nosi: «Rozilik olsak qayd qilib qo‘yaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «개인정보는 조심해서 다뤄요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shaxsiy ma’lumotga ehtiyot bo‘laylik.",
+        "Tadbir ochiq bo‘lgan deylik, baribir suratdagi odamdan so‘raylik.",
+        "Rozilik olsak qayd qilib qo‘yaman.",
+        "Surat tushuntirishga yordam beradi, ammo xavfi ham bor."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «개인정보는 조심해서 다뤄요.» deydi. Ma’nosi: «Shaxsiy ma’lumotga ehtiyot bo‘laylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «행사가 공개되었다손 치더라도 당사자에게 물어봐요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Tadbir ochiq bo‘lgan deylik, baribir suratdagi odamdan so‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «개인정보는 조심해서 다뤄요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Shaxsiy ma’lumotga ehtiyot bo‘laylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

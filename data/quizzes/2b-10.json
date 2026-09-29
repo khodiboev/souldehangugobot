@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«국» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sho‘rva",
+        "shirin bo‘lmoq",
+        "taomnoma",
+        "tuzsiz bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«국» — «sho‘rva». Bu so‘z darsdagi «Ovqat va ta’m» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«achchiq bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "맵다",
+        "찌개",
+        "반찬",
+        "국"
+      ],
+      "correctIndex": 0,
+      "explanation": "«맵다» — «achchiq bo‘lmoq». Bu so‘z darsdagi «Ovqat va ta’m» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«식당» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hisob-kitob qilmoq",
+        "kishilik porsiya",
+        "qo‘shmoq",
+        "restoran"
+      ],
+      "correctIndex": 3,
+      "explanation": "«식당» — «restoran». Bu so‘z darsdagi «Restoran» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«yetkazib berish» koreyschada qaysi so‘z?",
+      "options": [
+        "인분",
+        "배달",
+        "추천하다",
+        "계산하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«배달» — «yetkazib berish». Bu so‘z darsdagi «Restoran» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«계산하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yetkazib berish",
+        "buyurtma bermoq",
+        "hisob-kitob qilmoq",
+        "qo‘shmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«계산하다» — «hisob-kitob qilmoq». Bu so‘z darsdagi «Restoran» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N 중에서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yaqin norasmiy uslub",
+        "Buyruqni yetkazish",
+        "Muloyim kirish va iltimos",
+        "... orasidan"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N 중에서» — ... orasidan. 중에서 — ro‘yxat ichiga kirib, bittasini tanlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)래요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Muloyim kirish va iltimos",
+        "... orasidan",
+        "Buyruqni yetkazish",
+        "Yaqin norasmiy uslub"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)래요» — Buyruqni yetkazish. 래요 — buyruqni bir odamdan boshqasiga olib boradigan xabarchi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ데 · V-는데 · N인데 ②» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Buyruqni yetkazish",
+        "... orasidan",
+        "Muloyim kirish va iltimos",
+        "Yaqin norasmiy uslub"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-(으)ㄴ데 · V-는데 · N인데 ②» — Muloyim kirish va iltimos. 는데요 — ofitsiantga savol berishdan oldingi muloyim qo‘ng‘iroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«메뉴 중에서 뭐가 맛있어요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Minji bibimbap buyurtma qiling dedi.",
+        "Bu restoranlar orasida qaysi biri yaxshi?",
+        "Buyurtma bermoqchi edim.",
+        "Taomnomadagi qaysi ovqat mazali?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«메뉴 중에서 뭐가 맛있어요?» — «Taomnomadagi qaysi ovqat mazali?». Bu yerda «N 중에서» qolipi ishlatilgan: ... orasidan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Nima yeysan?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "두 사람인데 얼마나 주문할까요?",
+        "뭐 먹을래?",
+        "주문하려고 하는데요.",
+        "한국 음식 중에서 불고기를 좋아해요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«뭐 먹을래?» — «Nima yeysan?». Bu yerda «반말» qolipi ishlatilgan: Yaqin norasmiy uslub.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«선생님이 일찍 오래요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Buyurtma bermoqchi edim.",
+        "Ustoz erta keling dedi.",
+        "Nima yeysan?",
+        "Minji bibimbap buyurtma qiling dedi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«선생님이 일찍 오래요.» — «Ustoz erta keling dedi.». Bu yerda «V-(으)래요» qolipi ishlatilgan: Buyruqni yetkazish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «음식 중에서 뭐가 제일 매워요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu jjigae achchiq, lekin juda mazali.",
+        "Shifokor achchiq ovqatni kam yeng dedi.",
+        "Ovqatlardan qaysi biri eng achchiq?",
+        "Unda bulgogi ham buyurtma qilaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «음식 중에서 뭐가 제일 매워요?» deydi. Ma’nosi: «Ovqatlardan qaysi biri eng achchiq?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «의사가 매운 음식을 적게 먹으래요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ovqatlardan qaysi biri eng achchiq?",
+        "Bu jjigae achchiq, lekin juda mazali.",
+        "Shifokor achchiq ovqatni kam yeng dedi.",
+        "Unda bulgogi ham buyurtma qilaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «의사가 매운 음식을 적게 먹으래요.» deydi. Ma’nosi: «Shifokor achchiq ovqatni kam yeng dedi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그럼 불고기도 주문하자.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu jjigae achchiq, lekin juda mazali.",
+        "Unda bulgogi ham buyurtma qilaylik.",
+        "Ovqatlardan qaysi biri eng achchiq?",
+        "Shifokor achchiq ovqatni kam yeng dedi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «그럼 불고기도 주문하자.» deydi. Ma’nosi: «Unda bulgogi ham buyurtma qilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «의사가 매운 음식을 적게 먹으래요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Shifokor achchiq ovqatni kam yeng dedi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

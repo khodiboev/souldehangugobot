@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«환영회» so‘zining ma’nosi qaysi?",
+      "options": [
+        "festival",
+        "kutib olish kechasi",
+        "stipendiya",
+        "talabalar klubi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«환영회» — «kutib olish kechasi». Bu so‘z darsdagi «Universitet hayoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«festival» koreyschada qaysi so‘z?",
+      "options": [
+        "축제",
+        "환영회",
+        "신입생",
+        "동아리"
+      ],
+      "correctIndex": 0,
+      "explanation": "«축제» — «festival». Bu so‘z darsdagi «Universitet hayoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«공지» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qatnashmoq",
+        "xabar",
+        "e’lon",
+        "ariza bermoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«공지» — «e’lon». Bu so‘z darsdagi «Axborot va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ariza bermoq» koreyschada qaysi so‘z?",
+      "options": [
+        "소식",
+        "결심하다",
+        "신청하다",
+        "공지"
+      ],
+      "correctIndex": 2,
+      "explanation": "«신청하다» — «ariza bermoq». Bu so‘z darsdagi «Axborot va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«소개하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tanishtirmoq",
+        "ariza bermoq",
+        "e’lon",
+        "xabar"
+      ],
+      "correctIndex": 0,
+      "explanation": "«소개하다» — «tanishtirmoq». Bu so‘z darsdagi «Axborot va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-다고 · V-ㄴ/는다고 · N(이)라고 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Eshitgan ma’lumot",
+        "Qisqargan og‘zaki xabar",
+        "Qilishim kerak ekan",
+        "Bayon gapni yetkazish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-다고 · V-ㄴ/는다고 · N(이)라고 하다» — Bayon gapni yetkazish. Bu qolip boshqaning gapini “xabar konverti”ga soladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다고 들었다 · N(이)라고 들었다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Eshitgan ma’lumot",
+        "Bayon gapni yetkazish",
+        "Qisqargan og‘zaki xabar",
+        "Qilishim kerak ekan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-다고 들었다 · N(이)라고 들었다» — Eshitgan ma’lumot. Eshitilgan xabar yoniga manba belgisi qo‘yiladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-대요 · V-ㄴ/는대요 · N(이)래요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bayon gapni yetkazish",
+        "Eshitgan ma’lumot",
+        "Qisqargan og‘zaki xabar",
+        "Qilishim kerak ekan"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-대요 · V-ㄴ/는대요 · N(이)래요» — Qisqargan og‘zaki xabar. Uzun xabar kundalik nutqda buklanib kichrayadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«신입생 환영회를 한다고 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Men ham klubga a’zo bo‘lishim kerak ekan.",
+        "Yangi talabalar kechasi bo‘ladi deyishdi.",
+        "Ertaga yomg‘ir yog‘arkan.",
+        "Yotoqxona qulay deb eshitdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«신입생 환영회를 한다고 해요.» — «Yangi talabalar kechasi bo‘ladi deyishdi.». Bu yerda «A-다고 · V-ㄴ/는다고 · N(이)라고 하다» qolipi ishlatilgan: Bayon gapni yetkazish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Men ham klubga a’zo bo‘lishim kerak ekan.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기숙사가 편리하다고 들었어요.",
+        "그 사람은 교환 학생이라고 해요.",
+        "저도 동아리에 가입해야겠어요.",
+        "친구에게 먼저 물어봐야겠어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«저도 동아리에 가입해야겠어요.» — «Men ham klubga a’zo bo‘lishim kerak ekan.». Bu yerda «V-아야겠다/어야겠다» qolipi ishlatilgan: Qilishim kerak ekan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«기숙사가 편리하다고 들었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Men ham klubga a’zo bo‘lishim kerak ekan.",
+        "Yotoqxona qulay deb eshitdim.",
+        "Avval do‘stimdan so‘rashim kerak.",
+        "Ertaga yomg‘ir yog‘arkan."
+      ],
+      "correctIndex": 1,
+      "explanation": "«기숙사가 편리하다고 들었어요.» — «Yotoqxona qulay deb eshitdim.». Bu yerda «A/V-다고 들었다 · N(이)라고 들었다» qolipi ishlatilgan: Eshitgan ma’lumot.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다음 주에 학교 축제를 한대요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men ham albatta qatnashishim kerak ekan.",
+        "Mashhur xonanda ham keladi deb eshitdim.",
+        "Do‘stlarga ham xabarni yetkazing.",
+        "Keyingi hafta universitet festivali bo‘larkan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «다음 주에 학교 축제를 한대요.» deydi. Ma’nosi: «Keyingi hafta universitet festivali bo‘larkan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저도 꼭 참가해야겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mashhur xonanda ham keladi deb eshitdim.",
+        "Keyingi hafta universitet festivali bo‘larkan.",
+        "Men ham albatta qatnashishim kerak ekan.",
+        "Do‘stlarga ham xabarni yetkazing."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «저도 꼭 참가해야겠어요.» deydi. Ma’nosi: «Men ham albatta qatnashishim kerak ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «친구들에게도 소식을 전해 주세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men ham albatta qatnashishim kerak ekan.",
+        "Keyingi hafta universitet festivali bo‘larkan.",
+        "Do‘stlarga ham xabarni yetkazing.",
+        "Mashhur xonanda ham keladi deb eshitdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «친구들에게도 소식을 전해 주세요.» deydi. Ma’nosi: «Do‘stlarga ham xabarni yetkazing.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «저도 꼭 참가해야겠어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Soyon",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Men ham albatta qatnashishim kerak ekan.».",
+      "reviewSection": "s"
+    }
+  ]
+}

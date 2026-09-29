@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«체질» so‘zining ma’nosi qaysi?",
+      "options": [
+        "allergiya",
+        "odat",
+        "tana xususiyati",
+        "ovqatlanish rejasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«체질» — «tana xususiyati». Bu so‘z darsdagi «Taom va tana» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«allergiya» koreyschada qaysi so‘z?",
+      "options": [
+        "체질",
+        "음식",
+        "식단",
+        "알레르기"
+      ],
+      "correctIndex": 3,
+      "explanation": "«알레르기» — «allergiya». Bu so‘z darsdagi «Taom va tana» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«습관» so‘zining ma’nosi qaysi?",
+      "options": [
+        "odat",
+        "ozuqa",
+        "tana xususiyati",
+        "allergiya"
+      ],
+      "correctIndex": 0,
+      "explanation": "«습관» — «odat». Bu so‘z darsdagi «Taom va tana» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ma’lumot» koreyschada qaysi so‘z?",
+      "options": [
+        "조절하다",
+        "정보",
+        "확인하다",
+        "상담하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«정보» — «ma’lumot». Bu so‘z darsdagi «Kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«확인하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "moslamoq",
+        "tekshirmoq",
+        "maslahatlashmoq",
+        "alomat"
+      ],
+      "correctIndex": 1,
+      "explanation": "«확인하다» — «tekshirmoq». Bu so‘z darsdagi «Kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«moslamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "확인하다",
+        "상담하다",
+        "선택",
+        "조절하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«조절하다» — «moslamoq». Bu so‘z darsdagi «Kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunchalik ... ediki",
+        "N u yoqda tursin",
+        "...gandan keyin esa",
+        "Qilmoqchi bo‘lsam ham qilolmayman"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다» — Qilmoqchi bo‘lsam ham qilolmayman. Borgan sari berk eshikka duch kelish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«어찌나 A/V-던지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilmoqchi bo‘lsam ham qilolmayman",
+        "Shunchalik ... ediki",
+        "Ko‘pincha ... qilib qo‘ymoq",
+        "... bo‘lsa-da, ayni paytda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«어찌나 A/V-던지» — Shunchalik ... ediki. Hissiyot o‘lchagichi yuqoriga chiqib ketdi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«성분표가 없어서 확인할래야 확인할 수 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Allergiya ma’lumoti bo‘lmasa tanlamoqchi bo‘lsam ham tanlay olmayman.",
+        "Ovqat hidi shunchalik yoqimli ediki, hamma kuldi.",
+        "Navbat shunchalik uzun ediki, kuta olmadim.",
+        "Tarkib yozilmagani uchun tekshirmoqchi bo‘lsam ham tekshira olmayman."
+      ],
+      "correctIndex": 3,
+      "explanation": "«성분표가 없어서 확인할래야 확인할 수 없어요.» — «Tarkib yozilmagani uchun tekshirmoqchi bo‘lsam ham tekshira olmayman.». Bu yerda «V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다» qolipi ishlatilgan: Qilmoqchi bo‘lsam ham qilolmayman.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Izoh shunchalik murakkab ediki, qayta so‘radim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설명이 어찌나 복잡하던지 다시 물어봤어요.",
+        "음식 냄새가 어찌나 좋던지 모두 웃었어요.",
+        "알레르기 정보가 없으면 고를래야 고를 수 없어요.",
+        "줄이 어찌나 길던지 기다리지 못했어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«설명이 어찌나 복잡하던지 다시 물어봤어요.» — «Izoh shunchalik murakkab ediki, qayta so‘radim.». Bu yerda «어찌나 A/V-던지» qolipi ishlatilgan: Shunchalik ... ediki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«알레르기 정보가 없으면 고를래야 고를 수 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Allergiya ma’lumoti bo‘lmasa tanlamoqchi bo‘lsam ham tanlay olmayman.",
+        "Izoh shunchalik murakkab ediki, qayta so‘radim.",
+        "Vaqt yo‘qligi sabab maslahatlashmoqchi bo‘lsam ham bo‘lmadi.",
+        "Navbat shunchalik uzun ediki, kuta olmadim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«알레르기 정보가 없으면 고를래야 고를 수 없어요.» — «Allergiya ma’lumoti bo‘lmasa tanlamoqchi bo‘lsam ham tanlay olmayman.». Bu yerda «V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다» qolipi ishlatilgan: Qilmoqchi bo‘lsam ham qilolmayman.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Navbat shunchalik uzun ediki, kuta olmadim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "줄이 어찌나 길던지 기다리지 못했어요.",
+        "성분표가 없어서 확인할래야 확인할 수 없어요.",
+        "알레르기 정보가 없으면 고를래야 고를 수 없어요.",
+        "설명이 어찌나 복잡하던지 다시 물어봤어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«줄이 어찌나 길던지 기다리지 못했어요.» — «Navbat shunchalik uzun ediki, kuta olmadim.». Bu yerda «어찌나 A/V-던지» qolipi ishlatilgan: Shunchalik ... ediki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«시간이 없어서 상담할래야 상담할 수 없었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Navbat shunchalik uzun ediki, kuta olmadim.",
+        "Tarkib yozilmagani uchun tekshirmoqchi bo‘lsam ham tekshira olmayman.",
+        "Ovqat hidi shunchalik yoqimli ediki, hamma kuldi.",
+        "Vaqt yo‘qligi sabab maslahatlashmoqchi bo‘lsam ham bo‘lmadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«시간이 없어서 상담할래야 상담할 수 없었어요.» — «Vaqt yo‘qligi sabab maslahatlashmoqchi bo‘lsam ham bo‘lmadi.». Bu yerda «V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다» qolipi ishlatilgan: Qilmoqchi bo‘lsam ham qilolmayman.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Ovqat hidi shunchalik yoqimli ediki, hamma kuldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "성분표가 없어서 확인할래야 확인할 수 없어요.",
+        "음식 냄새가 어찌나 좋던지 모두 웃었어요.",
+        "줄이 어찌나 길던지 기다리지 못했어요.",
+        "알레르기 정보가 없으면 고를래야 고를 수 없어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«음식 냄새가 어찌나 좋던지 모두 웃었어요.» — «Ovqat hidi shunchalik yoqimli ediki, hamma kuldi.». Bu yerda «어찌나 A/V-던지» qolipi ishlatilgan: Shunchalik ... ediki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «표시가 없으면 성분을 알래야 알 수 없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xodimdan tekshirib, manbani yozaylik.",
+        "Yorliq bo‘lmasa tarkibni bilmoqchi bo‘lsam ham bilolmayman.",
+        "Yozuv shunchalik kichik ediki, ko‘rish qiyin.",
+        "Odamlarga qarab farq qilishini ham tushuntiraylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «표시가 없으면 성분을 알래야 알 수 없어요.» deydi. Ma’nosi: «Yorliq bo‘lmasa tarkibni bilmoqchi bo‘lsam ham bilolmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어찌나 글씨가 작던지 잘 안 보여요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xodimdan tekshirib, manbani yozaylik.",
+        "Yorliq bo‘lmasa tarkibni bilmoqchi bo‘lsam ham bilolmayman.",
+        "Odamlarga qarab farq qilishini ham tushuntiraylik.",
+        "Yozuv shunchalik kichik ediki, ko‘rish qiyin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «어찌나 글씨가 작던지 잘 안 보여요.» deydi. Ma’nosi: «Yozuv shunchalik kichik ediki, ko‘rish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «직원에게 확인하고 출처를 적어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yozuv shunchalik kichik ediki, ko‘rish qiyin.",
+        "Xodimdan tekshirib, manbani yozaylik.",
+        "Odamlarga qarab farq qilishini ham tushuntiraylik.",
+        "Yorliq bo‘lmasa tarkibni bilmoqchi bo‘lsam ham bilolmayman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «직원에게 확인하고 출처를 적어요.» deydi. Ma’nosi: «Xodimdan tekshirib, manbani yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «개인별 차이도 설명해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xodimdan tekshirib, manbani yozaylik.",
+        "Yorliq bo‘lmasa tarkibni bilmoqchi bo‘lsam ham bilolmayman.",
+        "Odamlarga qarab farq qilishini ham tushuntiraylik.",
+        "Yozuv shunchalik kichik ediki, ko‘rish qiyin."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «개인별 차이도 설명해요.» deydi. Ma’nosi: «Odamlarga qarab farq qilishini ham tushuntiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «어찌나 글씨가 작던지 잘 안 보여요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yozuv shunchalik kichik ediki, ko‘rish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «개인별 차이도 설명해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Odamlarga qarab farq qilishini ham tushuntiraylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

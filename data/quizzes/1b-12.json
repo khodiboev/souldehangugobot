@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«휴대 전화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mobil telefon",
+        "SMS, matnli xabar",
+        "allo",
+        "uzmoq, telefonni qo‘ymoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«휴대 전화» — «mobil telefon». Bu so‘z darsdagi «Telefon» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«almashtirmoq; telefonga chaqirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "여보세요",
+        "연락하다",
+        "바꾸다",
+        "끊다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«바꾸다» — «almashtirmoq; telefonga chaqirmoq». Bu so‘z darsdagi «Telefon» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«운전하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yubormoq",
+        "mashina haydamoq",
+        "kutmoq",
+        "shoshilinch bo‘lmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«운전하다» — «mashina haydamoq». Bu so‘z darsdagi «Holat va sabab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«shoshilinch bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "나중에",
+        "급하다",
+        "받다",
+        "회의하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«급하다» — «shoshilinch bo‘lmoq». Bu so‘z darsdagi «Holat va sabab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-고 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sabab: chunki",
+        "Tasdiq kutish",
+        "Qila olmaslik",
+        "Hozir davom etayotgan ish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-고 있다» — Hozir davom etayotgan ish. 고 있다 — videodagi ayni hozir davom etayotgan kadr.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-아서/어서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Tasdiq kutish",
+        "Qila olmaslik",
+        "Sabab: chunki",
+        "Hozir davom etayotgan ish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-아서/어서» — Sabab: chunki. Sabab → natija: yomg‘ir yog‘di, shuning uchun yo‘l ho‘l.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«민지 씨 전화번호지요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yig‘ilishda bo‘lganim uchun telefonni ko‘tara olmayman.",
+        "Bu Minjining raqami, to‘g‘rimi?",
+        "Kasal bo‘lganim uchun maktabga bora olmayman.",
+        "Ertaga maktabga borasiz, to‘g‘rimi?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«민지 씨 전화번호지요?» — «Bu Minjining raqami, to‘g‘rimi?». Bu yerda «A/V-지요? · N(이)지요?» qolipi ishlatilgan: Tasdiq kutish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Hozir yig‘ilishdaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "오늘 학교에 못 가요.",
+        "지금 바쁘지요?",
+        "회의하고 있어서 전화를 못 받아요.",
+        "지금 회의하고 있어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지금 회의하고 있어요.» — «Hozir yig‘ilishdaman.». Bu yerda «V-고 있다» qolipi ishlatilgan: Hozir davom etayotgan ish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람이 많아서 전화를 못 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ha, xavotir olmang.",
+        "Hozir kasalxonada kutyapman.",
+        "Odam ko‘pligi uchun qo‘ng‘iroq qila olmayman.",
+        "Yaxshisiz-a? Keyinroq bog‘laning."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «사람이 많아서 전화를 못 해요.» deydi. Ma’nosi: «Odam ko‘pligi uchun qo‘ng‘iroq qila olmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «네, 걱정하지 마세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hozir kasalxonada kutyapman.",
+        "Yaxshisiz-a? Keyinroq bog‘laning.",
+        "Odam ko‘pligi uchun qo‘ng‘iroq qila olmayman.",
+        "Ha, xavotir olmang."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «네, 걱정하지 마세요.» deydi. Ma’nosi: «Ha, xavotir olmang.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«이미지» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ommaviy axborot",
+        "qiyofa",
+        "xorij",
+        "tashrif"
+      ],
+      "correctIndex": 1,
+      "explanation": "«이미지» — «qiyofa». Bu so‘z darsdagi «Xalqaro aloqalar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tashrif» koreyschada qaysi so‘z?",
+      "options": [
+        "해외",
+        "이미지",
+        "교류",
+        "방문"
+      ],
+      "correctIndex": 3,
+      "explanation": "«방문» — «tashrif». Bu so‘z darsdagi «Xalqaro aloqalar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«언론» so‘zining ma’nosi qaysi?",
+      "options": [
+        "almashinuv",
+        "ommaviy axborot",
+        "qiziqish",
+        "xorij"
+      ],
+      "correctIndex": 1,
+      "explanation": "«언론» — «ommaviy axborot». Bu so‘z darsdagi «Xalqaro aloqalar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«noto‘g‘ri tasavvur» koreyschada qaysi so‘z?",
+      "options": [
+        "사실",
+        "관점",
+        "확인하다",
+        "오해"
+      ],
+      "correctIndex": 3,
+      "explanation": "«오해» — «noto‘g‘ri tasavvur». Bu so‘z darsdagi «Talqin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«맥락» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kontekst",
+        "tekshirmoq",
+        "fakt",
+        "yetkazmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«맥락» — «kontekst». Bu so‘z darsdagi «Talqin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«yetkazmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "맥락",
+        "확인하다",
+        "전하다",
+        "관점"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전하다» — «yetkazmoq». Bu so‘z darsdagi «Talqin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 성싶다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lsa-da",
+        "...moqchi bo‘lsam esa",
+        "...sa ham, ammo",
+        "...ga o‘xshaydi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)ㄹ 성싶다» — ...ga o‘xshaydi. Xulosa oldidagi yumshoq qalam belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«(비록/차라리) A/V-(으)ㄹ지언정» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lsa-da",
+        "...ga o‘xshaydi",
+        "...sa ham, ammo",
+        "N bo‘lgani uchun"
+      ],
+      "correctIndex": 2,
+      "explanation": "«(비록/차라리) A/V-(으)ㄹ지언정» — ...sa ham, ammo. Bir yo‘l qiyin bo‘lsa ham tamoyilni qo‘ldan bermaslik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«방문객의 관심이 더 늘 성싶어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tashrifchilarning qiziqishi yana oshadiganga o‘xshaydi.",
+        "Fikr farq qilsa ham bir-birimizni eshitamiz.",
+        "Vaqt ketsa ham faktni tekshiramiz.",
+        "Bu izoh noto‘g‘ri tasavvurni kamaytiradiganga o‘xshaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«방문객의 관심이 더 늘 성싶어요.» — «Tashrifchilarning qiziqishi yana oshadiganga o‘xshaydi.». Bu yerda «A/V-(으)ㄹ 성싶다» qolipi ishlatilgan: ...ga o‘xshaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Vaqt ketsa ham faktni tekshiramiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "차라리 늦을지언정 확인되지 않은 소식은 내지 않겠어요.",
+        "비록 시간이 걸릴지언정 사실을 확인해요.",
+        "방문객의 관심이 더 늘 성싶어요.",
+        "이 설명이 오해를 줄일 성싶어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«비록 시간이 걸릴지언정 사실을 확인해요.» — «Vaqt ketsa ham faktni tekshiramiz.». Bu yerda «(비록/차라리) A/V-(으)ㄹ지언정» qolipi ishlatilgan: ...sa ham, ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«이 설명이 오해를 줄일 성싶어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Kechiksa ham tasdiqlanmagan xabarni chiqarmayman.",
+        "Tashrifchilarning qiziqishi yana oshadiganga o‘xshaydi.",
+        "Bu izoh noto‘g‘ri tasavvurni kamaytiradiganga o‘xshaydi.",
+        "Fikr farq qilsa ham bir-birimizni eshitamiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "«이 설명이 오해를 줄일 성싶어요.» — «Bu izoh noto‘g‘ri tasavvurni kamaytiradiganga o‘xshaydi.». Bu yerda «A/V-(으)ㄹ 성싶다» qolipi ishlatilgan: ...ga o‘xshaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Fikr farq qilsa ham bir-birimizni eshitamiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "의견이 다를지언정 서로의 말을 들어요.",
+        "비록 시간이 걸릴지언정 사실을 확인해요.",
+        "이 설명이 오해를 줄일 성싶어요.",
+        "다른 관점도 있을 성싶어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«의견이 다를지언정 서로의 말을 들어요.» — «Fikr farq qilsa ham bir-birimizni eshitamiz.». Bu yerda «(비록/차라리) A/V-(으)ㄹ지언정» qolipi ishlatilgan: ...sa ham, ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«다른 관점도 있을 성싶어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu izoh noto‘g‘ri tasavvurni kamaytiradiganga o‘xshaydi.",
+        "Vaqt ketsa ham faktni tekshiramiz.",
+        "Tashrifchilarning qiziqishi yana oshadiganga o‘xshaydi.",
+        "Boshqa qarash ham bordek."
+      ],
+      "correctIndex": 3,
+      "explanation": "«다른 관점도 있을 성싶어요.» — «Boshqa qarash ham bordek.». Bu yerda «A/V-(으)ㄹ 성싶다» qolipi ishlatilgan: ...ga o‘xshaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Kechiksa ham tasdiqlanmagan xabarni chiqarmayman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 설명이 오해를 줄일 성싶어요.",
+        "차라리 늦을지언정 확인되지 않은 소식은 내지 않겠어요.",
+        "비록 시간이 걸릴지언정 사실을 확인해요.",
+        "방문객의 관심이 더 늘 성싶어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«차라리 늦을지언정 확인되지 않은 소식은 내지 않겠어요.» — «Kechiksa ham tasdiqlanmagan xabarni chiqarmayman.». Bu yerda «(비록/차라리) A/V-(으)ㄹ지언정» qolipi ishlatilgan: ...sa ham, ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «질문이 더 늘 성싶어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir necha kishining qarashini birga ko‘rsataylik.",
+        "Savollar yana ko‘payadiganga o‘xshaydi.",
+        "Kechiksa ham subtitrni aniq tuzataylik.",
+        "Tarjimani suhbatdoshga qayta tekshirtirdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «질문이 더 늘 성싶어요.» deydi. Ma’nosi: «Savollar yana ko‘payadiganga o‘xshaydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «늦을지언정 자막을 정확히 고쳐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir necha kishining qarashini birga ko‘rsataylik.",
+        "Tarjimani suhbatdoshga qayta tekshirtirdim.",
+        "Savollar yana ko‘payadiganga o‘xshaydi.",
+        "Kechiksa ham subtitrni aniq tuzataylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «늦을지언정 자막을 정확히 고쳐요.» deydi. Ma’nosi: «Kechiksa ham subtitrni aniq tuzataylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여러 사람의 관점을 함께 보여 줘요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tarjimani suhbatdoshga qayta tekshirtirdim.",
+        "Savollar yana ko‘payadiganga o‘xshaydi.",
+        "Kechiksa ham subtitrni aniq tuzataylik.",
+        "Bir necha kishining qarashini birga ko‘rsataylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «여러 사람의 관점을 함께 보여 줘요.» deydi. Ma’nosi: «Bir necha kishining qarashini birga ko‘rsataylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «번역을 당사자에게 다시 확인받았어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tarjimani suhbatdoshga qayta tekshirtirdim.",
+        "Kechiksa ham subtitrni aniq tuzataylik.",
+        "Savollar yana ko‘payadiganga o‘xshaydi.",
+        "Bir necha kishining qarashini birga ko‘rsataylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «번역을 당사자에게 다시 확인받았어요.» deydi. Ma’nosi: «Tarjimani suhbatdoshga qayta tekshirtirdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «늦을지언정 자막을 정확히 고쳐요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Kechiksa ham subtitrni aniq tuzataylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «번역을 당사자에게 다시 확인받았어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Tarjimani suhbatdoshga qayta tekshirtirdim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

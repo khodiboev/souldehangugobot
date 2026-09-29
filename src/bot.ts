@@ -5,7 +5,8 @@ import { esc,topic,render,sectionNames,type Section } from './render.js';
 import type { UserStats } from './stats.js';
 import { quizKey, progressKey, type QuizBank, type QuizProgress, type Quiz } from './quiz.js';
 import { quizIntro,quizIntroKeyboard,quizQuestion,quizQuestionKeyboard,quizFeedback,quizFeedbackKeyboard,quizResult,quizResultKeyboard,quizReview,wrongIndices } from './quiz-ui.js';
-type BotOptions = { stats?: UserStats; adminUserId?: string; quizzes?: QuizBank; quizProgress?: QuizProgress };
+import { placementIntro,placementIntroKeyboard,placementQuestion,placementQuestionKeyboard,placementResult,placementResultKeyboard,type Placement } from './placement.js';
+type BotOptions = { stats?: UserStats; adminUserId?: string; quizzes?: QuizBank; quizProgress?: QuizProgress; placement?: Placement };
 export function createBot(token:string,books:Book[],options: BotOptions = {}) {
  const bot=new Bot(token);
  bot.use(async(ctx,next)=>{
@@ -24,9 +25,9 @@ export function createBot(token:string,books:Book[],options: BotOptions = {}) {
    }
   }else await ctx.reply(text,options);
  }
- const welcome=(ctx:Context)=>show(ctx,'🇰🇷 Koreys tilini o‘zbekcha o‘rganamiz!\n\n📚 Kitobni tanlang:',booksKeyboard(books));
+ const welcome=(ctx:Context)=>show(ctx,'🇰🇷 Koreys tilini o‘zbekcha o‘rganamiz!\n\n📚 Kitobni tanlang yoki daraja testini ishlang:',booksKeyboard(books,Boolean(options.placement&&options.quizProgress)));
  bot.command(['start','books'],welcome);
- bot.command('help',ctx=>ctx.reply('Kitob → dars → bo‘limni tanlang. ◀️ ▶️ bilan sahifalarni almashtiring. Yashirin tarjimani bosib oching. 🧠 belgisi bor darslarda 10 savollik testni ishlang.\n\n/books — kitoblar\n/start — boshlash\n/myid — Telegram ID'));
+ bot.command('help',ctx=>ctx.reply('Kitob → dars → bo‘limni tanlang. ◀️ ▶️ bilan sahifalarni almashtiring. Yashirin tarjimani bosib oching. Har bir darsda 10, 15 yoki 20 savollik test bor. /start orqali ixtiyoriy daraja testini ham ishlashingiz mumkin.\n\n/books — kitoblar\n/start — boshlash\n/myid — Telegram ID'));
  bot.command('myid',ctx=>ctx.chat.type==='private'&&ctx.from?ctx.reply(`Telegram ID: ${ctx.from.id}`):ctx.reply('ID ni ko‘rish uchun botga shaxsiy chatda /myid yuboring.'));
  bot.command('stats',ctx=>{
   if(ctx.chat.type!=='private' || !ctx.from || !options.adminUserId || String(ctx.from.id)!==options.adminUserId || !options.stats)
@@ -38,6 +39,29 @@ export function createBot(token:string,books:Book[],options: BotOptions = {}) {
   const data=ctx.callbackQuery.data;
   if(data==='noop'){await ctx.answerCallbackQuery();return;}
   if(data==='books'){await ctx.answerCallbackQuery();await welcome(ctx);return;}
+  if(data==='pt'||data==='pts'||data==='ptres'||data.startsWith('ptn:')||data.startsWith('pta:')){
+   const placement=options.placement,progress=options.quizProgress;
+   if(!placement||!progress){await ctx.answerCallbackQuery({text:'Daraja testi hozir mavjud emas.'});return;}
+   if(ctx.chat?.type!=='private'){await ctx.answerCallbackQuery({text:'Daraja testini bot bilan shaxsiy chatda ishlang.'});return;}
+   const userId=ctx.from.id,key=progressKey(placement.assessment),entry=progress.get(userId,key);
+   if(data==='pt'){await ctx.answerCallbackQuery();await show(ctx,placementIntro(entry),placementIntroKeyboard(entry));return;}
+   const showCurrent=async(token:string)=>{
+    const active=progress.get(userId,key).active;
+    if(!active||active.token!==token){await ctx.answerCallbackQuery({text:'Bu urinish eskirgan. Daraja testini qayta oching.'});return;}
+    await ctx.answerCallbackQuery();await show(ctx,placementQuestion(placement,active.answers.length),placementQuestionKeyboard(token,active.answers.length));
+   };
+   if(data==='pts'){const active=progress.begin(userId,key);await showCurrent(active.token);return;}
+   const parts=data.split(':');
+   if(parts[0]==='ptn'&&parts.length===2&&/^[a-f0-9]{8}$/.test(parts[1])){await showCurrent(parts[1]);return;}
+   if(parts[0]==='pta'&&parts.length===4&&/^[a-f0-9]{8}$/.test(parts[1])&&/^(?:[0-9]|1[0-9]|2[0-3])$/.test(parts[2])&&/^[0-3]$/.test(parts[3])){
+    const result=progress.answer(userId,placement.assessment,parts[1],Number(parts[2]),Number(parts[3]));
+    if(result.kind==='stale'){await ctx.answerCallbackQuery({text:'Bu javob eskirgan. Daraja testini qayta oching.'});return;}
+    if(result.finished){const completed=progress.get(userId,key);await ctx.answerCallbackQuery();await show(ctx,placementResult(placement,completed),placementResultKeyboard(placement,completed));return;}
+    await showCurrent(parts[1]);return;
+   }
+   if(data==='ptres'&&entry.lastAnswers?.length===24){await ctx.answerCallbackQuery();await show(ctx,placementResult(placement,entry),placementResultKeyboard(placement,entry));return;}
+   await ctx.answerCallbackQuery({text:'Daraja testi sahifasi topilmadi. /start ni bosing.'});return;
+  }
   const parts=data.split(':');const [action,bookId,unitId,section,pageRaw]=parts;
   const book=books.find(b=>b.book.id===bookId);
   if(!book){await ctx.answerCallbackQuery({text:'Kitob topilmadi. /books ni bosing.'});return;}
@@ -46,7 +70,7 @@ export function createBot(token:string,books:Book[],options: BotOptions = {}) {
   if(!unit){await ctx.answerCallbackQuery({text:'Tugma eskirgan. /books ni bosing.'});return;}
   if(!unit.available){await ctx.answerCallbackQuery({text:'Tez orada qo‘shiladi'});return;}
   const quiz=options.quizzes?.get(quizKey(bookId,unitId));
-  const hasQuiz=Boolean(quiz && options.quizProgress);
+  const quizLength=options.quizProgress?quiz?.questions.length??0:0;
   if(['q','qs','qn','qa','qres','qr'].includes(action)){
    if(!quiz || !options.quizProgress){await ctx.answerCallbackQuery({text:'Bu dars testi hali tayyor emas.'});return;}
    if(ctx.chat?.type!=='private'){await ctx.answerCallbackQuery({text:'Testni bot bilan shaxsiy chatda ishlang.'});return;}
@@ -75,10 +99,10 @@ export function createBot(token:string,books:Book[],options: BotOptions = {}) {
    }
    await ctx.answerCallbackQuery({text:'Test sahifasi topilmadi. Darsni qayta oching.'});return;
   }
-  if(action==='u'&&parts.length===3){await ctx.answerCallbackQuery();await show(ctx,topic(unit),unitKeyboard(book,unit,undefined,0,1,hasQuiz));return;}
+  if(action==='u'&&parts.length===3){await ctx.answerCallbackQuery();await show(ctx,topic(unit),unitKeyboard(book,unit,undefined,0,1,quizLength));return;}
   if(action==='p'&&parts.length===5&&Object.hasOwn(sectionNames,section)&&/^\d{1,5}$/.test(pageRaw)){
    const selected=section as Section;const pages=render(unit,selected);const page=Number(pageRaw);
-   if(page<pages.length){await ctx.answerCallbackQuery();await show(ctx,pages[page],unitKeyboard(book,unit,selected,page,pages.length,hasQuiz));return;}
+   if(page<pages.length){await ctx.answerCallbackQuery();await show(ctx,pages[page],unitKeyboard(book,unit,selected,page,pages.length,quizLength));return;}
   }
   await ctx.answerCallbackQuery({text:'Sahifa topilmadi. Darsni qayta oching.'});
  });

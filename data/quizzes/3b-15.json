@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«수도» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kommunal boshqaruv to‘lovi",
+        "suv ta’minoti",
+        "qayta ishlash",
+        "gaz"
+      ],
+      "correctIndex": 1,
+      "explanation": "«수도» — «suv ta’minoti». Bu so‘z darsdagi «Uy va energiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«isitish tizimi» koreyschada qaysi so‘z?",
+      "options": [
+        "재활용",
+        "난방",
+        "가스",
+        "관리비"
+      ],
+      "correctIndex": 1,
+      "explanation": "«난방» — «isitish tizimi». Bu so‘z darsdagi «Uy va energiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«아끼다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tejamoq",
+        "kamaytirmoq",
+        "o‘chirmoq",
+        "shovqin"
+      ],
+      "correctIndex": 0,
+      "explanation": "«아끼다» — «tejamoq». Bu so‘z darsdagi «Tejash va qo‘shnichilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«o‘chirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "소음",
+        "이웃",
+        "아끼다",
+        "끄다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«끄다» — «o‘chirmoq». Bu so‘z darsdagi «Tejash va qo‘shnichilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«이웃» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qo‘shni",
+        "tejamoq",
+        "o‘chirmoq",
+        "isrof qilmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«이웃» — «qo‘shni». Bu so‘z darsdagi «Tejash va qo‘shnichilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-게 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yo‘l-yo‘lakay",
+        "Ehtimol shunday bo‘lar",
+        "Qilmasak bo‘lmaydi",
+        "Qildirmoq yoki yo‘l qo‘ymoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-게 하다» — Qildirmoq yoki yo‘l qo‘ymoq. 게 하다 — boshqaruv pulti: harakatni boshqa odam bajaradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-지 않으면 안 되다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilmasak bo‘lmaydi",
+        "Qildirmoq yoki yo‘l qo‘ymoq",
+        "Ehtimol shunday bo‘lar",
+        "Yo‘l-yo‘lakay"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-지 않으면 안 되다» — Qilmasak bo‘lmaydi. Ikki minus bir majburiyatga aylanadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-는 길에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilmasak bo‘lmaydi",
+        "Yo‘l-yo‘lakay",
+        "Qildirmoq yoki yo‘l qo‘ymoq",
+        "Ehtimol shunday bo‘lar"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-는 길에» — Yo‘l-yo‘lakay. 는 길에 — bitta yo‘lga qo‘shilgan kichik bekat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«선생님이 학생들에게 전기를 아끼게 했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Isitishni o‘chirsak sovuq bo‘lsa kerak.",
+        "O‘qituvchi talabalarga elektrni tejatdi.",
+        "Elektrni tejab ishlatishimiz shart.",
+        "Tunda tinch bo‘lish kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "«선생님이 학생들에게 전기를 아끼게 했어요.» — «O‘qituvchi talabalarga elektrni tejatdi.». Bu yerda «V-게 하다» qolipi ishlatilgan: Qildirmoq yoki yo‘l qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Bu oy kommunal to‘lov ko‘p chiqsa kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "마트에 가는 길에 전구를 샀어요.",
+        "쓰레기는 분리하지 않으면 안 됩니다.",
+        "난방을 끄면 추울걸요.",
+        "이번 달 관리비가 많이 나올걸요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이번 달 관리비가 많이 나올걸요.» — «Bu oy kommunal to‘lov ko‘p chiqsa kerak.». Bu yerda «A/V-(으)ㄹ걸(요)» qolipi ishlatilgan: Ehtimol shunday bo‘lar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«전기를 아껴 쓰지 않으면 안 돼요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uyga ketayotib qayta ishlanadigan narsalarni tashlayman.",
+        "Elektrni tejab ishlatishimiz shart.",
+        "Ona bolasiga chiroqni o‘chirtirdi.",
+        "Isitishni o‘chirsak sovuq bo‘lsa kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "«전기를 아껴 쓰지 않으면 안 돼요.» — «Elektrni tejab ishlatishimiz shart.». Bu yerda «A/V-지 않으면 안 되다» qolipi ishlatilgan: Qilmasak bo‘lmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «모두 쓰지 않는 전등을 끄게 하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hammaga ishlatilmayotgan chiroqni o‘chirtiring.",
+        "Shunday qilsak kommunal to‘lov ham kamayadi.",
+        "Uyga qaytayotib tejamkor lampochka oldim.",
+        "Suvni ham tejab ishlatishimiz shart."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «모두 쓰지 않는 전등을 끄게 하세요.» deydi. Ma’nosi: «Hammaga ishlatilmayotgan chiroqni o‘chirtiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «물도 아껴 쓰지 않으면 안 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday qilsak kommunal to‘lov ham kamayadi.",
+        "Uyga qaytayotib tejamkor lampochka oldim.",
+        "Hammaga ishlatilmayotgan chiroqni o‘chirtiring.",
+        "Suvni ham tejab ishlatishimiz shart."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «물도 아껴 쓰지 않으면 안 돼요.» deydi. Ma’nosi: «Suvni ham tejab ishlatishimiz shart.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «집에 오는 길에 절전 전구를 사 왔어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hammaga ishlatilmayotgan chiroqni o‘chirtiring.",
+        "Uyga qaytayotib tejamkor lampochka oldim.",
+        "Suvni ham tejab ishlatishimiz shart.",
+        "Shunday qilsak kommunal to‘lov ham kamayadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «집에 오는 길에 절전 전구를 사 왔어요.» deydi. Ma’nosi: «Uyga qaytayotib tejamkor lampochka oldim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «물도 아껴 쓰지 않으면 안 돼요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Soyon",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Suvni ham tejab ishlatishimiz shart.».",
+      "reviewSection": "s"
+    }
+  ]
+}

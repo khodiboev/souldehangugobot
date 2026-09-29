@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«공연» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sayohat joyi",
+        "sahna tomoshasi",
+        "festival",
+        "tajriba"
+      ],
+      "correctIndex": 1,
+      "explanation": "«공연» — «sahna tomoshasi». Bu so‘z darsdagi «Tajriba» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ko‘rgazma» koreyschada qaysi so‘z?",
+      "options": [
+        "한류",
+        "축제",
+        "전시회",
+        "공연"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전시회» — «ko‘rgazma». Bu so‘z darsdagi «Tajriba» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«하루» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bir kun",
+        "bir hafta",
+        "birinchi marta",
+        "uch kun"
+      ],
+      "correctIndex": 0,
+      "explanation": "«하루» — «bir kun». Bu so‘z darsdagi «Vaqt davri» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bir hafta» koreyschada qaysi so‘z?",
+      "options": [
+        "벌써",
+        "한 달",
+        "사흘",
+        "일주일"
+      ],
+      "correctIndex": 3,
+      "explanation": "«일주일» — «bir hafta». Bu so‘z darsdagi «Vaqt davri» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«처음» so‘zining ma’nosi qaysi?",
+      "options": [
+        "birinchi marta",
+        "davomida",
+        "uch kun",
+        "bir hafta"
+      ],
+      "correctIndex": 0,
+      "explanation": "«처음» — «birinchi marta». Bu so‘z darsdagi «Vaqt davri» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-아/어 보다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sinab ko‘rish; tajriba",
+        "... davomida",
+        "Tugallangan ishni tasvirlash",
+        "Fon yoki qarama-qarshilik"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-아/어 보다» — Sinab ko‘rish; tajriba. 보다 bu yerda tajriba pasportiga qo‘yilgan muhr.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ데 · V-는데 · N인데» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Fon yoki qarama-qarshilik",
+        "Tugallangan ishni tasvirlash",
+        "Sinab ko‘rish; tajriba",
+        "... davomida"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ데 · V-는데 · N인데» — Fon yoki qarama-qarshilik. 는데 — keyingi fikr uchun parda ochadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Tugallangan ishni tasvirlash",
+        "... davomida",
+        "Sinab ko‘rish; tajriba",
+        "Fon yoki qarama-qarshilik"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄴ N» — Tugallangan ishni tasvirlash. Bu qolip tajribani nomlangan suratga aylantiradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«한국 음식을 만들어 봤어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Koreys taomini tayyorlab ko‘rganman.",
+        "Talabaman, shu bilan birga kompaniyada ishlayman.",
+        "Ikki soat davomida tomosha ko‘rdim.",
+        "Hanbok kiyib ko‘rganman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«한국 음식을 만들어 봤어요.» — «Koreys taomini tayyorlab ko‘rganman.». Bu yerda «V-아/어 보다» qolipi ishlatilgan: Sinab ko‘rish; tajriba.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Ikki soat davomida tomosha ko‘rdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "콘서트에 가 봤어요?",
+        "공연은 재미있는데 너무 길어요.",
+        "두 시간 동안 공연을 봤어요.",
+        "제가 본 콘서트예요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«두 시간 동안 공연을 봤어요.» — «Ikki soat davomida tomosha ko‘rdim.». Bu yerda «N 동안» qolipi ishlatilgan: ... davomida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«공연은 재미있는데 너무 길어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Koreyaga keldim, qayerga borsam yaxshi?",
+        "Tomosha qiziq, lekin juda uzun.",
+        "Bir hafta sayohat qildim.",
+        "Hanbok kiyib ko‘rganman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«공연은 재미있는데 너무 길어요.» — «Tomosha qiziq, lekin juda uzun.». Bu yerda «A-(으)ㄴ데 · V-는데 · N인데» qolipi ishlatilgan: Fon yoki qarama-qarshilik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 가수의 콘서트에 가 봤어요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Yo‘q, bugun birinchi marta keldim.",
+        "Odam ko‘p, lekin muhit juda yaxshi.",
+        "Tomosha ikki soat davom etadi.",
+        "Bu xonandaning konsertiga borib ko‘rganmisiz?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «이 가수의 콘서트에 가 봤어요?» deydi. Ma’nosi: «Bu xonandaning konsertiga borib ko‘rganmisiz?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «공연은 두 시간 동안 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yo‘q, bugun birinchi marta keldim.",
+        "Bu xonandaning konsertiga borib ko‘rganmisiz?",
+        "Odam ko‘p, lekin muhit juda yaxshi.",
+        "Tomosha ikki soat davom etadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «공연은 두 시간 동안 해요.» deydi. Ma’nosi: «Tomosha ikki soat davom etadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람이 많은데 분위기가 정말 좋아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odam ko‘p, lekin muhit juda yaxshi.",
+        "Yo‘q, bugun birinchi marta keldim.",
+        "Bu xonandaning konsertiga borib ko‘rganmisiz?",
+        "Tomosha ikki soat davom etadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «사람이 많은데 분위기가 정말 좋아요.» deydi. Ma’nosi: «Odam ko‘p, lekin muhit juda yaxshi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «사람이 많은데 분위기가 정말 좋아요.» gapini kim aytadi?",
+      "options": [
+        "Xodim",
+        "Jisu",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Odam ko‘p, lekin muhit juda yaxshi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

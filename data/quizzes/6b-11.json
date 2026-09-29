@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«교육» so‘zining ma’nosi qaysi?",
+      "options": [
+        "talaba",
+        "ta’lim",
+        "ma’ruza",
+        "o‘ziga xos vazifa"
+      ],
+      "correctIndex": 1,
+      "explanation": "«교육» — «ta’lim». Bu so‘z darsdagi «Universitet» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tadqiqot» koreyschada qaysi so‘z?",
+      "options": [
+        "정체성",
+        "대학",
+        "학생",
+        "연구"
+      ],
+      "correctIndex": 3,
+      "explanation": "«연구» — «tadqiqot». Bu so‘z darsdagi «Universitet» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«학생» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ta’lim",
+        "talaba",
+        "ma’ruza",
+        "tadqiqot"
+      ],
+      "correctIndex": 1,
+      "explanation": "«학생» — «talaba». Bu so‘z darsdagi «Universitet» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«jarayon» koreyschada qaysi so‘z?",
+      "options": [
+        "목표",
+        "토론하다",
+        "과정",
+        "비용"
+      ],
+      "correctIndex": 2,
+      "explanation": "«과정» — «jarayon». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«비용» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bahslashmoq",
+        "imkon",
+        "jarayon",
+        "xarajat"
+      ],
+      "correctIndex": 3,
+      "explanation": "«비용» — «xarajat». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tanlamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "기회",
+        "목표",
+        "선택하다",
+        "토론하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«선택하다» — «tanlamoq». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 끝에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham, ammo",
+        "...gandan so‘ng nihoyat",
+        "Faqat Nmi, axir?",
+        "... paytda aynan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)ㄴ 끝에» — ...gandan so‘ng nihoyat. Uzoq yo‘l oxiridagi qaror.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«어디 N뿐인가(요)?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishdan nariga o‘tmaydi",
+        "Faqat Nmi, axir?",
+        "... ekan, endi",
+        "...gandan so‘ng nihoyat"
+      ],
+      "correctIndex": 1,
+      "explanation": "«어디 N뿐인가(요)?» — Faqat Nmi, axir?. Ro‘yxatning davomiga ishora qiluvchi savol.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«오래 논의한 끝에 공동 목표를 정했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Universitet maqsadi faqat ish topishmi? Tadqiqot ham muhim.",
+        "Talabalar fikrini eshitgach dars usulini tuzatdik.",
+        "Baho faqat imtihonmi? Jarayonni ham ko‘rish kerak.",
+        "Uzoq muhokamadan so‘ng umumiy maqsad belgiladik."
+      ],
+      "correctIndex": 3,
+      "explanation": "«오래 논의한 끝에 공동 목표를 정했어요.» — «Uzoq muhokamadan so‘ng umumiy maqsad belgiladik.». Bu yerda «V-(으)ㄴ 끝에» qolipi ishlatilgan: ...gandan so‘ng nihoyat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Universitet maqsadi faqat ish topishmi? Tadqiqot ham muhim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "여러 자료를 읽은 끝에 질문을 바꿨어요.",
+        "평가가 어디 시험뿐인가요? 과정도 봐야죠.",
+        "대학의 목표가 어디 취업뿐인가요? 연구도 중요해요.",
+        "오래 논의한 끝에 공동 목표를 정했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«대학의 목표가 어디 취업뿐인가요? 연구도 중요해요.» — «Universitet maqsadi faqat ish topishmi? Tadqiqot ham muhim.». Bu yerda «어디 N뿐인가(요)?» qolipi ishlatilgan: Faqat Nmi, axir?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«여러 자료를 읽은 끝에 질문을 바꿨어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Talabalar fikrini eshitgach dars usulini tuzatdik.",
+        "Baho faqat imtihonmi? Jarayonni ham ko‘rish kerak.",
+        "Ko‘p manbani o‘qib bo‘lgach savolni o‘zgartirdik.",
+        "Universitet maqsadi faqat ish topishmi? Tadqiqot ham muhim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«여러 자료를 읽은 끝에 질문을 바꿨어요.» — «Ko‘p manbani o‘qib bo‘lgach savolni o‘zgartirdik.». Bu yerda «V-(으)ㄴ 끝에» qolipi ishlatilgan: ...gandan so‘ng nihoyat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«O‘qish faqat ma’ruzami? Bahsdan ham o‘rganamiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "평가가 어디 시험뿐인가요? 과정도 봐야죠.",
+        "학생 의견을 들은 끝에 강의 방식을 고쳤어요.",
+        "여러 자료를 읽은 끝에 질문을 바꿨어요.",
+        "배움이 어디 강의뿐인가요? 토론에서도 배워요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«배움이 어디 강의뿐인가요? 토론에서도 배워요.» — «O‘qish faqat ma’ruzami? Bahsdan ham o‘rganamiz.». Bu yerda «어디 N뿐인가(요)?» qolipi ishlatilgan: Faqat Nmi, axir?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«학생 의견을 들은 끝에 강의 방식을 고쳤어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Universitet maqsadi faqat ish topishmi? Tadqiqot ham muhim.",
+        "Talabalar fikrini eshitgach dars usulini tuzatdik.",
+        "Ko‘p manbani o‘qib bo‘lgach savolni o‘zgartirdik.",
+        "O‘qish faqat ma’ruzami? Bahsdan ham o‘rganamiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "«학생 의견을 들은 끝에 강의 방식을 고쳤어요.» — «Talabalar fikrini eshitgach dars usulini tuzatdik.». Bu yerda «V-(으)ㄴ 끝에» qolipi ishlatilgan: ...gandan so‘ng nihoyat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Baho faqat imtihonmi? Jarayonni ham ko‘rish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "평가가 어디 시험뿐인가요? 과정도 봐야죠.",
+        "여러 자료를 읽은 끝에 질문을 바꿨어요.",
+        "학생 의견을 들은 끝에 강의 방식을 고쳤어요.",
+        "오래 논의한 끝에 공동 목표를 정했어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«평가가 어디 시험뿐인가요? 과정도 봐야죠.» — «Baho faqat imtihonmi? Jarayonni ham ko‘rish kerak.». Bu yerda «어디 N뿐인가(요)?» qolipi ishlatilgan: Faqat Nmi, axir?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여러 의견을 들은 끝에 질문을 고쳤어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘p fikrni eshitgach savolni tuzatdim.",
+        "Boshqa maqsadli talabani ham eshitdik.",
+        "O‘rganish faqat ma’ruzami? Amaliyot ham muhim.",
+        "O‘xshashlik va farqni alohida belgiladim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «여러 의견을 들은 끝에 질문을 고쳤어요.» deydi. Ma’nosi: «Ko‘p fikrni eshitgach savolni tuzatdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «배움이 어디 강의뿐인가요? 현장도 중요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘xshashlik va farqni alohida belgiladim.",
+        "Boshqa maqsadli talabani ham eshitdik.",
+        "Ko‘p fikrni eshitgach savolni tuzatdim.",
+        "O‘rganish faqat ma’ruzami? Amaliyot ham muhim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «배움이 어디 강의뿐인가요? 현장도 중요해요.» deydi. Ma’nosi: «O‘rganish faqat ma’ruzami? Amaliyot ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다른 목표를 가진 학생의 말도 들었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘p fikrni eshitgach savolni tuzatdim.",
+        "O‘xshashlik va farqni alohida belgiladim.",
+        "O‘rganish faqat ma’ruzami? Amaliyot ham muhim.",
+        "Boshqa maqsadli talabani ham eshitdik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «다른 목표를 가진 학생의 말도 들었어요.» deydi. Ma’nosi: «Boshqa maqsadli talabani ham eshitdik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «공통점과 차이를 따로 표시했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘p fikrni eshitgach savolni tuzatdim.",
+        "Boshqa maqsadli talabani ham eshitdik.",
+        "O‘rganish faqat ma’ruzami? Amaliyot ham muhim.",
+        "O‘xshashlik va farqni alohida belgiladim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «공통점과 차이를 따로 표시했어요.» deydi. Ma’nosi: «O‘xshashlik va farqni alohida belgiladim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «배움이 어디 강의뿐인가요? 현장도 중요해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «O‘rganish faqat ma’ruzami? Amaliyot ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «공통점과 차이를 따로 표시했어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «O‘xshashlik va farqni alohida belgiladim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

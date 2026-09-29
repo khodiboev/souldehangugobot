@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«은행» so‘zining ma’nosi qaysi?",
+      "options": [
+        "do‘kon",
+        "shifoxona",
+        "aeroport",
+        "bank"
+      ],
+      "correctIndex": 3,
+      "explanation": "«은행» — «bank». Bu so‘z darsdagi «Shahardagi joylar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«orqa tomon» koreyschada qaysi so‘z?",
+      "options": [
+        "안",
+        "앞",
+        "뒤",
+        "옆"
+      ],
+      "correctIndex": 2,
+      "explanation": "«뒤» — «orqa tomon». Bu so‘z darsdagi «Narsaning joylashuvi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«여기» so‘zining ma’nosi qaysi?",
+      "options": [
+        "u yer (sizga yaqin)",
+        "bu yer",
+        "anavi yer",
+        "karavot"
+      ],
+      "correctIndex": 1,
+      "explanation": "«여기» — «bu yer». Bu so‘z darsdagi «Yo‘l so‘rash uchun» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«xona» koreyschada qaysi so‘z?",
+      "options": [
+        "저기",
+        "컴퓨터",
+        "방",
+        "침대"
+      ],
+      "correctIndex": 2,
+      "explanation": "«방» — «xona». Bu so‘z darsdagi «Yo‘l so‘rash uchun» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N에 있어요 / 없어요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qayerga borasiz yoki kelasiz?",
+        "Qayerda bor yoki joylashgan?",
+        "Oldida, orqasida, yonida",
+        "Bu yer — ..."
+      ],
+      "correctIndex": 1,
+      "explanation": "«N에 있어요 / 없어요» — Qayerda bor yoki joylashgan?. 에 — xaritadagi nuqta: odam shu nuqtada. 에서 — shu nuqtada bajarilayotgan ish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N 앞 / 뒤 / 옆 …» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Oldida, orqasida, yonida",
+        "Bu yer — ...",
+        "Qayerda bor yoki joylashgan?",
+        "Qayerga borasiz yoki kelasiz?"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N 앞 / 뒤 / 옆 …» — Oldida, orqasida, yonida. O‘zbekchadagi “stol ostida” tartibi o‘xshash: 책상 밑에.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«여기가 우체국이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Mariya shifoxonaga boradi.",
+        "Sumkada daftar bor.",
+        "Maktab orqasida bog‘ bor.",
+        "Bu yer pochta bo‘limi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«여기가 우체국이에요.» — «Bu yer pochta bo‘limi.». Bu yerda «여기가 N이에요/예요» qolipi ishlatilgan: Bu yer — ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Mariya shifoxonada.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "학교 뒤에 공원이 있어요.",
+        "여기가 우체국이에요.",
+        "마리아 씨는 병원에 있어요.",
+        "의자 밑에 가방이 있어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«마리아 씨는 병원에 있어요.» — «Mariya shifoxonada.». Bu yerda «N에 있어요 / 없어요» qolipi ishlatilgan: Qayerda bor yoki joylashgan?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «식당은 어디에 있어요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu yer maktab. Maktab orqasida bog‘ bor.",
+        "Oshxona qayerda?",
+        "Men shifoxonadaman.",
+        "Maktab oldidaman. Hozir oshxonaga boryapman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada 아지즈 «식당은 어디에 있어요?» deydi. Ma’nosi: «Oshxona qayerda?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «학교 앞에 있어요. 지금 식당에 가요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Aziz, qayerdasiz?",
+        "Maktab oldidaman. Hozir oshxonaga boryapman.",
+        "Maktab oldida.",
+        "Men shifoxonadaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada 아지즈 «학교 앞에 있어요. 지금 식당에 가요.» deydi. Ma’nosi: «Maktab oldidaman. Hozir oshxonaga boryapman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

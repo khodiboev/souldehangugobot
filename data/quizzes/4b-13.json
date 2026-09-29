@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«해안» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sohil",
+        "qoya",
+        "quyosh chiqishi",
+        "kuzatuv maydoni"
+      ],
+      "correctIndex": 0,
+      "explanation": "«해안» — «sohil». Bu so‘z darsdagi «Manzara» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«dara» koreyschada qaysi so‘z?",
+      "options": [
+        "전망대",
+        "일출",
+        "풍경",
+        "계곡"
+      ],
+      "correctIndex": 3,
+      "explanation": "«계곡» — «dara». Bu so‘z darsdagi «Manzara» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«전망대» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dara",
+        "quyosh chiqishi",
+        "manzara",
+        "kuzatuv maydoni"
+      ],
+      "correctIndex": 3,
+      "explanation": "«전망대» — «kuzatuv maydoni». Bu so‘z darsdagi «Manzara» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«turar joy» koreyschada qaysi so‘z?",
+      "options": [
+        "숙소",
+        "예약하다",
+        "일정",
+        "관광지"
+      ],
+      "correctIndex": 0,
+      "explanation": "«숙소» — «turar joy». Bu so‘z darsdagi «Sayohat rejasi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«변명» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hafsalasi pir bo‘lmoq",
+        "sayyohlik joyi",
+        "bahona",
+        "jadval"
+      ],
+      "correctIndex": 2,
+      "explanation": "«변명» — «bahona». Bu so‘z darsdagi «Sayohat rejasi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«band qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "일정",
+        "예약하다",
+        "변명",
+        "숙소"
+      ],
+      "correctIndex": 1,
+      "explanation": "«예약하다» — «band qilmoq». Bu so‘z darsdagi «Sayohat rejasi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N(이)면 N N(이)면 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gan imkoniyatdan foydalanib",
+        "N ham, N ham",
+        "Ndan farqli ravishda",
+        "...gandan ko‘ra yaxshisi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N(이)면 N N(이)면 N» — N ham, N ham. Xaritadagi bir nechta nuqtani bitta doira bilan belgilash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-는 김에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gan imkoniyatdan foydalanib",
+        "...gandan ko‘ra yaxshisi",
+        "N ham, N ham",
+        "Ndan farqli ravishda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-는 김에» — ...gan imkoniyatdan foydalanib. Bir yo‘lga yana bir foydali bekat qo‘shish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-느니 차라리» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan farqli ravishda",
+        "...gan imkoniyatdan foydalanib",
+        "...gandan ko‘ra yaxshisi",
+        "N ham, N ham"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-느니 차라리» — ...gandan ko‘ra yaxshisi. Yomon yo‘lni rad etib, chidasa bo‘ladigan yo‘lni tanlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N과/와 달리» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan farqli ravishda",
+        "N ham, N ham",
+        "...gandan ko‘ra yaxshisi",
+        "...gan imkoniyatdan foydalanib"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N과/와 달리» — Ndan farqli ravishda. Ikki surat orasidagi farqlarni ko‘rsatuvchi belgi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«제주도는 바다면 바다, 산이면 산 모두 아름다워요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bir soat kutgandan ko‘ra piyoda boraman.",
+        "Jejuda dengiz ham, tog‘ ham go‘zal.",
+        "Turar joyni band qilarkanman, mashinani ham ijaraga oldim.",
+        "Seuldan farqli ravishda bu qishloq kechasi sokin."
+      ],
+      "correctIndex": 1,
+      "explanation": "«제주도는 바다면 바다, 산이면 산 모두 아름다워요.» — «Jejuda dengiz ham, tog‘ ham go‘zal.». Bu yerda «N(이)면 N N(이)면 N» qolipi ishlatilgan: N ham, N ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Jejuga borayotgan ekanman, muzeyni ham ko‘raman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "제주도는 바다면 바다, 산이면 산 모두 아름다워요.",
+        "제주도에 가는 김에 박물관도 볼게요.",
+        "비싼 숙소에 묵느니 차라리 일정을 줄이겠어요.",
+        "한 시간 기다리느니 차라리 걸어가겠어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«제주도에 가는 김에 박물관도 볼게요.» — «Jejuga borayotgan ekanman, muzeyni ham ko‘raman.». Bu yerda «V-는 김에» qolipi ishlatilgan: ...gan imkoniyatdan foydalanib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«한 시간 기다리느니 차라리 걸어가겠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Turar joyni band qilarkanman, mashinani ham ijaraga oldim.",
+        "Bir soat kutgandan ko‘ra piyoda boraman.",
+        "Jejuga borayotgan ekanman, muzeyni ham ko‘raman.",
+        "Qimmat mehmonxonada qolgandan ko‘ra jadvalni qisqartiraman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한 시간 기다리느니 차라리 걸어가겠어요.» — «Bir soat kutgandan ko‘ra piyoda boraman.». Bu yerda «V-느니 차라리» qolipi ishlatilgan: ...gandan ko‘ra yaxshisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Seuldan farqli ravishda bu qishloq kechasi sokin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "서울과 달리 이 마을은 밤에 조용해요.",
+        "예보와 달리 하늘이 맑아요.",
+        "이곳은 음식이면 음식, 풍경이면 풍경 다 좋아요.",
+        "우리 팀은 준비면 준비, 안내면 안내 모두 잘했어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«서울과 달리 이 마을은 밤에 조용해요.» — «Seuldan farqli ravishda bu qishloq kechasi sokin.». Bu yerda «N과/와 달리» qolipi ishlatilgan: Ndan farqli ravishda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «기차를 예약하는 김에 숙소도 예약했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xaritadan farqli ravishda yo‘l juda keng ekan.",
+        "Poyezdni band qilarkanman turar joyni ham band qildim.",
+        "Mashinani uzoq kutgandan ko‘ra piyoda yuraylik.",
+        "Bu manzilda tog‘ ham, daryo ham bor."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «기차를 예약하는 김에 숙소도 예약했어요.» deydi. Ma’nosi: «Poyezdni band qilarkanman turar joyni ham band qildim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이번 목적지는 산이면 산, 강이면 강 다 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu manzilda tog‘ ham, daryo ham bor.",
+        "Poyezdni band qilarkanman turar joyni ham band qildim.",
+        "Mashinani uzoq kutgandan ko‘ra piyoda yuraylik.",
+        "Xaritadan farqli ravishda yo‘l juda keng ekan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «이번 목적지는 산이면 산, 강이면 강 다 있어요.» deydi. Ma’nosi: «Bu manzilda tog‘ ham, daryo ham bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «차를 오래 기다리느니 차라리 걸어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mashinani uzoq kutgandan ko‘ra piyoda yuraylik.",
+        "Poyezdni band qilarkanman turar joyni ham band qildim.",
+        "Xaritadan farqli ravishda yo‘l juda keng ekan.",
+        "Bu manzilda tog‘ ham, daryo ham bor."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «차를 오래 기다리느니 차라리 걸어요.» deydi. Ma’nosi: «Mashinani uzoq kutgandan ko‘ra piyoda yuraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지도와 달리 길이 아주 넓네요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mashinani uzoq kutgandan ko‘ra piyoda yuraylik.",
+        "Bu manzilda tog‘ ham, daryo ham bor.",
+        "Xaritadan farqli ravishda yo‘l juda keng ekan.",
+        "Poyezdni band qilarkanman turar joyni ham band qildim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «지도와 달리 길이 아주 넓네요.» deydi. Ma’nosi: «Xaritadan farqli ravishda yo‘l juda keng ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «이번 목적지는 산이면 산, 강이면 강 다 있어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bu manzilda tog‘ ham, daryo ham bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «지도와 달리 길이 아주 넓네요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Xaritadan farqli ravishda yo‘l juda keng ekan.».",
+      "reviewSection": "s"
+    }
+  ]
+}

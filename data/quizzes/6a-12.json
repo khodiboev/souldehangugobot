@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«미학» so‘zining ma’nosi qaysi?",
+      "options": [
+        "go‘zallik ilmi",
+        "bino",
+        "tuzilish",
+        "egri chiziq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«미학» — «go‘zallik ilmi». Bu so‘z darsdagi «Me’morlik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tuzilish» koreyschada qaysi so‘z?",
+      "options": [
+        "구조",
+        "외관",
+        "곡선",
+        "건축물"
+      ],
+      "correctIndex": 0,
+      "explanation": "«구조» — «tuzilish». Bu so‘z darsdagi «Me’morlik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«곡선» so‘zining ma’nosi qaysi?",
+      "options": [
+        "egri chiziq",
+        "tuzilish",
+        "go‘zallik ilmi",
+        "tashqi ko‘rinish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«곡선» — «egri chiziq». Bu so‘z darsdagi «Me’morlik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«material» koreyschada qaysi so‘z?",
+      "options": [
+        "조화",
+        "빛",
+        "공간",
+        "재료"
+      ],
+      "correctIndex": 3,
+      "explanation": "«재료» — «material». Bu so‘z darsdagi «Tavsif» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«조화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "makon",
+        "aniq bo‘lmoq",
+        "uyg‘unlik",
+        "yorug‘lik"
+      ],
+      "correctIndex": 2,
+      "explanation": "«조화» — «uyg‘unlik». Bu so‘z darsdagi «Tavsif» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«aniq bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "분명하다",
+        "조화",
+        "빛",
+        "아름답다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«분명하다» — «aniq bo‘lmoq». Bu so‘z darsdagi «Tavsif» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)면서(도)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lsa-da, ayni paytda",
+        "... ham, qolaversa",
+        "Nihoyatda ...",
+        "Ko‘pincha ... qilib qo‘ymoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)면서(도)» — ... bo‘lsa-da, ayni paytda. Bir binodagi ikki xil, ammo mos belgi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-기(가) 이를 데 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishi uchun shunday qilib",
+        "... bo‘lsa-da, ayni paytda",
+        "...ish degani",
+        "Nihoyatda ..."
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-기(가) 이를 데 없다» — Nihoyatda .... Baholash shkalasining eng yuqori nuqtasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«이 건물은 단순하면서도 인상적이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tashqi qismi eski bo‘lsa ham ichi qulay.",
+        "Makon keng bo‘lsa-da shinam.",
+        "Loyiha nihoyatda puxta.",
+        "Bu bino sodda bo‘lsa-da taassurotli."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이 건물은 단순하면서도 인상적이에요.» — «Bu bino sodda bo‘lsa-da taassurotli.». Bu yerda «A-(으)면서(도)» qolipi ishlatilgan: ... bo‘lsa-da, ayni paytda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Derazadan tushgan nur nihoyatda go‘zal.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "두 재료의 조화가 자연스럽기 이를 데 없어요.",
+        "공간이 넓으면서도 아늑해요.",
+        "이 건물은 단순하면서도 인상적이에요.",
+        "창으로 들어오는 빛이 아름답기 이를 데 없어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«창으로 들어오는 빛이 아름답기 이를 데 없어요.» — «Derazadan tushgan nur nihoyatda go‘zal.». Bu yerda «A-기(가) 이를 데 없다» qolipi ishlatilgan: Nihoyatda ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«외관은 오래되었으면서도 내부는 편리해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Loyiha nihoyatda puxta.",
+        "Makon keng bo‘lsa-da shinam.",
+        "Ikki material uyg‘unligi g‘oyat tabiiy.",
+        "Tashqi qismi eski bo‘lsa ham ichi qulay."
+      ],
+      "correctIndex": 3,
+      "explanation": "«외관은 오래되었으면서도 내부는 편리해요.» — «Tashqi qismi eski bo‘lsa ham ichi qulay.». Bu yerda «A-(으)면서(도)» qolipi ishlatilgan: ... bo‘lsa-da, ayni paytda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Ikki material uyg‘unligi g‘oyat tabiiy.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "공간이 넓으면서도 아늑해요.",
+        "창으로 들어오는 빛이 아름답기 이를 데 없어요.",
+        "두 재료의 조화가 자연스럽기 이를 데 없어요.",
+        "이 건물은 단순하면서도 인상적이에요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«두 재료의 조화가 자연스럽기 이를 데 없어요.» — «Ikki material uyg‘unligi g‘oyat tabiiy.». Bu yerda «A-기(가) 이를 데 없다» qolipi ishlatilgan: Nihoyatda ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«공간이 넓으면서도 아늑해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Makon keng bo‘lsa-da shinam.",
+        "Tashqi qismi eski bo‘lsa ham ichi qulay.",
+        "Ikki material uyg‘unligi g‘oyat tabiiy.",
+        "Derazadan tushgan nur nihoyatda go‘zal."
+      ],
+      "correctIndex": 0,
+      "explanation": "«공간이 넓으면서도 아늑해요.» — «Makon keng bo‘lsa-da shinam.». Bu yerda «A-(으)면서(도)» qolipi ishlatilgan: ... bo‘lsa-da, ayni paytda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Loyiha nihoyatda puxta.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설계가 정교하기 이를 데 없어요.",
+        "외관은 오래되었으면서도 내부는 편리해요.",
+        "이 건물은 단순하면서도 인상적이에요.",
+        "공간이 넓으면서도 아늑해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«설계가 정교하기 이를 데 없어요.» — «Loyiha nihoyatda puxta.». Bu yerda «A-기(가) 이를 데 없다» qolipi ishlatilgan: Nihoyatda ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «건물은 오래되었으면서도 사용하기 편해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bino eski bo‘lsa-da ishlatishga qulay.",
+        "Odamlar dam oladigan joy ham bor.",
+        "Deraza yonidagi nur nihoyatda iliq.",
+        "Tashqi ko‘rinish va foydalanish tajribasini birga yozaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «건물은 오래되었으면서도 사용하기 편해요.» deydi. Ma’nosi: «Bino eski bo‘lsa-da ishlatishga qulay.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «창가의 빛이 따뜻하기 이를 데 없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bino eski bo‘lsa-da ishlatishga qulay.",
+        "Tashqi ko‘rinish va foydalanish tajribasini birga yozaman.",
+        "Odamlar dam oladigan joy ham bor.",
+        "Deraza yonidagi nur nihoyatda iliq."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «창가의 빛이 따뜻하기 이를 데 없어요.» deydi. Ma’nosi: «Deraza yonidagi nur nihoyatda iliq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람들이 쉬는 공간도 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Deraza yonidagi nur nihoyatda iliq.",
+        "Tashqi ko‘rinish va foydalanish tajribasini birga yozaman.",
+        "Odamlar dam oladigan joy ham bor.",
+        "Bino eski bo‘lsa-da ishlatishga qulay."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «사람들이 쉬는 공간도 있어요.» deydi. Ma’nosi: «Odamlar dam oladigan joy ham bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «외관과 이용 경험을 함께 적겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odamlar dam oladigan joy ham bor.",
+        "Bino eski bo‘lsa-da ishlatishga qulay.",
+        "Deraza yonidagi nur nihoyatda iliq.",
+        "Tashqi ko‘rinish va foydalanish tajribasini birga yozaman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «외관과 이용 경험을 함께 적겠습니다.» deydi. Ma’nosi: «Tashqi ko‘rinish va foydalanish tajribasini birga yozaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «창가의 빛이 따뜻하기 이를 데 없어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Deraza yonidagi nur nihoyatda iliq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «외관과 이용 경험을 함께 적겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Tashqi ko‘rinish va foydalanish tajribasini birga yozaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "picks": [
+    {"bookId":"1a","unitId":"hangul","questionId":"h01"},
+    {"bookId":"1a","unitId":"4","questionId":"g01"},
+    {"bookId":"1b","unitId":"9","questionId":"v01"},
+    {"bookId":"1b","unitId":"13","questionId":"g01"},
+    {"bookId":"2a","unitId":"1","questionId":"v01"},
+    {"bookId":"2a","unitId":"5","questionId":"g01"},
+    {"bookId":"2b","unitId":"10","questionId":"v01"},
+    {"bookId":"2b","unitId":"14","questionId":"g01"},
+    {"bookId":"3a","unitId":"1","questionId":"v01"},
+    {"bookId":"3a","unitId":"5","questionId":"g01"},
+    {"bookId":"3b","unitId":"10","questionId":"v01"},
+    {"bookId":"3b","unitId":"14","questionId":"g01"},
+    {"bookId":"4a","unitId":"1","questionId":"v01"},
+    {"bookId":"4a","unitId":"5","questionId":"g01"},
+    {"bookId":"4b","unitId":"10","questionId":"v01"},
+    {"bookId":"4b","unitId":"14","questionId":"g01"},
+    {"bookId":"5a","unitId":"1","questionId":"v01"},
+    {"bookId":"5a","unitId":"8","questionId":"g01"},
+    {"bookId":"5b","unitId":"1","questionId":"v01"},
+    {"bookId":"5b","unitId":"9","questionId":"g01"},
+    {"bookId":"6a","unitId":"1","questionId":"v01"},
+    {"bookId":"6a","unitId":"8","questionId":"g01"},
+    {"bookId":"6b","unitId":"1","questionId":"v01"},
+    {"bookId":"6b","unitId":"9","questionId":"g01"}
+  ]
+}

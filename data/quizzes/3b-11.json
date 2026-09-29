@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«채용» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ariza",
+        "rezyume",
+        "ishga qabul",
+        "ish tajribasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«채용» — «ishga qabul». Bu so‘z darsdagi «Ish qidirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«rezyume» koreyschada qaysi so‘z?",
+      "options": [
+        "면접",
+        "이력서",
+        "경력",
+        "구직"
+      ],
+      "correctIndex": 1,
+      "explanation": "«이력서» — «rezyume». Bu so‘z darsdagi «Ish qidirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«업무» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ishdan ketmoq",
+        "xizmat vazifasi",
+        "ishlamoq",
+        "mas’ul bo‘lmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«업무» — «xizmat vazifasi». Bu so‘z darsdagi «Ish vazifalari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ishga kelmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "담당하다",
+        "퇴근하다",
+        "출근하다",
+        "야근하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«출근하다» — «ishga kelmoq». Bu so‘z darsdagi «Ish vazifalari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«야근하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ishdan ketmoq",
+        "mas’ul bo‘lmoq",
+        "kech ishlamoq",
+        "ishga kelmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«야근하다» — «kech ishlamoq». Bu so‘z darsdagi «Ish vazifalari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-이/히/리/기/우- (사동)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nima bo‘lsa ham",
+        "Belgiga qarab taxmin",
+        "Faraz qiladigan bo‘lsak",
+        "Boshqaga qildirish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-이/히/리/기/우- (사동)» — Boshqaga qildirish. Kausativda ega sahna ortidan harakatni boshqaradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-다면 · V-ㄴ/는다면 · N(이)라면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nima bo‘lsa ham",
+        "Bir tomondan..., yana",
+        "Boshqaga qildirish",
+        "Faraz qiladigan bo‘lsak"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-다면 · V-ㄴ/는다면 · N(이)라면» — Faraz qiladigan bo‘lsak. 다면 — haqiqat yonida chizilgan “agar shunday bo‘lsa” ssenariysi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«무엇이든지 · 무슨 N(이)든지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faraz qiladigan bo‘lsak",
+        "Narsadek katta",
+        "Boshqaga qildirish",
+        "Nima bo‘lsa ham"
+      ],
+      "correctIndex": 3,
+      "explanation": "«무엇이든지 · 무슨 N(이)든지» — Nima bo‘lsa ham. 든지 — barcha variantlarga yashil chiroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«직원이 손님을 앉혔어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ishga kirsangiz qaysi kompaniyani tanlaysiz?",
+        "Qiziqqan narsani bemalol so‘rang.",
+        "Xodim mehmonni o‘tqazdi.",
+        "Vaqtingiz erkin bo‘lsa bu ishni tavsiya qilaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«직원이 손님을 앉혔어요.» — «Xodim mehmonni o‘tqazdi.». Bu yerda «V-이/히/리/기/우- (사동)» qolipi ishlatilgan: Boshqaga qildirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Vaqtingiz erkin bo‘lsa bu ishni tavsiya qilaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "직원이 손님을 앉혔어요.",
+        "궁금한 것은 무엇이든지 물어보세요.",
+        "알람이 저를 깨웠어요.",
+        "시간이 자유롭다면 이 일을 추천해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«시간이 자유롭다면 이 일을 추천해요.» — «Vaqtingiz erkin bo‘lsa bu ishni tavsiya qilaman.». Bu yerda «A-다면 · V-ㄴ/는다면 · N(이)라면» qolipi ishlatilgan: Faraz qiladigan bo‘lsak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«언제든지 일할 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Vaqtingiz erkin bo‘lsa bu ishni tavsiya qilaman.",
+        "Istalgan payt ishlay olaman.",
+        "Ishga kirsangiz qaysi kompaniyani tanlaysiz?",
+        "Har qanday ishni astoydil qilaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«언제든지 일할 수 있어요.» — «Istalgan payt ishlay olaman.». Bu yerda «무엇이든지 · 무슨 N(이)든지» qolipi ishlatilgan: Nima bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «외국어를 잘한다면 이 회사에 지원해 보세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Har qanday vazifani astoydil bajaraman.",
+        "Kompaniya yangi xodimga ta’lim oldiradi.",
+        "Chet tilini yaxshi bilsangiz bu kompaniyaga ariza bering.",
+        "Ish vaqti istalgan payt bo‘lsa mayli."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Maslahatchi «외국어를 잘한다면 이 회사에 지원해 보세요.» deydi. Ma’nosi: «Chet tilini yaxshi bilsangiz bu kompaniyaga ariza bering.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «회사가 신입에게 교육을 받게 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kompaniya yangi xodimga ta’lim oldiradi.",
+        "Har qanday vazifani astoydil bajaraman.",
+        "Ish vaqti istalgan payt bo‘lsa mayli.",
+        "Chet tilini yaxshi bilsangiz bu kompaniyaga ariza bering."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Maslahatchi «회사가 신입에게 교육을 받게 해요.» deydi. Ma’nosi: «Kompaniya yangi xodimga ta’lim oldiradi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «무슨 업무든지 열심히 하겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Chet tilini yaxshi bilsangiz bu kompaniyaga ariza bering.",
+        "Har qanday vazifani astoydil bajaraman.",
+        "Kompaniya yangi xodimga ta’lim oldiradi.",
+        "Ish vaqti istalgan payt bo‘lsa mayli."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «무슨 업무든지 열심히 하겠습니다.» deydi. Ma’nosi: «Har qanday vazifani astoydil bajaraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «무슨 업무든지 열심히 하겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Jisu",
+        "Maslahatchi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Har qanday vazifani astoydil bajaraman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

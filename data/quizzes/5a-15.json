@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«미» so‘zining ma’nosi qaysi?",
+      "options": [
+        "go‘zallik",
+        "ranglar",
+        "naqsh",
+        "sopol buyum"
+      ],
+      "correctIndex": 0,
+      "explanation": "«미» — «go‘zallik». Bu so‘z darsdagi «San’at buyumi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«egri chiziq» koreyschada qaysi so‘z?",
+      "options": [
+        "곡선",
+        "색채",
+        "멋",
+        "도자기"
+      ],
+      "correctIndex": 0,
+      "explanation": "«곡선» — «egri chiziq». Bu so‘z darsdagi «San’at buyumi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«색채» so‘zining ma’nosi qaysi?",
+      "options": [
+        "go‘zallik",
+        "ranglar",
+        "naqsh",
+        "egri chiziq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«색채» — «ranglar». Bu so‘z darsdagi «San’at buyumi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bo‘sh joy» koreyschada qaysi so‘z?",
+      "options": [
+        "조화",
+        "전통",
+        "자연스러움",
+        "여백"
+      ],
+      "correctIndex": 3,
+      "explanation": "«여백» — «bo‘sh joy». Bu so‘z darsdagi «Badiiy tasvir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«전통» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tabiiylik",
+        "uyg‘unlik",
+        "an’ana",
+        "bo‘sh joy"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전통» — «an’ana». Bu so‘z darsdagi «Badiiy tasvir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tanlab ko‘rsatmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "전통",
+        "조화",
+        "꼽다",
+        "여백"
+      ],
+      "correctIndex": 2,
+      "explanation": "«꼽다» — «tanlab ko‘rsatmoq». Bu so‘z darsdagi «Badiiy tasvir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㅁ에 틀림없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...jihat xosdir",
+        "...ekani shubhasiz",
+        "Nni N sifatida ko‘rsatmoq",
+        "Bir so‘z bilan aytganda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)ㅁ에 틀림없다» — ...ekani shubhasiz. Dalildan keyin qo‘yilgan kuchli tasdiq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«한마디로 말하자면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir so‘z bilan aytganda",
+        "Nni N sifatida ko‘rsatmoq",
+        "...ekani shubhasiz",
+        "...jihat xosdir"
+      ],
+      "correctIndex": 0,
+      "explanation": "«한마디로 말하자면» — Bir so‘z bilan aytganda. Ko‘p tafsilotdan olingan bitta sarlavha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 점이 특징적이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir so‘z bilan aytganda",
+        "...jihat xosdir",
+        "Nni N sifatida ko‘rsatmoq",
+        "...ekani shubhasiz"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ/V-는 점이 특징적이다» — ...jihat xosdir. Asardagi diqqatga loyiq bitta detalga yo‘naltirilgan chiroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N을/를 N(으)로 꼽다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ekani shubhasiz",
+        "Nni N sifatida ko‘rsatmoq",
+        "...jihat xosdir",
+        "Bir so‘z bilan aytganda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N을/를 N(으)로 꼽다» — Nni N sifatida ko‘rsatmoq. Ko‘rgazmadagi bitta asarga ishora qilish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«이 문양은 손으로 그렸음에 틀림없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qisqasi, bo‘sh joy rasmga jon beradi.",
+        "Bu naqsh qo‘lda chizilgani shubhasiz.",
+        "Bo‘sh joy qoldirilishi xarakterli jihat.",
+        "Egri chiziqlar taassuroti o‘zgacha ekani shubhasiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "«이 문양은 손으로 그렸음에 틀림없어요.» — «Bu naqsh qo‘lda chizilgani shubhasiz.». Bu yerda «A/V-(으)ㅁ에 틀림없다» qolipi ishlatilgan: ...ekani shubhasiz.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bir so‘z bilan aytganda, bu asar go‘zalligi uyg‘unlikda.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "곡선의 느낌이 특별함에 틀림없어요.",
+        "한마디로 말하자면, 이 작품의 멋은 조화예요.",
+        "곡선을 많이 사용하는 점이 특징적이에요.",
+        "한마디로 말하자면, 여백이 그림을 살려요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한마디로 말하자면, 이 작품의 멋은 조화예요.» — «Bir so‘z bilan aytganda, bu asar go‘zalligi uyg‘unlikda.». Bu yerda «한마디로 말하자면» qolipi ishlatilgan: Bir so‘z bilan aytganda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«색이 은은한 점이 특징적이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ko‘pchilik oq sopolni taniqli sopol buyum sifatida ko‘rsatadi.",
+        "Rangi mayinligi uning o‘ziga xos jihati.",
+        "Egri chiziqlar ko‘p ishlatilishi o‘ziga xos.",
+        "Qisqasi, bo‘sh joy rasmga jon beradi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«색이 은은한 점이 특징적이에요.» — «Rangi mayinligi uning o‘ziga xos jihati.». Bu yerda «A-(으)ㄴ/V-는 점이 특징적이다» qolipi ishlatilgan: ...jihat xosdir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Ko‘pchilik oq sopolni taniqli sopol buyum sifatida ko‘rsatadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "여백을 남기는 점이 특징적입니다.",
+        "많은 사람이 백자를 대표적인 도자기로 꼽아요.",
+        "한마디로 말하자면, 전통과 새로움이 만났어요.",
+        "색이 은은한 점이 특징적이에요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«많은 사람이 백자를 대표적인 도자기로 꼽아요.» — «Ko‘pchilik oq sopolni taniqli sopol buyum sifatida ko‘rsatadi.». Bu yerda «N을/를 N(으)로 꼽다» qolipi ishlatilgan: Nni N sifatida ko‘rsatmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 도자기는 곡선을 살리는 점이 특징적이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu siz birga tayyorlagan taqdimot ekani shubhasiz.",
+        "Bu sopol buyum egri chiziqni ko‘rsatishi bilan ajraladi.",
+        "Men bo‘sh joyni eng go‘zal unsur deb bilaman.",
+        "Qisqasi, turli fikrlar uyg‘unlashadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «이 도자기는 곡선을 살리는 점이 특징적이에요.» deydi. Ma’nosi: «Bu sopol buyum egri chiziqni ko‘rsatishi bilan ajraladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 여백을 가장 아름다운 요소로 꼽아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu sopol buyum egri chiziqni ko‘rsatishi bilan ajraladi.",
+        "Qisqasi, turli fikrlar uyg‘unlashadi.",
+        "Bu siz birga tayyorlagan taqdimot ekani shubhasiz.",
+        "Men bo‘sh joyni eng go‘zal unsur deb bilaman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «저는 여백을 가장 아름다운 요소로 꼽아요.» deydi. Ma’nosi: «Men bo‘sh joyni eng go‘zal unsur deb bilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한마디로 말하자면, 서로 다른 생각이 조화를 이뤄요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men bo‘sh joyni eng go‘zal unsur deb bilaman.",
+        "Bu siz birga tayyorlagan taqdimot ekani shubhasiz.",
+        "Bu sopol buyum egri chiziqni ko‘rsatishi bilan ajraladi.",
+        "Qisqasi, turli fikrlar uyg‘unlashadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «한마디로 말하자면, 서로 다른 생각이 조화를 이뤄요.» deydi. Ma’nosi: «Qisqasi, turli fikrlar uyg‘unlashadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여러분이 함께 만든 발표임에 틀림없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu siz birga tayyorlagan taqdimot ekani shubhasiz.",
+        "Qisqasi, turli fikrlar uyg‘unlashadi.",
+        "Bu sopol buyum egri chiziqni ko‘rsatishi bilan ajraladi.",
+        "Men bo‘sh joyni eng go‘zal unsur deb bilaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «여러분이 함께 만든 발표임에 틀림없어요.» deydi. Ma’nosi: «Bu siz birga tayyorlagan taqdimot ekani shubhasiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «저는 여백을 가장 아름다운 요소로 꼽아요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Soyon",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Men bo‘sh joyni eng go‘zal unsur deb bilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «여러분이 함께 만든 발표임에 틀림없어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Soyon",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Bu siz birga tayyorlagan taqdimot ekani shubhasiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

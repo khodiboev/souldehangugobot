@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«통계» so‘zining ma’nosi qaysi?",
+      "options": [
+        "statistika",
+        "son",
+        "natija",
+        "so‘rov"
+      ],
+      "correctIndex": 0,
+      "explanation": "«통계» — «statistika». Bu so‘z darsdagi «Son va tadqiqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«so‘rov» koreyschada qaysi so‘z?",
+      "options": [
+        "그래프",
+        "통계",
+        "비율",
+        "조사"
+      ],
+      "correctIndex": 3,
+      "explanation": "«조사» — «so‘rov». Bu so‘z darsdagi «Son va tadqiqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«그래프» so‘zining ma’nosi qaysi?",
+      "options": [
+        "grafik",
+        "son",
+        "ulush",
+        "natija"
+      ],
+      "correctIndex": 0,
+      "explanation": "«그래프» — «grafik». Bu so‘z darsdagi «Son va tadqiqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kamaymoq» koreyschada qaysi so‘z?",
+      "options": [
+        "불과하다",
+        "예상하다",
+        "대부분",
+        "감소하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«감소하다» — «kamaymoq». Bu so‘z darsdagi «Miqdor o‘zgarishi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«대부분» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kamaymoq",
+        "aksariyat",
+        "yarmi",
+        "oshmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«대부분» — «aksariyat». Bu so‘z darsdagi «Miqdor o‘zgarishi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«kutmoq, taxmin qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "증가하다",
+        "예상하다",
+        "불과하다",
+        "감소하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«예상하다» — «kutmoq, taxmin qilmoq». Bu so‘z darsdagi «Miqdor o‘zgarishi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N에 따라(서)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hisoblasak shunday",
+        "Buning ustiga",
+        "Atigi N",
+        "Nga qarab"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N에 따라(서)» — Nga qarab. Grafikdagi gorizontal o‘q o‘zgarsa vertikal natija siljiydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 데다가 · V-는 데다가» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Buning ustiga",
+        "Hisoblasak shunday",
+        "Nga qarab",
+        "Atigi N"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ 데다가 · V-는 데다가» — Buning ustiga. Bir dalil ustiga yana bitta dalil qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 셈이다 · V-는 셈이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Buning ustiga",
+        "Hisoblasak shunday",
+        "Nga qarab",
+        "Atigi N"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ 셈이다 · V-는 셈이다» — Hisoblasak shunday. Kalkulyatordagi yakuniy taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N에 불과하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hisoblasak shunday",
+        "Nga qarab",
+        "Buning ustiga",
+        "Atigi N"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N에 불과하다» — Atigi N. Katta kutish yonidagi kichik haqiqiy son.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«연령에 따라 좋아하는 숫자가 달라요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Har oy tejalsa, bir yilda katta pul yig‘iladi hisob.",
+        "Tayyorgarlik muddati atigi bir hafta edi.",
+        "So‘rov usuliga qarab natija o‘zgarishi mumkin.",
+        "Yoshga qarab yoqtiriladigan son farq qiladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«연령에 따라 좋아하는 숫자가 달라요.» — «Yoshga qarab yoqtiriladigan son farq qiladi.». Bu yerda «N에 따라(서)» qolipi ishlatilgan: Nga qarab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Narxi arzon, ustiga-ustak sifati yaxshi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "준비 기간은 일주일에 불과했어요.",
+        "응답자의 절반이 찬성했으니 의견이 나뉜 셈이에요.",
+        "가격이 저렴한 데다가 품질도 좋아요.",
+        "응답자가 많은 데다가 질문도 명확했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«가격이 저렴한 데다가 품질도 좋아요.» — «Narxi arzon, ustiga-ustak sifati yaxshi.». Bu yerda «A-(으)ㄴ 데다가 · V-는 데다가» qolipi ishlatilgan: Buning ustiga.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«응답자의 절반이 찬성했으니 의견이 나뉜 셈이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yarmi rozi bo‘lsa, fikrlar bo‘lingan hisob.",
+        "So‘rov usuliga qarab natija o‘zgarishi mumkin.",
+        "Arizachilar ko‘paymoqda, ustiga-ustak raqobat ham kuchli.",
+        "O‘tgan yildan ikki baravar bo‘lsa, ancha yuqori hisoblanadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«응답자의 절반이 찬성했으니 의견이 나뉜 셈이에요.» — «Yarmi rozi bo‘lsa, fikrlar bo‘lingan hisob.». Bu yerda «A-(으)ㄴ 셈이다 · V-는 셈이다» qolipi ishlatilgan: Hisoblasak shunday.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Qatnashchilar atigi o‘n kishi edi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "매달 조금씩 저축하니 일 년에 큰돈을 모으는 셈이에요.",
+        "준비 기간은 일주일에 불과했어요.",
+        "연령에 따라 좋아하는 숫자가 달라요.",
+        "참가자는 열 명에 불과했어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«참가자는 열 명에 불과했어요.» — «Qatnashchilar atigi o‘n kishi edi.». Bu yerda «N에 불과하다» qolipi ishlatilgan: Atigi N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지역에 따라 인기 있는 여행지가 달라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Javoblar ko‘p, ustiga-ustak fikrlar xilma-xil.",
+        "Hududga qarab mashhur manzil farq qiladi.",
+        "Bir xil joyni tanlaganlar atigi o‘n kishi.",
+        "Demak didlar keng tarqalgan hisob."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «지역에 따라 인기 있는 여행지가 달라요.» deydi. Ma’nosi: «Hududga qarab mashhur manzil farq qiladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «응답이 많은 데다가 의견도 다양해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Javoblar ko‘p, ustiga-ustak fikrlar xilma-xil.",
+        "Bir xil joyni tanlaganlar atigi o‘n kishi.",
+        "Hududga qarab mashhur manzil farq qiladi.",
+        "Demak didlar keng tarqalgan hisob."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «응답이 많은 데다가 의견도 다양해요.» deydi. Ma’nosi: «Javoblar ko‘p, ustiga-ustak fikrlar xilma-xil.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «같은 곳을 고른 사람은 열 명에 불과해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hududga qarab mashhur manzil farq qiladi.",
+        "Bir xil joyni tanlaganlar atigi o‘n kishi.",
+        "Demak didlar keng tarqalgan hisob.",
+        "Javoblar ko‘p, ustiga-ustak fikrlar xilma-xil."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «같은 곳을 고른 사람은 열 명에 불과해요.» deydi. Ma’nosi: «Bir xil joyni tanlaganlar atigi o‘n kishi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그러면 취향이 넓게 퍼진 셈이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Javoblar ko‘p, ustiga-ustak fikrlar xilma-xil.",
+        "Bir xil joyni tanlaganlar atigi o‘n kishi.",
+        "Hududga qarab mashhur manzil farq qiladi.",
+        "Demak didlar keng tarqalgan hisob."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «그러면 취향이 넓게 퍼진 셈이에요.» deydi. Ma’nosi: «Demak didlar keng tarqalgan hisob.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «응답이 많은 데다가 의견도 다양해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Javoblar ko‘p, ustiga-ustak fikrlar xilma-xil.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그러면 취향이 넓게 퍼진 셈이에요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Demak didlar keng tarqalgan hisob.».",
+      "reviewSection": "s"
+    }
+  ]
+}

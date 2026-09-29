@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«위상» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ommaviy madaniyat",
+        "platforma",
+        "mavqe",
+        "tomoshabin"
+      ],
+      "correctIndex": 2,
+      "explanation": "«위상» — «mavqe». Bu so‘z darsdagi «Ommaviy madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tomoshabin» koreyschada qaysi so‘z?",
+      "options": [
+        "관객",
+        "위상",
+        "플랫폼",
+        "대중문화"
+      ],
+      "correctIndex": 0,
+      "explanation": "«관객» — «tomoshabin». Bu so‘z darsdagi «Ommaviy madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«유행» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kontent",
+        "urf",
+        "ommaviy madaniyat",
+        "platforma"
+      ],
+      "correctIndex": 1,
+      "explanation": "«유행» — «urf». Bu so‘z darsdagi «Ommaviy madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tarqalish» koreyschada qaysi so‘z?",
+      "options": [
+        "확산",
+        "평가",
+        "창작자",
+        "영향"
+      ],
+      "correctIndex": 0,
+      "explanation": "«확산» — «tarqalish». Bu so‘z darsdagi «Ta’sir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«평가» so‘zining ma’nosi qaysi?",
+      "options": [
+        "baho",
+        "tahlil qilmoq",
+        "daromad",
+        "ta’sir"
+      ],
+      "correctIndex": 0,
+      "explanation": "«평가» — «baho». Bu so‘z darsdagi «Ta’sir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tahlil qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "창작자",
+        "분석하다",
+        "수익",
+        "확산"
+      ],
+      "correctIndex": 1,
+      "explanation": "«분석하다» — «tahlil qilmoq». Bu so‘z darsdagi «Ta’sir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N(으)로 말미암아» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan ortiq emas",
+        "Buni qil, unisini qil deyish",
+        "... qilaman deb",
+        "N tufayli"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N(으)로 말미암아» — N tufayli. Sababdan natijaga chizilgan o‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N에 지나지 않다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan ortiq emas",
+        "N tufayli",
+        "... deyishga hali erta",
+        "... bo‘lsa-da"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N에 지나지 않다» — Ndan ortiq emas. Katta baho yonidagi “faqat shu” chegarasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«온라인 플랫폼으로 말미암아 작은 작품도 널리 알려졌어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Texnologiya o‘zgarishi tufayli tarqatish usuli o‘zgardi.",
+        "Tomoshabin qiziqishi sabab tomosha uzaytirildi.",
+        "Onlayn platforma tufayli kichik asar ham keng tanildi.",
+        "Qisqa video butun hikoyaning bir qismi, xolos."
+      ],
+      "correctIndex": 2,
+      "explanation": "«온라인 플랫폼으로 말미암아 작은 작품도 널리 알려졌어요.» — «Onlayn platforma tufayli kichik asar ham keng tanildi.». Bu yerda «N(으)로 말미암아» qolipi ishlatilgan: N tufayli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Ko‘rishlar soni bir ko‘rsatkich, xolos.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "그 결과는 시작에 지나지 않아요.",
+        "조회 수는 한 가지 숫자에 지나지 않아요.",
+        "짧은 영상은 전체 이야기의 일부에 지나지 않아요.",
+        "기술 변화로 말미암아 유통 방식이 달라졌어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«조회 수는 한 가지 숫자에 지나지 않아요.» — «Ko‘rishlar soni bir ko‘rsatkich, xolos.». Bu yerda «N에 지나지 않다» qolipi ishlatilgan: Ndan ortiq emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«관객의 관심으로 말미암아 공연이 연장됐어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Texnologiya o‘zgarishi tufayli tarqatish usuli o‘zgardi.",
+        "Tomoshabin qiziqishi sabab tomosha uzaytirildi.",
+        "Ko‘rishlar soni bir ko‘rsatkich, xolos.",
+        "Qisqa video butun hikoyaning bir qismi, xolos."
+      ],
+      "correctIndex": 1,
+      "explanation": "«관객의 관심으로 말미암아 공연이 연장됐어요.» — «Tomoshabin qiziqishi sabab tomosha uzaytirildi.». Bu yerda «N(으)로 말미암아» qolipi ishlatilgan: N tufayli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bu natija boshlanishdan boshqa narsa emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기술 변화로 말미암아 유통 방식이 달라졌어요.",
+        "온라인 플랫폼으로 말미암아 작은 작품도 널리 알려졌어요.",
+        "관객의 관심으로 말미암아 공연이 연장됐어요.",
+        "그 결과는 시작에 지나지 않아요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«그 결과는 시작에 지나지 않아요.» — «Bu natija boshlanishdan boshqa narsa emas.». Bu yerda «N에 지나지 않다» qolipi ishlatilgan: Ndan ortiq emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«기술 변화로 말미암아 유통 방식이 달라졌어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tomoshabin qiziqishi sabab tomosha uzaytirildi.",
+        "Bu natija boshlanishdan boshqa narsa emas.",
+        "Texnologiya o‘zgarishi tufayli tarqatish usuli o‘zgardi.",
+        "Ko‘rishlar soni bir ko‘rsatkich, xolos."
+      ],
+      "correctIndex": 2,
+      "explanation": "«기술 변화로 말미암아 유통 방식이 달라졌어요.» — «Texnologiya o‘zgarishi tufayli tarqatish usuli o‘zgardi.». Bu yerda «N(으)로 말미암아» qolipi ishlatilgan: N tufayli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Qisqa video butun hikoyaning bir qismi, xolos.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "그 결과는 시작에 지나지 않아요.",
+        "온라인 플랫폼으로 말미암아 작은 작품도 널리 알려졌어요.",
+        "짧은 영상은 전체 이야기의 일부에 지나지 않아요.",
+        "관객의 관심으로 말미암아 공연이 연장됐어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«짧은 영상은 전체 이야기의 일부에 지나지 않아요.» — «Qisqa video butun hikoyaning bir qismi, xolos.». Bu yerda «N에 지나지 않다» qolipi ishlatilgan: Ndan ortiq emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «새 플랫폼으로 말미암아 시청자가 늘었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Suratga olish va tahrirda qatnashganlarni tanishtiraylik.",
+        "Yangi platforma tufayli tomoshabin ko‘paydi.",
+        "Tayyorlanish jarayonini qisqa jamladim.",
+        "Ko‘rishlar soni natijaning bir bo‘lagi, xolos."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «새 플랫폼으로 말미암아 시청자가 늘었어요.» deydi. Ma’nosi: «Yangi platforma tufayli tomoshabin ko‘paydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «조회 수는 결과의 일부에 지나지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yangi platforma tufayli tomoshabin ko‘paydi.",
+        "Tayyorlanish jarayonini qisqa jamladim.",
+        "Ko‘rishlar soni natijaning bir bo‘lagi, xolos.",
+        "Suratga olish va tahrirda qatnashganlarni tanishtiraylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «조회 수는 결과의 일부에 지나지 않아요.» deydi. Ma’nosi: «Ko‘rishlar soni natijaning bir bo‘lagi, xolos.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «촬영과 편집에 참여한 사람을 소개해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yangi platforma tufayli tomoshabin ko‘paydi.",
+        "Tayyorlanish jarayonini qisqa jamladim.",
+        "Suratga olish va tahrirda qatnashganlarni tanishtiraylik.",
+        "Ko‘rishlar soni natijaning bir bo‘lagi, xolos."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «촬영과 편집에 참여한 사람을 소개해요.» deydi. Ma’nosi: «Suratga olish va tahrirda qatnashganlarni tanishtiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제작 과정을 짧게 정리했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘rishlar soni natijaning bir bo‘lagi, xolos.",
+        "Suratga olish va tahrirda qatnashganlarni tanishtiraylik.",
+        "Tayyorlanish jarayonini qisqa jamladim.",
+        "Yangi platforma tufayli tomoshabin ko‘paydi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «제작 과정을 짧게 정리했어요.» deydi. Ma’nosi: «Tayyorlanish jarayonini qisqa jamladim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «조회 수는 결과의 일부에 지나지 않아요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Ko‘rishlar soni natijaning bir bo‘lagi, xolos.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «제작 과정을 짧게 정리했어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Tayyorlanish jarayonini qisqa jamladim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

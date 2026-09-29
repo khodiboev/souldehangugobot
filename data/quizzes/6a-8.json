@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«마음» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘ngil",
+        "davolash",
+        "sog‘liq",
+        "maslahat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«마음» — «ko‘ngil». Bu so‘z darsdagi «Sog‘liq va ko‘ngil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«zo‘riqish» koreyschada qaysi so‘z?",
+      "options": [
+        "건강",
+        "상담",
+        "휴식",
+        "스트레스"
+      ],
+      "correctIndex": 3,
+      "explanation": "«스트레스» — «zo‘riqish». Bu so‘z darsdagi «Sog‘liq va ko‘ngil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«치료» so‘zining ma’nosi qaysi?",
+      "options": [
+        "davolash",
+        "sog‘liq",
+        "maslahat",
+        "dam"
+      ],
+      "correctIndex": 0,
+      "explanation": "«치료» — «davolash». Bu so‘z darsdagi «Sog‘liq va ko‘ngil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«oila» koreyschada qaysi so‘z?",
+      "options": [
+        "이유",
+        "도움",
+        "가족",
+        "친구"
+      ],
+      "correctIndex": 2,
+      "explanation": "«가족» — «oila». Bu so‘z darsdagi «Qo‘llab-quvvatlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«이유» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yordam",
+        "oila",
+        "sabab",
+        "odat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«이유» — «sabab». Bu so‘z darsdagi «Qo‘llab-quvvatlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tiklanish» koreyschada qaysi so‘z?",
+      "options": [
+        "회복",
+        "이유",
+        "친구",
+        "도움"
+      ],
+      "correctIndex": 0,
+      "explanation": "«회복» — «tiklanish». Bu so‘z darsdagi «Qo‘llab-quvvatlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ 바에는[바에야] (차라리)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham",
+        "...gani sababli",
+        "... qilgandan ko‘ra yaxshisi",
+        "...ishga urinib turib olmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)ㄹ 바에는[바에야] (차라리)» — ... qilgandan ko‘ra yaxshisi. Ikki yo‘l belgisidan yaxshirog‘ini tanlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 까닭에[까닭으로]» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... qilgandan ko‘ra yaxshisi",
+        "...gani sababli",
+        "Shunchalik ... ediki",
+        "... deb ishonib / ... bo‘ladi deb"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ/V-는 까닭에[까닭으로]» — ...gani sababli. Voqea ostidagi izohli sabab satri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«혼자 걱정할 바에는 친구에게 말해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘zimni qiynab ishlagandan ko‘ra biroz dam olaman.",
+        "Jadval bandligi sabab dam vaqtini o‘tkazdim.",
+        "Faqat taxmin qilgandan ko‘ra bevosita so‘rash yaxshi.",
+        "Yolg‘iz xavotirlangandan ko‘ra do‘stga ayting."
+      ],
+      "correctIndex": 3,
+      "explanation": "«혼자 걱정할 바에는 친구에게 말해요.» — «Yolg‘iz xavotirlangandan ko‘ra do‘stga ayting.». Bu yerda «V-(으)ㄹ 바에는[바에야] (차라리)» qolipi ishlatilgan: ... qilgandan ko‘ra yaxshisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Yetarli uxlamaganim sabab charchadim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "잠을 충분히 못 잔 까닭에 피곤했어요.",
+        "혼자 걱정할 바에는 친구에게 말해요.",
+        "일정이 바쁜 까닭에 쉬는 시간을 놓쳤어요.",
+        "추측만 할 바에야 직접 물어보는 게 좋아요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«잠을 충분히 못 잔 까닭에 피곤했어요.» — «Yetarli uxlamaganim sabab charchadim.». Bu yerda «A-(으)ㄴ/V-는 까닭에[까닭으로]» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«무리해서 일할 바에는 차라리 잠깐 쉬겠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘zimni qiynab ishlagandan ko‘ra biroz dam olaman.",
+        "Jadval bandligi sabab dam vaqtini o‘tkazdim.",
+        "Yolg‘iz o‘ylayvergan sabab ko‘ngil yanada siqilishi mumkin.",
+        "Faqat taxmin qilgandan ko‘ra bevosita so‘rash yaxshi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«무리해서 일할 바에는 차라리 잠깐 쉬겠어요.» — «O‘zimni qiynab ishlagandan ko‘ra biroz dam olaman.». Bu yerda «V-(으)ㄹ 바에는[바에야] (차라리)» qolipi ishlatilgan: ... qilgandan ko‘ra yaxshisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Jadval bandligi sabab dam vaqtini o‘tkazdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "추측만 할 바에야 직접 물어보는 게 좋아요.",
+        "잠을 충분히 못 잔 까닭에 피곤했어요.",
+        "일정이 바쁜 까닭에 쉬는 시간을 놓쳤어요.",
+        "무리해서 일할 바에는 차라리 잠깐 쉬겠어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«일정이 바쁜 까닭에 쉬는 시간을 놓쳤어요.» — «Jadval bandligi sabab dam vaqtini o‘tkazdim.». Bu yerda «A-(으)ㄴ/V-는 까닭에[까닭으로]» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«추측만 할 바에야 직접 물어보는 게 좋아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yolg‘iz o‘ylayvergan sabab ko‘ngil yanada siqilishi mumkin.",
+        "Yolg‘iz xavotirlangandan ko‘ra do‘stga ayting.",
+        "Faqat taxmin qilgandan ko‘ra bevosita so‘rash yaxshi.",
+        "O‘zimni qiynab ishlagandan ko‘ra biroz dam olaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«추측만 할 바에야 직접 물어보는 게 좋아요.» — «Faqat taxmin qilgandan ko‘ra bevosita so‘rash yaxshi.». Bu yerda «V-(으)ㄹ 바에는[바에야] (차라리)» qolipi ishlatilgan: ... qilgandan ko‘ra yaxshisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Yolg‘iz o‘ylayvergan sabab ko‘ngil yanada siqilishi mumkin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "혼자 고민하는 까닭에 더 답답해질 수 있어요.",
+        "추측만 할 바에야 직접 물어보는 게 좋아요.",
+        "무리해서 일할 바에는 차라리 잠깐 쉬겠어요.",
+        "일정이 바쁜 까닭에 쉬는 시간을 놓쳤어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«혼자 고민하는 까닭에 더 답답해질 수 있어요.» — «Yolg‘iz o‘ylayvergan sabab ko‘ngil yanada siqilishi mumkin.». Bu yerda «A-(으)ㄴ/V-는 까닭에[까닭으로]» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «밤새 일할 바에는 오늘은 쉬겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir-birimizning holimizni ham so‘raylik.",
+        "Tun bo‘yi ishlagandan ko‘ra bugun dam olaman.",
+        "Vaqt kamligi uchun hamma shoshdi.",
+        "Vazifani bo‘lsak bosim kamayadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «밤새 일할 바에는 오늘은 쉬겠어요.» deydi. Ma’nosi: «Tun bo‘yi ishlagandan ko‘ra bugun dam olaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시간이 부족한 까닭에 모두 서둘렀어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Vazifani bo‘lsak bosim kamayadi.",
+        "Bir-birimizning holimizni ham so‘raylik.",
+        "Vaqt kamligi uchun hamma shoshdi.",
+        "Tun bo‘yi ishlagandan ko‘ra bugun dam olaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «시간이 부족한 까닭에 모두 서둘렀어요.» deydi. Ma’nosi: «Vaqt kamligi uchun hamma shoshdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «일정을 나누면 부담이 줄어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tun bo‘yi ishlagandan ko‘ra bugun dam olaman.",
+        "Vazifani bo‘lsak bosim kamayadi.",
+        "Vaqt kamligi uchun hamma shoshdi.",
+        "Bir-birimizning holimizni ham so‘raylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «일정을 나누면 부담이 줄어요.» deydi. Ma’nosi: «Vazifani bo‘lsak bosim kamayadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로의 상태도 물어봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir-birimizning holimizni ham so‘raylik.",
+        "Tun bo‘yi ishlagandan ko‘ra bugun dam olaman.",
+        "Vazifani bo‘lsak bosim kamayadi.",
+        "Vaqt kamligi uchun hamma shoshdi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «서로의 상태도 물어봐요.» deydi. Ma’nosi: «Bir-birimizning holimizni ham so‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «시간이 부족한 까닭에 모두 서둘렀어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Vaqt kamligi uchun hamma shoshdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «서로의 상태도 물어봐요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Bir-birimizning holimizni ham so‘raylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

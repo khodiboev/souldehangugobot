@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«주택» so‘zining ma’nosi qaysi?",
+      "options": [
+        "turar joy",
+        "hovli",
+        "makon",
+        "deraza"
+      ],
+      "correctIndex": 0,
+      "explanation": "«주택» — «turar joy». Bu so‘z darsdagi «Uy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«deraza» koreyschada qaysi so‘z?",
+      "options": [
+        "창문",
+        "방",
+        "집",
+        "마당"
+      ],
+      "correctIndex": 0,
+      "explanation": "«창문» — «deraza». Bu so‘z darsdagi «Uy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«공간» so‘zining ma’nosi qaysi?",
+      "options": [
+        "deraza",
+        "xona",
+        "makon",
+        "turar joy"
+      ],
+      "correctIndex": 2,
+      "explanation": "«공간» — «makon». Bu so‘z darsdagi «Uy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ko‘chish» koreyschada qaysi so‘z?",
+      "options": [
+        "추억",
+        "설계",
+        "이사",
+        "햇빛"
+      ],
+      "correctIndex": 2,
+      "explanation": "«이사» — «ko‘chish». Bu so‘z darsdagi «Xotira va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«햇빛» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘chish",
+        "quyosh nuri",
+        "loyiha",
+        "tasavvur qilmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«햇빛» — «quyosh nuri». Bu so‘z darsdagi «Xotira va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tasavvur qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "햇빛",
+        "편리하다",
+        "상상하다",
+        "이사"
+      ],
+      "correctIndex": 2,
+      "explanation": "«상상하다» — «tasavvur qilmoq». Bu so‘z darsdagi «Xotira va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)려는지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ish ehtimoli juda katta, odatda salbiy",
+        "... yoki shunga o‘xshash ish qilmoq",
+        "...moqchimi ekan",
+        "Nning bor-yo‘qligi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)려는지» — ...moqchimi ekan. Yopiq eshik ortidagi reja haqida savol.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-기 십상이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... yoki shunga o‘xshash ish qilmoq",
+        "...moqchimi ekan",
+        "...ish ehtimoli juda katta, odatda salbiy",
+        "Odatda ... bo‘ladi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-기 십상이다» — ...ish ehtimoli juda katta, odatda salbiy. Pol ustidagi sirpanchiq joyga ogohlantirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-거나 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...moqchimi ekan",
+        "... yoki shunga o‘xshash ish qilmoq",
+        "...ish ehtimoli juda katta, odatda salbiy",
+        "N kabi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-거나 하다» — ... yoki shunga o‘xshash ish qilmoq. Rejadagi “masalan” deb ochilgan katak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«민지가 어디로 이사하려는지 모르겠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Derazani qayerga qo‘ymoqchi ekaniga qiziqyapman.",
+        "Xona dim bo‘lsa derazani ochaman yoki boshqa chora qilaman.",
+        "Minji qayerga ko‘chmoqchi ekanini bilmayman.",
+        "Deraza kichik bo‘lsa xona osongina qorong‘ilashadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«민지가 어디로 이사하려는지 모르겠어요.» — «Minji qayerga ko‘chmoqchi ekanini bilmayman.». Bu yerda «V-(으)려는지» qolipi ishlatilgan: ...moqchimi ekan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Deraza kichik bo‘lsa xona osongina qorong‘ilashadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "계획 없이 이사하면 물건을 잃어버리기 십상이에요.",
+        "어떤 집을 지으려는지 물어봐요.",
+        "창문을 어디에 내려고 하는지 궁금해요.",
+        "창문이 작으면 방이 어두워지기 십상이에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«창문이 작으면 방이 어두워지기 십상이에요.» — «Deraza kichik bo‘lsa xona osongina qorong‘ilashadi.». Bu yerda «V-기 십상이다» qolipi ishlatilgan: ...ish ehtimoli juda katta, odatda salbiy.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«주말에는 집을 정리하거나 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xona dim bo‘lsa derazani ochaman yoki boshqa chora qilaman.",
+        "Derazani qayerga qo‘ymoqchi ekaniga qiziqyapman.",
+        "Dam olish kuni uyni tartiblayman yoki shunga o‘xshash ish qilaman.",
+        "Minji qayerga ko‘chmoqchi ekanini bilmayman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«주말에는 집을 정리하거나 해요.» — «Dam olish kuni uyni tartiblayman yoki shunga o‘xshash ish qilaman.». Bu yerda «A/V-거나 하다» qolipi ishlatilgan: ... yoki shunga o‘xshash ish qilmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Qanday uy qurmoqchi ekanini so‘raylik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "어떤 집을 지으려는지 물어봐요.",
+        "공간을 너무 채우면 답답해지기 십상이에요.",
+        "계획 없이 이사하면 물건을 잃어버리기 십상이에요.",
+        "집을 고를 때 조용한 곳을 찾거나 해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«어떤 집을 지으려는지 물어봐요.» — «Qanday uy qurmoqchi ekanini so‘raylik.». Bu yerda «V-(으)려는지» qolipi ishlatilgan: ...moqchimi ekan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«계획 없이 이사하면 물건을 잃어버리기 십상이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uy tanlaganda tinch joy izlayman va shunga o‘xshash ishlar qilaman.",
+        "Qanday uy qurmoqchi ekanini so‘raylik.",
+        "Dam olish kuni uyni tartiblayman yoki shunga o‘xshash ish qilaman.",
+        "Rejasiz ko‘chsa buyumni yo‘qotish oson."
+      ],
+      "correctIndex": 3,
+      "explanation": "«계획 없이 이사하면 물건을 잃어버리기 십상이에요.» — «Rejasiz ko‘chsa buyumni yo‘qotish oson.». Bu yerda «V-기 십상이다» qolipi ishlatilgan: ...ish ehtimoli juda katta, odatda salbiy.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어떤 방을 고르려는지 아직 모르겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tor xonaga ko‘p narsa qo‘ysa dim bo‘lib ketadi.",
+        "Quyosh nuri va transportni ham tekshiring.",
+        "Kechqurun mahallani aylanib ko‘ring.",
+        "Qanday xona tanlashimni hali bilmayman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «어떤 방을 고르려는지 아직 모르겠어요.» deydi. Ma’nosi: «Qanday xona tanlashimni hali bilmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좁은 방에 물건을 많이 두면 답답해지기 십상이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qanday xona tanlashimni hali bilmayman.",
+        "Quyosh nuri va transportni ham tekshiring.",
+        "Kechqurun mahallani aylanib ko‘ring.",
+        "Tor xonaga ko‘p narsa qo‘ysa dim bo‘lib ketadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «좁은 방에 물건을 많이 두면 답답해지기 십상이에요.» deydi. Ma’nosi: «Tor xonaga ko‘p narsa qo‘ysa dim bo‘lib ketadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저녁에 동네를 걸어 보거나 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tor xonaga ko‘p narsa qo‘ysa dim bo‘lib ketadi.",
+        "Kechqurun mahallani aylanib ko‘ring.",
+        "Qanday xona tanlashimni hali bilmayman.",
+        "Quyosh nuri va transportni ham tekshiring."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «저녁에 동네를 걸어 보거나 해요.» deydi. Ma’nosi: «Kechqurun mahallani aylanib ko‘ring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «햇빛과 교통도 확인하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Quyosh nuri va transportni ham tekshiring.",
+        "Qanday xona tanlashimni hali bilmayman.",
+        "Tor xonaga ko‘p narsa qo‘ysa dim bo‘lib ketadi.",
+        "Kechqurun mahallani aylanib ko‘ring."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «햇빛과 교통도 확인하세요.» deydi. Ma’nosi: «Quyosh nuri va transportni ham tekshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «좁은 방에 물건을 많이 두면 답답해지기 십상이에요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Tor xonaga ko‘p narsa qo‘ysa dim bo‘lib ketadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «햇빛과 교통도 확인하세요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Quyosh nuri va transportni ham tekshiring.».",
+      "reviewSection": "s"
+    }
+  ]
+}

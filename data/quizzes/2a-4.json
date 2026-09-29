@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«색깔» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘lcham",
+        "tor kelmoq",
+        "rang",
+        "jaket"
+      ],
+      "correctIndex": 2,
+      "explanation": "«색깔» — «rang». Bu so‘z darsdagi «Kiyim va o‘lcham» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«jinsi shim» koreyschada qaysi so‘z?",
+      "options": [
+        "색깔",
+        "청바지",
+        "사이즈",
+        "스웨터"
+      ],
+      "correctIndex": 1,
+      "explanation": "«청바지» — «jinsi shim». Bu so‘z darsdagi «Kiyim va o‘lcham» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«상품» so‘zining ma’nosi qaysi?",
+      "options": [
+        "biroz",
+        "mahsulot",
+        "pulni qaytarmoq",
+        "tanlamoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«상품» — «mahsulot». Bu so‘z darsdagi «Xarid va almashtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«pulni qaytarmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "조금",
+        "입어 보다",
+        "영수증",
+        "환불하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«환불하다» — «pulni qaytarmoq». Bu so‘z darsdagi «Xarid va almashtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«더» so‘zining ma’nosi qaysi?",
+      "options": [
+        "chek",
+        "yanada, ko‘proq",
+        "kiyib ko‘rmoq",
+        "pulni qaytarmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«더» — «yanada, ko‘proq». Bu so‘z darsdagi «Xarid va almashtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 것 같다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sifat bo‘yicha taxmin",
+        "Harakat yoki ot bo‘yicha taxmin",
+        "...dan ko‘ra",
+        "Istak: shunday bo‘lsa yaxshi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ 것 같다» — Sifat bo‘yicha taxmin. 것 같다 — qat’iy hukm emas, yumshoq taxmin buluti.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N보다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Istak: shunday bo‘lsa yaxshi",
+        "...dan ko‘ra",
+        "Harakat yoki ot bo‘yicha taxmin",
+        "Sifat bo‘yicha taxmin"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N보다» — ...dan ko‘ra. 보다 — tarozining “nimaga qaraganda?” tomoni.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-았으면/었으면 좋겠다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Istak: shunday bo‘lsa yaxshi",
+        "Harakat yoki ot bo‘yicha taxmin",
+        "...dan ko‘ra",
+        "Sifat bo‘yicha taxmin"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-았으면/었으면 좋겠다» — Istak: shunday bo‘lsa yaxshi. Bu qolip — kelajak uchun yozilgan tilak kartasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«옷이 좀 큰 것 같아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Kiyim biroz katta ko‘rinadi.",
+        "Xodim kelayotganga o‘xshaydi.",
+        "Ko‘kdan ko‘ra qora rang yoqadi.",
+        "Qora rangi ham bo‘lsa yaxshi edi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«옷이 좀 큰 것 같아요.» — «Kiyim biroz katta ko‘rinadi.». Bu yerda «A-(으)ㄴ 것 같다» qolipi ishlatilgan: Sifat bo‘yicha taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Odamlar kutayotganga o‘xshaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "검은색도 있었으면 좋겠어요.",
+        "이 색깔이 더 예쁜 것 같아요.",
+        "재킷이 스웨터보다 따뜻해요.",
+        "사람들이 기다리는 것 같아요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«사람들이 기다리는 것 같아요.» — «Odamlar kutayotganga o‘xshaydi.». Bu yerda «V-는 것 같다 · N인 것 같다» qolipi ishlatilgan: Harakat yoki ot bo‘yicha taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«이 옷이 저 옷보다 더 싸요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu kiyim unisidan arzonroq.",
+        "Biroz kichikroq bo‘lsa yaxshi edi.",
+        "Bu rang chiroyliroq ko‘rinadi.",
+        "Odamlar kutayotganga o‘xshaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이 옷이 저 옷보다 더 싸요.» — «Bu kiyim unisidan arzonroq.». Bu yerda «N보다» qolipi ishlatilgan: ...dan ko‘ra.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 스웨터가 좀 작은 것 같아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir o‘lcham kattasi yaxshiroq bo‘ladi.",
+        "Chek bo‘lsa almashtira olasiz.",
+        "Ko‘kdan ko‘ra kulrang chiroyliroq ko‘rinadi.",
+        "Bu sviter biroz kichik ko‘rinadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «이 스웨터가 좀 작은 것 같아요.» deydi. Ma’nosi: «Bu sviter biroz kichik ko‘rinadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «파란색보다 회색이 더 예쁜 것 같아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Chek bo‘lsa almashtira olasiz.",
+        "Bir o‘lcham kattasi yaxshiroq bo‘ladi.",
+        "Ko‘kdan ko‘ra kulrang chiroyliroq ko‘rinadi.",
+        "Bu sviter biroz kichik ko‘rinadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «파란색보다 회색이 더 예쁜 것 같아요.» deydi. Ma’nosi: «Ko‘kdan ko‘ra kulrang chiroyliroq ko‘rinadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «영수증이 있으면 교환할 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir o‘lcham kattasi yaxshiroq bo‘ladi.",
+        "Ko‘kdan ko‘ra kulrang chiroyliroq ko‘rinadi.",
+        "Chek bo‘lsa almashtira olasiz.",
+        "Bu sviter biroz kichik ko‘rinadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Sotuvchi «영수증이 있으면 교환할 수 있어요.» deydi. Ma’nosi: «Chek bo‘lsa almashtira olasiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «한 사이즈 큰 것이 더 좋겠어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Soyon",
+        "Sotuvchi",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bir o‘lcham kattasi yaxshiroq bo‘ladi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

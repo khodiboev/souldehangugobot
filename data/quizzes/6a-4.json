@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«소년» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sahna",
+        "o‘g‘il bola",
+        "qiz bola",
+        "yakun"
+      ],
+      "correctIndex": 1,
+      "explanation": "«소년» — «o‘g‘il bola». Bu so‘z darsdagi «Badiiy hikoya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«sahna» koreyschada qaysi so‘z?",
+      "options": [
+        "소녀",
+        "소년",
+        "장면",
+        "결말"
+      ],
+      "correctIndex": 2,
+      "explanation": "«장면» — «sahna». Bu so‘z darsdagi «Badiiy hikoya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«상상» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘g‘il bola",
+        "tasavvur",
+        "yakun",
+        "jadal qisqa yomg‘ir"
+      ],
+      "correctIndex": 1,
+      "explanation": "«상상» — «tasavvur». Bu so‘z darsdagi «Badiiy hikoya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«yuz ifodasi» koreyschada qaysi so‘z?",
+      "options": [
+        "침묵",
+        "감정",
+        "표정",
+        "바꾸다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«표정» — «yuz ifodasi». Bu so‘z darsdagi «Tuyg‘u» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«이야기» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hissiyot",
+        "sukut",
+        "o‘zgartirmoq",
+        "hikoya"
+      ],
+      "correctIndex": 3,
+      "explanation": "«이야기» — «hikoya». Bu so‘z darsdagi «Tuyg‘u» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«taxmin qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "바꾸다",
+        "침묵",
+        "추측하다",
+        "표정"
+      ],
+      "correctIndex": 2,
+      "explanation": "«추측하다» — «taxmin qilmoq». Bu so‘z darsdagi «Tuyg‘u» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 양» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faqat ... xolos",
+        "Nga qaramay",
+        "...dek / go‘yo ...",
+        "... deb ishonib / ... bo‘ladi deb"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-(으)ㄴ/V-는 양» — ...dek / go‘yo .... Tashqi harakatning ortidagi ehtimoliy niqob.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)리라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N u yoqda tursin",
+        "... deb ishonib / ... bo‘ladi deb",
+        "N degani nimasi?",
+        "...dek / go‘yo ..."
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)리라» — ... deb ishonib / ... bo‘ladi deb. Hikoya davomiga qo‘yilgan ishonchli taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«민지는 아무 일도 없는 양 웃었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Minji hech narsa bo‘lmagandek kuldi.",
+        "Qiz yomg‘ir yog‘mayotgandek sekin yurdi.",
+        "Yakun boshqacha bo‘ladi deb kutdim.",
+        "Yana uchrashamiz deb o‘yladim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«민지는 아무 일도 없는 양 웃었어요.» — «Minji hech narsa bo‘lmagandek kuldi.». Bu yerda «A-(으)ㄴ/V-는 양» qolipi ishlatilgan: ...dek / go‘yo ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Yomg‘ir tezda tinadi deb ishondim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "다시 만나리라 생각했어요.",
+        "비가 곧 그치리라 믿었어요.",
+        "그는 내용을 다 아는 양 고개를 끄덕였어요.",
+        "결말이 달라지리라 기대했어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«비가 곧 그치리라 믿었어요.» — «Yomg‘ir tezda tinadi deb ishondim.». Bu yerda «A/V-(으)리라» qolipi ishlatilgan: ... deb ishonib / ... bo‘ladi deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«그는 내용을 다 아는 양 고개를 끄덕였어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yana uchrashamiz deb o‘yladim.",
+        "Yomg‘ir tezda tinadi deb ishondim.",
+        "Qiz yomg‘ir yog‘mayotgandek sekin yurdi.",
+        "U hammasini bilgandek bosh irg‘adi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«그는 내용을 다 아는 양 고개를 끄덕였어요.» — «U hammasini bilgandek bosh irg‘adi.». Bu yerda «A-(으)ㄴ/V-는 양» qolipi ishlatilgan: ...dek / go‘yo ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Yana uchrashamiz deb o‘yladim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "소녀는 비가 오지 않는 양 천천히 걸었어요.",
+        "비가 곧 그치리라 믿었어요.",
+        "다시 만나리라 생각했어요.",
+        "결말이 달라지리라 기대했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«다시 만나리라 생각했어요.» — «Yana uchrashamiz deb o‘yladim.». Bu yerda «A/V-(으)리라» qolipi ishlatilgan: ... deb ishonib / ... bo‘ladi deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«소녀는 비가 오지 않는 양 천천히 걸었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Minji hech narsa bo‘lmagandek kuldi.",
+        "U hammasini bilgandek bosh irg‘adi.",
+        "Yomg‘ir tezda tinadi deb ishondim.",
+        "Qiz yomg‘ir yog‘mayotgandek sekin yurdi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«소녀는 비가 오지 않는 양 천천히 걸었어요.» — «Qiz yomg‘ir yog‘mayotgandek sekin yurdi.». Bu yerda «A-(으)ㄴ/V-는 양» qolipi ishlatilgan: ...dek / go‘yo ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Yakun boshqacha bo‘ladi deb kutdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "다시 만나리라 생각했어요.",
+        "민지는 아무 일도 없는 양 웃었어요.",
+        "비가 곧 그치리라 믿었어요.",
+        "결말이 달라지리라 기대했어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«결말이 달라지리라 기대했어요.» — «Yakun boshqacha bo‘ladi deb kutdim.». Bu yerda «A/V-(으)리라» qolipi ishlatilgan: ... deb ishonib / ... bo‘ladi deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «나는 비가 그치리라 믿고 우산을 접었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘sha xato keyin kulgili xotiraga aylandi.",
+        "Men yomg‘ir tinadi deb ishonib soyabonni yopdim.",
+        "Yaxshidek kuldim, ammo xat ho‘l bo‘ldi.",
+        "Biz do‘kon oldida biroz kutdik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «나는 비가 그치리라 믿고 우산을 접었어요.» deydi. Ma’nosi: «Men yomg‘ir tinadi deb ishonib soyabonni yopdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «괜찮은 양 웃었지만 편지가 젖었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshidek kuldim, ammo xat ho‘l bo‘ldi.",
+        "Biz do‘kon oldida biroz kutdik.",
+        "O‘sha xato keyin kulgili xotiraga aylandi.",
+        "Men yomg‘ir tinadi deb ishonib soyabonni yopdim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «괜찮은 양 웃었지만 편지가 젖었어요.» deydi. Ma’nosi: «Yaxshidek kuldim, ammo xat ho‘l bo‘ldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리는 가게 앞에서 잠시 기다렸어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘sha xato keyin kulgili xotiraga aylandi.",
+        "Yaxshidek kuldim, ammo xat ho‘l bo‘ldi.",
+        "Biz do‘kon oldida biroz kutdik.",
+        "Men yomg‘ir tinadi deb ishonib soyabonni yopdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «우리는 가게 앞에서 잠시 기다렸어요.» deydi. Ma’nosi: «Biz do‘kon oldida biroz kutdik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그날의 실수는 나중에 웃긴 추억이 됐어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Biz do‘kon oldida biroz kutdik.",
+        "O‘sha xato keyin kulgili xotiraga aylandi.",
+        "Yaxshidek kuldim, ammo xat ho‘l bo‘ldi.",
+        "Men yomg‘ir tinadi deb ishonib soyabonni yopdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «그날의 실수는 나중에 웃긴 추억이 됐어요.» deydi. Ma’nosi: «O‘sha xato keyin kulgili xotiraga aylandi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «괜찮은 양 웃었지만 편지가 젖었어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yaxshidek kuldim, ammo xat ho‘l bo‘ldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그날의 실수는 나중에 웃긴 추억이 됐어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «O‘sha xato keyin kulgili xotiraga aylandi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

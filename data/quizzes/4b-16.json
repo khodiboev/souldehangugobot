@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "16",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«원리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tajriba",
+        "tamoyil",
+        "dalil",
+        "irsiyat"
+      ],
+      "correctIndex": 1,
+      "explanation": "«원리» — «tamoyil». Bu so‘z darsdagi «Ilmiy tushuncha» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tajriba» koreyschada qaysi so‘z?",
+      "options": [
+        "실험",
+        "증거",
+        "과학",
+        "가설"
+      ],
+      "correctIndex": 0,
+      "explanation": "«실험» — «tajriba». Bu so‘z darsdagi «Ilmiy tushuncha» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«증거» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ilm-fan",
+        "tamoyil",
+        "dalil",
+        "faraz"
+      ],
+      "correctIndex": 2,
+      "explanation": "«증거» — «dalil». Bu so‘z darsdagi «Ilmiy tushuncha» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kashfiyot» koreyschada qaysi so‘z?",
+      "options": [
+        "관찰하다",
+        "분석하다",
+        "발견",
+        "검증하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«발견» — «kashfiyot». Bu so‘z darsdagi «Kashfiyot va texnika» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«관찰하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tekshirib tasdiqlamoq",
+        "ixtiro",
+        "kuzatmoq",
+        "texnologiya"
+      ],
+      "correctIndex": 2,
+      "explanation": "«관찰하다» — «kuzatmoq». Bu so‘z darsdagi «Kashfiyot va texnika» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tekshirib tasdiqlamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "관찰하다",
+        "검증하다",
+        "발명",
+        "발견"
+      ],
+      "correctIndex": 1,
+      "explanation": "«검증하다» — «tekshirib tasdiqlamoq». Bu so‘z darsdagi «Kashfiyot va texnika» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-다기보다는 · V-ㄴ/는다기보다는» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan / N tomonidan",
+        "N sababli / N tomonidan",
+        "Nahotki ... bo‘lsa?",
+        "...deyishdan ko‘ra"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-다기보다는 · V-ㄴ/는다기보다는» — ...deyishdan ko‘ra. Noaniq yorliqni yechib, aniqrog‘ini yopishtirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«설마 A/V-겠어요?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N sababli / N tomonidan",
+        "...deyishdan ko‘ra",
+        "Ndan / N tomonidan",
+        "Nahotki ... bo‘lsa?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«설마 A/V-겠어요?» — Nahotki ... bo‘lsa?. Ishonchsiz xabarga ko‘tarilgan qosh.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(으)로부터» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...deyishdan ko‘ra",
+        "N sababli / N tomonidan",
+        "Nahotki ... bo‘lsa?",
+        "Ndan / N tomonidan"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N(으)로부터» — Ndan / N tomonidan. Yo‘nalish o‘qining boshlanish nuqtasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N에 의해서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N sababli / N tomonidan",
+        "Nahotki ... bo‘lsa?",
+        "...deyishdan ko‘ra",
+        "Ndan / N tomonidan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N에 의해서» — N sababli / N tomonidan. Natijaga olib kelgan kuchni ko‘rsatadigan strelka.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«이 결과는 신기하다기보다는 원리가 분명해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu fakt tajriba orqali tasdiqlandi.",
+        "Irsiyat hammasini belgilaydi deyishdan ko‘ra, muhit ham ta’sir qiladi.",
+        "Yangidan ko‘ra mavjud texnologiya yaxshilangan.",
+        "Bu natija g‘aroyibdan ko‘ra tamoyili aniq hodisa."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이 결과는 신기하다기보다는 원리가 분명해요.» — «Bu natija g‘aroyibdan ko‘ra tamoyili aniq hodisa.». Bu yerda «A-다기보다는 · V-ㄴ/는다기보다는» qolipi ishlatilgan: ...deyishdan ko‘ra.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Nahotki bitta tajriba bilan hammasini bilsak?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "유전이 전부를 결정한다기보다는 환경도 영향을 줘요.",
+        "작은 질문으로부터 큰 연구가 시작돼요.",
+        "이 사실은 실험에 의해 확인됐어요.",
+        "설마 한 번의 실험으로 모든 것을 알겠어요?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«설마 한 번의 실험으로 모든 것을 알겠어요?» — «Nahotki bitta tajriba bilan hammasini bilsak?». Bu yerda «설마 A/V-겠어요?» qolipi ishlatilgan: Nahotki ... bo‘lsa?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«이 자료로부터 중요한 단서를 얻었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu ma’lumotdan muhim ishora oldik.",
+        "Nahotki bitta tajriba bilan hammasini bilsak?",
+        "Yangi texnologiya tufayli o‘lchash vaqti qisqardi.",
+        "Fe’l-atvorning hammasi irsiyat bilan belgilanmaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이 자료로부터 중요한 단서를 얻었어요.» — «Bu ma’lumotdan muhim ishora oldik.». Bu yerda «N(으)로부터» qolipi ishlatilgan: Ndan / N tomonidan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Yangi texnologiya tufayli o‘lchash vaqti qisqardi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "유전이 전부를 결정한다기보다는 환경도 영향을 줘요.",
+        "유전에 의해서 모든 성격이 정해지는 것은 아니에요.",
+        "새롭다기보다는 기존 기술을 개선했어요.",
+        "새 기술에 의해서 측정 시간이 짧아졌어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«새 기술에 의해서 측정 시간이 짧아졌어요.» — «Yangi texnologiya tufayli o‘lchash vaqti qisqardi.». Bu yerda «N에 의해서» qolipi ishlatilgan: N sababli / N tomonidan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «작은 질문으로부터 실험이 시작됐어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Faqat yorug‘likdan ko‘ra suv va tuproq ham muhim.",
+        "Tajriba kichik savoldan boshlandi.",
+        "Nahotki bir kunda natija chiqsa?",
+        "Ma’lumot orqali o‘zgarishni bosqichma-bosqich tekshiramiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «작은 질문으로부터 실험이 시작됐어요.» deydi. Ma’nosi: «Tajriba kichik savoldan boshlandi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «빛만 중요하다기보다는 물과 흙도 중요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Faqat yorug‘likdan ko‘ra suv va tuproq ham muhim.",
+        "Ma’lumot orqali o‘zgarishni bosqichma-bosqich tekshiramiz.",
+        "Nahotki bir kunda natija chiqsa?",
+        "Tajriba kichik savoldan boshlandi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «빛만 중요하다기보다는 물과 흙도 중요해요.» deydi. Ma’nosi: «Faqat yorug‘likdan ko‘ra suv va tuproq ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «설마 하루 만에 결과가 나오겠어요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Nahotki bir kunda natija chiqsa?",
+        "Ma’lumot orqali o‘zgarishni bosqichma-bosqich tekshiramiz.",
+        "Faqat yorug‘likdan ko‘ra suv va tuproq ham muhim.",
+        "Tajriba kichik savoldan boshlandi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «설마 하루 만에 결과가 나오겠어요?» deydi. Ma’nosi: «Nahotki bir kunda natija chiqsa?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «데이터에 의해서 변화를 차근차근 확인해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tajriba kichik savoldan boshlandi.",
+        "Nahotki bir kunda natija chiqsa?",
+        "Faqat yorug‘likdan ko‘ra suv va tuproq ham muhim.",
+        "Ma’lumot orqali o‘zgarishni bosqichma-bosqich tekshiramiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «데이터에 의해서 변화를 차근차근 확인해요.» deydi. Ma’nosi: «Ma’lumot orqali o‘zgarishni bosqichma-bosqich tekshiramiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «빛만 중요하다기보다는 물과 흙도 중요해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Faqat yorug‘likdan ko‘ra suv va tuproq ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «데이터에 의해서 변화를 차근차근 확인해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Ma’lumot orqali o‘zgarishni bosqichma-bosqich tekshiramiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«가격» so‘zining ma’nosi qaysi?",
+      "options": [
+        "daromad",
+        "xarajat",
+        "turmush xarajati",
+        "narx"
+      ],
+      "correctIndex": 3,
+      "explanation": "«가격» — «narx». Bu so‘z darsdagi «Iqtisod va narx» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«xarajat» koreyschada qaysi so‘z?",
+      "options": [
+        "예산",
+        "생활비",
+        "소득",
+        "지출"
+      ],
+      "correctIndex": 3,
+      "explanation": "«지출» — «xarajat». Bu so‘z darsdagi «Iqtisod va narx» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«생활비» so‘zining ma’nosi qaysi?",
+      "options": [
+        "budjet",
+        "daromad",
+        "turmush xarajati",
+        "narxlar darajasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«생활비» — «turmush xarajati». Bu so‘z darsdagi «Iqtisod va narx» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«pasayish» koreyschada qaysi so‘z?",
+      "options": [
+        "하락",
+        "상승",
+        "절약하다",
+        "비교하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«하락» — «pasayish». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«원인» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tejamoq",
+        "pasayish",
+        "solishtirmoq",
+        "sabab"
+      ],
+      "correctIndex": 3,
+      "explanation": "«원인» — «sabab». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tejamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "비교하다",
+        "상승",
+        "하락",
+        "절약하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«절약하다» — «tejamoq». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N에도 불구하고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishi bilan",
+        "... ham, qolaversa",
+        "...gandan keyin esa",
+        "Nga qaramay"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N에도 불구하고» — Nga qaramay. Kuchli shamolga qaramay yo‘lida davom etgan odam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-자» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... deb ishonib / ... bo‘ladi deb",
+        "...ishga urinib turib olmoq",
+        "Nga qaramay",
+        "...ishi bilan"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-자» — ...ishi bilan. Birinchi domino toshi yiqilishi bilan ikkinchisi qimirlaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«가격 상승에도 불구하고 소비가 늘었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Narx yorlig‘ini ko‘rishi bilan hamma hayron bo‘ldi.",
+        "Yomg‘irga qaramay bozorda odam ko‘p edi.",
+        "Narx oshishiga qaramay xarid ko‘paydi.",
+        "Statistikani tekshirishi bilan boshqa sabab ko‘rindi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«가격 상승에도 불구하고 소비가 늘었어요.» — «Narx oshishiga qaramay xarid ko‘paydi.». Bu yerda «N에도 불구하고» qolipi ishlatilgan: Nga qaramay.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Narx yorlig‘ini ko‘rishi bilan hamma hayron bo‘ldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가격표를 보자 모두 놀랐어요.",
+        "비에도 불구하고 시장에 사람이 많았어요.",
+        "가격 상승에도 불구하고 소비가 늘었어요.",
+        "비가 그치자 시장이 다시 붐볐어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«가격표를 보자 모두 놀랐어요.» — «Narx yorlig‘ini ko‘rishi bilan hamma hayron bo‘ldi.». Bu yerda «V-자» qolipi ishlatilgan: ...ishi bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«비에도 불구하고 시장에 사람이 많았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Budjet kamligiga qaramay tadqiqotni davom ettirdik.",
+        "Narx yorlig‘ini ko‘rishi bilan hamma hayron bo‘ldi.",
+        "Statistikani tekshirishi bilan boshqa sabab ko‘rindi.",
+        "Yomg‘irga qaramay bozorda odam ko‘p edi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비에도 불구하고 시장에 사람이 많았어요.» — «Yomg‘irga qaramay bozorda odam ko‘p edi.». Bu yerda «N에도 불구하고» qolipi ishlatilgan: Nga qaramay.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Statistikani tekshirishi bilan boshqa sabab ko‘rindi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비에도 불구하고 시장에 사람이 많았어요.",
+        "비가 그치자 시장이 다시 붐볐어요.",
+        "통계를 확인하자 다른 원인이 보였어요.",
+        "가격표를 보자 모두 놀랐어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«통계를 확인하자 다른 원인이 보였어요.» — «Statistikani tekshirishi bilan boshqa sabab ko‘rindi.». Bu yerda «V-자» qolipi ishlatilgan: ...ishi bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«예산 부족에도 불구하고 조사를 계속했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Statistikani tekshirishi bilan boshqa sabab ko‘rindi.",
+        "Budjet kamligiga qaramay tadqiqotni davom ettirdik.",
+        "Narx yorlig‘ini ko‘rishi bilan hamma hayron bo‘ldi.",
+        "Yomg‘irga qaramay bozorda odam ko‘p edi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«예산 부족에도 불구하고 조사를 계속했어요.» — «Budjet kamligiga qaramay tadqiqotni davom ettirdik.». Bu yerda «N에도 불구하고» qolipi ishlatilgan: Nga qaramay.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Yomg‘ir tinishi bilan bozor yana gavjumlashdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비가 그치자 시장이 다시 붐볐어요.",
+        "가격 상승에도 불구하고 소비가 늘었어요.",
+        "예산 부족에도 불구하고 조사를 계속했어요.",
+        "통계를 확인하자 다른 원인이 보였어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«비가 그치자 시장이 다시 붐볐어요.» — «Yomg‘ir tinishi bilan bozor yana gavjumlashdi.». Bu yerda «V-자» qolipi ishlatilgan: ...ishi bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «가격을 적자 품목별 차이가 보였어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir do‘konga qarab xulosa qilmang.",
+        "Yomg‘irga qaramay uch joyga bordik.",
+        "Sana va manbani birga qayd qilaman.",
+        "Narxlarni yozishi bilan mahsulotlar farqi ko‘rindi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «가격을 적자 품목별 차이가 보였어요.» deydi. Ma’nosi: «Narxlarni yozishi bilan mahsulotlar farqi ko‘rindi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «비에도 불구하고 세 곳을 방문했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yomg‘irga qaramay uch joyga bordik.",
+        "Sana va manbani birga qayd qilaman.",
+        "Bir do‘konga qarab xulosa qilmang.",
+        "Narxlarni yozishi bilan mahsulotlar farqi ko‘rindi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «비에도 불구하고 세 곳을 방문했어요.» deydi. Ma’nosi: «Yomg‘irga qaramay uch joyga bordik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 가게만 보고 결론 내리면 안 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sana va manbani birga qayd qilaman.",
+        "Narxlarni yozishi bilan mahsulotlar farqi ko‘rindi.",
+        "Bir do‘konga qarab xulosa qilmang.",
+        "Yomg‘irga qaramay uch joyga bordik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «한 가게만 보고 결론 내리면 안 돼요.» deydi. Ma’nosi: «Bir do‘konga qarab xulosa qilmang.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «날짜와 출처를 함께 기록할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yomg‘irga qaramay uch joyga bordik.",
+        "Bir do‘konga qarab xulosa qilmang.",
+        "Sana va manbani birga qayd qilaman.",
+        "Narxlarni yozishi bilan mahsulotlar farqi ko‘rindi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «날짜와 출처를 함께 기록할게요.» deydi. Ma’nosi: «Sana va manbani birga qayd qilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «비에도 불구하고 세 곳을 방문했어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yomg‘irga qaramay uch joyga bordik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «날짜와 출처를 함께 기록할게요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Sana va manbani birga qayd qilaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

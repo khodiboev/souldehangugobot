@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«버릇» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xulq odati",
+        "budilnik",
+        "tartibga keltirish",
+        "kunduzgi uyqu"
+      ],
+      "correctIndex": 0,
+      "explanation": "«버릇» — «xulq odati». Bu so‘z darsdagi «Odatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«kunduzgi uyqu» koreyschada qaysi so‘z?",
+      "options": [
+        "버릇",
+        "낮잠",
+        "습관",
+        "정리"
+      ],
+      "correctIndex": 1,
+      "explanation": "«낮잠» — «kunduzgi uyqu». Bu so‘z darsdagi «Odatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«기숙사» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yotoqxona",
+        "shikoyat qilmoq",
+        "xonadosh",
+        "maslahat bermoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«기숙사» — «yotoqxona». Bu so‘z darsdagi «Xona va maslahat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«almashtirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "불평하다",
+        "조언하다",
+        "룸메이트",
+        "바꾸다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«바꾸다» — «almashtirmoq». Bu so‘z darsdagi «Xona va maslahat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«고치다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "shikoyat qilmoq",
+        "tuzatmoq",
+        "xonadosh",
+        "almashtirmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«고치다» — «tuzatmoq». Bu so‘z darsdagi «Xona va maslahat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-자마자» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishi bilan",
+        "Har kim, har qachon",
+        "Bir ish sabab boshqasiga ulgurmaslik",
+        "Buyruq yoki iltimosni yetkazish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-자마자» — Qilishi bilan. 자마자 — ikki voqea orasidagi nol soniyalik ko‘prik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-느라고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Har kim, har qachon",
+        "Qilishi bilan",
+        "Buyruq yoki iltimosni yetkazish",
+        "Bir ish sabab boshqasiga ulgurmaslik"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-느라고» — Bir ish sabab boshqasiga ulgurmaslik. 느라고 — bir ish qo‘llarni band qilib, boshqasini qoldiradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«누구나 · 언제나 · 어디나 · 무엇이나» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir ish sabab boshqasiga ulgurmaslik",
+        "Qilishi bilan",
+        "Har kim, har qachon",
+        "Buyruq yoki iltimosni yetkazish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«누구나 · 언제나 · 어디나 · 무엇이나» — Har kim, har qachon. 나 so‘roq eshigini hamma uchun ochadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«일어나자마자 물을 마셔요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Shifokor kech uxlamang dedi.",
+        "Uyg‘onishim bilan suv ichaman.",
+        "Dars tugashi bilan kutubxonaga bordim.",
+        "O‘yin o‘ynab, vazifani qila olmadim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«일어나자마자 물을 마셔요.» — «Uyg‘onishim bilan suv ichaman.». Bu yerda «V-자마자» qolipi ishlatilgan: Qilishi bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Ustoz jim bo‘ling dedi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "룸메이트가 문을 닫으라고 했어요.",
+        "언제나 방을 깨끗이 해요.",
+        "선생님이 조용히 하라고 했어요.",
+        "늦잠을 자느라고 지각했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«선생님이 조용히 하라고 했어요.» — «Ustoz jim bo‘ling dedi.». Bu yerda «V-(으)라고 하다» qolipi ishlatilgan: Buyruq yoki iltimosni yetkazish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«늦잠을 자느라고 지각했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘yin o‘ynab, vazifani qila olmadim.",
+        "Uyga kelishim bilan uxlab qoldim.",
+        "Ustoz jim bo‘ling dedi.",
+        "Kech uyg‘onganim sabab kechikdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "«늦잠을 자느라고 지각했어요.» — «Kech uyg‘onganim sabab kechikdim.». Bu yerda «V-느라고» qolipi ishlatilgan: Bir ish sabab boshqasiga ulgurmaslik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «관리자가 밤에는 조용히 하라고 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi. Hamma qulay yashashi kerak.",
+        "O‘yin o‘ynab shovqin qildim. Uzr.",
+        "Uyga kelishingiz bilan quloqchin taqsangiz-chi?",
+        "Ma’mur kechasi jim bo‘ling dedi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «관리자가 밤에는 조용히 하라고 했어요.» deydi. Ma’nosi: «Ma’mur kechasi jim bo‘ling dedi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «집에 오자마자 이어폰을 쓰면 어때요?» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘yin o‘ynab shovqin qildim. Uzr.",
+        "Ma’mur kechasi jim bo‘ling dedi.",
+        "Yaxshi. Hamma qulay yashashi kerak.",
+        "Uyga kelishingiz bilan quloqchin taqsangiz-chi?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «집에 오자마자 이어폰을 쓰면 어때요?» deydi. Ma’nosi: «Uyga kelishingiz bilan quloqchin taqsangiz-chi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋아요. 누구나 편하게 지내야지요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi. Hamma qulay yashashi kerak.",
+        "Ma’mur kechasi jim bo‘ling dedi.",
+        "Uyga kelishingiz bilan quloqchin taqsangiz-chi?",
+        "O‘yin o‘ynab shovqin qildim. Uzr."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Xonadosh «좋아요. 누구나 편하게 지내야지요.» deydi. Ma’nosi: «Yaxshi. Hamma qulay yashashi kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «좋아요. 누구나 편하게 지내야지요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Xonadosh",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Xonadosh aytadi. Ma’nosi: «Yaxshi. Hamma qulay yashashi kerak.».",
+      "reviewSection": "s"
+    }
+  ]
+}

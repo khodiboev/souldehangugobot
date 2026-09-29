@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«우정» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hurmat",
+        "do‘stlik",
+        "munosabat",
+        "sevgi munosabati"
+      ],
+      "correctIndex": 1,
+      "explanation": "«우정» — «do‘stlik». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ishonch» koreyschada qaysi so‘z?",
+      "options": [
+        "존중",
+        "사랑",
+        "우정",
+        "신뢰"
+      ],
+      "correctIndex": 3,
+      "explanation": "«신뢰» — «ishonch». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«관계» so‘zining ma’nosi qaysi?",
+      "options": [
+        "muhabbat",
+        "do‘stlik",
+        "munosabat",
+        "ishonch"
+      ],
+      "correctIndex": 2,
+      "explanation": "«관계» — «munosabat». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«rashk qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "소중하다",
+        "질투하다",
+        "고백하다",
+        "그립다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«질투하다» — «rashk qilmoq». Bu so‘z darsdagi «Hissiyot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«소중하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hisni ochiq aytmoq",
+        "rashk qilmoq",
+        "qadrli bo‘lmoq",
+        "anglamoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«소중하다» — «qadrli bo‘lmoq». Bu so‘z darsdagi «Hissiyot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«anglamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "실망하다",
+        "고백하다",
+        "소중하다",
+        "깨닫다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«깨닫다» — «anglamoq». Bu so‘z darsdagi «Hissiyot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 지경이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "O‘ylab-o‘ylab oxiri",
+        "Shunday darajadaki",
+        "N degani hammasi",
+        "...ishiga qarab"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)ㄹ 지경이다» — Shunday darajadaki. Holat ko‘rsatkichi qizil chiziqqa yaqinlashadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«생각다 못해» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N degani hammasi",
+        "...sa kifoya",
+        "O‘ylab-o‘ylab oxiri",
+        "Shunday darajadaki"
+      ],
+      "correctIndex": 2,
+      "explanation": "«생각다 못해» — O‘ylab-o‘ylab oxiri. Uzoq o‘y tugagan joydagi qaror.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)란 N은/는 모두» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "O‘ylab-o‘ylab oxiri",
+        "Nafaqat, balki",
+        "N degani hammasi",
+        "Shunday darajadaki"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N(이)란 N은/는 모두» — N degani hammasi. Lug‘atdagi ta’rifdan katta doiraga chizilgan chiziq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«걱정돼서 잠을 못 잘 지경이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ishonch degan asos hamma uchun muhim.",
+        "Xavotirdan deyarli uxlay olmaydigan ahvoldaman.",
+        "Do‘st degan odamlarning barchasi turlicha.",
+        "Noto‘g‘ri tushunish kuchayib ayriladigan darajaga yetdik."
+      ],
+      "correctIndex": 1,
+      "explanation": "«걱정돼서 잠을 못 잘 지경이에요.» — «Xavotirdan deyarli uxlay olmaydigan ahvoldaman.». Bu yerda «A/V-(으)ㄹ 지경이다» qolipi ishlatilgan: Shunday darajadaki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«O‘ylab-o‘ylab oxiri birinchi bo‘lib qo‘ng‘iroq qildim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "생각다 못해 솔직한 편지를 썼어요.",
+        "오해가 커져서 헤어질 지경이었어요.",
+        "사랑이란 감정은 모두 같은 모습이 아니에요.",
+        "생각다 못해 먼저 전화를 걸었어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«생각다 못해 먼저 전화를 걸었어요.» — «O‘ylab-o‘ylab oxiri birinchi bo‘lib qo‘ng‘iroq qildim.». Bu yerda «생각다 못해» qolipi ishlatilgan: O‘ylab-o‘ylab oxiri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«사랑이란 감정은 모두 같은 모습이 아니에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘ylab-o‘ylab samimiy xat yozdim.",
+        "Muhabbat degan hisning barcha ko‘rinishi bir xil emas.",
+        "Xavotirdan deyarli uxlay olmaydigan ahvoldaman.",
+        "Xursandchilikdan yig‘lagudekman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«사랑이란 감정은 모두 같은 모습이 아니에요.» — «Muhabbat degan hisning barcha ko‘rinishi bir xil emas.». Bu yerda «N(이)란 N은/는 모두» qolipi ishlatilgan: N degani hammasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Noto‘g‘ri tushunish kuchayib ayriladigan darajaga yetdik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기뻐서 울 지경이에요.",
+        "사랑이란 감정은 모두 같은 모습이 아니에요.",
+        "생각다 못해 친구에게 조언을 구했어요.",
+        "오해가 커져서 헤어질 지경이었어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«오해가 커져서 헤어질 지경이었어요.» — «Noto‘g‘ri tushunish kuchayib ayriladigan darajaga yetdik.». Bu yerda «A/V-(으)ㄹ 지경이다» qolipi ishlatilgan: Shunday darajadaki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«생각다 못해 친구에게 조언을 구했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘ylab, oxiri do‘stdan maslahat so‘radim.",
+        "Noto‘g‘ri tushunish kuchayib ayriladigan darajaga yetdik.",
+        "Xavotirdan deyarli uxlay olmaydigan ahvoldaman.",
+        "Ishonch degan asos hamma uchun muhim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«생각다 못해 친구에게 조언을 구했어요.» — «O‘ylab, oxiri do‘stdan maslahat so‘radim.». Bu yerda «생각다 못해» qolipi ishlatilgan: O‘ylab-o‘ylab oxiri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오해 때문에 말을 못 할 지경이었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Do‘stlik degan munosabat ishonchga muhtoj.",
+        "Bir-birimizga tushuntirgach yengil tortdik.",
+        "O‘ylab-o‘ylab, avval men gapiraman.",
+        "Tushunmovchilikdan gapira olmaydigan bo‘ldim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «오해 때문에 말을 못 할 지경이었어요.» deydi. Ma’nosi: «Tushunmovchilikdan gapira olmaydigan bo‘ldim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «생각다 못해 제가 먼저 이야기할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tushunmovchilikdan gapira olmaydigan bo‘ldim.",
+        "Bir-birimizga tushuntirgach yengil tortdik.",
+        "O‘ylab-o‘ylab, avval men gapiraman.",
+        "Do‘stlik degan munosabat ishonchga muhtoj."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «생각다 못해 제가 먼저 이야기할게요.» deydi. Ma’nosi: «O‘ylab-o‘ylab, avval men gapiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우정이란 관계는 모두 신뢰를 필요로 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘ylab-o‘ylab, avval men gapiraman.",
+        "Bir-birimizga tushuntirgach yengil tortdik.",
+        "Tushunmovchilikdan gapira olmaydigan bo‘ldim.",
+        "Do‘stlik degan munosabat ishonchga muhtoj."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «우정이란 관계는 모두 신뢰를 필요로 해요.» deydi. Ma’nosi: «Do‘stlik degan munosabat ishonchga muhtoj.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로 설명하니 마음이 가벼워졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Do‘stlik degan munosabat ishonchga muhtoj.",
+        "Tushunmovchilikdan gapira olmaydigan bo‘ldim.",
+        "Bir-birimizga tushuntirgach yengil tortdik.",
+        "O‘ylab-o‘ylab, avval men gapiraman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «서로 설명하니 마음이 가벼워졌어요.» deydi. Ma’nosi: «Bir-birimizga tushuntirgach yengil tortdik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «생각다 못해 제가 먼저 이야기할게요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Jisu",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «O‘ylab-o‘ylab, avval men gapiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «서로 설명하니 마음이 가벼워졌어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Bir-birimizga tushuntirgach yengil tortdik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

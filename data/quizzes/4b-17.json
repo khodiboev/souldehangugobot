@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "17",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«헤어짐» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qayta uchrashuv",
+        "vidolashuv",
+        "ayriliq",
+        "uchrashuv"
+      ],
+      "correctIndex": 2,
+      "explanation": "«헤어짐» — «ayriliq». Bu so‘z darsdagi «Uchrashuv va ayriliq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«qayta uchrashuv» koreyschada qaysi so‘z?",
+      "options": [
+        "재회",
+        "졸업",
+        "이별",
+        "작별"
+      ],
+      "correctIndex": 0,
+      "explanation": "«재회» — «qayta uchrashuv». Bu so‘z darsdagi «Uchrashuv va ayriliq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«작별» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xayrlashuv",
+        "bitirish",
+        "ayriliq",
+        "vidolashuv"
+      ],
+      "correctIndex": 3,
+      "explanation": "«작별» — «vidolashuv». Bu so‘z darsdagi «Uchrashuv va ayriliq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«o‘zgarish» koreyschada qaysi so‘z?",
+      "options": [
+        "변화",
+        "안부",
+        "추억",
+        "편지"
+      ],
+      "correctIndex": 0,
+      "explanation": "«변화» — «o‘zgarish». Bu so‘z darsdagi «Xotira va o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«연락하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bog‘lanmoq",
+        "hol-ahvol",
+        "maktub",
+        "sog‘inmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«연락하다» — «bog‘lanmoq». Bu so‘z darsdagi «Xotira va o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«maktub» koreyschada qaysi so‘z?",
+      "options": [
+        "편지",
+        "변화",
+        "그립다",
+        "안부"
+      ],
+      "correctIndex": 0,
+      "explanation": "«편지» — «maktub». Bu so‘z darsdagi «Xotira va o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-다 싶다 · V-ㄴ/는다 싶다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...deb o‘ylab qolmoq",
+        "Tez-tez qilardi",
+        "Ilgari shunday bo‘lgan edi",
+        "...ayotgan paytda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-다 싶다 · V-ㄴ/는다 싶다» — ...deb o‘ylab qolmoq. Ko‘ngilda birdan yongan kichik signal.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-곤 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ayotgan paytda",
+        "Ilgari shunday bo‘lgan edi",
+        "...deb o‘ylab qolmoq",
+        "Tez-tez qilardi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-곤 하다» — Tez-tez qilardi. Xotira daftaridagi bir marta emas, qayta-qayta chizilgan belgi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-았었/었었-» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ayotgan paytda",
+        "Ilgari shunday bo‘lgan edi",
+        "Tez-tez qilardi",
+        "...deb o‘ylab qolmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-았었/었었-» — Ilgari shunday bo‘lgan edi. Eski surat bilan bugungi holat orasidagi masofa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«V-는 사이(에)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Tez-tez qilardi",
+        "...ayotgan paytda",
+        "Ilgari shunday bo‘lgan edi",
+        "...deb o‘ylab qolmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-는 사이(에)» — ...ayotgan paytda. Bir ish davomida ko‘rinmay o‘tgan vaqt oynasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«졸업이 가까워졌다 싶으니 마음이 복잡해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qiyin paytda bu qo‘shiqni tinglardim.",
+        "Yurtlik do‘stimga vaqti-vaqti bilan xat yozaman.",
+        "Bitirish yaqinlashdi deb o‘ylasam ko‘nglim g‘alati.",
+        "Biz o‘qiyotgan paytda fasl almashdi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«졸업이 가까워졌다 싶으니 마음이 복잡해요.» — «Bitirish yaqinlashdi deb o‘ylasam ko‘nglim g‘alati.». Bu yerda «A-다 싶다 · V-ㄴ/는다 싶다» qolipi ishlatilgan: ...deb o‘ylab qolmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Darsdan so‘ng kafeda uchrashib turardik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "우리는 예전에 같은 동네에 살았었어요.",
+        "이제 헤어진다 싶으니 예전 추억이 떠올라요.",
+        "우리는 수업 후에 카페에서 만나곤 했어요.",
+        "한동안 연락이 끊겼었지만 다시 만났어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«우리는 수업 후에 카페에서 만나곤 했어요.» — «Darsdan so‘ng kafeda uchrashib turardik.». Bu yerda «V-곤 하다» qolipi ishlatilgan: Tez-tez qilardi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«우리는 예전에 같은 동네에 살았었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Biz o‘qiyotgan paytda fasl almashdi.",
+        "Darsdan so‘ng kafeda uchrashib turardik.",
+        "Bir muddat aloqa uzilgandi, ammo yana uchrashdik.",
+        "Ilgari bir mahallada yashagan edik."
+      ],
+      "correctIndex": 3,
+      "explanation": "«우리는 예전에 같은 동네에 살았었어요.» — «Ilgari bir mahallada yashagan edik.». Bu yerda «A/V-았었/었었-» qolipi ishlatilgan: Ilgari shunday bo‘lgan edi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Gaplashayotganimizda kech bo‘libdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이야기하는 사이에 벌써 밤이 됐어요.",
+        "고향 친구에게 편지를 쓰곤 해요.",
+        "우리는 수업 후에 카페에서 만나곤 했어요.",
+        "우리는 예전에 같은 동네에 살았었어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이야기하는 사이에 벌써 밤이 됐어요.» — «Gaplashayotganimizda kech bo‘libdi.». Bu yerda «V-는 사이(에)» qolipi ishlatilgan: ...ayotgan paytda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리는 수업이 끝나면 여기서 만나곤 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Dars tugasa, shu yerda uchrashib turardik.",
+        "Tez orada ayrilamiz deb o‘ylayman, ammo yana uchrashadigan kun keladi.",
+        "Avval bir-birimizga begona edik, endi oiladekmiz.",
+        "Suratlarni ko‘rayotganimda o‘sha voqealar yodimga tushadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «우리는 수업이 끝나면 여기서 만나곤 했어요.» deydi. Ma’nosi: «Dars tugasa, shu yerda uchrashib turardik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «처음에는 서로 낯설었었는데 이제 가족 같아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval bir-birimizga begona edik, endi oiladekmiz.",
+        "Suratlarni ko‘rayotganimda o‘sha voqealar yodimga tushadi.",
+        "Dars tugasa, shu yerda uchrashib turardik.",
+        "Tez orada ayrilamiz deb o‘ylayman, ammo yana uchrashadigan kun keladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «처음에는 서로 낯설었었는데 이제 가족 같아요.» deydi. Ma’nosi: «Avval bir-birimizga begona edik, endi oiladekmiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진을 보는 사이에 그때 일이 다 생각나요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tez orada ayrilamiz deb o‘ylayman, ammo yana uchrashadigan kun keladi.",
+        "Dars tugasa, shu yerda uchrashib turardik.",
+        "Suratlarni ko‘rayotganimda o‘sha voqealar yodimga tushadi.",
+        "Avval bir-birimizga begona edik, endi oiladekmiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «사진을 보는 사이에 그때 일이 다 생각나요.» deydi. Ma’nosi: «Suratlarni ko‘rayotganimda o‘sha voqealar yodimga tushadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «곧 헤어진다 싶지만 다시 만날 날도 올 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval bir-birimizga begona edik, endi oiladekmiz.",
+        "Dars tugasa, shu yerda uchrashib turardik.",
+        "Suratlarni ko‘rayotganimda o‘sha voqealar yodimga tushadi.",
+        "Tez orada ayrilamiz deb o‘ylayman, ammo yana uchrashadigan kun keladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «곧 헤어진다 싶지만 다시 만날 날도 올 거예요.» deydi. Ma’nosi: «Tez orada ayrilamiz deb o‘ylayman, ammo yana uchrashadigan kun keladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «처음에는 서로 낯설었었는데 이제 가족 같아요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Avval bir-birimizga begona edik, endi oiladekmiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «곧 헤어진다 싶지만 다시 만날 날도 올 거예요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Tez orada ayrilamiz deb o‘ylayman, ammo yana uchrashadigan kun keladi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

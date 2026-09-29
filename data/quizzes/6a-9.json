@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«도전» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maqsad",
+        "reja",
+        "urinish",
+        "sinov, chaqiriq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«도전» — «sinov, chaqiriq». Bu so‘z darsdagi «Urinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«maqsad» koreyschada qaysi so‘z?",
+      "options": [
+        "성공",
+        "시도",
+        "목표",
+        "계획"
+      ],
+      "correctIndex": 2,
+      "explanation": "«목표» — «maqsad». Bu so‘z darsdagi «Urinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«성공» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sinov, chaqiriq",
+        "muvaffaqiyat",
+        "urinish",
+        "reja"
+      ],
+      "correctIndex": 1,
+      "explanation": "«성공» — «muvaffaqiyat». Bu so‘z darsdagi «Urinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«natija» koreyschada qaysi so‘z?",
+      "options": [
+        "포기하다",
+        "노력",
+        "과정",
+        "결과"
+      ],
+      "correctIndex": 3,
+      "explanation": "«결과» — «natija». Bu so‘z darsdagi «Jarayon» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«기회» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mehnat",
+        "voz kechmoq",
+        "imkon",
+        "natija"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기회» — «imkon». Bu so‘z darsdagi «Jarayon» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«voz kechmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "노력",
+        "과정",
+        "포기하다",
+        "결과"
+      ],
+      "correctIndex": 2,
+      "explanation": "«포기하다» — «voz kechmoq». Bu so‘z darsdagi «Jarayon» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-다 뿐이지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ish degani",
+        "Faqat ... xolos",
+        "Nga qaramay",
+        "...ishi bilan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-다 뿐이지» — Faqat ... xolos. Katta sarlavha ortidagi “faqat” degan izoh.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-기란» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishi uchun shunday qilib",
+        "Faqat ... xolos",
+        "...ish degani",
+        "... deb faraz qilsak ham"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-기란» — ...ish degani. Fe’lni stol ustiga qo‘yib muhokama qilish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«첫 결과가 작다 뿐이지 방향은 좋아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yangi ish boshlash oson emas.",
+        "Birinchi natija kichik, xolos; yo‘nalish yaxshi.",
+        "Bir marta muvaffaqiyatsiz bo‘ldik, xolos; hammasi tugamadi.",
+        "Maqsad belgilash birinchi qadamni tanlashga o‘xshaydi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«첫 결과가 작다 뿐이지 방향은 좋아요.» — «Birinchi natija kichik, xolos; yo‘nalish yaxshi.». Bu yerda «A/V-다 뿐이지» qolipi ishlatilgan: Faqat ... xolos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Yangi ish boshlash oson emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "실패를 인정하기란 쉽지 않아요.",
+        "첫 결과가 작다 뿐이지 방향은 좋아요.",
+        "이제 시작했다 뿐이지 배울 것이 많아요.",
+        "새로운 일을 시작하기란 쉽지 않아요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«새로운 일을 시작하기란 쉽지 않아요.» — «Yangi ish boshlash oson emas.». Bu yerda «V-기란» qolipi ishlatilgan: ...ish degani.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«한 번 실패했다 뿐이지 끝난 건 아니에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Maqsad belgilash birinchi qadamni tanlashga o‘xshaydi.",
+        "Bir marta muvaffaqiyatsiz bo‘ldik, xolos; hammasi tugamadi.",
+        "Birinchi natija kichik, xolos; yo‘nalish yaxshi.",
+        "Xatoni tan olish oson emas."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한 번 실패했다 뿐이지 끝난 건 아니에요.» — «Bir marta muvaffaqiyatsiz bo‘ldik, xolos; hammasi tugamadi.». Bu yerda «A/V-다 뿐이지» qolipi ishlatilgan: Faqat ... xolos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Xatoni tan olish oson emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "첫 결과가 작다 뿐이지 방향은 좋아요.",
+        "한 번 실패했다 뿐이지 끝난 건 아니에요.",
+        "실패를 인정하기란 쉽지 않아요.",
+        "새로운 일을 시작하기란 쉽지 않아요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«실패를 인정하기란 쉽지 않아요.» — «Xatoni tan olish oson emas.». Bu yerda «V-기란» qolipi ishlatilgan: ...ish degani.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«이제 시작했다 뿐이지 배울 것이 많아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yangi ish boshlash oson emas.",
+        "Endi boshladik, xolos; o‘rganadigan narsa ko‘p.",
+        "Xatoni tan olish oson emas.",
+        "Bir marta muvaffaqiyatsiz bo‘ldik, xolos; hammasi tugamadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«이제 시작했다 뿐이지 배울 것이 많아요.» — «Endi boshladik, xolos; o‘rganadigan narsa ko‘p.». Bu yerda «A/V-다 뿐이지» qolipi ishlatilgan: Faqat ... xolos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Maqsad belgilash birinchi qadamni tanlashga o‘xshaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "실패를 인정하기란 쉽지 않아요.",
+        "이제 시작했다 뿐이지 배울 것이 많아요.",
+        "한 번 실패했다 뿐이지 끝난 건 아니에요.",
+        "목표를 정하기란 첫걸음을 고르는 일과 비슷해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«목표를 정하기란 첫걸음을 고르는 일과 비슷해요.» — «Maqsad belgilash birinchi qadamni tanlashga o‘xshaydi.». Bu yerda «V-기란» qolipi ishlatilgan: ...ish degani.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시청자가 적다 뿐이지 반응은 좋아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshidan tuzatish qiyin, ammo urinib ko‘raman.",
+        "Bu xatodan o‘rganganimizni yozaylik.",
+        "Tomoshabin kam, xolos; fikrlar yaxshi.",
+        "Keyingi safar savollarni soddaroq qilaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «시청자가 적다 뿐이지 반응은 좋아요.» deydi. Ma’nosi: «Tomoshabin kam, xolos; fikrlar yaxshi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «처음부터 다시 고치기란 힘들지만 해 볼게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshidan tuzatish qiyin, ammo urinib ko‘raman.",
+        "Keyingi safar savollarni soddaroq qilaylik.",
+        "Tomoshabin kam, xolos; fikrlar yaxshi.",
+        "Bu xatodan o‘rganganimizni yozaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «처음부터 다시 고치기란 힘들지만 해 볼게요.» deydi. Ma’nosi: «Boshidan tuzatish qiyin, ammo urinib ko‘raman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이번 실패에서 배운 점을 적어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu xatodan o‘rganganimizni yozaylik.",
+        "Boshidan tuzatish qiyin, ammo urinib ko‘raman.",
+        "Keyingi safar savollarni soddaroq qilaylik.",
+        "Tomoshabin kam, xolos; fikrlar yaxshi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «이번 실패에서 배운 점을 적어요.» deydi. Ma’nosi: «Bu xatodan o‘rganganimizni yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다음에는 질문을 더 쉽게 만들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshidan tuzatish qiyin, ammo urinib ko‘raman.",
+        "Keyingi safar savollarni soddaroq qilaylik.",
+        "Bu xatodan o‘rganganimizni yozaylik.",
+        "Tomoshabin kam, xolos; fikrlar yaxshi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «다음에는 질문을 더 쉽게 만들어요.» deydi. Ma’nosi: «Keyingi safar savollarni soddaroq qilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «처음부터 다시 고치기란 힘들지만 해 볼게요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Boshidan tuzatish qiyin, ammo urinib ko‘raman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «다음에는 질문을 더 쉽게 만들어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Keyingi safar savollarni soddaroq qilaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

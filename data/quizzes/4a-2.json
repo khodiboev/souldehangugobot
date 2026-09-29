@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«어지럽다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "alomat",
+        "og‘riq",
+        "boshi aylanmoq",
+        "shishmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«어지럽다» — «boshi aylanmoq». Bu so‘z darsdagi «Alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«shishmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "메스껍다",
+        "증상",
+        "붓다",
+        "호흡곤란"
+      ],
+      "correctIndex": 2,
+      "explanation": "«붓다» — «shishmoq». Bu so‘z darsdagi «Alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«호흡곤란» so‘zining ma’nosi qaysi?",
+      "options": [
+        "og‘riq",
+        "ko‘ngli aynimoq",
+        "alomat",
+        "nafas qisilishi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«호흡곤란» — «nafas qisilishi». Bu so‘z darsdagi «Alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tibbiy ko‘rik» koreyschada qaysi so‘z?",
+      "options": [
+        "진찰",
+        "응급실",
+        "치료법",
+        "처방"
+      ],
+      "correctIndex": 0,
+      "explanation": "«진찰» — «tibbiy ko‘rik». Bu so‘z darsdagi «Davolanish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«치료법» so‘zining ma’nosi qaysi?",
+      "options": [
+        "davolash usuli",
+        "retsept, tavsiya",
+        "shoshilinch yordam bo‘limi",
+        "oldini olmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«치료법» — «davolash usuli». Bu so‘z darsdagi «Davolanish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«oldini olmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "처방",
+        "치료법",
+        "응급실",
+        "예방하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«예방하다» — «oldini olmoq». Bu so‘z darsdagi «Davolanish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«어찌나[얼마나] A-(으)ㄴ지 · V-는지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunchalik ...ki",
+        "Nafaqat..., balki",
+        "Shunday davom etsa, yomon oqibat",
+        "...darajada"
+      ],
+      "correctIndex": 0,
+      "explanation": "«어찌나[얼마나] A-(으)ㄴ지 · V-는지» — Shunchalik ...ki. Kuchaytirgich shkalasi oxirigacha burilib, keyingi natijani yoqadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 정도로 · A/V-(으)ㄹ 정도이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunchalik ...ki",
+        "Shunday davom etsa, yomon oqibat",
+        "...darajada",
+        "Nafaqat..., balki"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄹ 정도로 · A/V-(으)ㄹ 정도이다» — ...darajada. Darajani raqam bilan emas, ko‘rinadigan oqibat bilan o‘lchash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-다가는» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunchalik ...ki",
+        "Shunday davom etsa, yomon oqibat",
+        "Nafaqat..., balki",
+        "...darajada"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-다가는» — Shunday davom etsa, yomon oqibat. Yo‘l chetidagi qizil ogohlantirish belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 뿐만 아니라 · N뿐만 아니라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...darajada",
+        "Shunchalik ...ki",
+        "Nafaqat..., balki",
+        "Shunday davom etsa, yomon oqibat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄹ 뿐만 아니라 · N뿐만 아니라» — Nafaqat..., balki. Bitta foyda yoniga ikkinchi foydani qo‘shadigan “+” belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«머리가 어찌나 아픈지 잠을 못 잤어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu dori nafaqat isitmani, balki og‘riqni ham kamaytiradi.",
+        "Boshim shunchalik og‘ridiki uxlay olmadim.",
+        "Shunchalik yo‘taldiki, hamma xavotirlandi.",
+        "Dam olmay ishlayversangiz yiqilib qolasiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "«머리가 어찌나 아픈지 잠을 못 잤어요.» — «Boshim shunchalik og‘ridiki uxlay olmadim.». Bu yerda «어찌나[얼마나] A-(으)ㄴ지 · V-는지» qolipi ishlatilgan: Shunchalik ...ki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Oyog‘im yurolmaydigan darajada og‘ridi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "약이 어찌나 쓴지 물을 많이 마셨어요.",
+        "머리가 어찌나 아픈지 잠을 못 잤어요.",
+        "열이 정신을 잃을 정도로 높았어요.",
+        "걸을 수 없을 정도로 다리가 아팠어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«걸을 수 없을 정도로 다리가 아팠어요.» — «Oyog‘im yurolmaydigan darajada og‘ridi.». Bu yerda «A/V-(으)ㄹ 정도로 · A/V-(으)ㄹ 정도이다» qolipi ishlatilgan: ...darajada.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«계속 참다가는 병이 더 심해져요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dam olmay ishlayversangiz yiqilib qolasiz.",
+        "Yurish nafaqat quvvatni oshiradi, balki kayfiyatni ham yaxshilaydi.",
+        "Dori shunchalik achchiq ediki, ko‘p suv ichdim.",
+        "Chidayversangiz kasallik og‘irlashadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«계속 참다가는 병이 더 심해져요.» — «Chidayversangiz kasallik og‘irlashadi.». Bu yerda «V-다가는» qolipi ishlatilgan: Shunday davom etsa, yomon oqibat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Yurish nafaqat quvvatni oshiradi, balki kayfiyatni ham yaxshilaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "계속 참다가는 병이 더 심해져요.",
+        "걷기는 체력을 높일 뿐만 아니라 기분도 좋게 해요.",
+        "얼마나 기침을 하는지 모두 걱정했어요.",
+        "지금은 운동할 수 있을 정도로 회복했어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«걷기는 체력을 높일 뿐만 아니라 기분도 좋게 해요.» — «Yurish nafaqat quvvatni oshiradi, balki kayfiyatni ham yaxshilaydi.». Bu yerda «A/V-(으)ㄹ 뿐만 아니라 · N뿐만 아니라» qolipi ishlatilgan: Nafaqat..., balki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어찌나 어지러운지 똑바로 설 수가 없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunchalik boshim aylanyaptiki, tik turolmayapman.",
+        "Ko‘rikdan o‘tib, tin oladigan darajada sog‘ayaman.",
+        "Og‘riqdan tashqari nafas qisishi bo‘lsa darhol shifoxonaga borish kerak.",
+        "Chidayversangiz yanada og‘irlashadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «어찌나 어지러운지 똑바로 설 수가 없어요.» deydi. Ma’nosi: «Shunchalik boshim aylanyaptiki, tik turolmayapman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «참다가는 더 심해질 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Og‘riqdan tashqari nafas qisishi bo‘lsa darhol shifoxonaga borish kerak.",
+        "Shunchalik boshim aylanyaptiki, tik turolmayapman.",
+        "Ko‘rikdan o‘tib, tin oladigan darajada sog‘ayaman.",
+        "Chidayversangiz yanada og‘irlashadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «참다가는 더 심해질 거예요.» deydi. Ma’nosi: «Chidayversangiz yanada og‘irlashadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «통증뿐만 아니라 호흡곤란도 있으면 바로 병원에 가야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘rikdan o‘tib, tin oladigan darajada sog‘ayaman.",
+        "Shunchalik boshim aylanyaptiki, tik turolmayapman.",
+        "Og‘riqdan tashqari nafas qisishi bo‘lsa darhol shifoxonaga borish kerak.",
+        "Chidayversangiz yanada og‘irlashadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «통증뿐만 아니라 호흡곤란도 있으면 바로 병원에 가야 해요.» deydi. Ma’nosi: «Og‘riqdan tashqari nafas qisishi bo‘lsa darhol shifoxonaga borish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «진찰을 받고 쉴 수 있을 정도로 회복할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘rikdan o‘tib, tin oladigan darajada sog‘ayaman.",
+        "Og‘riqdan tashqari nafas qisishi bo‘lsa darhol shifoxonaga borish kerak.",
+        "Shunchalik boshim aylanyaptiki, tik turolmayapman.",
+        "Chidayversangiz yanada og‘irlashadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «진찰을 받고 쉴 수 있을 정도로 회복할게요.» deydi. Ma’nosi: «Ko‘rikdan o‘tib, tin oladigan darajada sog‘ayaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «진찰을 받고 쉴 수 있을 정도로 회복할게요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Soyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Ko‘rikdan o‘tib, tin oladigan darajada sog‘ayaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «통증뿐만 아니라 호흡곤란도 있으면 바로 병원에 가야 해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Soyon",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Og‘riqdan tashqari nafas qisishi bo‘lsa darhol shifoxonaga borish kerak.».",
+      "reviewSection": "s"
+    }
+  ]
+}

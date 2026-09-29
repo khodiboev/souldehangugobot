@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«적응하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "moslashmoq",
+        "ko‘nikkan bo‘lmoq",
+        "orzu",
+        "o‘zgarish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«적응하다» — «moslashmoq». Bu so‘z darsdagi «Hayotdagi o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«odat» koreyschada qaysi so‘z?",
+      "options": [
+        "적응하다",
+        "습관",
+        "익숙하다",
+        "변화"
+      ],
+      "correctIndex": 1,
+      "explanation": "«습관» — «odat». Bu so‘z darsdagi «Hayotdagi o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«입학하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kamaymoq",
+        "o‘qishga kirmoq",
+        "bitirmoq",
+        "ko‘paymoq, yaxshilanmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«입학하다» — «o‘qishga kirmoq». Bu so‘z darsdagi «Hayot bosqichlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«turmush qurmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "줄다",
+        "결혼하다",
+        "늘다",
+        "졸업하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«결혼하다» — «turmush qurmoq». Bu so‘z darsdagi «Hayot bosqichlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«늘다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘paymoq, yaxshilanmoq",
+        "bitirmoq",
+        "ko‘chmoq",
+        "nafaqaga chiqmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«늘다» — «ko‘paymoq, yaxshilanmoq». Bu so‘z darsdagi «Hayot bosqichlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-아/어지다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilgandan keyin",
+        "Vaziyat natijasida shunday bo‘lish",
+        "Qilishdan oldin",
+        "Holat o‘zgarishi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-아/어지다» — Holat o‘zgarishi. 아/어지다 — sifat oldiga chizilgan o‘zgarish o‘qi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-기 전에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Holat o‘zgarishi",
+        "Qilgandan keyin",
+        "Vaziyat natijasida shunday bo‘lish",
+        "Qilishdan oldin"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-기 전에» — Qilishdan oldin. 기 전에 — vaqt chizig‘idagi “oldin” belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 후에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishdan oldin",
+        "Vaziyat natijasida shunday bo‘lish",
+        "Qilgandan keyin",
+        "Holat o‘zgarishi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)ㄴ 후에» — Qilgandan keyin. 후에 — tugagan ish ortidagi keyingi bekat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«한국 생활에 익숙해졌어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uxlashdan oldin kundalik yozaman.",
+        "Koreyadagi hayotga ko‘nikdim.",
+        "Koreys tilim tabiiylashdi.",
+        "Yangi do‘st bilan tanishadigan bo‘ldim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한국 생활에 익숙해졌어요.» — «Koreyadagi hayotga ko‘nikdim.». Bu yerda «A-아/어지다» qolipi ishlatilgan: Holat o‘zgarishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Koreys kompaniyasida ishlaydigan bo‘ldim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "한국에 온 후에 친구가 많아졌어요.",
+        "졸업한 후에 취직했어요.",
+        "한국어가 자연스러워졌어요.",
+        "한국 회사에서 일하게 됐어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«한국 회사에서 일하게 됐어요.» — «Koreys kompaniyasida ishlaydigan bo‘ldim.». Bu yerda «V-게 되다» qolipi ishlatilgan: Vaziyat natijasida shunday bo‘lish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«한국에 오기 전에 요리를 못 했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bitirishdan oldin sayohat qilmoqchiman.",
+        "Har kuni koreyscha ishlatadigan bo‘ldim.",
+        "Koreyaga kelishdan oldin ovqat tayyorlay olmasdim.",
+        "Sportdan keyin dush qabul qilaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한국에 오기 전에 요리를 못 했어요.» — «Koreyaga kelishdan oldin ovqat tayyorlay olmasdim.». Bu yerda «V-기 전에» qolipi ishlatilgan: Qilishdan oldin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «처음에는 모든 것이 어려웠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval hamma narsa qiyin edi.",
+        "Bitirishdan oldin amalga oshirmoqchi bo‘lgan orzuingiz bormi?",
+        "Hozir Koreyadagi hayotga ko‘nikdingiz-a?",
+        "Ha, Koreyaga kelgach ancha o‘zgardim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «처음에는 모든 것이 어려웠어요.» deydi. Ma’nosi: «Avval hamma narsa qiyin edi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «네, 한국에 온 후에 많이 달라졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bitirishdan oldin amalga oshirmoqchi bo‘lgan orzuingiz bormi?",
+        "Hozir Koreyadagi hayotga ko‘nikdingiz-a?",
+        "Ha, Koreyaga kelgach ancha o‘zgardim.",
+        "Avval hamma narsa qiyin edi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «네, 한국에 온 후에 많이 달라졌어요.» deydi. Ma’nosi: «Ha, Koreyaga kelgach ancha o‘zgardim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «졸업하기 전에 이루고 싶은 꿈이 있어요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval hamma narsa qiyin edi.",
+        "Ha, Koreyaga kelgach ancha o‘zgardim.",
+        "Bitirishdan oldin amalga oshirmoqchi bo‘lgan orzuingiz bormi?",
+        "Hozir Koreyadagi hayotga ko‘nikdingiz-a?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «졸업하기 전에 이루고 싶은 꿈이 있어요?» deydi. Ma’nosi: «Bitirishdan oldin amalga oshirmoqchi bo‘lgan orzuingiz bormi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «지금은 한국 생활에 익숙해졌지요?» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Minji",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Hozir Koreyadagi hayotga ko‘nikdingiz-a?».",
+      "reviewSection": "s"
+    }
+  ]
+}

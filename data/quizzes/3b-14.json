@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«시골» so‘zining ma’nosi qaysi?",
+      "options": [
+        "aholi",
+        "qishloq",
+        "ona yurt",
+        "shahar"
+      ],
+      "correctIndex": 1,
+      "explanation": "«시골» — «qishloq». Bu so‘z darsdagi «Shahar va qishloq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«qishloq hududi» koreyschada qaysi so‘z?",
+      "options": [
+        "도시",
+        "교통",
+        "농촌",
+        "인구"
+      ],
+      "correctIndex": 2,
+      "explanation": "«농촌» — «qishloq hududi». Bu so‘z darsdagi «Shahar va qishloq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«개발되다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "rivojlantirilmoq",
+        "ko‘paymoq",
+        "sog‘inmoq",
+        "murakkab, gavjum bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«개발되다» — «rivojlantirilmoq». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kamaymoq» koreyschada qaysi so‘z?",
+      "options": [
+        "복잡하다",
+        "그리워하다",
+        "한적하다",
+        "줄어들다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«줄어들다» — «kamaymoq». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«복잡하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "rivojlantirilmoq",
+        "ko‘paymoq",
+        "murakkab, gavjum bo‘lmoq",
+        "sog‘inmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«복잡하다» — «murakkab, gavjum bo‘lmoq». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«하도 A/V-아서/어서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "O‘tmishda bo‘lgan va tugagan",
+        "Juda ham ...gani uchun",
+        "Qanchalik ... bo‘lsa, shunchalik",
+        "Boshqaning hissini tasvirlash"
+      ],
+      "correctIndex": 1,
+      "explanation": "«하도 A/V-아서/어서» — Juda ham ...gani uchun. 하도 — sabab ovozini eng balandga ko‘taradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-아/어하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Juda ham ...gani uchun",
+        "Qanchalik ... bo‘lsa, shunchalik",
+        "Boshqaning hissini tasvirlash",
+        "O‘tmishda bo‘lgan va tugagan"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-아/어하다» — Boshqaning hissini tasvirlash. 아/어하다 — ko‘rinmas hissiyotga tashqi belgi beradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)면 A/V-(으)ㄹ수록» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "O‘tmishda bo‘lgan va tugagan",
+        "Boshqaning hissini tasvirlash",
+        "Juda ham ...gani uchun",
+        "Qanchalik ... bo‘lsa, shunchalik"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)면 A/V-(으)ㄹ수록» — Qanchalik ... bo‘lsa, shunchalik. Ikki chiziq birga yuqoriga yoki pastga ko‘tariladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«길이 하도 막혀서 늦었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yo‘l juda tirband bo‘lgani uchun kech qoldim.",
+        "Yosh ulg‘aygan sari yurtimni sog‘inaman.",
+        "Ko‘p borgan bog‘im yo‘q bo‘ldi.",
+        "Ota-onam yurtni sog‘inadilar."
+      ],
+      "correctIndex": 0,
+      "explanation": "«길이 하도 막혀서 늦었어요.» — «Yo‘l juda tirband bo‘lgani uchun kech qoldim.». Bu yerda «하도 A/V-아서/어서» qolipi ishlatilgan: Juda ham ...gani uchun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Bolaligimda yashagan mahalla.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "어렸을 때 살았던 동네예요.",
+        "친구가 도시 생활을 힘들어해요.",
+        "조용했던 고향이 많이 변했어요.",
+        "고향이 하도 그리워서 꿈에도 봤어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«어렸을 때 살았던 동네예요.» — «Bolaligimda yashagan mahalla.». Bu yerda «A/V-았던/었던» qolipi ishlatilgan: O‘tmishda bo‘lgan va tugagan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«부모님이 고향을 그리워하세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bolalar qishloq hayotini qiziq deb biladi.",
+        "Bolaligimda yashagan mahalla.",
+        "Yurtimni juda sog‘inganimdan tushimda ham ko‘rdim.",
+        "Ota-onam yurtni sog‘inadilar."
+      ],
+      "correctIndex": 3,
+      "explanation": "«부모님이 고향을 그리워하세요.» — «Ota-onam yurtni sog‘inadilar.». Bu yerda «A-아/어하다» qolipi ishlatilgan: Boshqaning hissini tasvirlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 어렸을 때 살았던 동네예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu bolaligimda yashagan mahalla.",
+        "Binolar juda ko‘payib, tanib bo‘lmaydi.",
+        "Ota-onangiz ham yurtni sog‘inadimi?",
+        "Shahar o‘zgargan sari eski kunlarni sog‘inaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «제가 어렸을 때 살았던 동네예요.» deydi. Ma’nosi: «Bu bolaligimda yashagan mahalla.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «도시가 변하면 변할수록 옛날이 그리워져요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu bolaligimda yashagan mahalla.",
+        "Shahar o‘zgargan sari eski kunlarni sog‘inaman.",
+        "Ota-onangiz ham yurtni sog‘inadimi?",
+        "Binolar juda ko‘payib, tanib bo‘lmaydi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «도시가 변하면 변할수록 옛날이 그리워져요.» deydi. Ma’nosi: «Shahar o‘zgargan sari eski kunlarni sog‘inaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «부모님도 고향을 그리워하세요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Shahar o‘zgargan sari eski kunlarni sog‘inaman.",
+        "Ota-onangiz ham yurtni sog‘inadimi?",
+        "Binolar juda ko‘payib, tanib bo‘lmaydi.",
+        "Bu bolaligimda yashagan mahalla."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «부모님도 고향을 그리워하세요?» deydi. Ma’nosi: «Ota-onangiz ham yurtni sog‘inadimi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «건물이 하도 많아져서 몰라보겠어요.» gapini kim aytadi?",
+      "options": [
+        "Maslahatchi",
+        "Jisu",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Binolar juda ko‘payib, tanib bo‘lmaydi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

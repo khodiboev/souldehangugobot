@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«관습» so‘zining ma’nosi qaysi?",
+      "options": [
+        "urf-odat",
+        "salomlashish",
+        "tajriba",
+        "farq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«관습» — «urf-odat». Bu so‘z darsdagi «Madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«salomlashish» koreyschada qaysi so‘z?",
+      "options": [
+        "예절",
+        "문화",
+        "인사",
+        "차이"
+      ],
+      "correctIndex": 2,
+      "explanation": "«인사» — «salomlashish». Bu so‘z darsdagi «Madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«경험» so‘zining ma’nosi qaysi?",
+      "options": [
+        "salomlashish",
+        "farq",
+        "odob",
+        "tajriba"
+      ],
+      "correctIndex": 3,
+      "explanation": "«경험» — «tajriba». Bu so‘z darsdagi «Madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«noto‘g‘ri tushunish» koreyschada qaysi so‘z?",
+      "options": [
+        "적응하다",
+        "비교하다",
+        "존중",
+        "오해"
+      ],
+      "correctIndex": 3,
+      "explanation": "«오해» — «noto‘g‘ri tushunish». Bu so‘z darsdagi «Muloqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«비교하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "taqqoslamoq",
+        "usul",
+        "noto‘g‘ri tushunish",
+        "turli xil bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«비교하다» — «taqqoslamoq». Bu so‘z darsdagi «Muloqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«turli xil bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "방식",
+        "적응하다",
+        "다양하다",
+        "비교하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«다양하다» — «turli xil bo‘lmoq». Bu so‘z darsdagi «Muloqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N만 해도[하더라도]» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... yoki ... kabi",
+        "...ishdan nariga o‘tmaydi",
+        "Nning o‘ziyoq",
+        "... qilaman deb"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N만 해도[하더라도]» — Nning o‘ziyoq. Katta suratni ochadigan bitta kichik kadr.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다든지 A/V-다든지 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nning o‘ziyoq",
+        "...moqchi bo‘lsam esa",
+        "... yoki ... kabi",
+        "... bo‘lishi mumkin emas"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-다든지 A/V-다든지 하다» — ... yoki ... kabi. Misollar savatiga ikki dona namuna solish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«인사만 해도 나라에 따라 방식이 달라요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Salomlashishning o‘ziyoq mamlakatga qarab farq qiladi.",
+        "Ovqat odobini olsak ham, oilaga qarab farq qiladi.",
+        "Salomda bosh egish yoki qo‘l silkish kabi yo‘llar bor.",
+        "Jamoamizning o‘zida ham tajribalar turlicha."
+      ],
+      "correctIndex": 0,
+      "explanation": "«인사만 해도 나라에 따라 방식이 달라요.» — «Salomlashishning o‘ziyoq mamlakatga qarab farq qiladi.». Bu yerda «N만 해도[하더라도]» qolipi ishlatilgan: Nning o‘ziyoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Salomda bosh egish yoki qo‘l silkish kabi yo‘llar bor.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "모르면 묻는다든지 예를 찾는다든지 해 보세요.",
+        "인사할 때 고개를 숙인다든지 손을 흔든다든지 해요.",
+        "식사 예절만 하더라도 가족마다 달라요.",
+        "우리 팀만 해도 서로 경험이 달라요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«인사할 때 고개를 숙인다든지 손을 흔든다든지 해요.» — «Salomda bosh egish yoki qo‘l silkish kabi yo‘llar bor.». Bu yerda «A/V-다든지 A/V-다든지 하다» qolipi ishlatilgan: ... yoki ... kabi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«식사 예절만 하더라도 가족마다 달라요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Salomda bosh egish yoki qo‘l silkish kabi yo‘llar bor.",
+        "Bilmasangiz so‘rang yoki misol izlang.",
+        "Nutq tez yoki sekin bo‘lishi mumkin.",
+        "Ovqat odobini olsak ham, oilaga qarab farq qiladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«식사 예절만 하더라도 가족마다 달라요.» — «Ovqat odobini olsak ham, oilaga qarab farq qiladi.». Bu yerda «N만 해도[하더라도]» qolipi ishlatilgan: Nning o‘ziyoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Nutq tez yoki sekin bo‘lishi mumkin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "말이 빠르다든지 느리다든지 할 수 있어요.",
+        "식사 예절만 하더라도 가족마다 달라요.",
+        "인사할 때 고개를 숙인다든지 손을 흔든다든지 해요.",
+        "모르면 묻는다든지 예를 찾는다든지 해 보세요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«말이 빠르다든지 느리다든지 할 수 있어요.» — «Nutq tez yoki sekin bo‘lishi mumkin.». Bu yerda «A/V-다든지 A/V-다든지 하다» qolipi ishlatilgan: ... yoki ... kabi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«우리 팀만 해도 서로 경험이 달라요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bilmasangiz so‘rang yoki misol izlang.",
+        "Salomlashishning o‘ziyoq mamlakatga qarab farq qiladi.",
+        "Salomda bosh egish yoki qo‘l silkish kabi yo‘llar bor.",
+        "Jamoamizning o‘zida ham tajribalar turlicha."
+      ],
+      "correctIndex": 3,
+      "explanation": "«우리 팀만 해도 서로 경험이 달라요.» — «Jamoamizning o‘zida ham tajribalar turlicha.». Bu yerda «N만 해도[하더라도]» qolipi ishlatilgan: Nning o‘ziyoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bilmasangiz so‘rang yoki misol izlang.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "모르면 묻는다든지 예를 찾는다든지 해 보세요.",
+        "인사만 해도 나라에 따라 방식이 달라요.",
+        "우리 팀만 해도 서로 경험이 달라요.",
+        "인사할 때 고개를 숙인다든지 손을 흔든다든지 해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«모르면 묻는다든지 예를 찾는다든지 해 보세요.» — «Bilmasangiz so‘rang yoki misol izlang.». Bu yerda «A/V-다든지 A/V-다든지 하다» qolipi ishlatilgan: ... yoki ... kabi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «인사만 해도 배울 점이 많아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shu qoidani birinchi ekranga yozaman.",
+        "Bir kishining javobini hammaniki demaymiz.",
+        "Usullarni qiyoslaymiz yoki tajribani so‘raymiz.",
+        "Salomlashishning o‘zidan ham ko‘p narsa o‘rganiladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «인사만 해도 배울 점이 많아요.» deydi. Ma’nosi: «Salomlashishning o‘zidan ham ko‘p narsa o‘rganiladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «방식을 비교한다든지 경험을 묻는다든지 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir kishining javobini hammaniki demaymiz.",
+        "Salomlashishning o‘zidan ham ko‘p narsa o‘rganiladi.",
+        "Shu qoidani birinchi ekranga yozaman.",
+        "Usullarni qiyoslaymiz yoki tajribani so‘raymiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «방식을 비교한다든지 경험을 묻는다든지 해요.» deydi. Ma’nosi: «Usullarni qiyoslaymiz yoki tajribani so‘raymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 사람의 답을 모두의 답으로 보지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Usullarni qiyoslaymiz yoki tajribani so‘raymiz.",
+        "Shu qoidani birinchi ekranga yozaman.",
+        "Bir kishining javobini hammaniki demaymiz.",
+        "Salomlashishning o‘zidan ham ko‘p narsa o‘rganiladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «한 사람의 답을 모두의 답으로 보지 않아요.» deydi. Ma’nosi: «Bir kishining javobini hammaniki demaymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그 원칙을 첫 화면에 적을게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Usullarni qiyoslaymiz yoki tajribani so‘raymiz.",
+        "Shu qoidani birinchi ekranga yozaman.",
+        "Salomlashishning o‘zidan ham ko‘p narsa o‘rganiladi.",
+        "Bir kishining javobini hammaniki demaymiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «그 원칙을 첫 화면에 적을게요.» deydi. Ma’nosi: «Shu qoidani birinchi ekranga yozaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «방식을 비교한다든지 경험을 묻는다든지 해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Usullarni qiyoslaymiz yoki tajribani so‘raymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그 원칙을 첫 화면에 적을게요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Shu qoidani birinchi ekranga yozaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

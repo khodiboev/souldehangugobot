@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«수리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tugma",
+        "ekran",
+        "nosozlik",
+        "ta’mir"
+      ],
+      "correctIndex": 3,
+      "explanation": "«수리» — «ta’mir». Bu so‘z darsdagi «Nosozlik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ekran» koreyschada qaysi so‘z?",
+      "options": [
+        "화면",
+        "전원",
+        "설명서",
+        "버튼"
+      ],
+      "correctIndex": 0,
+      "explanation": "«화면» — «ekran». Bu so‘z darsdagi «Nosozlik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«켜다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tuzatmoq",
+        "ulamoq",
+        "yoqmoq",
+        "so‘rov yubormoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«켜다» — «yoqmoq». Bu so‘z darsdagi «Ta’mirlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ulamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "연결하다",
+        "신청하다",
+        "점검하다",
+        "끄다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«연결하다» — «ulamoq». Bu so‘z darsdagi «Ta’mirlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«점검하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yoqmoq",
+        "o‘chirmoq",
+        "so‘rov yubormoq",
+        "tekshirmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«점검하다» — «tekshirmoq». Bu so‘z darsdagi «Ta’mirlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-았다가/었다가» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilib, keyin teskarisi",
+        "Shunga qaramay",
+        "Kuzatilgan o‘zgarish",
+        "Shunday qilishni ta’minlash"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-았다가/었다가» — Qilib, keyin teskarisi. 았다가 — yo‘nalishni o‘zgartirgan ikki qadam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-더니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kuzatilgan o‘zgarish",
+        "Shunday qilishni ta’minlash",
+        "Shunga qaramay",
+        "Qilib, keyin teskarisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-더니» — Kuzatilgan o‘zgarish. 더니 — oldingi kadrdan keyingi kadrga kuzatuvchi ko‘prigi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-도록 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kuzatilgan o‘zgarish",
+        "Shunga qaramay",
+        "Shunday qilishni ta’minlash",
+        "Qilib, keyin teskarisi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-도록 하다» — Shunday qilishni ta’minlash. 도록 하다 — vazifani bajariladigan reja qilib qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«컴퓨터를 껐다가 다시 켜 보세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ekran miltilladi-da, o‘chdi.",
+        "Kompyuterni o‘chirib, yana yoqib ko‘ring.",
+        "Keyingi safar qo‘llanmani o‘qiyman.",
+        "Band qilib, keyin bekor qildim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«컴퓨터를 껐다가 다시 켜 보세요.» — «Kompyuterni o‘chirib, yana yoqib ko‘ring.». Bu yerda «A/V-았다가/었다가» qolipi ishlatilgan: Qilib, keyin teskarisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Tugmani bossam ham yoqilmayapti.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "새 제품인데도 고장 났어요.",
+        "문을 열었다가 닫았어요.",
+        "복사기가 이상하더니 멈췄어요.",
+        "버튼을 눌렀는데도 안 켜져요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«버튼을 눌렀는데도 안 켜져요.» — «Tugmani bossam ham yoqilmayapti.». Bu yerda «A-(으)ㄴ데도 · V-는데도 · N인데도» qolipi ishlatilgan: Shunga qaramay.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«복사기가 이상하더니 멈췄어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Quvvatni tekshiring.",
+        "Nusxa apparati g‘alati edi, keyin to‘xtadi.",
+        "Yomg‘ir yog‘di-da, havo sovidi.",
+        "Kompyuterni o‘chirib, yana yoqib ko‘ring."
+      ],
+      "correctIndex": 1,
+      "explanation": "«복사기가 이상하더니 멈췄어요.» — «Nusxa apparati g‘alati edi, keyin to‘xtadi.». Bu yerda «A/V-더니» qolipi ishlatilgan: Kuzatilgan o‘zgarish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «복사기를 껐다가 켰는데도 안 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bugun ichida tuzatilsa yaxshi.",
+        "Boshqaruvga ta’mir so‘rovi yuboraman.",
+        "Apparatni o‘chirib yoqsam ham ishlamayapti.",
+        "Hozir ovoz chiqdi-da, to‘xtadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «복사기를 껐다가 켰는데도 안 돼요.» deydi. Ma’nosi: «Apparatni o‘chirib yoqsam ham ishlamayapti.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «관리실에 수리를 신청하도록 할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Apparatni o‘chirib yoqsam ham ishlamayapti.",
+        "Boshqaruvga ta’mir so‘rovi yuboraman.",
+        "Bugun ichida tuzatilsa yaxshi.",
+        "Hozir ovoz chiqdi-da, to‘xtadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «관리실에 수리를 신청하도록 할게요.» deydi. Ma’nosi: «Boshqaruvga ta’mir so‘rovi yuboraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오늘 안에 고쳐지면 좋겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshqaruvga ta’mir so‘rovi yuboraman.",
+        "Hozir ovoz chiqdi-da, to‘xtadi.",
+        "Bugun ichida tuzatilsa yaxshi.",
+        "Apparatni o‘chirib yoqsam ham ishlamayapti."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «오늘 안에 고쳐지면 좋겠어요.» deydi. Ma’nosi: «Bugun ichida tuzatilsa yaxshi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «아까 소리가 나더니 멈췄어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Jisu",
+        "Minji",
+        "Soyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Hozir ovoz chiqdi-da, to‘xtadi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

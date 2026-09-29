@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«성장» so‘zining ma’nosi qaysi?",
+      "options": [
+        "daromad",
+        "iqtisod",
+        "jarayon",
+        "o‘sish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«성장» — «o‘sish». Bu so‘z darsdagi «Iqtisod tarixi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«eksport» koreyschada qaysi so‘z?",
+      "options": [
+        "수출",
+        "과정",
+        "소득",
+        "경제"
+      ],
+      "correctIndex": 0,
+      "explanation": "«수출» — «eksport». Bu so‘z darsdagi «Iqtisod tarixi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«과정» so‘zining ma’nosi qaysi?",
+      "options": [
+        "eksport",
+        "jarayon",
+        "iqtisod",
+        "o‘sish"
+      ],
+      "correctIndex": 1,
+      "explanation": "«과정» — «jarayon». Bu so‘z darsdagi «Iqtisod tarixi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«hudud» koreyschada qaysi so‘z?",
+      "options": [
+        "영향",
+        "지역",
+        "규모",
+        "시기"
+      ],
+      "correctIndex": 1,
+      "explanation": "«지역» — «hudud». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«자료» so‘zining ma’nosi qaysi?",
+      "options": [
+        "davr",
+        "solishtirmoq",
+        "ma’lumot",
+        "ko‘lam"
+      ],
+      "correctIndex": 2,
+      "explanation": "«자료» — «ma’lumot». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ta’sir» koreyschada qaysi so‘z?",
+      "options": [
+        "영향",
+        "규모",
+        "자료",
+        "지역"
+      ],
+      "correctIndex": 0,
+      "explanation": "«영향» — «ta’sir». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N을/를 불문하고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan qat’i nazar",
+        "... ekan, endi",
+        "...gandan ko‘ra yomon",
+        "... paytda aynan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N을/를 불문하고» — Ndan qat’i nazar. Mezon ustidan o‘tadigan umumiy qoida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ/는 이상» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faqat Nmi, axir?",
+        "...ishdan nariga o‘tmaydi",
+        "Ndan qat’i nazar",
+        "... ekan, endi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)ㄴ/는 이상» — ... ekan, endi. Qadam tashlanganidan keyingi javobgarlik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«지역을 불문하고 같은 기준으로 자료를 모았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘sishni muhokama qilar ekanmiz xarajatni ham ko‘rish kerak.",
+        "Qiyosni boshlagan ekanmiz mezonni oxirigacha saqlaylik.",
+        "Hududdan qat’i nazar ma’lumotni bir mezonda yig‘dik.",
+        "Ko‘lamidan qat’i nazar korxonalar tajribasini eshitdik."
+      ],
+      "correctIndex": 2,
+      "explanation": "«지역을 불문하고 같은 기준으로 자료를 모았어요.» — «Hududdan qat’i nazar ma’lumotni bir mezonda yig‘dik.». Bu yerda «N을/를 불문하고» qolipi ishlatilgan: Ndan qat’i nazar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Ma’lumotni e’lon qilgan ekanmiz manbani ham ochishimiz kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비교를 시작한 이상 기준을 끝까지 지켜요.",
+        "규모를 불문하고 기업의 경험을 들었어요.",
+        "시기를 불문하고 숫자의 출처를 확인해야 해요.",
+        "자료를 발표한 이상 출처도 공개해야 해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«자료를 발표한 이상 출처도 공개해야 해요.» — «Ma’lumotni e’lon qilgan ekanmiz manbani ham ochishimiz kerak.». Bu yerda «V-(으)ㄴ/는 이상» qolipi ishlatilgan: ... ekan, endi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«규모를 불문하고 기업의 경험을 들었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ko‘lamidan qat’i nazar korxonalar tajribasini eshitdik.",
+        "Hududdan qat’i nazar ma’lumotni bir mezonda yig‘dik.",
+        "Qiyosni boshlagan ekanmiz mezonni oxirigacha saqlaylik.",
+        "Davrdan qat’i nazar son manbasini tekshirish kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "«규모를 불문하고 기업의 경험을 들었어요.» — «Ko‘lamidan qat’i nazar korxonalar tajribasini eshitdik.». Bu yerda «N을/를 불문하고» qolipi ishlatilgan: Ndan qat’i nazar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«O‘sishni muhokama qilar ekanmiz xarajatni ham ko‘rish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비교를 시작한 이상 기준을 끝까지 지켜요.",
+        "성장을 논의하는 이상 비용도 봐야 해요.",
+        "자료를 발표한 이상 출처도 공개해야 해요.",
+        "규모를 불문하고 기업의 경험을 들었어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«성장을 논의하는 이상 비용도 봐야 해요.» — «O‘sishni muhokama qilar ekanmiz xarajatni ham ko‘rish kerak.». Bu yerda «V-(으)ㄴ/는 이상» qolipi ishlatilgan: ... ekan, endi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«시기를 불문하고 숫자의 출처를 확인해야 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Davrdan qat’i nazar son manbasini tekshirish kerak.",
+        "Hududdan qat’i nazar ma’lumotni bir mezonda yig‘dik.",
+        "O‘sishni muhokama qilar ekanmiz xarajatni ham ko‘rish kerak.",
+        "Ma’lumotni e’lon qilgan ekanmiz manbani ham ochishimiz kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "«시기를 불문하고 숫자의 출처를 확인해야 해요.» — «Davrdan qat’i nazar son manbasini tekshirish kerak.». Bu yerda «N을/를 불문하고» qolipi ishlatilgan: Ndan qat’i nazar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Qiyosni boshlagan ekanmiz mezonni oxirigacha saqlaylik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "지역을 불문하고 같은 기준으로 자료를 모았어요.",
+        "비교를 시작한 이상 기준을 끝까지 지켜요.",
+        "시기를 불문하고 숫자의 출처를 확인해야 해요.",
+        "규모를 불문하고 기업의 경험을 들었어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«비교를 시작한 이상 기준을 끝까지 지켜요.» — «Qiyosni boshlagan ekanmiz mezonni oxirigacha saqlaylik.». Bu yerda «V-(으)ㄴ/는 이상» qolipi ishlatilgan: ... ekan, endi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시기를 불문하고 자료의 출처를 적었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Daromad va turmush xarajatini ajratib ko‘rsatdim.",
+        "Davrdan qat’i nazar har ma’lumot manbasini yozdim.",
+        "Son ortidagi tajribani ham qisqa tanishtiraylik.",
+        "Grafik tuzgan ekanmiz mezonni ham tushuntirish kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «시기를 불문하고 자료의 출처를 적었어요.» deydi. Ma’nosi: «Davrdan qat’i nazar har ma’lumot manbasini yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그래프를 만든 이상 기준도 설명해야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Son ortidagi tajribani ham qisqa tanishtiraylik.",
+        "Daromad va turmush xarajatini ajratib ko‘rsatdim.",
+        "Davrdan qat’i nazar har ma’lumot manbasini yozdim.",
+        "Grafik tuzgan ekanmiz mezonni ham tushuntirish kerak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «그래프를 만든 이상 기준도 설명해야 해요.» deydi. Ma’nosi: «Grafik tuzgan ekanmiz mezonni ham tushuntirish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «소득과 생활비를 따로 표시했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Son ortidagi tajribani ham qisqa tanishtiraylik.",
+        "Davrdan qat’i nazar har ma’lumot manbasini yozdim.",
+        "Grafik tuzgan ekanmiz mezonni ham tushuntirish kerak.",
+        "Daromad va turmush xarajatini ajratib ko‘rsatdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «소득과 생활비를 따로 표시했어요.» deydi. Ma’nosi: «Daromad va turmush xarajatini ajratib ko‘rsatdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «숫자 뒤에 있는 경험도 짧게 소개해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Daromad va turmush xarajatini ajratib ko‘rsatdim.",
+        "Grafik tuzgan ekanmiz mezonni ham tushuntirish kerak.",
+        "Davrdan qat’i nazar har ma’lumot manbasini yozdim.",
+        "Son ortidagi tajribani ham qisqa tanishtiraylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «숫자 뒤에 있는 경험도 짧게 소개해요.» deydi. Ma’nosi: «Son ortidagi tajribani ham qisqa tanishtiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그래프를 만든 이상 기준도 설명해야 해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Grafik tuzgan ekanmiz mezonni ham tushuntirish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «숫자 뒤에 있는 경험도 짧게 소개해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Son ortidagi tajribani ham qisqa tanishtiraylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기억» so‘zining ma’nosi qaysi?",
+      "options": [
+        "lahza",
+        "ovoz",
+        "xotira",
+        "esdalik"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기억» — «xotira». Bu so‘z darsdagi «Xotira» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«surat» koreyschada qaysi so‘z?",
+      "options": [
+        "기억",
+        "순간",
+        "사진",
+        "편지"
+      ],
+      "correctIndex": 2,
+      "explanation": "«사진» — «surat». Bu so‘z darsdagi «Xotira» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«편지» so‘zining ma’nosi qaysi?",
+      "options": [
+        "lahza",
+        "ovoz",
+        "xotira",
+        "xat"
+      ],
+      "correctIndex": 3,
+      "explanation": "«편지» — «xat». Bu so‘z darsdagi «Xotira» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«quvonch» koreyschada qaysi so‘z?",
+      "options": [
+        "떠올리다",
+        "설명하다",
+        "기쁨",
+        "남기다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기쁨» — «quvonch». Bu so‘z darsdagi «His» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«설명하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tushuntirmoq",
+        "sog‘inch",
+        "qayg‘u",
+        "quvonch"
+      ],
+      "correctIndex": 0,
+      "explanation": "«설명하다» — «tushuntirmoq». Bu so‘z darsdagi «His» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qoldirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "그리움",
+        "슬픔",
+        "떠올리다",
+        "남기다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«남기다» — «qoldirmoq». Bu so‘z darsdagi «His» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N은/는 말할 것도 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham",
+        "...dek / go‘yo ...",
+        "...ishga urinib turib olmoq",
+        "Nni aytmasa ham bo‘ladi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N은/는 말할 것도 없다» — Nni aytmasa ham bo‘ladi. Ro‘yxatdagi hammaga ayon birinchi band.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)려고 들다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ko‘pincha ... qilib qo‘ymoq",
+        "...dek / go‘yo ...",
+        "...ishga urinib turib olmoq",
+        "Nni aytmasa ham bo‘ladi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)려고 들다» — ...ishga urinib turib olmoq. Eshikni qayta-qayta itarib ochmoqchi bo‘lish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«사진은 말할 것도 없고 그날의 목소리도 기억나요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suratni aytmasa ham, o‘sha kungi ovoz ham esimda.",
+        "Joyni aytmasa ham, hatto ob-havo esimga tushadi.",
+        "Unutishga zo‘r berib uringan sari yanada esga tushishi mumkin.",
+        "Har bir xotirani tushuntirishga zo‘r berib urinmang."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사진은 말할 것도 없고 그날의 목소리도 기억나요.» — «Suratni aytmasa ham, o‘sha kungi ovoz ham esimda.». Bu yerda «N은/는 말할 것도 없다» qolipi ishlatilgan: Nni aytmasa ham bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Har bir xotirani tushuntirishga zo‘r berib urinmang.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "모든 기억을 설명하려고 들지 마세요.",
+        "사진은 말할 것도 없고 그날의 목소리도 기억나요.",
+        "장소는 말할 것도 없고 날씨까지 떠올라요.",
+        "기쁨은 말할 것도 없고 고마움도 컸어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«모든 기억을 설명하려고 들지 마세요.» — «Har bir xotirani tushuntirishga zo‘r berib urinmang.». Bu yerda «V-(으)려고 들다» qolipi ishlatilgan: ...ishga urinib turib olmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«기쁨은 말할 것도 없고 고마움도 컸어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Har bir xotirani tushuntirishga zo‘r berib urinmang.",
+        "Suratni aytmasa ham, o‘sha kungi ovoz ham esimda.",
+        "Quvonchni aytmasa ham, minnatdorchilik ham katta edi.",
+        "Joyni aytmasa ham, hatto ob-havo esimga tushadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«기쁨은 말할 것도 없고 고마움도 컸어요.» — «Quvonchni aytmasa ham, minnatdorchilik ham katta edi.». Bu yerda «N은/는 말할 것도 없다» qolipi ishlatilgan: Nni aytmasa ham bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Do‘stimning hislarini o‘zimcha hukm qilishga urindim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구의 마음을 혼자 판단하려고 들었어요.",
+        "장소는 말할 것도 없고 날씨까지 떠올라요.",
+        "잊으려고 들수록 더 떠오를 때가 있어요.",
+        "사진은 말할 것도 없고 그날의 목소리도 기억나요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«친구의 마음을 혼자 판단하려고 들었어요.» — «Do‘stimning hislarini o‘zimcha hukm qilishga urindim.». Bu yerda «V-(으)려고 들다» qolipi ishlatilgan: ...ishga urinib turib olmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«장소는 말할 것도 없고 날씨까지 떠올라요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Quvonchni aytmasa ham, minnatdorchilik ham katta edi.",
+        "Har bir xotirani tushuntirishga zo‘r berib urinmang.",
+        "Joyni aytmasa ham, hatto ob-havo esimga tushadi.",
+        "Do‘stimning hislarini o‘zimcha hukm qilishga urindim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«장소는 말할 것도 없고 날씨까지 떠올라요.» — «Joyni aytmasa ham, hatto ob-havo esimga tushadi.». Bu yerda «N은/는 말할 것도 없다» qolipi ishlatilgan: Nni aytmasa ham bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Unutishga zo‘r berib uringan sari yanada esga tushishi mumkin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "잊으려고 들수록 더 떠오를 때가 있어요.",
+        "기쁨은 말할 것도 없고 고마움도 컸어요.",
+        "장소는 말할 것도 없고 날씨까지 떠올라요.",
+        "모든 기억을 설명하려고 들지 마세요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«잊으려고 들수록 더 떠오를 때가 있어요.» — «Unutishga zo‘r berib uringan sari yanada esga tushishi mumkin.». Bu yerda «V-(으)려고 들다» qolipi ishlatilgan: ...ishga urinib turib olmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «발표는 말할 것도 없고 서로 도운 일이 기억나요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu xotirani zo‘rlab aniq tushuntirmayman.",
+        "Surat yoniga qisqa qayd qoldiraylik.",
+        "Taqdimotni aytmasa ham, bir-birimizga yordam berganimiz esimda.",
+        "Har kim boshqa lahzani eslar ekan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «발표는 말할 것도 없고 서로 도운 일이 기억나요.» deydi. Ma’nosi: «Taqdimotni aytmasa ham, bir-birimizga yordam berganimiz esimda.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그 기억을 정확히 설명하려고 들지는 않을래요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Surat yoniga qisqa qayd qoldiraylik.",
+        "Bu xotirani zo‘rlab aniq tushuntirmayman.",
+        "Taqdimotni aytmasa ham, bir-birimizga yordam berganimiz esimda.",
+        "Har kim boshqa lahzani eslar ekan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «그 기억을 정확히 설명하려고 들지는 않을래요.» deydi. Ma’nosi: «Bu xotirani zo‘rlab aniq tushuntirmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진 옆에 짧은 메모를 남겨요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu xotirani zo‘rlab aniq tushuntirmayman.",
+        "Taqdimotni aytmasa ham, bir-birimizga yordam berganimiz esimda.",
+        "Surat yoniga qisqa qayd qoldiraylik.",
+        "Har kim boshqa lahzani eslar ekan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «사진 옆에 짧은 메모를 남겨요.» deydi. Ma’nosi: «Surat yoniga qisqa qayd qoldiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «각자 다른 순간을 기억하네요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Surat yoniga qisqa qayd qoldiraylik.",
+        "Har kim boshqa lahzani eslar ekan.",
+        "Bu xotirani zo‘rlab aniq tushuntirmayman.",
+        "Taqdimotni aytmasa ham, bir-birimizga yordam berganimiz esimda."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «각자 다른 순간을 기억하네요.» deydi. Ma’nosi: «Har kim boshqa lahzani eslar ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그 기억을 정확히 설명하려고 들지는 않을래요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bu xotirani zo‘rlab aniq tushuntirmayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «각자 다른 순간을 기억하네요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Har kim boshqa lahzani eslar ekan.».",
+      "reviewSection": "s"
+    }
+  ]
+}

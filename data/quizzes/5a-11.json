@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«학교» so‘zining ma’nosi qaysi?",
+      "options": [
+        "baholash",
+        "maktab",
+        "imtihon",
+        "darslik"
+      ],
+      "correctIndex": 1,
+      "explanation": "«학교» — «maktab». Bu so‘z darsdagi «Ta’lim tizimi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«baholash» koreyschada qaysi so‘z?",
+      "options": [
+        "제도",
+        "학교",
+        "시험",
+        "평가"
+      ],
+      "correctIndex": 3,
+      "explanation": "«평가» — «baholash». Bu so‘z darsdagi «Ta’lim tizimi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«교과서» so‘zining ma’nosi qaysi?",
+      "options": [
+        "imtihon",
+        "darslik",
+        "maktab",
+        "tizim"
+      ],
+      "correctIndex": 1,
+      "explanation": "«교과서» — «darslik». Bu so‘z darsdagi «Ta’lim tizimi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«rol» koreyschada qaysi so‘z?",
+      "options": [
+        "격차",
+        "역할",
+        "개선하다",
+        "비중"
+      ],
+      "correctIndex": 1,
+      "explanation": "«역할» — «rol». Bu so‘z darsdagi «Natija va sabab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«격차» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tafovut",
+        "imkoniyat",
+        "yaxshilamoq",
+        "ulush, ahamiyat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«격차» — «tafovut». Bu so‘z darsdagi «Natija va sabab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ta’sir» koreyschada qaysi so‘z?",
+      "options": [
+        "영향",
+        "기회",
+        "격차",
+        "개선하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«영향» — «ta’sir». Bu so‘z darsdagi «Natija va sabab» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N이/가 중요한 역할을 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nafaqat, balki",
+        "N tufayli",
+        "N muhim rol o‘ynaydi",
+        "N ichida N ulushi katta"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N이/가 중요한 역할을 하다» — N muhim rol o‘ynaydi. Mexanizmdagi zarur tishli g‘ildirak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N에서 N의 비중이 높다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N muhim rol o‘ynaydi",
+        "...moq maqsadida",
+        "N ichida N ulushi katta",
+        "N tufayli"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N에서 N의 비중이 높다» — N ichida N ulushi katta. Doira diagrammadagi katta bo‘lak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(으)로 인해» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N ichida N ulushi katta",
+        "N muhim rol o‘ynaydi",
+        "Atigi Nda to‘xtamoq",
+        "N tufayli"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N(으)로 인해» — N tufayli. Hisobotdagi sababdan natijaga chizilgan o‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«교사가 학습 동기에 중요한 역할을 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘qituvchi o‘qish ishtiyoqida muhim rol o‘ynaydi.",
+        "Oila til rivojida muhim rol o‘ynaydi.",
+        "Bu maktabda taqdimotning ulushi katta.",
+        "Darsda bahsning ulushini oshirdik."
+      ],
+      "correctIndex": 0,
+      "explanation": "«교사가 학습 동기에 중요한 역할을 해요.» — «O‘qituvchi o‘qish ishtiyoqida muhim rol o‘ynaydi.». Bu yerda «N이/가 중요한 역할을 하다» qolipi ishlatilgan: N muhim rol o‘ynaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Bu maktabda taqdimotning ulushi katta.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 학교에서는 발표의 비중이 높아요.",
+        "평가에서 시험의 비중이 너무 높다는 의견이 있어요.",
+        "교육 격차로 인해 기회가 달라질 수 있어요.",
+        "수업에서 토론의 비중을 높였어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이 학교에서는 발표의 비중이 높아요.» — «Bu maktabda taqdimotning ulushi katta.». Bu yerda «N에서 N의 비중이 높다» qolipi ishlatilgan: N ichida N ulushi katta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«시험 부담으로 인해 학생들이 지쳤어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Fikr-mulohaza mahorat oshishida muhim rol o‘ynaydi.",
+        "Imtihon bosimi tufayli o‘quvchilar charchadi.",
+        "Baholashda imtihon ulushi juda katta degan fikr bor.",
+        "Bu maktabda taqdimotning ulushi katta."
+      ],
+      "correctIndex": 1,
+      "explanation": "«시험 부담으로 인해 학생들이 지쳤어요.» — «Imtihon bosimi tufayli o‘quvchilar charchadi.». Bu yerda «N(으)로 인해» qolipi ishlatilgan: N tufayli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Oila til rivojida muhim rol o‘ynaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가정이 언어 발달에 중요한 역할을 합니다.",
+        "이 학교에서는 발표의 비중이 높아요.",
+        "새 제도로 인해 평가 방식이 바뀌었어요.",
+        "평가에서 시험의 비중이 너무 높다는 의견이 있어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«가정이 언어 발달에 중요한 역할을 합니다.» — «Oila til rivojida muhim rol o‘ynaydi.». Bu yerda «N이/가 중요한 역할을 하다» qolipi ishlatilgan: N muhim rol o‘ynaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«평가에서 시험의 비중이 너무 높다는 의견이 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Baholashda imtihon ulushi juda katta degan fikr bor.",
+        "Oila til rivojida muhim rol o‘ynaydi.",
+        "Ta’lim tafovuti sabab imkoniyat farqlanishi mumkin.",
+        "Yangi tizim tufayli baholash usuli o‘zgardi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«평가에서 시험의 비중이 너무 높다는 의견이 있어요.» — «Baholashda imtihon ulushi juda katta degan fikr bor.». Bu yerda «N에서 N의 비중이 높다» qolipi ishlatilgan: N ichida N ulushi katta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리 학교에서는 토론의 비중이 높아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shuning uchun baholash usulini birga ko‘rib chiqish kerak.",
+        "Imtihon bosimi tufayli qiynaladigan talabalar ham bor.",
+        "Maktabimizda bahsning ulushi katta.",
+        "O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «우리 학교에서는 토론의 비중이 높아요.» deydi. Ma’nosi: «Maktabimizda bahsning ulushi katta.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «교사가 대화를 이끄는 데 중요한 역할을 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Maktabimizda bahsning ulushi katta.",
+        "Shuning uchun baholash usulini birga ko‘rib chiqish kerak.",
+        "Imtihon bosimi tufayli qiynaladigan talabalar ham bor.",
+        "O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «교사가 대화를 이끄는 데 중요한 역할을 해요.» deydi. Ma’nosi: «O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시험 부담으로 인해 어려움을 겪는 학생도 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi.",
+        "Maktabimizda bahsning ulushi katta.",
+        "Shuning uchun baholash usulini birga ko‘rib chiqish kerak.",
+        "Imtihon bosimi tufayli qiynaladigan talabalar ham bor."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «시험 부담으로 인해 어려움을 겪는 학생도 있어요.» deydi. Ma’nosi: «Imtihon bosimi tufayli qiynaladigan talabalar ham bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그래서 평가 방식을 함께 검토해야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shuning uchun baholash usulini birga ko‘rib chiqish kerak.",
+        "O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi.",
+        "Maktabimizda bahsning ulushi katta.",
+        "Imtihon bosimi tufayli qiynaladigan talabalar ham bor."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «그래서 평가 방식을 함께 검토해야 해요.» deydi. Ma’nosi: «Shuning uchun baholash usulini birga ko‘rib chiqish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «교사가 대화를 이끄는 데 중요한 역할을 해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Soyon",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «O‘qituvchi suhbatni boshqarishda muhim rol o‘ynaydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그래서 평가 방식을 함께 검토해야 해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Soyon",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Shuning uchun baholash usulini birga ko‘rib chiqish kerak.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«커피» so‘zining ma’nosi qaysi?",
+      "options": [
+        "choy",
+        "qahva",
+        "guruch va masalliqlar o‘ralgan kimbap",
+        "sabzavot va boshqa masalliqli guruch"
+      ],
+      "correctIndex": 1,
+      "explanation": "«커피» — «qahva». Bu so‘z darsdagi «Taomlar va ichimliklar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«sakkiz» koreyschada qaysi so‘z?",
+      "options": [
+        "열",
+        "여덟",
+        "일흔",
+        "서른"
+      ],
+      "correctIndex": 1,
+      "explanation": "«여덟» — «sakkiz». Bu so‘z darsdagi «Sof koreys sonlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«그릇» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dona (umumiy hisob so‘zi)",
+        "von (pul birligi)",
+        "yuz",
+        "kosa, likopcha (ovqat miqdori)"
+      ],
+      "correctIndex": 3,
+      "explanation": "«그릇» — «kosa, likopcha (ovqat miqdori)». Bu so‘z darsdagi «Miqdor va pul» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«xush kelibsiz» koreyschada qaysi so‘z?",
+      "options": [
+        "어서 오세요",
+        "기다리다",
+        "맛없다",
+        "맛있다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«어서 오세요» — «xush kelibsiz». Bu so‘z darsdagi «Belgilar va iltimoslar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N + son + 개/병/잔/그릇» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Narsa qanday?",
+        "Nechta va qancha? — miqdor, hisob so‘zi va narx",
+        "Muloyim iltimos yoki ko‘rsatma",
+        "... ham"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N + son + 개/병/잔/그릇» — Nechta va qancha? — miqdor, hisob so‘zi va narx. O‘zbekcha “ikki piyola choy” koreyschada “choy + ikki + piyola”: 차 두 잔.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nechta va qancha? — miqdor, hisob so‘zi va narx",
+        "... ham",
+        "Muloyim iltimos yoki ko‘rsatma",
+        "Narsa qanday?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N도» — ... ham. “Mariya choy ichadi. Men ham.” dagi ham koreyschada 저도 bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«여기에 앉으세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu yerga o‘tiring.",
+        "Shu yerda kuting.",
+        "Sumka ham yaxshi.",
+        "Olma ham bering."
+      ],
+      "correctIndex": 0,
+      "explanation": "«여기에 앉으세요.» — «Bu yerga o‘tiring.». Bu yerda «V-(으)세요» qolipi ishlatilgan: Muloyim iltimos yoki ko‘rsatma.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Ikki piyola choy bering.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "물을 마시세요.",
+        "커피가 비싸요.",
+        "사과 네 개 주세요.",
+        "차 두 잔 주세요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«차 두 잔 주세요.» — «Ikki piyola choy bering.». Bu yerda «N + son + 개/병/잔/그릇» qolipi ishlatilgan: Nechta va qancha? — miqdor, hisob so‘zi va narx.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저도 비빔밥 주세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Menga ham bibimbap bering.",
+        "Bibimbap mazali.",
+        "Uch piyola choy ham bering.",
+        "Choy ham yaxshi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 마리아 «저도 비빔밥 주세요.» deydi. Ma’nosi: «Menga ham bibimbap bering.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «비빔밥 두 그릇은 얼마예요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Ikki kosa bibimbap qancha?",
+        "Xush kelibsiz. Bu yerga o‘tiring.",
+        "Menga ham bibimbap bering.",
+        "Bibimbap mazali."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 민지 «비빔밥 두 그릇은 얼마예요?» deydi. Ma’nosi: «Ikki kosa bibimbap qancha?».",
+      "reviewSection": "s"
+    }
+  ]
+}

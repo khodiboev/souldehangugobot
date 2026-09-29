@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«작품» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tomoshabin",
+        "taassurot",
+        "ifoda",
+        "asar"
+      ],
+      "correctIndex": 3,
+      "explanation": "«작품» — «asar». Bu so‘z darsdagi «San’at» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«taassurot» koreyschada qaysi so‘z?",
+      "options": [
+        "예술",
+        "감상",
+        "전시",
+        "작품"
+      ],
+      "correctIndex": 1,
+      "explanation": "«감상» — «taassurot». Bu so‘z darsdagi «San’at» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«관객» so‘zining ma’nosi qaysi?",
+      "options": [
+        "taassurot",
+        "tomoshabin",
+        "asar",
+        "ko‘rgazma"
+      ],
+      "correctIndex": 1,
+      "explanation": "«관객» — «tomoshabin». Bu so‘z darsdagi «San’at» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«makon» koreyschada qaysi so‘z?",
+      "options": [
+        "사진",
+        "소리",
+        "거리",
+        "공간"
+      ],
+      "correctIndex": 3,
+      "explanation": "«공간» — «makon». Bu so‘z darsdagi «Kundalik hayot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«소리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qo‘llamoq",
+        "tovush",
+        "ko‘cha",
+        "bo‘lishmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«소리» — «tovush». Bu so‘z darsdagi «Kundalik hayot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«bo‘lishmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "활용하다",
+        "사진",
+        "거리",
+        "공유하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«공유하다» — «bo‘lishmoq». Bu so‘z darsdagi «Kundalik hayot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-고서는» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishi uchun shunday qilib",
+        "... bo‘lsin yoki ... bo‘lsin",
+        "... bo‘lsa ham",
+        "...gandan keyin esa"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-고서는» — ...gandan keyin esa. Birinchi sahnadan keyin keskin ochilgan ikkinchi sahna.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-게끔» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... ekan / ... davom etgan muddatda",
+        "...ishi bilan",
+        "...ishi uchun shunday qilib",
+        "...gandan keyin esa"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-게끔» — ...ishi uchun shunday qilib. Yo‘lga qo‘yilgan ko‘rsatkich belgi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«그림을 보고서는 바로 생각이 바뀌었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suratga olib do‘stimga ko‘rsatdim.",
+        "Izohni eshitgach asar qiziqroq tuyuldi.",
+        "Rasmni ko‘rib fikrim darrov o‘zgardi.",
+        "Hamma tushunishi uchun izohni qisqa yozdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그림을 보고서는 바로 생각이 바뀌었어요.» — «Rasmni ko‘rib fikrim darrov o‘zgardi.». Bu yerda «V-고서는» qolipi ishlatilgan: ...gandan keyin esa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Hamma tushunishi uchun izohni qisqa yozdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "아이들도 볼 수 있게끔 작품을 낮게 걸었어요.",
+        "서로 의견을 말하게끔 시간을 줬어요.",
+        "누구나 이해하게끔 설명을 짧게 썼어요.",
+        "그림을 보고서는 바로 생각이 바뀌었어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«누구나 이해하게끔 설명을 짧게 썼어요.» — «Hamma tushunishi uchun izohni qisqa yozdim.». Bu yerda «V-게끔» qolipi ishlatilgan: ...ishi uchun shunday qilib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«설명을 듣고서는 작품이 더 흥미로웠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Rasmni ko‘rib fikrim darrov o‘zgardi.",
+        "Hamma tushunishi uchun izohni qisqa yozdim.",
+        "Suratga olib do‘stimga ko‘rsatdim.",
+        "Izohni eshitgach asar qiziqroq tuyuldi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«설명을 듣고서는 작품이 더 흥미로웠어요.» — «Izohni eshitgach asar qiziqroq tuyuldi.». Bu yerda «V-고서는» qolipi ishlatilgan: ...gandan keyin esa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bolalar ham ko‘rishi uchun asarni pastga osdik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설명을 듣고서는 작품이 더 흥미로웠어요.",
+        "아이들도 볼 수 있게끔 작품을 낮게 걸었어요.",
+        "누구나 이해하게끔 설명을 짧게 썼어요.",
+        "사진을 찍고서는 친구에게 보여 줬어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«아이들도 볼 수 있게끔 작품을 낮게 걸었어요.» — «Bolalar ham ko‘rishi uchun asarni pastga osdik.». Bu yerda «V-게끔» qolipi ishlatilgan: ...ishi uchun shunday qilib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«사진을 찍고서는 친구에게 보여 줬어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suratga olib do‘stimga ko‘rsatdim.",
+        "Bolalar ham ko‘rishi uchun asarni pastga osdik.",
+        "Rasmni ko‘rib fikrim darrov o‘zgardi.",
+        "Hamma tushunishi uchun izohni qisqa yozdim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사진을 찍고서는 친구에게 보여 줬어요.» — «Suratga olib do‘stimga ko‘rsatdim.». Bu yerda «V-고서는» qolipi ishlatilgan: ...gandan keyin esa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Hamma fikr ayta olishi uchun vaqt berdik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "그림을 보고서는 바로 생각이 바뀌었어요.",
+        "사진을 찍고서는 친구에게 보여 줬어요.",
+        "서로 의견을 말하게끔 시간을 줬어요.",
+        "아이들도 볼 수 있게끔 작품을 낮게 걸었어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«서로 의견을 말하게끔 시간을 줬어요.» — «Hamma fikr ayta olishi uchun vaqt berdik.». Bu yerda «V-게끔» qolipi ishlatilgan: ...ishi uchun shunday qilib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진을 보고서는 각자의 이야기가 궁금해졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bolalar ham ko‘rishi uchun rasm balandligini o‘zgartiraylik.",
+        "Odamlar fikrini qayd qilaman.",
+        "Mehmon savol yozishi uchun bo‘sh qog‘oz qo‘ydim.",
+        "Suratni ko‘rib har kimning hikoyasiga qiziqdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «사진을 보고서는 각자의 이야기가 궁금해졌어요.» deydi. Ma’nosi: «Suratni ko‘rib har kimning hikoyasiga qiziqdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «방문자가 질문하게끔 빈 종이를 두었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmon savol yozishi uchun bo‘sh qog‘oz qo‘ydim.",
+        "Suratni ko‘rib har kimning hikoyasiga qiziqdim.",
+        "Odamlar fikrini qayd qilaman.",
+        "Bolalar ham ko‘rishi uchun rasm balandligini o‘zgartiraylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «방문자가 질문하게끔 빈 종이를 두었어요.» deydi. Ma’nosi: «Mehmon savol yozishi uchun bo‘sh qog‘oz qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아이들도 보게끔 그림 높이를 바꿔요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmon savol yozishi uchun bo‘sh qog‘oz qo‘ydim.",
+        "Suratni ko‘rib har kimning hikoyasiga qiziqdim.",
+        "Bolalar ham ko‘rishi uchun rasm balandligini o‘zgartiraylik.",
+        "Odamlar fikrini qayd qilaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «아이들도 보게끔 그림 높이를 바꿔요.» deydi. Ma’nosi: «Bolalar ham ko‘rishi uchun rasm balandligini o‘zgartiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람들의 반응을 기록할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmon savol yozishi uchun bo‘sh qog‘oz qo‘ydim.",
+        "Bolalar ham ko‘rishi uchun rasm balandligini o‘zgartiraylik.",
+        "Odamlar fikrini qayd qilaman.",
+        "Suratni ko‘rib har kimning hikoyasiga qiziqdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «사람들의 반응을 기록할게요.» deydi. Ma’nosi: «Odamlar fikrini qayd qilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «방문자가 질문하게끔 빈 종이를 두었어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Mehmon savol yozishi uchun bo‘sh qog‘oz qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «사람들의 반응을 기록할게요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Odamlar fikrini qayd qilaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

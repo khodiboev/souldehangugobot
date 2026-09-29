@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«키» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jingalak soch",
+        "tashqi ko‘rinish",
+        "yuz shakli",
+        "bo‘y"
+      ],
+      "correctIndex": 3,
+      "explanation": "«키» — «bo‘y». Bu so‘z darsdagi «Tashqi ko‘rinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«jingalak soch» koreyschada qaysi so‘z?",
+      "options": [
+        "단발머리",
+        "곱슬머리",
+        "체격",
+        "얼굴형"
+      ],
+      "correctIndex": 1,
+      "explanation": "«곱슬머리» — «jingalak soch». Bu so‘z darsdagi «Tashqi ko‘rinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«조용하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sinchkov bo‘lmoq",
+        "faol bo‘lmoq",
+        "mehribon bo‘lmoq",
+        "sokin bo‘lmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«조용하다» — «sokin bo‘lmoq». Bu so‘z darsdagi «Xarakter» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«rostgo‘y bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "꼼꼼하다",
+        "표정",
+        "솔직하다",
+        "부지런하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«솔직하다» — «rostgo‘y bo‘lmoq». Bu so‘z darsdagi «Xarakter» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«성격» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xarakter",
+        "faol bo‘lmoq",
+        "rostgo‘y bo‘lmoq",
+        "yuz ifodasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«성격» — «xarakter». Bu so‘z darsdagi «Xarakter» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-아/어 보이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ko‘proq shu tomonga moyil",
+        "Ko‘rinmoq",
+        "... kabi",
+        "Sifatni ravishga aylantirish"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-아/어 보이다» — Ko‘rinmoq. 보이다 — ko‘zga tushgan taassurot oynasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 편이다 · V-는 편이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... kabi",
+        "Ko‘proq shu tomonga moyil",
+        "Sifatni ravishga aylantirish",
+        "Ko‘rinmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ 편이다 · V-는 편이다» — Ko‘proq shu tomonga moyil. 편 — tarozining biroz og‘irroq tomoni.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-게» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ko‘proq shu tomonga moyil",
+        "Sifatni ravishga aylantirish",
+        "Ko‘rinmoq",
+        "... kabi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-게» — Sifatni ravishga aylantirish. 게 — sifatni fe’lga xizmat qiladigan ravishga aylantiradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«오늘 피곤해 보여요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Sochi kalta bo‘lgani uchun yosh ko‘rinadi.",
+        "Sochimni kalta qilib kesing.",
+        "Bola kabi kuladi.",
+        "Bugun charchagan ko‘rinasiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "«오늘 피곤해 보여요.» — «Bugun charchagan ko‘rinasiz.». Bu yerda «A-아/어 보이다» qolipi ishlatilgan: Ko‘rinmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Model kabi bo‘yi baland.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "모델처럼 키가 커요.",
+        "글씨를 크게 써 주세요.",
+        "아이같이 웃어요.",
+        "아지즈는 키가 큰 편이에요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«모델처럼 키가 커요.» — «Model kabi bo‘yi baland.». Bu yerda «N처럼 · N같이» qolipi ishlatilgan: ... kabi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«저는 좀 조용한 편이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Aziz bo‘yi balandlardan.",
+        "Mehribonlik bilan tushuntiradi.",
+        "Men nisbatan sokinman.",
+        "Yorqin kiyim kiyib, faol ko‘rinadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«저는 좀 조용한 편이에요.» — «Men nisbatan sokinman.». Bu yerda «A-(으)ㄴ 편이다 · V-는 편이다» qolipi ishlatilgan: Ko‘proq shu tomonga moyil.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «머리가 짧아서 더 활발해 보여요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kulsangiz aktyordek ko‘rinasiz.",
+        "Men aslida nisbatan sokinman.",
+        "Rahmat. Sochimni kalta qildirganim yaxshi bo‘ldi.",
+        "Sochingiz kalta bo‘lib, yanada faol ko‘rinasiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «머리가 짧아서 더 활발해 보여요.» deydi. Ma’nosi: «Sochingiz kalta bo‘lib, yanada faol ko‘rinasiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «웃으면 배우처럼 보여요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men aslida nisbatan sokinman.",
+        "Sochingiz kalta bo‘lib, yanada faol ko‘rinasiz.",
+        "Rahmat. Sochimni kalta qildirganim yaxshi bo‘ldi.",
+        "Kulsangiz aktyordek ko‘rinasiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «웃으면 배우처럼 보여요.» deydi. Ma’nosi: «Kulsangiz aktyordek ko‘rinasiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «고마워요. 머리를 짧게 자르기 잘했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Rahmat. Sochimni kalta qildirganim yaxshi bo‘ldi.",
+        "Men aslida nisbatan sokinman.",
+        "Kulsangiz aktyordek ko‘rinasiz.",
+        "Sochingiz kalta bo‘lib, yanada faol ko‘rinasiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «고마워요. 머리를 짧게 자르기 잘했어요.» deydi. Ma’nosi: «Rahmat. Sochimni kalta qildirganim yaxshi bo‘ldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «고마워요. 머리를 짧게 자르기 잘했어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Soyon",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Rahmat. Sochimni kalta qildirganim yaxshi bo‘ldi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

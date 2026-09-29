@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«얼굴형» so‘zining ma’nosi qaysi?",
+      "options": [
+        "soqol",
+        "yuz shakli",
+        "jingalak soch",
+        "tekis soch"
+      ],
+      "correctIndex": 1,
+      "explanation": "«얼굴형» — «yuz shakli». Bu so‘z darsdagi «Tashqi qiyofa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«jingalak soch» koreyschada qaysi so‘z?",
+      "options": [
+        "외모",
+        "곱슬머리",
+        "얼굴형",
+        "수염"
+      ],
+      "correctIndex": 1,
+      "explanation": "«곱슬머리» — «jingalak soch». Bu so‘z darsdagi «Tashqi qiyofa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«인상» so‘zining ma’nosi qaysi?",
+      "options": [
+        "taassurot",
+        "soqol",
+        "yuz shakli",
+        "tashqi qiyofa"
+      ],
+      "correctIndex": 0,
+      "explanation": "«인상» — «taassurot». Bu so‘z darsdagi «Tashqi qiyofa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«saranjom bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "단정하다",
+        "옷차림",
+        "길다",
+        "갸름하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«단정하다» — «saranjom bo‘lmoq». Bu so‘z darsdagi «Kiyim va tavsif» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«길다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ingichka, cho‘zinchoq yuzli bo‘lmoq",
+        "uzun bo‘lmoq",
+        "kiyinish uslubi",
+        "o‘xshamoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«길다» — «uzun bo‘lmoq». Bu so‘z darsdagi «Kiyim va tavsif» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«o‘xshamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "옷차림",
+        "길다",
+        "갸름하다",
+        "닮다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«닮다» — «o‘xshamoq». Bu so‘z darsdagi «Kiyim va tavsif» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 N에 A-(으)ㄴ/V-는 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kim bo‘lishidan qat’i nazar hamma",
+        "Nomigagina qilmoq",
+        "Bunchalik bo‘lmasa ham shunday deb o‘ylagandim",
+        "Belgilarni qatma-qat tasvirlash"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-(으)ㄴ/V-는 N에 A-(으)ㄴ/V-는 N» — Belgilarni qatma-qat tasvirlash. Portretga ketma-ket chizilgan ikki detal.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bunchalik bo‘lmasa ham shunday deb o‘ylagandim",
+        "Nomigagina qilmoq",
+        "...moq maqsadida",
+        "Belgilarni qatma-qat tasvirlash"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다» — Bunchalik bo‘lmasa ham shunday deb o‘ylagandim. Kutish zinapoyasidagi ikki pog‘ona va kutilmagan natija.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-는 둥 마는 둥» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunday deyishlarini eshitmoq",
+        "Bunchalik bo‘lmasa ham shunday deb o‘ylagandim",
+        "Belgilarni qatma-qat tasvirlash",
+        "Nomigagina qilmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-는 둥 마는 둥» — Nomigagina qilmoq. Bajarilgan ish yonidagi yarim to‘ldirilgan katak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«그는 둥근 얼굴에 짧은 머리예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Nonushtani yarim-yorti qilib chiqdi.",
+        "Suratga yaxshilab qaramay odamni qidirdi.",
+        "Model bo‘lmasam ham aktyor bo‘laman deb o‘ylagandim.",
+        "Uning yuzi dumaloq, sochi kalta."
+      ],
+      "correctIndex": 3,
+      "explanation": "«그는 둥근 얼굴에 짧은 머리예요.» — «Uning yuzi dumaloq, sochi kalta.». Bu yerda «A-(으)ㄴ/V-는 N에 A-(으)ㄴ/V-는 N» qolipi ishlatilgan: Belgilarni qatma-qat tasvirlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Model bo‘lmasam ham aktyor bo‘laman deb o‘ylagandim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "아침을 먹는 둥 마는 둥 하고 나갔어요.",
+        "모델까지는 못 돼도 배우는 될 줄 알았어요.",
+        "민지는 단정한 옷차림에 밝은 표정이에요.",
+        "최고상까지는 못 받아도 특별상은 받을 줄 알았어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«모델까지는 못 돼도 배우는 될 줄 알았어요.» — «Model bo‘lmasam ham aktyor bo‘laman deb o‘ylagandim.». Bu yerda «N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다» qolipi ishlatilgan: Bunchalik bo‘lmasa ham shunday deb o‘ylagandim.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«설명을 듣는 둥 마는 둥 했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Mutaxassis bo‘lmasam ham yordamchi bo‘laman deb o‘ylagandim.",
+        "Nonushtani yarim-yorti qilib chiqdi.",
+        "Uning yuzi dumaloq, sochi kalta.",
+        "Izohni nomigagina tingladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«설명을 듣는 둥 마는 둥 했어요.» — «Izohni nomigagina tingladi.». Bu yerda «V-는 둥 마는 둥» qolipi ishlatilgan: Nomigagina qilmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Minjining kiyimi saranjom, chehrasi ochiq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "민지는 단정한 옷차림에 밝은 표정이에요.",
+        "전문가까지는 못 돼도 조수는 될 줄 알았어요.",
+        "모델까지는 못 돼도 배우는 될 줄 알았어요.",
+        "설명을 듣는 둥 마는 둥 했어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«민지는 단정한 옷차림에 밝은 표정이에요.» — «Minjining kiyimi saranjom, chehrasi ochiq.». Bu yerda «A-(으)ㄴ/V-는 N에 A-(으)ㄴ/V-는 N» qolipi ishlatilgan: Belgilarni qatma-qat tasvirlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«전문가까지는 못 돼도 조수는 될 줄 알았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bosh sovrin bo‘lmasa ham maxsus mukofot olaman deb o‘ylagandim.",
+        "Mutaxassis bo‘lmasam ham yordamchi bo‘laman deb o‘ylagandim.",
+        "Izohni nomigagina tingladi.",
+        "Model bo‘lmasam ham aktyor bo‘laman deb o‘ylagandim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«전문가까지는 못 돼도 조수는 될 줄 알았어요.» — «Mutaxassis bo‘lmasam ham yordamchi bo‘laman deb o‘ylagandim.». Bu yerda «N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다» qolipi ishlatilgan: Bunchalik bo‘lmasa ham shunday deb o‘ylagandim.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리 손님은 둥근 얼굴에 짧은 머리예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmonimizning yuzi dumaloq, sochi kalta.",
+        "Suratga yuzaki qaramay, ismini ham tekshiring.",
+        "Aktyor bo‘lmasam ham boshlovchi bo‘laman deb o‘ylagandim.",
+        "Bugun shu orzuni sinab ko‘raylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «우리 손님은 둥근 얼굴에 짧은 머리예요.» deydi. Ma’nosi: «Mehmonimizning yuzi dumaloq, sochi kalta.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진만 보는 둥 마는 둥 하지 말고 이름도 확인해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmonimizning yuzi dumaloq, sochi kalta.",
+        "Aktyor bo‘lmasam ham boshlovchi bo‘laman deb o‘ylagandim.",
+        "Bugun shu orzuni sinab ko‘raylik.",
+        "Suratga yuzaki qaramay, ismini ham tekshiring."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «사진만 보는 둥 마는 둥 하지 말고 이름도 확인해요.» deydi. Ma’nosi: «Suratga yuzaki qaramay, ismini ham tekshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «배우까지는 못 돼도 진행자는 될 줄 알았어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmonimizning yuzi dumaloq, sochi kalta.",
+        "Bugun shu orzuni sinab ko‘raylik.",
+        "Aktyor bo‘lmasam ham boshlovchi bo‘laman deb o‘ylagandim.",
+        "Suratga yuzaki qaramay, ismini ham tekshiring."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «배우까지는 못 돼도 진행자는 될 줄 알았어요.» deydi. Ma’nosi: «Aktyor bo‘lmasam ham boshlovchi bo‘laman deb o‘ylagandim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오늘은 그 꿈을 한번 실현해 봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Aktyor bo‘lmasam ham boshlovchi bo‘laman deb o‘ylagandim.",
+        "Mehmonimizning yuzi dumaloq, sochi kalta.",
+        "Bugun shu orzuni sinab ko‘raylik.",
+        "Suratga yuzaki qaramay, ismini ham tekshiring."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «오늘은 그 꿈을 한번 실현해 봐요.» deydi. Ma’nosi: «Bugun shu orzuni sinab ko‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «사진만 보는 둥 마는 둥 하지 말고 이름도 확인해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Suratga yuzaki qaramay, ismini ham tekshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «오늘은 그 꿈을 한번 실현해 봐요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Bugun shu orzuni sinab ko‘raylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

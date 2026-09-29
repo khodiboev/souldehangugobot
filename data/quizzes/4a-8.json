@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«특징» so‘zining ma’nosi qaysi?",
+      "options": [
+        "an’ana",
+        "xususiyat",
+        "o‘zlik",
+        "madaniyat"
+      ],
+      "correctIndex": 1,
+      "explanation": "«특징» — «xususiyat». Bu so‘z darsdagi «Madaniyat va xususiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«sheva» koreyschada qaysi so‘z?",
+      "options": [
+        "정체성",
+        "전통",
+        "방언",
+        "문화"
+      ],
+      "correctIndex": 2,
+      "explanation": "«방언» — «sheva». Bu so‘z darsdagi «Madaniyat va xususiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«정체성» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘zlik",
+        "madaniyat",
+        "xususiyat",
+        "an’ana"
+      ],
+      "correctIndex": 0,
+      "explanation": "«정체성» — «o‘zlik». Bu so‘z darsdagi «Madaniyat va xususiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«savdolashmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "시장",
+        "도구",
+        "놀이",
+        "흥정하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«흥정하다» — «savdolashmoq». Bu so‘z darsdagi «Bozor va o‘yin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«규칙» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qoida",
+        "savdolashmoq",
+        "narx yorlig‘i",
+        "asbob"
+      ],
+      "correctIndex": 0,
+      "explanation": "«규칙» — «qoida». Bu so‘z darsdagi «Bozor va o‘yin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«o‘yin» koreyschada qaysi so‘z?",
+      "options": [
+        "놀이",
+        "도구",
+        "흥정하다",
+        "규칙"
+      ],
+      "correctIndex": 0,
+      "explanation": "«놀이» — «o‘yin». Bu so‘z darsdagi «Bozor va o‘yin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-아다(가)/어다(가)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Va, shu bilan birga",
+        "Ndan boshlab, jumladan",
+        "Olib kelib",
+        "...degan N"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-아다(가)/어다(가)» — Olib kelib. Bir sahnadan rekvizitni olib, keyingi sahnaga ko‘chirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-다는 N · V-ㄴ/는다는 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...degan N",
+        "Va, shu bilan birga",
+        "Olib kelib",
+        "Ndan boshlab, jumladan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-다는 N · V-ㄴ/는다는 N» — ...degan N. Butun gapni bitta otning ichiga joylash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N을/를 비롯해서[비롯한]» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan boshlab, jumladan",
+        "...degan N",
+        "Olib kelib",
+        "Va, shu bilan birga"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N을/를 비롯해서[비롯한]» — Ndan boshlab, jumladan. Katta guruh eshigini bitta mashhur vakil ochadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)며» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Olib kelib",
+        "Va, shu bilan birga",
+        "...degan N",
+        "Ndan boshlab, jumladan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)며» — Va, shu bilan birga. Ikki parallel ma’lumotni bir tekis ko‘prik bilan ulash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«시장에서 재료를 사다가 음식을 만들었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bozordan masalliq olib kelib taom qildik.",
+        "Bu madaniyat o‘ziga xos va asrashga arziydi.",
+        "Bu bozorning tarixi chuqur, mollari ham xilma-xil.",
+        "Koreya jumladan ko‘p mamlakatda bu o‘yin o‘ynaladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«시장에서 재료를 사다가 음식을 만들었어요.» — «Bozordan masalliq olib kelib taom qildik.». Bu yerda «V-아다(가)/어다(가)» qolipi ishlatilgan: Olib kelib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bozor tunda ham ochiladi degan xabarni eshitdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "밤에도 시장이 열린다는 소식을 들었어요.",
+        "고향에서 사진을 가져다가 발표에 썼어요.",
+        "이 시장은 역사가 깊으며 물건도 다양해요.",
+        "나무를 잘라다가 놀이 도구를 만들었어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«밤에도 시장이 열린다는 소식을 들었어요.» — «Bozor tunda ham ochiladi degan xabarni eshitdim.». Bu yerda «A-다는 N · V-ㄴ/는다는 N» qolipi ishlatilgan: ...degan N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«제주도를 비롯해서 섬마다 독특한 문화가 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Narx arzon degan gapgagina ishonmang.",
+        "Bu bozorning tarixi chuqur, mollari ham xilma-xil.",
+        "Jejudan boshlab har bir orolning o‘ziga xos madaniyati bor.",
+        "Sheva hudud tarixini ko‘rsatadi va o‘zligini ham ifodalaydi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«제주도를 비롯해서 섬마다 독특한 문화가 있어요.» — «Jejudan boshlab har bir orolning o‘ziga xos madaniyati bor.». Bu yerda «N을/를 비롯해서[비롯한]» qolipi ishlatilgan: Ndan boshlab, jumladan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bu bozorning tarixi chuqur, mollari ham xilma-xil.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 시장은 역사가 깊으며 물건도 다양해요.",
+        "고향에서 사진을 가져다가 발표에 썼어요.",
+        "그 문화는 독특하며 보존할 가치가 있어요.",
+        "나무를 잘라다가 놀이 도구를 만들었어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이 시장은 역사가 깊으며 물건도 다양해요.» — «Bu bozorning tarixi chuqur, mollari ham xilma-xil.». Bu yerda «A/V-(으)며» qolipi ishlatilgan: Va, shu bilan birga.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우즈베키스탄에서 천을 가져다가 전시했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘zbekistondan mato olib kelib ko‘rgazmaga qo‘ydim.",
+        "Bu ko‘rgazma qiziq va o‘rganadigan narsasi ko‘p.",
+        "Koreya jumladan turli mamlakat o‘yinlarini ham tanishtiraylik.",
+        "Har naqshning ma’nosi bor degan izohni ham qo‘ydim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «우즈베키스탄에서 천을 가져다가 전시했어요.» deydi. Ma’nosi: «O‘zbekistondan mato olib kelib ko‘rgazmaga qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «무늬마다 뜻이 있다는 설명도 붙였어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘zbekistondan mato olib kelib ko‘rgazmaga qo‘ydim.",
+        "Har naqshning ma’nosi bor degan izohni ham qo‘ydim.",
+        "Koreya jumladan turli mamlakat o‘yinlarini ham tanishtiraylik.",
+        "Bu ko‘rgazma qiziq va o‘rganadigan narsasi ko‘p."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «무늬마다 뜻이 있다는 설명도 붙였어요.» deydi. Ma’nosi: «Har naqshning ma’nosi bor degan izohni ham qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한국을 비롯한 여러 나라의 놀이도 소개해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Koreya jumladan turli mamlakat o‘yinlarini ham tanishtiraylik.",
+        "Bu ko‘rgazma qiziq va o‘rganadigan narsasi ko‘p.",
+        "O‘zbekistondan mato olib kelib ko‘rgazmaga qo‘ydim.",
+        "Har naqshning ma’nosi bor degan izohni ham qo‘ydim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «한국을 비롯한 여러 나라의 놀이도 소개해요.» deydi. Ma’nosi: «Koreya jumladan turli mamlakat o‘yinlarini ham tanishtiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 전시는 재미있으며 배울 것도 많아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Koreya jumladan turli mamlakat o‘yinlarini ham tanishtiraylik.",
+        "Har naqshning ma’nosi bor degan izohni ham qo‘ydim.",
+        "Bu ko‘rgazma qiziq va o‘rganadigan narsasi ko‘p.",
+        "O‘zbekistondan mato olib kelib ko‘rgazmaga qo‘ydim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «이 전시는 재미있으며 배울 것도 많아요.» deydi. Ma’nosi: «Bu ko‘rgazma qiziq va o‘rganadigan narsasi ko‘p.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «무늬마다 뜻이 있다는 설명도 붙였어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Har naqshning ma’nosi bor degan izohni ham qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «이 전시는 재미있으며 배울 것도 많아요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Bu ko‘rgazma qiziq va o‘rganadigan narsasi ko‘p.».",
+      "reviewSection": "s"
+    }
+  ]
+}

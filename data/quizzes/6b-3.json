@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기억» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘rganish",
+        "usul, strategiya",
+        "takror",
+        "xotira"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기억» — «xotira». Bu so‘z darsdagi «O‘rganish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«rag‘bat» koreyschada qaysi so‘z?",
+      "options": [
+        "전략",
+        "학습",
+        "집중",
+        "동기"
+      ],
+      "correctIndex": 3,
+      "explanation": "«동기» — «rag‘bat». Bu so‘z darsdagi «O‘rganish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«전략» so‘zining ma’nosi qaysi?",
+      "options": [
+        "takror",
+        "xotira",
+        "diqqat",
+        "usul, strategiya"
+      ],
+      "correctIndex": 3,
+      "explanation": "«전략» — «usul, strategiya». Bu so‘z darsdagi «O‘rganish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tajriba» koreyschada qaysi so‘z?",
+      "options": [
+        "결과",
+        "기록하다",
+        "실험",
+        "심리"
+      ],
+      "correctIndex": 2,
+      "explanation": "«실험» — «tajriba». Bu so‘z darsdagi «Kuzatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«설명» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qayd qilmoq",
+        "qiyoslamoq",
+        "izoh",
+        "ruhiy jarayon"
+      ],
+      "correctIndex": 2,
+      "explanation": "«설명» — «izoh». Bu so‘z darsdagi «Kuzatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qayd qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "심리",
+        "실험",
+        "기록하다",
+        "비교하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기록하다» — «qayd qilmoq». Bu so‘z darsdagi «Kuzatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)르라치면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N bo‘lgani uchun",
+        "... deyishga hali erta",
+        "...moqchi bo‘lsam",
+        "...gandan ko‘ra yomon"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)르라치면» — ...moqchi bo‘lsam. Dars boshlanishi bilan jiringlagan telefon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다고 할 것까지는[할 것까지야] 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...moqchi bo‘lsam",
+        "... bo‘lsa ham axir",
+        "... deyishga hali erta",
+        "...gandan so‘ng nihoyat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-다고 할 것까지는[할 것까지야] 없다» — ... deyishga hali erta. Xulosaga shoshilmaslik tugmasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«공부하라치면 전화가 울려요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dam olmoqchi bo‘lsam boshqa ish chiqadi.",
+        "Usul boshqacha ekan deb xato deyish shart emas.",
+        "O‘qimoqchi bo‘lsam telefon jiringlaydi.",
+        "Diqqat bir zum chalg‘igani uchun muvaffaqiyatsiz deyishga erta."
+      ],
+      "correctIndex": 2,
+      "explanation": "«공부하라치면 전화가 울려요.» — «O‘qimoqchi bo‘lsam telefon jiringlaydi.». Bu yerda «V-(으)르라치면» qolipi ishlatilgan: ...moqchi bo‘lsam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Bir marta unutgani uchun xotirasi yomon deyish ortiqcha.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "공부하라치면 전화가 울려요.",
+        "기록을 읽으라치면 모르는 말이 나와요.",
+        "방법이 다르다고 틀렸다고 할 것까지야 없어요.",
+        "한 번 잊었다고 기억력이 나쁘다고 할 것까지는 없어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«한 번 잊었다고 기억력이 나쁘다고 할 것까지는 없어요.» — «Bir marta unutgani uchun xotirasi yomon deyish ortiqcha.». Bu yerda «A/V-다고 할 것까지는[할 것까지야] 없다» qolipi ishlatilgan: ... deyishga hali erta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«기록을 읽으라치면 모르는 말이 나와요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qaydni o‘qimoqchi bo‘lsam notanish so‘z chiqadi.",
+        "Dam olmoqchi bo‘lsam boshqa ish chiqadi.",
+        "Usul boshqacha ekan deb xato deyish shart emas.",
+        "O‘qimoqchi bo‘lsam telefon jiringlaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«기록을 읽으라치면 모르는 말이 나와요.» — «Qaydni o‘qimoqchi bo‘lsam notanish so‘z chiqadi.». Bu yerda «V-(으)르라치면» qolipi ishlatilgan: ...moqchi bo‘lsam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Diqqat bir zum chalg‘igani uchun muvaffaqiyatsiz deyishga erta.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "집중이 잠시 흐트러졌다고 실패했다고 할 것까지는 없어요.",
+        "쉬라치면 다른 일이 생겨요.",
+        "기록을 읽으라치면 모르는 말이 나와요.",
+        "방법이 다르다고 틀렸다고 할 것까지야 없어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«집중이 잠시 흐트러졌다고 실패했다고 할 것까지는 없어요.» — «Diqqat bir zum chalg‘igani uchun muvaffaqiyatsiz deyishga erta.». Bu yerda «A/V-다고 할 것까지는[할 것까지야] 없다» qolipi ishlatilgan: ... deyishga hali erta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«쉬라치면 다른 일이 생겨요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dam olmoqchi bo‘lsam boshqa ish chiqadi.",
+        "Usul boshqacha ekan deb xato deyish shart emas.",
+        "Bir marta unutgani uchun xotirasi yomon deyish ortiqcha.",
+        "O‘qimoqchi bo‘lsam telefon jiringlaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«쉬라치면 다른 일이 생겨요.» — «Dam olmoqchi bo‘lsam boshqa ish chiqadi.». Bu yerda «V-(으)르라치면» qolipi ishlatilgan: ...moqchi bo‘lsam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Usul boshqacha ekan deb xato deyish shart emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "쉬라치면 다른 일이 생겨요.",
+        "기록을 읽으라치면 모르는 말이 나와요.",
+        "집중이 잠시 흐트러졌다고 실패했다고 할 것까지는 없어요.",
+        "방법이 다르다고 틀렸다고 할 것까지야 없어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«방법이 다르다고 틀렸다고 할 것까지야 없어요.» — «Usul boshqacha ekan deb xato deyish shart emas.». Bu yerda «A/V-다고 할 것까지는[할 것까지야] 없다» qolipi ishlatilgan: ... deyishga hali erta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «읽으라치면 낯선 단어가 또 나와요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odamga qarab mos usul farq qiladimi, ko‘raylik.",
+        "Bir marta to‘xtagani uchun eplolmaydi deyish ortiqcha.",
+        "O‘qimoqchi bo‘lsam yana notanish so‘z chiqadi.",
+        "Qaysi usulni ishlatganimizni yozaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «읽으라치면 낯선 단어가 또 나와요.» deydi. Ma’nosi: «O‘qimoqchi bo‘lsam yana notanish so‘z chiqadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 번 막혔다고 못한다고 할 것까지는 없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qaysi usulni ishlatganimizni yozaylik.",
+        "O‘qimoqchi bo‘lsam yana notanish so‘z chiqadi.",
+        "Odamga qarab mos usul farq qiladimi, ko‘raylik.",
+        "Bir marta to‘xtagani uchun eplolmaydi deyish ortiqcha."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «한 번 막혔다고 못한다고 할 것까지는 없어요.» deydi. Ma’nosi: «Bir marta to‘xtagani uchun eplolmaydi deyish ortiqcha.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어떤 전략을 썼는지 기록해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odamga qarab mos usul farq qiladimi, ko‘raylik.",
+        "O‘qimoqchi bo‘lsam yana notanish so‘z chiqadi.",
+        "Qaysi usulni ishlatganimizni yozaylik.",
+        "Bir marta to‘xtagani uchun eplolmaydi deyish ortiqcha."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «어떤 전략을 썼는지 기록해요.» deydi. Ma’nosi: «Qaysi usulni ishlatganimizni yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람마다 맞는 방법이 다른지도 봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odamga qarab mos usul farq qiladimi, ko‘raylik.",
+        "Qaysi usulni ishlatganimizni yozaylik.",
+        "Bir marta to‘xtagani uchun eplolmaydi deyish ortiqcha.",
+        "O‘qimoqchi bo‘lsam yana notanish so‘z chiqadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «사람마다 맞는 방법이 다른지도 봐요.» deydi. Ma’nosi: «Odamga qarab mos usul farq qiladimi, ko‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «한 번 막혔다고 못한다고 할 것까지는 없어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bir marta to‘xtagani uchun eplolmaydi deyish ortiqcha.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «사람마다 맞는 방법이 다른지도 봐요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Odamga qarab mos usul farq qiladimi, ko‘raylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

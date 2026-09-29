@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«드라마» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ommaviy madaniyat",
+        "ko‘ngilochar dastur",
+        "serial",
+        "mashhur san’atkor"
+      ],
+      "correctIndex": 2,
+      "explanation": "«드라마» — «serial». Bu so‘z darsdagi «Ommaviy madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«mashhur san’atkor» koreyschada qaysi so‘z?",
+      "options": [
+        "연예인",
+        "대중문화",
+        "팬",
+        "예능"
+      ],
+      "correctIndex": 0,
+      "explanation": "«연예인» — «mashhur san’atkor». Bu so‘z darsdagi «Ommaviy madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«팬» so‘zining ma’nosi qaysi?",
+      "options": [
+        "Koreys to‘lqini",
+        "muxlis",
+        "mashhur san’atkor",
+        "ko‘ngilochar dastur"
+      ],
+      "correctIndex": 1,
+      "explanation": "«팬» — «muxlis». Bu so‘z darsdagi «Ommaviy madaniyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«syujet» koreyschada qaysi so‘z?",
+      "options": [
+        "줄거리",
+        "감동적이다",
+        "등장인물",
+        "흥미진진하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«줄거리» — «syujet». Bu so‘z darsdagi «Asar va kayfiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«감동적이다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qahramon",
+        "ta’sirli bo‘lmoq",
+        "syujet",
+        "kayfiyat"
+      ],
+      "correctIndex": 1,
+      "explanation": "«감동적이다» — «ta’sirli bo‘lmoq». Bu so‘z darsdagi «Asar va kayfiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«kayfiyat» koreyschada qaysi so‘z?",
+      "options": [
+        "기분",
+        "작품",
+        "감동적이다",
+        "등장인물"
+      ],
+      "correctIndex": 0,
+      "explanation": "«기분» — «kayfiyat». Bu so‘z darsdagi «Asar va kayfiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-거든» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Agar o‘shanda ... bo‘lganida",
+        "...dek tuyuladi",
+        "...gani sababli",
+        "Axir / aslida"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-거든» — Axir / aslida. Suhbat ortidagi yashirin sabab pardasini ochish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-았더라면/었더라면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gani sababli",
+        "Agar o‘shanda ... bo‘lganida",
+        "Axir / aslida",
+        "...dek tuyuladi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-았더라면/었더라면» — Agar o‘shanda ... bo‘lganida. O‘tmish yo‘lida xayoliy burilish chizish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)므로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Axir / aslida",
+        "...dek tuyuladi",
+        "Agar o‘shanda ... bo‘lganida",
+        "...gani sababli"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)므로» — ...gani sababli. Hujjatdagi sabab va xulosani bog‘laydigan rasmiy strelka.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 듯하다 · V-는 듯하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...dek tuyuladi",
+        "Agar o‘shanda ... bo‘lganida",
+        "Axir / aslida",
+        "...gani sababli"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ 듯하다 · V-는 듯하다» — ...dek tuyuladi. Tumandagi manzarani aniq hukmsiz tasvirlash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«이 드라마가 정말 재미있거든. 한번 봐 봐.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "U aktyorni yoqtiraman. Chunki yaxshi rol ijro etadi.",
+        "Chiptani oldin olganimda tomoshaga bora olardim.",
+        "Bugun ko‘rolmayman. Chunki imtihonim bor.",
+        "Bu serial juda qiziq-da. Bir ko‘rib ko‘r."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이 드라마가 정말 재미있거든. 한번 봐 봐.» — «Bu serial juda qiziq-da. Bir ko‘rib ko‘r.». Bu yerda «A/V-거든» qolipi ishlatilgan: Axir / aslida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«U asarni oldin bilganimda albatta ko‘rardim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "오늘은 못 봐요. 시험이 있거든요.",
+        "이 노래는 오래전부터 유명한 듯해요.",
+        "저 배우를 좋아해요. 연기를 잘하거든요.",
+        "그 작품을 일찍 알았더라면 꼭 봤을 거예요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«그 작품을 일찍 알았더라면 꼭 봤을 거예요.» — «U asarni oldin bilganimda albatta ko‘rardim.». Bu yerda «A/V-았더라면/었더라면» qolipi ishlatilgan: Agar o‘shanda ... bo‘lganida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«이 프로그램은 모든 연령이 볼 수 있으므로 가족에게 추천합니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu dasturni barcha yosh ko‘ra olgani sabab oilaga tavsiya qilaman.",
+        "Bugun ko‘rolmayman. Chunki imtihonim bor.",
+        "U asarni oldin bilganimda albatta ko‘rardim.",
+        "Intervyu hozir boshlanishi sabab joyingizga o‘tiring."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이 프로그램은 모든 연령이 볼 수 있으므로 가족에게 추천합니다.» — «Bu dasturni barcha yosh ko‘ra olgani sabab oilaga tavsiya qilaman.». Bu yerda «A/V-(으)므로» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bosh qahramon nimanidir yashirayotgandek.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 프로그램은 모든 연령이 볼 수 있으므로 가족에게 추천합니다.",
+        "이 노래는 오래전부터 유명한 듯해요.",
+        "주인공이 무언가를 숨기는 듯해요.",
+        "내용이 감동적이므로 오래 기억될 것입니다."
+      ],
+      "correctIndex": 2,
+      "explanation": "«주인공이 무언가를 숨기는 듯해요.» — «Bosh qahramon nimanidir yashirayotgandek.». Bu yerda «A-(으)ㄴ 듯하다 · V-는 듯하다» qolipi ishlatilgan: ...dek tuyuladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «미리 연습하지 않았더라면 많이 떨었을 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Oldindan mashq qilmaganimda juda hayajonlanardim.",
+        "Aziz hayajonlangandek, ammo yaxshi javob berdi.",
+        "Hamma astoydil tayyorlandi-da. Yaxshi natija bo‘ladi.",
+        "Hikoyamiz samimiy bo‘lgani sabab tomoshabin ham his qiladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «미리 연습하지 않았더라면 많이 떨었을 거예요.» deydi. Ma’nosi: «Oldindan mashq qilmaganimda juda hayajonlanardim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «Aziz가 긴장한 듯하지만 대답을 잘했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Oldindan mashq qilmaganimda juda hayajonlanardim.",
+        "Aziz hayajonlangandek, ammo yaxshi javob berdi.",
+        "Hamma astoydil tayyorlandi-da. Yaxshi natija bo‘ladi.",
+        "Hikoyamiz samimiy bo‘lgani sabab tomoshabin ham his qiladi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «Aziz가 긴장한 듯하지만 대답을 잘했어요.» deydi. Ma’nosi: «Aziz hayajonlangandek, ammo yaxshi javob berdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리 이야기가 진솔하므로 시청자도 공감할 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Aziz hayajonlangandek, ammo yaxshi javob berdi.",
+        "Hamma astoydil tayyorlandi-da. Yaxshi natija bo‘ladi.",
+        "Hikoyamiz samimiy bo‘lgani sabab tomoshabin ham his qiladi.",
+        "Oldindan mashq qilmaganimda juda hayajonlanardim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «우리 이야기가 진솔하므로 시청자도 공감할 거예요.» deydi. Ma’nosi: «Hikoyamiz samimiy bo‘lgani sabab tomoshabin ham his qiladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «모두 열심히 준비했거든요. 좋은 결과가 있을 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Aziz hayajonlangandek, ammo yaxshi javob berdi.",
+        "Hamma astoydil tayyorlandi-da. Yaxshi natija bo‘ladi.",
+        "Hikoyamiz samimiy bo‘lgani sabab tomoshabin ham his qiladi.",
+        "Oldindan mashq qilmaganimda juda hayajonlanardim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «모두 열심히 준비했거든요. 좋은 결과가 있을 거예요.» deydi. Ma’nosi: «Hamma astoydil tayyorlandi-da. Yaxshi natija bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «Aziz가 긴장한 듯하지만 대답을 잘했어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Aziz hayajonlangandek, ammo yaxshi javob berdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «모두 열심히 준비했거든요. 좋은 결과가 있을 거예요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Hamma astoydil tayyorlandi-da. Yaxshi natija bo‘ladi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기대» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xavotir",
+        "sabab",
+        "hissiyot",
+        "kutish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기대» — «kutish». Bu so‘z darsdagi «Ruhiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«odat» koreyschada qaysi so‘z?",
+      "options": [
+        "감정",
+        "불안",
+        "판단",
+        "습관"
+      ],
+      "correctIndex": 3,
+      "explanation": "«습관» — «odat». Bu so‘z darsdagi «Ruhiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«원인» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sabab",
+        "hukm",
+        "kutish",
+        "odat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«원인» — «sabab». Bu so‘z darsdagi «Ruhiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kuzatuv» koreyschada qaysi so‘z?",
+      "options": [
+        "반응",
+        "예측하다",
+        "관찰",
+        "가설"
+      ],
+      "correctIndex": 2,
+      "explanation": "«관찰» — «kuzatuv». Bu so‘z darsdagi «Tadqiqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«증거» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dalil",
+        "faraz",
+        "kuzatuv",
+        "ko‘rib chiqmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«증거» — «dalil». Bu so‘z darsdagi «Tadqiqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ko‘rib chiqmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "반응",
+        "예측하다",
+        "검토하다",
+        "증거"
+      ],
+      "correctIndex": 2,
+      "explanation": "«검토하다» — «ko‘rib chiqmoq». Bu so‘z darsdagi «Tadqiqot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-다고 치다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan qat’i nazar",
+        "N bilan tenglashmoq",
+        "... bo‘lishi mumkin emas",
+        "... deb olaylik"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-다고 치다» — ... deb olaylik. Qog‘ozdagi “agar shunday bo‘lsa” degan katak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ 리(가) 만무하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... deb olaylik",
+        "... bo‘lishi mumkin emas",
+        "Nning o‘ziyoq",
+        "... paytda aynan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)ㄹ 리(가) 만무하다» — ... bo‘lishi mumkin emas. Ehtimol eshigi deyarli yopiq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«이 가설이 맞다고 치고 다음 질문을 해 봐요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hamma bir xil javob berdi deylik, sabab farq qilishi mumkin.",
+        "Tushuntirmasak hamma bilishi mumkin emas.",
+        "Bir kunlik kuzatuv bilan sababni topib bo‘lmaydi.",
+        "Bu faraz to‘g‘ri deb olib keyingi savolni beraylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이 가설이 맞다고 치고 다음 질문을 해 봐요.» — «Bu faraz to‘g‘ri deb olib keyingi savolni beraylik.». Bu yerda «A/V-다고 치다» qolipi ishlatilgan: ... deb olaylik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Tushuntirmasak hamma bilishi mumkin emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설명도 안 했는데 모두가 알 리 만무해요.",
+        "하루 관찰로 원인을 찾을 리 만무해요.",
+        "이 가설이 맞다고 치고 다음 질문을 해 봐요.",
+        "기록을 보지 않고 정확히 기억할 리 만무해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«설명도 안 했는데 모두가 알 리 만무해요.» — «Tushuntirmasak hamma bilishi mumkin emas.». Bu yerda «V-(으)ㄹ 리(가) 만무하다» qolipi ishlatilgan: ... bo‘lishi mumkin emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«모두가 같은 반응을 보인다고 쳐도 원인은 다를 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qaydga qaramay aniq eslab qolishi dargumon.",
+        "Hamma bir xil javob berdi deylik, sabab farq qilishi mumkin.",
+        "Bir kunlik kuzatuv bilan sababni topib bo‘lmaydi.",
+        "Tushuntirmasak hamma bilishi mumkin emas."
+      ],
+      "correctIndex": 1,
+      "explanation": "«모두가 같은 반응을 보인다고 쳐도 원인은 다를 수 있어요.» — «Hamma bir xil javob berdi deylik, sabab farq qilishi mumkin.». Bu yerda «A/V-다고 치다» qolipi ishlatilgan: ... deb olaylik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bir kunlik kuzatuv bilan sababni topib bo‘lmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 가설이 맞다고 치고 다음 질문을 해 봐요.",
+        "설명도 안 했는데 모두가 알 리 만무해요.",
+        "시간이 충분하다고 치면 무엇을 더 확인할까요?",
+        "하루 관찰로 원인을 찾을 리 만무해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«하루 관찰로 원인을 찾을 리 만무해요.» — «Bir kunlik kuzatuv bilan sababni topib bo‘lmaydi.». Bu yerda «V-(으)ㄹ 리(가) 만무하다» qolipi ishlatilgan: ... bo‘lishi mumkin emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«시간이 충분하다고 치면 무엇을 더 확인할까요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qaydga qaramay aniq eslab qolishi dargumon.",
+        "Bir kunlik kuzatuv bilan sababni topib bo‘lmaydi.",
+        "Vaqt yetarli deb olsak yana nimani tekshiramiz?",
+        "Tushuntirmasak hamma bilishi mumkin emas."
+      ],
+      "correctIndex": 2,
+      "explanation": "«시간이 충분하다고 치면 무엇을 더 확인할까요?» — «Vaqt yetarli deb olsak yana nimani tekshiramiz?». Bu yerda «A/V-다고 치다» qolipi ishlatilgan: ... deb olaylik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Qaydga qaramay aniq eslab qolishi dargumon.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기록을 보지 않고 정확히 기억할 리 만무해요.",
+        "하루 관찰로 원인을 찾을 리 만무해요.",
+        "시간이 충분하다고 치면 무엇을 더 확인할까요?",
+        "이 가설이 맞다고 치고 다음 질문을 해 봐요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«기록을 보지 않고 정확히 기억할 리 만무해요.» — «Qaydga qaramay aniq eslab qolishi dargumon.». Bu yerda «V-(으)ㄹ 리(가) 만무하다» qolipi ishlatilgan: ... bo‘lishi mumkin emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «처음 결과가 맞다고 치고 다음 단계를 생각해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Dastlabki natija to‘g‘ri deb olib keyingi bosqichni o‘ylaylik.",
+        "Bir urinishda javob topish qiyin.",
+        "Ishtirokchilarning javobini alohida yozdim.",
+        "Faraz bilan faktni boshqa rangda belgilaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «처음 결과가 맞다고 치고 다음 단계를 생각해요.» deydi. Ma’nosi: «Dastlabki natija to‘g‘ri deb olib keyingi bosqichni o‘ylaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 번에 답을 찾을 리 만무해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Dastlabki natija to‘g‘ri deb olib keyingi bosqichni o‘ylaylik.",
+        "Ishtirokchilarning javobini alohida yozdim.",
+        "Bir urinishda javob topish qiyin.",
+        "Faraz bilan faktni boshqa rangda belgilaylik."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «한 번에 답을 찾을 리 만무해요.» deydi. Ma’nosi: «Bir urinishda javob topish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «참가자의 반응을 따로 기록했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ishtirokchilarning javobini alohida yozdim.",
+        "Dastlabki natija to‘g‘ri deb olib keyingi bosqichni o‘ylaylik.",
+        "Bir urinishda javob topish qiyin.",
+        "Faraz bilan faktni boshqa rangda belgilaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «참가자의 반응을 따로 기록했어요.» deydi. Ma’nosi: «Ishtirokchilarning javobini alohida yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «가설과 사실을 다른 색으로 표시해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Dastlabki natija to‘g‘ri deb olib keyingi bosqichni o‘ylaylik.",
+        "Ishtirokchilarning javobini alohida yozdim.",
+        "Bir urinishda javob topish qiyin.",
+        "Faraz bilan faktni boshqa rangda belgilaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «가설과 사실을 다른 색으로 표시해요.» deydi. Ma’nosi: «Faraz bilan faktni boshqa rangda belgilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «한 번에 답을 찾을 리 만무해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Bir urinishda javob topish qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «가설과 사실을 다른 색으로 표시해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Faraz bilan faktni boshqa rangda belgilaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

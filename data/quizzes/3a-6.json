@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«일정» so‘zining ma’nosi qaysi?",
+      "options": [
+        "joy",
+        "band qilish",
+        "yig‘in",
+        "jadval"
+      ],
+      "correctIndex": 3,
+      "explanation": "«일정» — «jadval». Bu so‘z darsdagi «Uchrashuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«vaqt» koreyschada qaysi so‘z?",
+      "options": [
+        "약속",
+        "예약",
+        "시간",
+        "장소"
+      ],
+      "correctIndex": 2,
+      "explanation": "«시간» — «vaqt». Bu so‘z darsdagi «Uchrashuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«다방» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bekor qilmoq",
+        "oldinga surmoq",
+        "o‘zgartirmoq",
+        "an’anaviy choyxona"
+      ],
+      "correctIndex": 3,
+      "explanation": "«다방» — «an’anaviy choyxona». Bu so‘z darsdagi «Joy va o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«keyinga surmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "미루다",
+        "취소하다",
+        "변경하다",
+        "카페"
+      ],
+      "correctIndex": 0,
+      "explanation": "«미루다» — «keyinga surmoq». Bu so‘z darsdagi «Joy va o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«변경하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bekor qilmoq",
+        "kafe",
+        "o‘zgartirmoq",
+        "an’anaviy choyxona"
+      ],
+      "correctIndex": 2,
+      "explanation": "«변경하다» — «o‘zgartirmoq». Bu so‘z darsdagi «Joy va o‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-거든요 · N(이)거든요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Majhul nisbat",
+        "Bayon gapni yetkazish",
+        "Sababni keyin tushuntirish",
+        "Hech qanday"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-거든요 · N(이)거든요» — Sababni keyin tushuntirish. 거든요 — savol ortidagi yashirin sababni ochadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«아무 N도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hech bo‘lmasa",
+        "Majhul nisbat",
+        "Hech qanday",
+        "Sababni keyin tushuntirish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«아무 N도» — Hech qanday. 아무 N도 — bo‘sh taqvimdagi hech bir belgi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-이/히/리/기- (피동)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sababni keyin tushuntirish",
+        "Majhul nisbat",
+        "Hech qanday",
+        "... uchun"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-이/히/리/기- (피동)» — Majhul nisbat. Majhul shaklda kamera bajaruvchidan natijaga buriladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«일요일에는 약속이 없어요. 그날은 쉬거든요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Band qilingan vaqt o‘zgartirildi.",
+        "Yakshanba uchrashuvim yo‘q. Chunki o‘sha kuni dam olaman.",
+        "Bugun muhim yig‘in-da.",
+        "Joyni o‘zgartirmoqchiman. Chunki juda uzoq."
+      ],
+      "correctIndex": 1,
+      "explanation": "«일요일에는 약속이 없어요. 그날은 쉬거든요.» — «Yakshanba uchrashuvim yo‘q. Chunki o‘sha kuni dam olaman.». Bu yerda «A/V-거든요 · N(이)거든요» qolipi ishlatilgan: Sababni keyin tushuntirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yakshanba hech qanday uchrashuvim yo‘q.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "오늘은 아무 데도 안 가요.",
+        "오늘은 중요한 모임이거든요.",
+        "장소를 바꾸고 싶어요. 너무 멀거든요.",
+        "일요일에는 아무 약속도 없어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«일요일에는 아무 약속도 없어요.» — «Yakshanba hech qanday uchrashuvim yo‘q.». Bu yerda «아무 N도» qolipi ishlatilgan: Hech qanday.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«예약 시간이 바뀌었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Band qilingan vaqt o‘zgartirildi.",
+        "Telefon aloqasi uzildi.",
+        "Hech kim kelmadi.",
+        "Yakshanba uchrashuvim yo‘q. Chunki o‘sha kuni dam olaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«예약 시간이 바뀌었어요.» — «Band qilingan vaqt o‘zgartirildi.». Bu yerda «V-이/히/리/기- (피동)» qolipi ishlatilgan: Majhul nisbat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «예약한 방이 취소됐어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Chunki bino eshigi qulflangan.",
+        "Nega bekor qilindi?",
+        "Band qilgan xona bekor qilindi.",
+        "Bugun hech uchrashuvim yo‘q, yangi joy topaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «예약한 방이 취소됐어요.» deydi. Ma’nosi: «Band qilgan xona bekor qilindi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «건물 문이 잠겼거든요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bugun hech uchrashuvim yo‘q, yangi joy topaman.",
+        "Band qilgan xona bekor qilindi.",
+        "Nega bekor qilindi?",
+        "Chunki bino eshigi qulflangan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «건물 문이 잠겼거든요.» deydi. Ma’nosi: «Chunki bino eshigi qulflangan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 오늘 아무 약속도 없으니까 새 장소를 찾을게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Chunki bino eshigi qulflangan.",
+        "Nega bekor qilindi?",
+        "Bugun hech uchrashuvim yo‘q, yangi joy topaman.",
+        "Band qilgan xona bekor qilindi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «저는 오늘 아무 약속도 없으니까 새 장소를 찾을게요.» deydi. Ma’nosi: «Bugun hech uchrashuvim yo‘q, yangi joy topaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «왜 취소됐어요?» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Nega bekor qilindi?».",
+      "reviewSection": "s"
+    }
+  ]
+}

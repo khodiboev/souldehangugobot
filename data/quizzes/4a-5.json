@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«교훈» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maqol",
+        "donolik",
+        "avloddan avlodga o‘tmoq",
+        "ibrat"
+      ],
+      "correctIndex": 3,
+      "explanation": "«교훈» — «ibrat». Bu so‘z darsdagi «Maqol» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«o‘xshatish» koreyschada qaysi so‘z?",
+      "options": [
+        "지혜",
+        "속담",
+        "비유",
+        "교훈"
+      ],
+      "correctIndex": 2,
+      "explanation": "«비유» — «o‘xshatish». Bu so‘z darsdagi «Maqol» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«전해지다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ibrat",
+        "o‘xshatish",
+        "avloddan avlodga o‘tmoq",
+        "maqol"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전해지다» — «avloddan avlodga o‘tmoq». Bu so‘z darsdagi «Maqol» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«dili og‘rimoq» koreyschada qaysi so‘z?",
+      "options": [
+        "용기를 내다",
+        "위로하다",
+        "발이 넓다",
+        "속상하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«속상하다» — «dili og‘rimoq». Bu so‘z darsdagi «Iboralar va his» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«용기를 내다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jur’at topmoq",
+        "tasalli bermoq",
+        "turg‘un ibora",
+        "dili og‘rimoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«용기를 내다» — «jur’at topmoq». Bu so‘z darsdagi «Iboralar va his» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tanish-bilishi ko‘p bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "용기를 내다",
+        "발이 넓다",
+        "마음을 놓다",
+        "속상하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«발이 넓다» — «tanish-bilishi ko‘p bo‘lmoq». Bu so‘z darsdagi «Iboralar va his» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-고 해서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Eshitganimdek / degandi-yu",
+        "Odatda shunday bo‘ladi",
+        "Qilaverib qarasam",
+        "Shu sabab ham"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-고 해서» — Shu sabab ham. Sabablar savatidan bitta misolni olib ko‘rsatish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-다더니 · V-ㄴ/는다더니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Eshitganimdek / degandi-yu",
+        "Qilaverib qarasam",
+        "Odatda shunday bo‘ladi",
+        "Shu sabab ham"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-다더니 · V-ㄴ/는다더니» — Eshitganimdek / degandi-yu. Kecha eshitilgan gap bilan bugungi manzarani yonma-yon qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-기 마련이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shu sabab ham",
+        "Qilaverib qarasam",
+        "Eshitganimdek / degandi-yu",
+        "Odatda shunday bo‘ladi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-기 마련이다» — Odatda shunday bo‘ladi. Hayotning takrorlanadigan qoidasi yozilgan daftar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«V-다 보니(까)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shu sabab ham",
+        "Qilaverib qarasam",
+        "Eshitganimdek / degandi-yu",
+        "Odatda shunday bo‘ladi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-다 보니(까)» — Qilaverib qarasam. Yo‘lni yurib bo‘lgach, qayerga kelganini anglash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«비도 오고 해서 집에서 쉬었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yomg‘ir ham yog‘gani uchun uyda dam oldim.",
+        "“Boshlash ishning yarmi” deganidek, boshlagach ko‘nglim tinchidi.",
+        "Avvalida hamma xato qilishi tabiiy.",
+        "Ko‘p ishlatiladigan ibora yodda qoladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«비도 오고 해서 집에서 쉬었어요.» — «Yomg‘ir ham yog‘gani uchun uyda dam oldim.». Bu yerda «A/V-고 해서» qolipi ishlatilgan: Shu sabab ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«“Boshlash ishning yarmi” deganidek, boshlagach ko‘nglim tinchidi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "일찍 온다더니 아직 안 왔어요.",
+        "힘든 일이 지나면 좋은 날이 오기 마련이에요.",
+        "시작이 반이라더니 첫걸음을 떼니 마음이 편해졌어요.",
+        "처음에는 누구나 실수하기 마련이에요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«시작이 반이라더니 첫걸음을 떼니 마음이 편해졌어요.» — «“Boshlash ishning yarmi” deganidek, boshlagach ko‘nglim tinchidi.». Bu yerda «A-다더니 · V-ㄴ/는다더니» qolipi ishlatilgan: Eshitganimdek / degandi-yu.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«처음에는 누구나 실수하기 마련이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Avvalida hamma xato qilishi tabiiy.",
+        "Bandman degandi, bog‘lanishga ham vaqti yo‘q shekilli.",
+        "Maqollarni ko‘p ishlatib, ma’nosini tabiiy angladim.",
+        "Ko‘p ishlatiladigan ibora yodda qoladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«처음에는 누구나 실수하기 마련이에요.» — «Avvalida hamma xato qilishi tabiiy.». Bu yerda «A/V-기 마련이다» qolipi ishlatilgan: Odatda shunday bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Maqollarni ko‘p ishlatib, ma’nosini tabiiy angladim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "시험도 끝나고 해서 여행을 떠났어요.",
+        "속담을 자주 쓰다 보니 뜻을 자연스럽게 알게 됐어요.",
+        "한국 드라마를 보다 보니까 관용어를 많이 배웠어요.",
+        "자주 쓰는 표현은 기억하기 마련이에요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«속담을 자주 쓰다 보니 뜻을 자연스럽게 알게 됐어요.» — «Maqollarni ko‘p ishlatib, ma’nosini tabiiy angladim.». Bu yerda «V-다 보니(까)» qolipi ishlatilgan: Qilaverib qarasam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사연이 속상하고 해서 따뜻한 말을 고르고 싶어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi maqol izlab, o‘zim ham kuch oldim.",
+        "“Vaqt davo” deganidek, og‘riq asta kamayadi.",
+        "Xat qayg‘uli bo‘lgani uchun iliq so‘z tanlamoqchiman.",
+        "Qiyin paytda hammaga tasalli kerak bo‘lishi tabiiy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «사연이 속상하고 해서 따뜻한 말을 고르고 싶어요.» deydi. Ma’nosi: «Xat qayg‘uli bo‘lgani uchun iliq so‘z tanlamoqchiman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시간이 약이라더니 아픔도 조금씩 줄어들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qiyin paytda hammaga tasalli kerak bo‘lishi tabiiy.",
+        "“Vaqt davo” deganidek, og‘riq asta kamayadi.",
+        "Xat qayg‘uli bo‘lgani uchun iliq so‘z tanlamoqchiman.",
+        "Yaxshi maqol izlab, o‘zim ham kuch oldim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «시간이 약이라더니 아픔도 조금씩 줄어들어요.» deydi. Ma’nosi: «“Vaqt davo” deganidek, og‘riq asta kamayadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «힘든 때에는 누구나 위로가 필요하기 마련이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "“Vaqt davo” deganidek, og‘riq asta kamayadi.",
+        "Xat qayg‘uli bo‘lgani uchun iliq so‘z tanlamoqchiman.",
+        "Qiyin paytda hammaga tasalli kerak bo‘lishi tabiiy.",
+        "Yaxshi maqol izlab, o‘zim ham kuch oldim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «힘든 때에는 누구나 위로가 필요하기 마련이에요.» deydi. Ma’nosi: «Qiyin paytda hammaga tasalli kerak bo‘lishi tabiiy.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋은 속담을 찾다 보니 저도 힘을 얻었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xat qayg‘uli bo‘lgani uchun iliq so‘z tanlamoqchiman.",
+        "“Vaqt davo” deganidek, og‘riq asta kamayadi.",
+        "Yaxshi maqol izlab, o‘zim ham kuch oldim.",
+        "Qiyin paytda hammaga tasalli kerak bo‘lishi tabiiy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «좋은 속담을 찾다 보니 저도 힘을 얻었어요.» deydi. Ma’nosi: «Yaxshi maqol izlab, o‘zim ham kuch oldim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «시간이 약이라더니 아픔도 조금씩 줄어들어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «“Vaqt davo” deganidek, og‘riq asta kamayadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «좋은 속담을 찾다 보니 저도 힘을 얻었어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Yaxshi maqol izlab, o‘zim ham kuch oldim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

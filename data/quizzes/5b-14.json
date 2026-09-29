@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기술» so‘zining ma’nosi qaysi?",
+      "options": [
+        "nusxalash, klonlash",
+        "tadqiqot",
+        "axloq",
+        "texnologiya"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기술» — «texnologiya». Bu so‘z darsdagi «Ilm va axloq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«axloq» koreyschada qaysi so‘z?",
+      "options": [
+        "기술",
+        "연구",
+        "윤리",
+        "과학"
+      ],
+      "correctIndex": 2,
+      "explanation": "«윤리» — «axloq». Bu so‘z darsdagi «Ilm va axloq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«연구» so‘zining ma’nosi qaysi?",
+      "options": [
+        "nusxalash, klonlash",
+        "tadqiqot",
+        "hayot",
+        "axloq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«연구» — «tadqiqot». Bu so‘z darsdagi «Ilm va axloq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«mezon» koreyschada qaysi so‘z?",
+      "options": [
+        "논란",
+        "안전",
+        "동의",
+        "기준"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기준» — «mezon». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«권리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "huquq",
+        "xavfsizlik",
+        "munozara",
+        "mezon"
+      ],
+      "correctIndex": 0,
+      "explanation": "«권리» — «huquq». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«xatar» koreyschada qaysi so‘z?",
+      "options": [
+        "권리",
+        "위험",
+        "논란",
+        "동의"
+      ],
+      "correctIndex": 1,
+      "explanation": "«위험» — «xatar». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N에 대한 논란이 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... degan tanqid bor",
+        "N yuzasidan bahs bor",
+        "Qiyinchilikni yengib uddalamoq",
+        "... jihatni tan olmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N에 대한 논란이 있다» — N yuzasidan bahs bor. Bir masala ustidagi ikki turli o‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 지적이 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N bilan birga, qolaversa",
+        "... degan tanqid bor",
+        "... jihatni tan olmoq",
+        "N yuzasidan bahs bor"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-다는 지적이 있다» — ... degan tanqid bor. Matn chetidagi tanqidiy izoh.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 점은 인정하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... jihatni tan olmoq",
+        "N yuzasidan bahs bor",
+        "N haqida gapirsam",
+        "... degan tanqid bor"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-다는 점은 인정하다» — ... jihatni tan olmoq. Bahsda qarshi tomonga qo‘yilgan kichik ko‘prik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«생명 복제에 대한 논란이 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xarajat juda ko‘p degan e’tiroz bildirildi.",
+        "Rozilik jarayoni aniq emas degan tanqid bor.",
+        "Yangi texnologiya xavfsizligi bo‘yicha bahs davom etmoqda.",
+        "Hayotiy klonlash yuzasidan bahs bor."
+      ],
+      "correctIndex": 3,
+      "explanation": "«생명 복제에 대한 논란이 있어요.» — «Hayotiy klonlash yuzasidan bahs bor.». Bu yerda «N에 대한 논란이 있다» qolipi ishlatilgan: N yuzasidan bahs bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Xavfsizlik mezoni yetarli emas degan tanqid bor.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "새 기술의 안전성에 대한 논란이 계속돼요.",
+        "동의 절차가 분명하지 않다는 지적이 있어요.",
+        "생명 복제에 대한 논란이 있어요.",
+        "안전 기준이 부족하다는 지적이 있어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«안전 기준이 부족하다는 지적이 있어요.» — «Xavfsizlik mezoni yetarli emas degan tanqid bor.». Bu yerda «A/V-다는 지적이 있다» qolipi ishlatilgan: ... degan tanqid bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«기술이 도움이 된다는 점은 인정해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hayotiy klonlash yuzasidan bahs bor.",
+        "Xavfsizlik xavotiri katta ekanini tan olish kerak.",
+        "Texnologiya yordam berishini tan olaman.",
+        "Xavfsizlik mezoni yetarli emas degan tanqid bor."
+      ],
+      "correctIndex": 2,
+      "explanation": "«기술이 도움이 된다는 점은 인정해요.» — «Texnologiya yordam berishini tan olaman.». Bu yerda «A/V-다는 점은 인정하다» qolipi ishlatilgan: ... jihatni tan olmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Yangi texnologiya xavfsizligi bo‘yicha bahs davom etmoqda.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "연구가 필요하다는 점은 인정하지만 기준도 있어야 해요.",
+        "안전성에 대한 걱정이 크다는 점은 인정해야 해요.",
+        "새 기술의 안전성에 대한 논란이 계속돼요.",
+        "안전 기준이 부족하다는 지적이 있어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«새 기술의 안전성에 대한 논란이 계속돼요.» — «Yangi texnologiya xavfsizligi bo‘yicha bahs davom etmoqda.». Bu yerda «N에 대한 논란이 있다» qolipi ishlatilgan: N yuzasidan bahs bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«비용이 너무 많이 든다는 지적이 나왔어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hayotiy klonlash yuzasidan bahs bor.",
+        "Tadqiqot kerakligini tan olaman, ammo mezon ham bo‘lsin.",
+        "Texnologiya yordam berishini tan olaman.",
+        "Xarajat juda ko‘p degan e’tiroz bildirildi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비용이 너무 많이 든다는 지적이 나왔어요.» — «Xarajat juda ko‘p degan e’tiroz bildirildi.». Bu yerda «A/V-다는 지적이 있다» qolipi ishlatilgan: ... degan tanqid bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «생명 기술에 대한 논란을 다룰게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xavfsizlik ma’lumoti yetishmaydi degan tanqidni tekshiramiz.",
+        "Hayot texnologiyasi bo‘yicha bahsni ko‘ramiz.",
+        "Foydasi bo‘lishini ham tan olamiz.",
+        "Bir-birini oxirigacha tinglash qoidasini belgilaylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «생명 기술에 대한 논란을 다룰게요.» deydi. Ma’nosi: «Hayot texnologiyasi bo‘yicha bahsni ko‘ramiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «안전 자료가 부족하다는 지적을 확인해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Foydasi bo‘lishini ham tan olamiz.",
+        "Hayot texnologiyasi bo‘yicha bahsni ko‘ramiz.",
+        "Bir-birini oxirigacha tinglash qoidasini belgilaylik.",
+        "Xavfsizlik ma’lumoti yetishmaydi degan tanqidni tekshiramiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «안전 자료가 부족하다는 지적을 확인해요.» deydi. Ma’nosi: «Xavfsizlik ma’lumoti yetishmaydi degan tanqidni tekshiramiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «도움이 될 수 있다는 점도 인정해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Foydasi bo‘lishini ham tan olamiz.",
+        "Hayot texnologiyasi bo‘yicha bahsni ko‘ramiz.",
+        "Xavfsizlik ma’lumoti yetishmaydi degan tanqidni tekshiramiz.",
+        "Bir-birini oxirigacha tinglash qoidasini belgilaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «도움이 될 수 있다는 점도 인정해요.» deydi. Ma’nosi: «Foydasi bo‘lishini ham tan olamiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로의 말을 끝까지 듣는 규칙을 정해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xavfsizlik ma’lumoti yetishmaydi degan tanqidni tekshiramiz.",
+        "Hayot texnologiyasi bo‘yicha bahsni ko‘ramiz.",
+        "Bir-birini oxirigacha tinglash qoidasini belgilaylik.",
+        "Foydasi bo‘lishini ham tan olamiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «서로의 말을 끝까지 듣는 규칙을 정해요.» deydi. Ma’nosi: «Bir-birini oxirigacha tinglash qoidasini belgilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «안전 자료가 부족하다는 지적을 확인해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Xavfsizlik ma’lumoti yetishmaydi degan tanqidni tekshiramiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «서로의 말을 끝까지 듣는 규칙을 정해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Bir-birini oxirigacha tinglash qoidasini belgilaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

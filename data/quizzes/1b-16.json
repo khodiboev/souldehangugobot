@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "16",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«손님» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mehmon",
+        "tashrif buyurmoq",
+        "tabriklamoq",
+        "yordam bermoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«손님» — «mehmon». Bu so‘z darsdagi «Mehmon va yig‘in» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tabriklamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "방문하다",
+        "축하하다",
+        "도와주다",
+        "모임"
+      ],
+      "correctIndex": 1,
+      "explanation": "«축하하다» — «tabriklamoq». Bu so‘z darsdagi «Mehmon va yig‘in» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«빨리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tez",
+        "avval",
+        "birga",
+        "bevosita, shaxsan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«빨리» — «tez». Bu so‘z darsdagi «Harakat ravishlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«avval» koreyschada qaysi so‘z?",
+      "options": [
+        "먼저",
+        "일찍",
+        "천천히",
+        "늦게"
+      ],
+      "correctIndex": 0,
+      "explanation": "«먼저» — «avval». Bu so‘z darsdagi «Harakat ravishlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ게요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Men qilaman — va’da",
+        "Bir ish qilish uchun borish/kelish",
+        "Bir vaqtda ikki ish",
+        "Qila olish yoki olmaslik"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄹ게요» — Men qilaman — va’da. 게요 — suhbatdoshga uzatilgan kichik va’da.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)면서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir vaqtda ikki ish",
+        "Men qilaman — va’da",
+        "Bir ish qilish uchun borish/kelish",
+        "Qila olish yoki olmaslik"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)면서» — Bir vaqtda ikki ish. 면서 — bir odamning ikki qo‘li bir paytda ishlayotgandek.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«토요일에 올 수 있어요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Shanba kuni kela olasizmi?",
+        "Ertaga erta kelaman.",
+        "Ovqatni men tayyorlayman.",
+        "Sovg‘a olgani boraman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«토요일에 올 수 있어요?» — «Shanba kuni kela olasizmi?». Bu yerda «V-(으)ㄹ 수 있다/없다» qolipi ishlatilgan: Qila olish yoki olmaslik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Ovqatni men tayyorlayman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구를 만나러 가요.",
+        "토요일에 올 수 있어요?",
+        "제가 음식을 준비할게요.",
+        "음악을 들으면서 요리해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«제가 음식을 준비할게요.» — «Ovqatni men tayyorlayman.». Bu yerda «V-(으)ㄹ게요» qolipi ishlatilgan: Men qilaman — va’da.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아지즈 씨를 축하하러 왔어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ovqatlanib, 1B haqidagi taassurotlarni gaplashaylik.",
+        "Azizni tabriklagani keldik.",
+        "Musiqani men tayyorlayman.",
+        "Bugun uyimizga kelganingiz uchun rahmat."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «아지즈 씨를 축하하러 왔어요.» deydi. Ma’nosi: «Azizni tabriklagani keldik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «음식을 먹으면서 1B 이야기를 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Azizni tabriklagani keldik.",
+        "Ovqatlanib, 1B haqidagi taassurotlarni gaplashaylik.",
+        "Musiqani men tayyorlayman.",
+        "Bugun uyimizga kelganingiz uchun rahmat."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Soyon «음식을 먹으면서 1B 이야기를 해요.» deydi. Ma’nosi: «Ovqatlanib, 1B haqidagi taassurotlarni gaplashaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«어머니» so‘zining ma’nosi qaysi?",
+      "options": [
+        "uka yoki singil",
+        "ona",
+        "opaning erkak aytadigan shakli",
+        "opaning qiz aytadigan shakli"
+      ],
+      "correctIndex": 1,
+      "explanation": "«어머니» — «ona». Bu so‘z darsdagi «Oila a’zolari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«opaning erkak aytadigan shakli» koreyschada qaysi so‘z?",
+      "options": [
+        "누나",
+        "형",
+        "부모님",
+        "오빠"
+      ],
+      "correctIndex": 0,
+      "explanation": "«누나» — «opaning erkak aytadigan shakli». Bu so‘z darsdagi «Oila a’zolari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«나이» so‘zining ma’nosi qaysi?",
+      "options": [
+        "suzish",
+        "yosh",
+        "ofis xodimi",
+        "ovqat tayyorlash"
+      ],
+      "correctIndex": 1,
+      "explanation": "«나이» — «yosh». Bu so‘z darsdagi «Tanishuv va qobiliyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ovqat tayyorlash» koreyschada qaysi so‘z?",
+      "options": [
+        "수영",
+        "요리",
+        "운전",
+        "성함"
+      ],
+      "correctIndex": 1,
+      "explanation": "«요리» — «ovqat tayyorlash». Bu so‘z darsdagi «Tanishuv va qobiliyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N을/를 잘하다 · 잘 못하다 · 못하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hurmat bilan “...dir”",
+        "Ega shaxsni hurmat qilish",
+        "“Kimning nimasi?”",
+        "Qobiliyatni aytish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N을/를 잘하다 · 잘 못하다 · 못하다» — Qobiliyatni aytish. 잘 — yashil chiroq, 잘 못 — sekin, 못 — to‘xtash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)시-» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qobiliyatni aytish",
+        "“Kimning nimasi?”",
+        "Ega shaxsni hurmat qilish",
+        "Hurmat bilan “...dir”"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)시-» — Ega shaxsni hurmat qilish. 시 — gap egasiga ta’zim qiladigan kichik belgi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«민지의 아버지예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Otam kompaniyada ishlaydi.",
+        "Mariya ovqatni yaxshi tayyorlaydi.",
+        "Minjining otasi.",
+        "Men suzishni uncha yaxshi bilmayman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«민지의 아버지예요.» — «Minjining otasi.». Bu yerda «N(의) N» qolipi ishlatilgan: “Kimning nimasi?”.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Mariya ovqatni yaxshi tayyorlaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "마리아 씨는 요리를 잘해요.",
+        "아지즈 씨는 운전을 못해요.",
+        "이분은 우리 어머니세요.",
+        "저는 수영을 잘 못해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«마리아 씨는 요리를 잘해요.» — «Mariya ovqatni yaxshi tayyorlaydi.». Bu yerda «N을/를 잘하다 · 잘 못하다 · 못하다» qolipi ishlatilgan: Qobiliyatni aytish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아버지는 운전을 잘하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu kishi mening otam.",
+        "Oilangiz juda mehribon ko‘rinadi.",
+        "Mening opam. Opam shifokor.",
+        "Otam mashinani yaxshi haydaydilar."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «아버지는 운전을 잘하세요.» deydi. Ma’nosi: «Otam mashinani yaxshi haydaydilar.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제 누나예요. 누나는 의사예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu kishi kim?",
+        "Oilangiz juda mehribon ko‘rinadi.",
+        "Bu kishi mening otam.",
+        "Mening opam. Opam shifokor."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «제 누나예요. 누나는 의사예요.» deydi. Ma’nosi: «Mening opam. Opam shifokor.».",
+      "reviewSection": "s"
+    }
+  ]
+}

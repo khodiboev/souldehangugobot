@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«정» so‘zining ma’nosi qaysi?",
+      "options": [
+        "odamlar orasidagi mehr rishtasi",
+        "tabiat, mijoz",
+        "boshqani o‘ylash",
+        "xushmuomalalik"
+      ],
+      "correctIndex": 0,
+      "explanation": "«정» — «odamlar orasidagi mehr rishtasi». Bu so‘z darsdagi «Insonlar va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«odob, muomala qoidasi» koreyschada qaysi so‘z?",
+      "options": [
+        "친절",
+        "기질",
+        "예절",
+        "공동체"
+      ],
+      "correctIndex": 2,
+      "explanation": "«예절» — «odob, muomala qoidasi». Bu so‘z darsdagi «Insonlar va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«배려» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jamoa",
+        "boshqani o‘ylash",
+        "odamlar orasidagi mehr rishtasi",
+        "tabiat, mijoz"
+      ],
+      "correctIndex": 1,
+      "explanation": "«배려» — «boshqani o‘ylash». Bu so‘z darsdagi «Insonlar va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tajriba» koreyschada qaysi so‘z?",
+      "options": [
+        "다양성",
+        "경험",
+        "문화",
+        "일반화"
+      ],
+      "correctIndex": 1,
+      "explanation": "«경험» — «tajriba». Bu so‘z darsdagi «Madaniyatni tushunish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«다양성» so‘zining ma’nosi qaysi?",
+      "options": [
+        "umumlashtirish",
+        "xilma-xillik",
+        "madaniyat",
+        "tasavvur, idrok"
+      ],
+      "correctIndex": 1,
+      "explanation": "«다양성» — «xilma-xillik». Bu so‘z darsdagi «Madaniyatni tushunish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«almashinuv, muloqot» koreyschada qaysi so‘z?",
+      "options": [
+        "일반화",
+        "문화",
+        "다양성",
+        "교류"
+      ],
+      "correctIndex": 3,
+      "explanation": "«교류» — «almashinuv, muloqot». Bu so‘z darsdagi «Madaniyatni tushunish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-기 그지없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gani sababli",
+        "Balki ...dir deb o‘ylayman",
+        "Nihoyatda ...",
+        "Ndan tashqari"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-기 그지없다» — Nihoyatda .... Sifat kuchini oxirgi chegaragacha ko‘targan ko‘rsatkich.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-기에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Balki ...dir deb o‘ylayman",
+        "N va N",
+        "...gani sababli",
+        "Nihoyatda ..."
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-기에» — ...gani sababli. Xulosa ostidagi sokin sabab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-지 않을까 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilgan tajribasi bor",
+        "Nihoyatda ...",
+        "...gani sababli",
+        "Balki ...dir deb o‘ylayman"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-지 않을까 하다» — Balki ...dir deb o‘ylayman. Fikr yonidagi kichik savol belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«친절한 안내가 고맙기 그지없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xushmuomala yo‘l-yo‘riq uchun nihoyatda minnatdorman.",
+        "Har odamning tajribasi har xil bo‘lsa kerak deb o‘ylayman.",
+        "Izoh yetarli bo‘lgani sabab tushuna olamiz.",
+        "Bu ifodani qayta ko‘rib chiqish kerakdir deb o‘ylayman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«친절한 안내가 고맙기 그지없어요.» — «Xushmuomala yo‘l-yo‘riq uchun nihoyatda minnatdorman.». Bu yerda «A-기 그지없다» qolipi ishlatilgan: Nihoyatda ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Bir-birini o‘ylagani uchun ishonch ortadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "서로 배려하기에 신뢰가 쌓여요.",
+        "친절한 안내가 고맙기 그지없어요.",
+        "오랜 친구를 다시 만나 반갑기 그지없었어요.",
+        "시간이 부족하기에 핵심만 말하겠습니다."
+      ],
+      "correctIndex": 0,
+      "explanation": "«서로 배려하기에 신뢰가 쌓여요.» — «Bir-birini o‘ylagani uchun ishonch ortadi.». Bu yerda «A/V-기에» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«사람마다 경험이 다르지 않을까 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Har odamning tajribasi har xil bo‘lsa kerak deb o‘ylayman.",
+        "Bir-birini o‘ylagani uchun ishonch ortadi.",
+        "Xushmuomala yo‘l-yo‘riq uchun nihoyatda minnatdorman.",
+        "Izoh yetarli bo‘lgani sabab tushuna olamiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사람마다 경험이 다르지 않을까 해요.» — «Har odamning tajribasi har xil bo‘lsa kerak deb o‘ylayman.». Bu yerda «A/V-지 않을까 하다» qolipi ishlatilgan: Balki ...dir deb o‘ylayman.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Eski do‘stimni qayta ko‘rib juda xursand bo‘ldim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "정은 함께 보낸 시간에서 생기지 않을까 해요.",
+        "설명이 충분하기에 이해할 수 있어요.",
+        "오랜 친구를 다시 만나 반갑기 그지없었어요.",
+        "사람마다 경험이 다르지 않을까 해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«오랜 친구를 다시 만나 반갑기 그지없었어요.» — «Eski do‘stimni qayta ko‘rib juda xursand bo‘ldim.». Bu yerda «A-기 그지없다» qolipi ishlatilgan: Nihoyatda ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«설명이 충분하기에 이해할 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Eski do‘stimni qayta ko‘rib juda xursand bo‘ldim.",
+        "Izoh yetarli bo‘lgani sabab tushuna olamiz.",
+        "Mehr rishtasi birga o‘tgan vaqtdan tug‘ilsa kerak.",
+        "Uning e’tibori nihoyatda iliq."
+      ],
+      "correctIndex": 1,
+      "explanation": "«설명이 충분하기에 이해할 수 있어요.» — «Izoh yetarli bo‘lgani sabab tushuna olamiz.». Bu yerda «A/V-기에» qolipi ishlatilgan: ...gani sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로의 경험을 듣기에 새로운 생각이 생겨요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yordam berganlardan nihoyatda minnatdorman.",
+        "Bir-birimizning tajribamizni eshitganimiz sabab yangi fikr tug‘iladi.",
+        "Ammo bir tajribani hammaga tatbiq qilmaslik kerakdir.",
+        "Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «서로의 경험을 듣기에 새로운 생각이 생겨요.» deydi. Ma’nosi: «Bir-birimizning tajribamizni eshitganimiz sabab yangi fikr tug‘iladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «도와준 분들이 고맙기 그지없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ammo bir tajribani hammaga tatbiq qilmaslik kerakdir.",
+        "Bir-birimizning tajribamizni eshitganimiz sabab yangi fikr tug‘iladi.",
+        "Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik.",
+        "Yordam berganlardan nihoyatda minnatdorman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «도와준 분들이 고맙기 그지없어요.» deydi. Ma’nosi: «Yordam berganlardan nihoyatda minnatdorman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «하지만 한 경험을 모두에게 적용하면 안 되지 않을까 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ammo bir tajribani hammaga tatbiq qilmaslik kerakdir.",
+        "Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik.",
+        "Yordam berganlardan nihoyatda minnatdorman.",
+        "Bir-birimizning tajribamizni eshitganimiz sabab yangi fikr tug‘iladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «하지만 한 경험을 모두에게 적용하면 안 되지 않을까 해요.» deydi. Ma’nosi: «Ammo bir tajribani hammaga tatbiq qilmaslik kerakdir.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «맞아요. 다양성을 보여 주는 발표로 만들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir-birimizning tajribamizni eshitganimiz sabab yangi fikr tug‘iladi.",
+        "Ammo bir tajribani hammaga tatbiq qilmaslik kerakdir.",
+        "Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik.",
+        "Yordam berganlardan nihoyatda minnatdorman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «맞아요. 다양성을 보여 주는 발표로 만들어요.» deydi. Ma’nosi: «Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «도와준 분들이 고맙기 그지없어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Soyon",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yordam berganlardan nihoyatda minnatdorman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «맞아요. 다양성을 보여 주는 발표로 만들어요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Ha. Xilma-xillikni ko‘rsatadigan taqdimot qilaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

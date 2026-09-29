@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«소포» so‘zining ma’nosi qaysi?",
+      "options": [
+        "havo pochtasi",
+        "xat",
+        "posilka",
+        "pochta"
+      ],
+      "correctIndex": 2,
+      "explanation": "«소포» — «posilka». Bu so‘z darsdagi «Pochta» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«pochta markasi» koreyschada qaysi so‘z?",
+      "options": [
+        "봉투",
+        "우체국",
+        "항공편",
+        "우표"
+      ],
+      "correctIndex": 3,
+      "explanation": "«우표» — «pochta markasi». Bu so‘z darsdagi «Pochta» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«은행» so‘zining ma’nosi qaysi?",
+      "options": [
+        "valyuta almashtirmoq",
+        "naqd pul",
+        "bank",
+        "shaxsni tasdiqlovchi hujjat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«은행» — «bank». Bu so‘z darsdagi «Bank va pul» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bank daftarchasi» koreyschada qaysi so‘z?",
+      "options": [
+        "통장",
+        "신분증",
+        "은행",
+        "현금"
+      ],
+      "correctIndex": 0,
+      "explanation": "«통장» — «bank daftarchasi». Bu so‘z darsdagi «Bank va pul» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«무게» so‘zining ma’nosi qaysi?",
+      "options": [
+        "og‘irlik",
+        "shaxsni tasdiqlovchi hujjat",
+        "naqd pul",
+        "xizmat haqi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«무게» — «og‘irlik». Bu so‘z darsdagi «Bank va pul» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N(으)로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "르 o‘zgarishi",
+        "Vosita va usul",
+        "Ot sabab bo‘lgani uchun",
+        "Tugagan ish haqida taxmin"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N(으)로» — Vosita va usul. (으)로 — ish qanday yo‘l bilan bajarilganini ko‘rsatadigan o‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«‘르’ 불규칙» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Vosita va usul",
+        "Tugagan ish haqida taxmin",
+        "Ot sabab bo‘lgani uchun",
+        "르 o‘zgarishi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«‘르’ 불규칙» — 르 o‘zgarishi. 르 bir dona ㄹni oldingi bo‘g‘inga ko‘chiradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 것 같다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shuni qilish kifoya",
+        "Tugagan ish haqida taxmin",
+        "르 o‘zgarishi",
+        "Ot sabab bo‘lgani uchun"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)ㄴ 것 같다» — Tugagan ish haqida taxmin. Natija izidan avvalgi voqeani topish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«비행기로 보내 주세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Naqd pul bilan to‘layman.",
+        "Qayerda kutsam bo‘ladi?",
+        "Manzilni tez aytib bering.",
+        "Havo pochtasi bilan yuboring."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비행기로 보내 주세요.» — «Havo pochtasi bilan yuboring.». Bu yerda «N(으)로» qolipi ishlatilgan: Vosita va usul.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hafta oxiri bo‘lgani uchun bank yopiq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "외국인이라서 신분증이 필요해요.",
+        "우표를 붙이면 돼요.",
+        "어떤 우표를 고를까요?",
+        "주말이라서 은행이 닫았어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«주말이라서 은행이 닫았어요.» — «Hafta oxiri bo‘lgani uchun bank yopiq.». Bu yerda «N(이)라서» qolipi ishlatilgan: Ot sabab bo‘lgani uchun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«어떤 우표를 고를까요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qaysi markani tanlaymiz?",
+        "Hafta oxiri bo‘lgani uchun bank yopiq.",
+        "Pulni allaqachon yuborganga o‘xshaydi.",
+        "Chet ellik bo‘lganim uchun hujjat kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "«어떤 우표를 고를까요?» — «Qaysi markani tanlaymiz?». Bu yerda «‘르’ 불규칙» qolipi ishlatilgan: 르 o‘zgarishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 소포를 항공편으로 보내고 싶어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu posilkani havo pochtasida yubormoqchiman.",
+        "Sovg‘a bo‘lgani uchun ichidagini ham yozsangiz bo‘ladi.",
+        "Yangi konvert tanlasangiz bo‘ladi.",
+        "Manzilni noto‘g‘ri yozganga o‘xshayman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «이 소포를 항공편으로 보내고 싶어요.» deydi. Ma’nosi: «Bu posilkani havo pochtasida yubormoqchiman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주소를 잘못 쓴 것 같아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu posilkani havo pochtasida yubormoqchiman.",
+        "Manzilni noto‘g‘ri yozganga o‘xshayman.",
+        "Yangi konvert tanlasangiz bo‘ladi.",
+        "Sovg‘a bo‘lgani uchun ichidagini ham yozsangiz bo‘ladi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «주소를 잘못 쓴 것 같아요.» deydi. Ma’nosi: «Manzilni noto‘g‘ri yozganga o‘xshayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «새 봉투를 고르면 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yangi konvert tanlasangiz bo‘ladi.",
+        "Manzilni noto‘g‘ri yozganga o‘xshayman.",
+        "Sovg‘a bo‘lgani uchun ichidagini ham yozsangiz bo‘ladi.",
+        "Bu posilkani havo pochtasida yubormoqchiman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Xodim «새 봉투를 고르면 돼요.» deydi. Ma’nosi: «Yangi konvert tanlasangiz bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «새 봉투를 고르면 돼요.» gapini kim aytadi?",
+      "options": [
+        "Xodim",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Xodim aytadi. Ma’nosi: «Yangi konvert tanlasangiz bo‘ladi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

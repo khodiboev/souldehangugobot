@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«테니스를 치다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tennis o‘ynamoq",
+        "konki uchmoq",
+        "pianino chalmoq",
+        "futbol o‘ynamoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«테니스를 치다» — «tennis o‘ynamoq». Bu so‘z darsdagi «Sport va mashg‘ulotlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«kunduz uxlab olmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "산책하다",
+        "노래방에 가다",
+        "여행하다",
+        "낮잠을 자다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«낮잠을 자다» — «kunduz uxlab olmoq». Bu so‘z darsdagi «Dam olish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«듣다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "u/o‘sha (ot oldida)",
+        "birga",
+        "eshitmoq, tinglamoq",
+        "vaqt"
+      ],
+      "correctIndex": 2,
+      "explanation": "«듣다» — «eshitmoq, tinglamoq». Bu so‘z darsdagi «Taklif va suhbat uchun» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bu (ot oldida)» koreyschada qaysi so‘z?",
+      "options": [
+        "저",
+        "걷다",
+        "이",
+        "음악"
+      ],
+      "correctIndex": 2,
+      "explanation": "«이» — «bu (ot oldida)». Bu so‘z darsdagi «Taklif va suhbat uchun» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«ㄷ 불규칙» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hozir payqadim!",
+        "Bu kitob, o‘sha kitob, anavi kitob",
+        "Birga qilamizmi?",
+        "ㄷ ning ㄹ ga o‘zgarishi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«ㄷ 불규칙» — ㄷ ning ㄹ ga o‘zgarishi. O‘zgarishning ikkita sharti bor: fe’l shu guruhga kiradi va keyingi qo‘shimcha unli bilan boshlanadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-네요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Birga qilamizmi?",
+        "Bu kitob, o‘sha kitob, anavi kitob",
+        "ㄷ ning ㄹ ga o‘zgarishi",
+        "Hozir payqadim!"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-네요» — Hozir payqadim!. Eshikdan chiqqanda sovuqni sezib “Sovuq ekan!” deysiz. Oldindan bilgan ma’lumotni xolis aytishdan ko‘ra, ayni paytdagi taassurot kuchliroq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«우리 같이 공부할까요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu sumka yengil ekan!",
+        "U soyabon qancha turadi?",
+        "Birga o‘qiymizmi?",
+        "Bu kitob qiziqarli."
+      ],
+      "correctIndex": 2,
+      "explanation": "«우리 같이 공부할까요?» — «Birga o‘qiymizmi?». Bu yerda «V-(으)ㄹ까요?» qolipi ishlatilgan: Birga qilamizmi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Uyda musiqa tinglayman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "공원에서 걸어요.",
+        "집에서 음악을 들어요.",
+        "여기에서 밥을 먹을까요?",
+        "저 가게에 갈까요?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«집에서 음악을 들어요.» — «Uyda musiqa tinglayman.». Bu yerda «ㄷ 불규칙» qolipi ishlatilgan: ㄷ ning ㄹ ga o‘zgarishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저도 있어요. 같이 영화를 볼까요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Xo‘p. Sayr qilib, choy ichamiz.",
+        "Ha, bor.",
+        "Menda ham bor. Birga kino ko‘ramizmi?",
+        "Xo‘p. O‘sha kinoteatr maktab yonidami?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada 민지 «저도 있어요. 같이 영화를 볼까요?» deydi. Ma’nosi: «Menda ham bor. Birga kino ko‘ramizmi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «공원에서 걸을까요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Xo‘p. Sayr qilib, choy ichamiz.",
+        "Ha, bor.",
+        "Dam olish kuni vaqtingiz bormi?",
+        "Bog‘da piyoda yuramizmi?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada 아지즈 «공원에서 걸을까요?» deydi. Ma’nosi: «Bog‘da piyoda yuramizmi?».",
+      "reviewSection": "s"
+    }
+  ]
+}

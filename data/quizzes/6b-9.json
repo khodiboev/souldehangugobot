@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«오염» so‘zining ma’nosi qaysi?",
+      "options": [
+        "resurs",
+        "energiya",
+        "chiqarish",
+        "ifloslanish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«오염» — «ifloslanish». Bu so‘z darsdagi «Atrof-muhit» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«o‘rnini bosish» koreyschada qaysi so‘z?",
+      "options": [
+        "오염",
+        "배출",
+        "대체",
+        "에너지"
+      ],
+      "correctIndex": 2,
+      "explanation": "«대체» — «o‘rnini bosish». Bu so‘z darsdagi «Atrof-muhit» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«배출» so‘zining ma’nosi qaysi?",
+      "options": [
+        "resurs",
+        "chiqarish",
+        "ifloslanish",
+        "atrof-muhit"
+      ],
+      "correctIndex": 1,
+      "explanation": "«배출» — «chiqarish». Bu so‘z darsdagi «Atrof-muhit» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«uskuna» koreyschada qaysi so‘z?",
+      "options": [
+        "설비",
+        "제안하다",
+        "효율",
+        "절약"
+      ],
+      "correctIndex": 0,
+      "explanation": "«설비» — «uskuna». Bu so‘z darsdagi «Yechim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«비용» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tejash",
+        "xarajat",
+        "samaradorlik",
+        "ko‘rib chiqmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«비용» — «xarajat». Bu so‘z darsdagi «Yechim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ko‘rib chiqmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "절약",
+        "설비",
+        "검토하다",
+        "제안하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«검토하다» — «ko‘rib chiqmoq». Bu so‘z darsdagi «Yechim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-기로서니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ib berishingizni so‘rab",
+        "... bo‘lsa ham axir",
+        "Ndan qat’i nazar",
+        "... bo‘lishi mumkin emas"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-기로서니» — ... bo‘lsa ham axir. “Mayli, lekin bunisi ortiqcha” chegarasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아/어 주십사 (하고)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham, ammo",
+        "...ib berishingizni so‘rab",
+        "... bo‘lsa ham axir",
+        "Ndan ortiq emas"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-아/어 주십사 (하고)» — ...ib berishingizni so‘rab. Rasmiy xatdagi muloyim iltimos satri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«비용이 비싸기로서니 검토도 없이 포기할 수는 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Fikr yuborishlarini so‘rab aholiga xabar berdim.",
+        "Energiyani tejaymiz deb ham hamma chiroqni o‘chirib bo‘lmaydi.",
+        "Xarajat baland bo‘lsa ham tekshirmay voz kechib bo‘lmaydi.",
+        "Ma’lumotni ko‘rib berishini so‘rab mas’ulga yozdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«비용이 비싸기로서니 검토도 없이 포기할 수는 없어요.» — «Xarajat baland bo‘lsa ham tekshirmay voz kechib bo‘lmaydi.». Bu yerda «A/V-기로서니» qolipi ishlatilgan: ... bo‘lsa ham axir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Ma’lumotni ko‘rib berishini so‘rab mas’ulga yozdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설비를 살펴봐 주십사 하고 전문가를 초대했어요.",
+        "일정이 급하기로서니 안전을 건너뛰면 안 돼요.",
+        "자료를 검토해 주십사 하고 담당자에게 연락했어요.",
+        "비용이 비싸기로서니 검토도 없이 포기할 수는 없어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«자료를 검토해 주십사 하고 담당자에게 연락했어요.» — «Ma’lumotni ko‘rib berishini so‘rab mas’ulga yozdim.». Bu yerda «V-아/어 주십사 (하고)» qolipi ishlatilgan: ...ib berishingizni so‘rab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«에너지를 절약하기로서니 불을 모두 끌 수는 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xarajat baland bo‘lsa ham tekshirmay voz kechib bo‘lmaydi.",
+        "Ish shoshilinch bo‘lsa ham xavfsizlikni chetlab bo‘lmaydi.",
+        "Uskunani tekshirib berishini so‘rab mutaxassisni chaqirdim.",
+        "Energiyani tejaymiz deb ham hamma chiroqni o‘chirib bo‘lmaydi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«에너지를 절약하기로서니 불을 모두 끌 수는 없어요.» — «Energiyani tejaymiz deb ham hamma chiroqni o‘chirib bo‘lmaydi.». Bu yerda «A/V-기로서니» qolipi ishlatilgan: ... bo‘lsa ham axir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Uskunani tekshirib berishini so‘rab mutaxassisni chaqirdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "자료를 검토해 주십사 하고 담당자에게 연락했어요.",
+        "설비를 살펴봐 주십사 하고 전문가를 초대했어요.",
+        "의견을 보내 주십사 하고 주민에게 안내했어요.",
+        "에너지를 절약하기로서니 불을 모두 끌 수는 없어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«설비를 살펴봐 주십사 하고 전문가를 초대했어요.» — «Uskunani tekshirib berishini so‘rab mutaxassisni chaqirdim.». Bu yerda «V-아/어 주십사 (하고)» qolipi ishlatilgan: ...ib berishingizni so‘rab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«일정이 급하기로서니 안전을 건너뛰면 안 돼요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uskunani tekshirib berishini so‘rab mutaxassisni chaqirdim.",
+        "Ma’lumotni ko‘rib berishini so‘rab mas’ulga yozdim.",
+        "Ish shoshilinch bo‘lsa ham xavfsizlikni chetlab bo‘lmaydi.",
+        "Xarajat baland bo‘lsa ham tekshirmay voz kechib bo‘lmaydi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«일정이 급하기로서니 안전을 건너뛰면 안 돼요.» — «Ish shoshilinch bo‘lsa ham xavfsizlikni chetlab bo‘lmaydi.». Bu yerda «A/V-기로서니» qolipi ishlatilgan: ... bo‘lsa ham axir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Fikr yuborishlarini so‘rab aholiga xabar berdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "의견을 보내 주십사 하고 주민에게 안내했어요.",
+        "자료를 검토해 주십사 하고 담당자에게 연락했어요.",
+        "일정이 급하기로서니 안전을 건너뛰면 안 돼요.",
+        "에너지를 절약하기로서니 불을 모두 끌 수는 없어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«의견을 보내 주십사 하고 주민에게 안내했어요.» — «Fikr yuborishlarini so‘rab aholiga xabar berdim.». Bu yerda «V-아/어 주십사 (하고)» qolipi ishlatilgan: ...ib berishingizni so‘rab.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «설치비가 높기로서니 바로 포기하지는 말아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘rnatish qimmat bo‘lsa ham darhol voz kechmaylik.",
+        "Boshqaruvchidan ma’lumot ulashishni so‘radim.",
+        "Fasllarga qarab samaradorlikni ham tekshirish kerak.",
+        "Afzallik va xarajatni bir jadvalga qo‘yaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «설치비가 높기로서니 바로 포기하지는 말아요.» deydi. Ma’nosi: «O‘rnatish qimmat bo‘lsa ham darhol voz kechmaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «관리자에게 자료를 공유해 주십사 하고 부탁했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘rnatish qimmat bo‘lsa ham darhol voz kechmaylik.",
+        "Afzallik va xarajatni bir jadvalga qo‘yaman.",
+        "Fasllarga qarab samaradorlikni ham tekshirish kerak.",
+        "Boshqaruvchidan ma’lumot ulashishni so‘radim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «관리자에게 자료를 공유해 주십사 하고 부탁했어요.» deydi. Ma’nosi: «Boshqaruvchidan ma’lumot ulashishni so‘radim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «계절별 효율도 확인해야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshqaruvchidan ma’lumot ulashishni so‘radim.",
+        "Fasllarga qarab samaradorlikni ham tekshirish kerak.",
+        "Afzallik va xarajatni bir jadvalga qo‘yaman.",
+        "O‘rnatish qimmat bo‘lsa ham darhol voz kechmaylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «계절별 효율도 확인해야 해요.» deydi. Ma’nosi: «Fasllarga qarab samaradorlikni ham tekshirish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «장점과 비용을 한 표에 넣겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Afzallik va xarajatni bir jadvalga qo‘yaman.",
+        "O‘rnatish qimmat bo‘lsa ham darhol voz kechmaylik.",
+        "Fasllarga qarab samaradorlikni ham tekshirish kerak.",
+        "Boshqaruvchidan ma’lumot ulashishni so‘radim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «장점과 비용을 한 표에 넣겠습니다.» deydi. Ma’nosi: «Afzallik va xarajatni bir jadvalga qo‘yaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «관리자에게 자료를 공유해 주십사 하고 부탁했어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Boshqaruvchidan ma’lumot ulashishni so‘radim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «장점과 비용을 한 표에 넣겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Afzallik va xarajatni bir jadvalga qo‘yaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

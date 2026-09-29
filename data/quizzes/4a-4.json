@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«편견» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tenglik",
+        "munosabat, tutum",
+        "oldindan hukm",
+        "stereotip"
+      ],
+      "correctIndex": 2,
+      "explanation": "«편견» — «oldindan hukm». Bu so‘z darsdagi «Qarash va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«farq» koreyschada qaysi so‘z?",
+      "options": [
+        "차이",
+        "편견",
+        "고정관념",
+        "존중하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«차이» — «farq». Bu so‘z darsdagi «Qarash va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«존중하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tenglik",
+        "munosabat, tutum",
+        "hurmat qilmoq",
+        "stereotip"
+      ],
+      "correctIndex": 2,
+      "explanation": "«존중하다» — «hurmat qilmoq». Bu so‘z darsdagi «Qarash va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«vazifa, rol» koreyschada qaysi so‘z?",
+      "options": [
+        "강요하다",
+        "역할",
+        "불공평하다",
+        "불만"
+      ],
+      "correctIndex": 1,
+      "explanation": "«역할» — «vazifa, rol». Bu so‘z darsdagi «Qobiliyat va norozilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«불만» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kamsitmoq",
+        "vazifa, rol",
+        "norozilik",
+        "qobiliyat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«불만» — «norozilik». Bu so‘z darsdagi «Qobiliyat va norozilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«majburlamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "불만",
+        "강요하다",
+        "능력",
+        "차별하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«강요하다» — «majburlamoq». Bu so‘z darsdagi «Qobiliyat va norozilik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-기는커녕 · N은/는커녕» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir tomondan..., boshqa tomondan",
+        "Aniq shunday bo‘ladi",
+        "U yoqda tursin",
+        "Boshqa iloj yo‘q"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-기는커녕 · N은/는커녕» — U yoqda tursin. Kutilgan zinaga chiqish u yoqda tursin, bir pog‘ona pastga tushish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 게 뻔하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Boshqa iloj yo‘q",
+        "Bir tomondan..., boshqa tomondan",
+        "U yoqda tursin",
+        "Aniq shunday bo‘ladi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)ㄹ 게 뻔하다» — Aniq shunday bo‘ladi. Natija hali kelmagan, ammo soyasi allaqachon ko‘rinib turibdi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 반면(에) · V-는 반면(에)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "U yoqda tursin",
+        "Bir tomondan..., boshqa tomondan",
+        "Boshqa iloj yo‘q",
+        "Aniq shunday bo‘ladi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ 반면(에) · V-는 반면(에)» — Bir tomondan..., boshqa tomondan. Bitta tangani aylantirib, ikkala tomonini ko‘rish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 수밖에 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "U yoqda tursin",
+        "Bir tomondan..., boshqa tomondan",
+        "Boshqa iloj yo‘q",
+        "Aniq shunday bo‘ladi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄹ 수밖에 없다» — Boshqa iloj yo‘q. Barcha eshik yopilib, faqat bitta yo‘l qoladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«도와주기는커녕 일을 더 어렵게 만들었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Stereotip bilan hukm qilinsa pushaymon bo‘lish aniq.",
+        "Erkaklar bandligi yuqori, ammo bola tarbiyasidagi ishtiroki past.",
+        "Yordam berish u yoqda tursin, ishni qiyinlashtirdi.",
+        "Adolatsiz qoidani o‘zgartirishdan boshqa iloj yo‘q."
+      ],
+      "correctIndex": 2,
+      "explanation": "«도와주기는커녕 일을 더 어렵게 만들었어요.» — «Yordam berish u yoqda tursin, ishni qiyinlashtirdi.». Bu yerda «A/V-기는커녕 · N은/는커녕» qolipi ishlatilgan: U yoqda tursin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Faqat qobiliyatga qaralmasa adolatsiz bo‘lishi aniq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "능력만 보지 않으면 불공평할 게 뻔해요.",
+        "어떤 사람은 동의하는 반면에 다른 사람은 반대해요.",
+        "증거가 없어서 오해할 수밖에 없었어요.",
+        "민지는 적극적인 반면에 아주 신중해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«능력만 보지 않으면 불공평할 게 뻔해요.» — «Faqat qobiliyatga qaralmasa adolatsiz bo‘lishi aniq.». Bu yerda «A/V-(으)ㄹ 게 뻔하다» qolipi ishlatilgan: Aniq shunday bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«민지는 적극적인 반면에 아주 신중해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dalil yo‘qligi sabab noto‘g‘ri tushunish tabiiy edi.",
+        "Uzr u yoqda tursin, xatosini tan olmadi.",
+        "Minji faol, shu bilan birga juda ehtiyotkor.",
+        "Adolatsiz qoidani o‘zgartirishdan boshqa iloj yo‘q."
+      ],
+      "correctIndex": 2,
+      "explanation": "«민지는 적극적인 반면에 아주 신중해요.» — «Minji faol, shu bilan birga juda ehtiyotkor.». Bu yerda «A-(으)ㄴ 반면(에) · V-는 반면(에)» qolipi ishlatilgan: Bir tomondan..., boshqa tomondan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Adolatsiz qoidani o‘zgartirishdan boshqa iloj yo‘q.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "불공평한 규칙은 바꿀 수밖에 없어요.",
+        "증거가 없어서 오해할 수밖에 없었어요.",
+        "사과는커녕 잘못을 인정하지도 않았어요.",
+        "도와주기는커녕 일을 더 어렵게 만들었어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«불공평한 규칙은 바꿀 수밖에 없어요.» — «Adolatsiz qoidani o‘zgartirishdan boshqa iloj yo‘q.». Bu yerda «A/V-(으)ㄹ 수밖에 없다» qolipi ishlatilgan: Boshqa iloj yo‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «의견을 묻기는커녕 역할을 먼저 정했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Fikr so‘rash u yoqda tursin, rolni oldindan belgilashdi.",
+        "Jinsga emas, qobiliyatga ko‘ra qayta bo‘lish kerak.",
+        "Jismoniy kuch farq qiladi, har kimning afzalligi ham turlicha.",
+        "Shunday qilinsa adolatsiz bo‘lishi aniq."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «의견을 묻기는커녕 역할을 먼저 정했어요.» deydi. Ma’nosi: «Fikr so‘rash u yoqda tursin, rolni oldindan belgilashdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그렇게 하면 불공평할 게 뻔해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday qilinsa adolatsiz bo‘lishi aniq.",
+        "Jinsga emas, qobiliyatga ko‘ra qayta bo‘lish kerak.",
+        "Jismoniy kuch farq qiladi, har kimning afzalligi ham turlicha.",
+        "Fikr so‘rash u yoqda tursin, rolni oldindan belgilashdi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «그렇게 하면 불공평할 게 뻔해요.» deydi. Ma’nosi: «Shunday qilinsa adolatsiz bo‘lishi aniq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «체력은 다른 반면에 각자의 장점도 달라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday qilinsa adolatsiz bo‘lishi aniq.",
+        "Jismoniy kuch farq qiladi, har kimning afzalligi ham turlicha.",
+        "Jinsga emas, qobiliyatga ko‘ra qayta bo‘lish kerak.",
+        "Fikr so‘rash u yoqda tursin, rolni oldindan belgilashdi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «체력은 다른 반면에 각자의 장점도 달라요.» deydi. Ma’nosi: «Jismoniy kuch farq qiladi, har kimning afzalligi ham turlicha.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «성별이 아니라 능력에 따라 다시 나눌 수밖에 없어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday qilinsa adolatsiz bo‘lishi aniq.",
+        "Jismoniy kuch farq qiladi, har kimning afzalligi ham turlicha.",
+        "Jinsga emas, qobiliyatga ko‘ra qayta bo‘lish kerak.",
+        "Fikr so‘rash u yoqda tursin, rolni oldindan belgilashdi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «성별이 아니라 능력에 따라 다시 나눌 수밖에 없어요.» deydi. Ma’nosi: «Jinsga emas, qobiliyatga ko‘ra qayta bo‘lish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그렇게 하면 불공평할 게 뻔해요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Shunday qilinsa adolatsiz bo‘lishi aniq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «성별이 아니라 능력에 따라 다시 나눌 수밖에 없어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Soyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Jinsga emas, qobiliyatga ko‘ra qayta bo‘lish kerak.».",
+      "reviewSection": "s"
+    }
+  ]
+}

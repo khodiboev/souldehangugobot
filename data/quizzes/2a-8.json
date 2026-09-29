@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "8",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«속상하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dili og‘rimoq, xafa bo‘lmoq",
+        "afsuslanmoq",
+        "yolg‘iz his qilmoq",
+        "hayajonlanmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«속상하다» — «dili og‘rimoq, xafa bo‘lmoq». Bu so‘z darsdagi «His-tuyg‘ular» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«yolg‘iz his qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "속상하다",
+        "외롭다",
+        "실망하다",
+        "걱정되다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«외롭다» — «yolg‘iz his qilmoq». Bu so‘z darsdagi «His-tuyg‘ular» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«스트레스» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yo‘qotib qo‘ymoq",
+        "stress",
+        "hal qilmoq",
+        "bekor qilmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«스트레스» — «stress». Bu so‘z darsdagi «Muammo va yengillik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«va’da, uchrashuv» koreyschada qaysi so‘z?",
+      "options": [
+        "위로하다",
+        "약속",
+        "해결하다",
+        "실수"
+      ],
+      "correctIndex": 1,
+      "explanation": "«약속» — «va’da, uchrashuv». Bu so‘z darsdagi «Muammo va yengillik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«해결하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xato",
+        "stress",
+        "hal qilmoq",
+        "va’da, uchrashuv"
+      ],
+      "correctIndex": 2,
+      "explanation": "«해결하다» — «hal qilmoq». Bu so‘z darsdagi «Muammo va yengillik» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-겠-» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Butunlay qilib yubormoq",
+        "Taxmin yoki shu ondagi iroda",
+        "... paytida",
+        "... sababli"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-겠-» — Taxmin yoki shu ondagi iroda. 겠 — hozirgi dalildan chiqarilgan xulosa yoki qat’iy qaror.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아/어 버리다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... sababli",
+        "Taxmin yoki shu ondagi iroda",
+        "... paytida",
+        "Butunlay qilib yubormoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-아/어 버리다» — Butunlay qilib yubormoq. 버리다 — ish ortidan eshikni yopib yuboradi: endi ortga qaytmaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 때» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... sababli",
+        "Butunlay qilib yubormoq",
+        "Taxmin yoki shu ondagi iroda",
+        "... paytida"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)ㄹ 때» — ... paytida. (으)ㄹ 때 — voqeani vaqt ramkasiga joylaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«정말 속상하겠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uchrashuvni unutib yubordim.",
+        "Yomg‘ir sababli sayohatni bekor qildik.",
+        "Juda xafa bo‘lsangiz kerak.",
+        "Xato sababli dilim og‘ridi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«정말 속상하겠어요.» — «Juda xafa bo‘lsangiz kerak.». Bu yerda «A/V-겠-» qolipi ishlatilgan: Taxmin yoki shu ondagi iroda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yomg‘ir sababli sayohatni bekor qildik.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "속상할 때 친구와 이야기해요.",
+        "제가 다시 확인하겠습니다.",
+        "비 때문에 여행을 취소했어요.",
+        "교통 때문에 늦었어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«비 때문에 여행을 취소했어요.» — «Yomg‘ir sababli sayohatni bekor qildik.». Bu yerda «N 때문에» qolipi ishlatilgan: ... sababli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«지갑을 잃어버렸어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hamyonimni yo‘qotib qo‘ydim.",
+        "Uchrashuvni unutib yubordim.",
+        "Men yana tekshiraman.",
+        "Uy vazifasini butunlay tugatib qo‘ydim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«지갑을 잃어버렸어요.» — «Hamyonimni yo‘qotib qo‘ydim.». Bu yerda «V-아/어 버리다» qolipi ishlatilgan: Butunlay qilib yubormoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지갑을 잃어버린 것 같아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Juda dovdirab qolgandirsiz.",
+        "Hamyonimni yo‘qotib qo‘yganga o‘xshayman.",
+        "Kafega men qo‘ng‘iroq qilib ko‘raman.",
+        "Kafedan chiqqunimcha bor edi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «지갑을 잃어버린 것 같아요.» deydi. Ma’nosi: «Hamyonimni yo‘qotib qo‘yganga o‘xshayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «카페에서 나올 때까지 있었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Juda dovdirab qolgandirsiz.",
+        "Kafedan chiqqunimcha bor edi.",
+        "Kafega men qo‘ng‘iroq qilib ko‘raman.",
+        "Hamyonimni yo‘qotib qo‘yganga o‘xshayman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «카페에서 나올 때까지 있었어요.» deydi. Ma’nosi: «Kafedan chiqqunimcha bor edi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 카페에 전화해 보겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kafedan chiqqunimcha bor edi.",
+        "Hamyonimni yo‘qotib qo‘yganga o‘xshayman.",
+        "Juda dovdirab qolgandirsiz.",
+        "Kafega men qo‘ng‘iroq qilib ko‘raman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «제가 카페에 전화해 보겠어요.» deydi. Ma’nosi: «Kafega men qo‘ng‘iroq qilib ko‘raman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «정말 당황했겠어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Juda dovdirab qolgandirsiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "17",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«배려» so‘zining ma’nosi qaysi?",
+      "options": [
+        "suhbat",
+        "ishonch",
+        "e’tibor, boshqani o‘ylash",
+        "sevgi, mehr"
+      ],
+      "correctIndex": 2,
+      "explanation": "«배려» — «e’tibor, boshqani o‘ylash». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ishonch» koreyschada qaysi so‘z?",
+      "options": [
+        "대화",
+        "사랑",
+        "배려",
+        "신뢰"
+      ],
+      "correctIndex": 3,
+      "explanation": "«신뢰» — «ishonch». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«약속» so‘zining ma’nosi qaysi?",
+      "options": [
+        "va’da",
+        "hurmat",
+        "sevgi, mehr",
+        "e’tibor, boshqani o‘ylash"
+      ],
+      "correctIndex": 0,
+      "explanation": "«약속» — «va’da». Bu so‘z darsdagi «Munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ko‘ngil» koreyschada qaysi so‘z?",
+      "options": [
+        "표현하다",
+        "갈등",
+        "관계",
+        "마음"
+      ],
+      "correctIndex": 3,
+      "explanation": "«마음» — «ko‘ngil». Bu so‘z darsdagi «Mulohaza» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«갈등» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kelishmovchilik",
+        "munosabat",
+        "ko‘ngil",
+        "ifodalamoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«갈등» — «kelishmovchilik». Bu so‘z darsdagi «Mulohaza» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ifodalamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "마음",
+        "표현하다",
+        "갈등",
+        "관계"
+      ],
+      "correctIndex": 1,
+      "explanation": "«표현하다» — «ifodalamoq». Bu so‘z darsdagi «Mulohaza» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-았으면/었으면 하다 · takrorlash» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Muloyim istakni qaytarish",
+        "Burilish nuqtasini eslash",
+        "Boshqaning jihatini tan olish",
+        "... edi-yu, ammo"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-았으면/었으면 하다 · takrorlash» — Muloyim istakni qaytarish. Munosabat haqidagi sokin tilak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 점은 인정하다 · takrorlash» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Boshqaning jihatini tan olish",
+        "Muloyim istakni qaytarish",
+        "Burilish nuqtasini eslash",
+        "Shunday bo‘lsa kerak deb"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-다는 점은 인정하다 · takrorlash» — Boshqaning jihatini tan olish. Kelishmovchilikda qo‘yilgan ko‘prik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N을/를 계기로 · takrorlash» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Muloyim istakni qaytarish",
+        "Ham ... ham ... niyatida",
+        "Boshqaning jihatini tan olish",
+        "Burilish nuqtasini eslash"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N을/를 계기로 · takrorlash» — Burilish nuqtasini eslash. Qayta uchrashuvdagi yangi sahifa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«서로의 말을 끝까지 들었으면 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Va’daga amal qilsa edi.",
+        "Bir-birining gapini oxirigacha eshitsa edi.",
+        "Kelishmovchilikni suhbat bilan hal qilsa edi.",
+        "Va’da muhimligini tan olaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«서로의 말을 끝까지 들었으면 해요.» — «Bir-birining gapini oxirigacha eshitsa edi.». Bu yerda «A/V-았으면/었으면 하다 · takrorlash» qolipi ishlatilgan: Muloyim istakni qaytarish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Fikrlar har xil ekanini tan olaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "약속이 중요하다는 점은 인정해요.",
+        "갈등을 대화로 풀었으면 해요.",
+        "서로 시간이 필요하다는 점은 인정해야 해요.",
+        "생각이 다르다는 점은 인정해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«생각이 다르다는 점은 인정해요.» — «Fikrlar har xil ekanini tan olaman.». Bu yerda «A/V-다는 점은 인정하다 · takrorlash» qolipi ishlatilgan: Boshqaning jihatini tan olish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«그 편지를 계기로 다시 대화했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Kelishmovchilikni suhbat bilan hal qilsa edi.",
+        "O‘sha xatdan so‘ng qayta suhbatlashdik.",
+        "Va’daga amal qilsa edi.",
+        "Va’da muhimligini tan olaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«그 편지를 계기로 다시 대화했어요.» — «O‘sha xatdan so‘ng qayta suhbatlashdik.». Bu yerda «N을/를 계기로 · takrorlash» qolipi ishlatilgan: Burilish nuqtasini eslash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Va’daga amal qilsa edi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "약속을 지켰으면 해요.",
+        "그 편지를 계기로 다시 대화했어요.",
+        "갈등을 대화로 풀었으면 해요.",
+        "약속을 계기로 신뢰를 다시 쌓았어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«약속을 지켰으면 해요.» — «Va’daga amal qilsa edi.». Bu yerda «A/V-았으면/었으면 하다 · takrorlash» qolipi ishlatilgan: Muloyim istakni qaytarish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«약속이 중요하다는 점은 인정해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Va’da muhimligini tan olaman.",
+        "Va’daga amal qilsa edi.",
+        "Ikkala tomonga vaqt kerakligini tan olish kerak.",
+        "Bir-birining gapini oxirigacha eshitsa edi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«약속이 중요하다는 점은 인정해요.» — «Va’da muhimligini tan olaman.». Bu yerda «A/V-다는 점은 인정하다 · takrorlash» qolipi ishlatilgan: Boshqaning jihatini tan olish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여러분에게 고마움을 말했으면 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bundan keyin ham suhbatni davom ettiraylik.",
+        "Shu farqlar tufayli ko‘proq o‘rgandik.",
+        "Sizlarga minnatdorchilik aytsam edi.",
+        "Turli tomonlarimiz bo‘lganini tan olaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «여러분에게 고마움을 말했으면 해요.» deydi. Ma’nosi: «Sizlarga minnatdorchilik aytsam edi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로 다른 점이 있었다는 점은 인정해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sizlarga minnatdorchilik aytsam edi.",
+        "Shu farqlar tufayli ko‘proq o‘rgandik.",
+        "Bundan keyin ham suhbatni davom ettiraylik.",
+        "Turli tomonlarimiz bo‘lganini tan olaman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «서로 다른 점이 있었다는 점은 인정해요.» deydi. Ma’nosi: «Turli tomonlarimiz bo‘lganini tan olaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그 차이를 계기로 더 많이 배웠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bundan keyin ham suhbatni davom ettiraylik.",
+        "Shu farqlar tufayli ko‘proq o‘rgandik.",
+        "Turli tomonlarimiz bo‘lganini tan olaman.",
+        "Sizlarga minnatdorchilik aytsam edi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «그 차이를 계기로 더 많이 배웠어요.» deydi. Ma’nosi: «Shu farqlar tufayli ko‘proq o‘rgandik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «앞으로도 대화를 계속해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Turli tomonlarimiz bo‘lganini tan olaman.",
+        "Shu farqlar tufayli ko‘proq o‘rgandik.",
+        "Sizlarga minnatdorchilik aytsam edi.",
+        "Bundan keyin ham suhbatni davom ettiraylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «앞으로도 대화를 계속해요.» deydi. Ma’nosi: «Bundan keyin ham suhbatni davom ettiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «서로 다른 점이 있었다는 점은 인정해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Aziz",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Turli tomonlarimiz bo‘lganini tan olaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «앞으로도 대화를 계속해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Bundan keyin ham suhbatni davom ettiraylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

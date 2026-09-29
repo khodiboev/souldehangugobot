@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«공고» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ishga qabul",
+        "e’lon",
+        "suhbat",
+        "malaka, huquq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«공고» — «e’lon». Bu so‘z darsdagi «Ishga kirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«hujjat» koreyschada qaysi so‘z?",
+      "options": [
+        "지원서",
+        "공고",
+        "채용",
+        "서류"
+      ],
+      "correctIndex": 3,
+      "explanation": "«서류» — «hujjat». Bu so‘z darsdagi «Ishga kirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«자격» so‘zining ma’nosi qaysi?",
+      "options": [
+        "malaka, huquq",
+        "ariza",
+        "ishga qabul",
+        "suhbat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«자격» — «malaka, huquq». Bu so‘z darsdagi «Ishga kirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«oxirgi muddat» koreyschada qaysi so‘z?",
+      "options": [
+        "마감",
+        "자기소개",
+        "절차",
+        "합격하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«마감» — «oxirgi muddat». Bu so‘z darsdagi «Tartib» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«확인하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "muvaffaqiyatli o‘tmoq",
+        "jarayon tartibi",
+        "tekshirmoq",
+        "oxirgi muddat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«확인하다» — «tekshirmoq». Bu so‘z darsdagi «Tartib» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«o‘zini tanishtirish» koreyschada qaysi so‘z?",
+      "options": [
+        "합격하다",
+        "제출하다",
+        "자기소개",
+        "확인하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«자기소개» — «o‘zini tanishtirish». Bu so‘z darsdagi «Tartib» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«아래와 같이» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Quyidagicha",
+        "...gani uchun, marhamat",
+        "Faqat Nga",
+        "Bosqichma-bosqich vazifa olish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«아래와 같이» — Quyidagicha. E’lon ichidagi pastga yo‘naltirgan strelka.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)오니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gani uchun, marhamat",
+        "Quyidagicha",
+        "Faqat Nga",
+        "Shunday darajadaki"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)오니» — ...gani uchun, marhamat. Rasmiy e’lonning muloyim sabab bog‘lovchisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N에 한하여» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gani uchun, marhamat",
+        "...ekani shubhasiz",
+        "Quyidagicha",
+        "Faqat Nga"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N에 한하여» — Faqat Nga. E’lon ichidagi kirish sharti.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«지원 절차는 아래와 같이 진행됩니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suhbat joyini o‘zgartirayotganimiz sabab e’lonni o‘qing.",
+        "Faqat shu hafta qabul vaqti uzayadi.",
+        "Qabul yopilayotgani uchun kechikmay topshiring.",
+        "Murojaat tartibi quyidagicha amalga oshadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지원 절차는 아래와 같이 진행됩니다.» — «Murojaat tartibi quyidagicha amalga oshadi.». Bu yerda «아래와 같이» qolipi ishlatilgan: Quyidagicha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hujjat qabul qilish boshlanayotgani sabab muddatni tekshiring.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "지원 절차는 아래와 같이 진행됩니다.",
+        "면접 장소를 변경하오니 안내를 읽어 주세요.",
+        "서류 합격자에 한하여 면접을 진행합니다.",
+        "서류 접수가 시작되오니 기한을 확인하세요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«서류 접수가 시작되오니 기한을 확인하세요.» — «Hujjat qabul qilish boshlanayotgani sabab muddatni tekshiring.». Bu yerda «V-(으)오니» qolipi ishlatilgan: ...gani uchun, marhamat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«서류 합격자에 한하여 면접을 진행합니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hujjat qabul qilish boshlanayotgani sabab muddatni tekshiring.",
+        "Faqat hujjatdan o‘tganlar suhbatga kiradi.",
+        "Qabul yopilayotgani uchun kechikmay topshiring.",
+        "Faqat shu hafta qabul vaqti uzayadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«서류 합격자에 한하여 면접을 진행합니다.» — «Faqat hujjatdan o‘tganlar suhbatga kiradi.». Bu yerda «N에 한하여» qolipi ishlatilgan: Faqat Nga.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Suhbat jadvali quyidagicha beriladi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "지원 절차는 아래와 같이 진행됩니다.",
+        "이번 주에 한하여 접수 시간을 연장합니다.",
+        "재학생에 한하여 신청할 수 있습니다.",
+        "면접 일정은 아래와 같이 안내합니다."
+      ],
+      "correctIndex": 3,
+      "explanation": "«면접 일정은 아래와 같이 안내합니다.» — «Suhbat jadvali quyidagicha beriladi.». Bu yerda «아래와 같이» qolipi ishlatilgan: Quyidagicha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«면접 장소를 변경하오니 안내를 읽어 주세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Faqat hujjatdan o‘tganlar suhbatga kiradi.",
+        "Hujjat qabul qilish boshlanayotgani sabab muddatni tekshiring.",
+        "Suhbat joyini o‘zgartirayotganimiz sabab e’lonni o‘qing.",
+        "Faqat hozir o‘qiyotgan talabalar murojaat qila oladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«면접 장소를 변경하오니 안내를 읽어 주세요.» — «Suhbat joyini o‘zgartirayotganimiz sabab e’lonni o‘qing.». Bu yerda «V-(으)오니» qolipi ishlatilgan: ...gani uchun, marhamat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «필요 서류는 아래와 같이 적혀 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Faqat hujjatdan o‘tganlarga xabar berilar ekan.",
+        "O‘zingizni tanishtirishni ham oldindan mashq qiling.",
+        "Qabul tez orada tugatilgani uchun bugun topshiring.",
+        "Kerakli hujjatlar quyidagicha yozilgan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «필요 서류는 아래와 같이 적혀 있어요.» deydi. Ma’nosi: «Kerakli hujjatlar quyidagicha yozilgan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «접수를 곧 마감하오니 오늘 제출하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘zingizni tanishtirishni ham oldindan mashq qiling.",
+        "Kerakli hujjatlar quyidagicha yozilgan.",
+        "Faqat hujjatdan o‘tganlarga xabar berilar ekan.",
+        "Qabul tez orada tugatilgani uchun bugun topshiring."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «접수를 곧 마감하오니 오늘 제출하세요.» deydi. Ma’nosi: «Qabul tez orada tugatilgani uchun bugun topshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서류 합격자에 한하여 연락이 온대요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘zingizni tanishtirishni ham oldindan mashq qiling.",
+        "Faqat hujjatdan o‘tganlarga xabar berilar ekan.",
+        "Qabul tez orada tugatilgani uchun bugun topshiring.",
+        "Kerakli hujjatlar quyidagicha yozilgan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «서류 합격자에 한하여 연락이 온대요.» deydi. Ma’nosi: «Faqat hujjatdan o‘tganlarga xabar berilar ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «자기소개도 미리 연습해 두세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qabul tez orada tugatilgani uchun bugun topshiring.",
+        "Kerakli hujjatlar quyidagicha yozilgan.",
+        "Faqat hujjatdan o‘tganlarga xabar berilar ekan.",
+        "O‘zingizni tanishtirishni ham oldindan mashq qiling."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «자기소개도 미리 연습해 두세요.» deydi. Ma’nosi: «O‘zingizni tanishtirishni ham oldindan mashq qiling.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «서류 합격자에 한하여 연락이 온대요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Jisu",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Faqat hujjatdan o‘tganlarga xabar berilar ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «자기소개도 미리 연습해 두세요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Soyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «O‘zingizni tanishtirishni ham oldindan mashq qiling.».",
+      "reviewSection": "s"
+    }
+  ]
+}

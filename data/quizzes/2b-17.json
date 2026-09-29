@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "17",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«분실물» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yo‘qolgan buyum",
+        "xabar bermoq",
+        "hodisa",
+        "o‘tkazib yubormoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«분실물» — «yo‘qolgan buyum». Bu so‘z darsdagi «Muammoli vaziyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«samolyot» koreyschada qaysi so‘z?",
+      "options": [
+        "지갑",
+        "비행기",
+        "여권",
+        "놓치다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«비행기» — «samolyot». Bu so‘z darsdagi «Muammoli vaziyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«줄무늬» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ilinib turmoq",
+        "yo‘l-yo‘l naqsh",
+        "qo‘yilib turmoq",
+        "ko‘k bo‘lmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«줄무늬» — «yo‘l-yo‘l naqsh». Bu so‘z darsdagi «Rang va naqsh» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qizil bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "노랗다",
+        "파랗다",
+        "줄무늬",
+        "빨갛다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«빨갛다» — «qizil bo‘lmoq». Bu so‘z darsdagi «Rang va naqsh» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«걸리다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ilinib turmoq",
+        "gulli naqsh",
+        "katak naqsh",
+        "sariq bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«걸리다» — «ilinib turmoq». Bu so‘z darsdagi «Rang va naqsh» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-아다/어다 주다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sal qoldi",
+        "Borib olib kelib berish",
+        "Natija holati saqlanib turishi",
+        "ㅎning o‘zgarishi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-아다/어다 주다» — Borib olib kelib berish. 아다/어다 주다 — yordamga borish va natijani qaytarib kelish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«‘ㅎ’ 불규칙» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Natija holati saqlanib turishi",
+        "Sal qoldi",
+        "ㅎning o‘zgarishi",
+        "Borib olib kelib berish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«‘ㅎ’ 불규칙» — ㅎning o‘zgarishi. ㅎ rangni o‘zgartirib, o‘zi ko‘rinmay qoladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-아/어 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Natija holati saqlanib turishi",
+        "Borib olib kelib berish",
+        "Sal qoldi",
+        "ㅎning o‘zgarishi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-아/어 있다» — Natija holati saqlanib turishi. 아/어 있다 — suratdagi qotib qolgan natija.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«물을 가져다 주세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Suv olib kelib bering.",
+        "Ob-havo yaxshi.",
+        "Samolyotdan qolishimga sal qoldi.",
+        "Osmon ko‘k."
+      ],
+      "correctIndex": 0,
+      "explanation": "«물을 가져다 주세요.» — «Suv olib kelib bering.». Bu yerda «V-아다/어다 주다» qolipi ishlatilgan: Borib olib kelib berish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Samolyotdan qolishimga sal qoldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가방이 빨개요.",
+        "하늘이 파래요.",
+        "표를 사다 줄게요.",
+        "비행기를 놓칠 뻔했어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비행기를 놓칠 뻔했어요.» — «Samolyotdan qolishimga sal qoldi.». Bu yerda «V-(으)ㄹ 뻔하다» qolipi ishlatilgan: Sal qoldi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«가방이 빨개요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Sumka qizil.",
+        "Eshik ochiq turibdi.",
+        "Samolyotdan qolishimga sal qoldi.",
+        "Chipta sotib olib beraman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«가방이 빨개요.» — «Sumka qizil.». Bu yerda «‘ㅎ’ 불규칙» qolipi ishlatilgan: ㅎning o‘zgarishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «파란 줄무늬 가방이 없어졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Stul tagiga qo‘yilgan bo‘lsa kerak.",
+        "Ko‘k yo‘l-yo‘l sumkam yo‘qoldi.",
+        "Men kafedan olib kelib beraman.",
+        "Kafeda qoldirib kelishingizga sal qolgan-a?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «파란 줄무늬 가방이 없어졌어요.» deydi. Ma’nosi: «Ko‘k yo‘l-yo‘l sumkam yo‘qoldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 카페에서 가져다 줄게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘k yo‘l-yo‘l sumkam yo‘qoldi.",
+        "Stul tagiga qo‘yilgan bo‘lsa kerak.",
+        "Kafeda qoldirib kelishingizga sal qolgan-a?",
+        "Men kafedan olib kelib beraman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «제가 카페에서 가져다 줄게요.» deydi. Ma’nosi: «Men kafedan olib kelib beraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «의자 밑에 놓여 있을 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kafeda qoldirib kelishingizga sal qolgan-a?",
+        "Stul tagiga qo‘yilgan bo‘lsa kerak.",
+        "Ko‘k yo‘l-yo‘l sumkam yo‘qoldi.",
+        "Men kafedan olib kelib beraman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «의자 밑에 놓여 있을 거예요.» deydi. Ma’nosi: «Stul tagiga qo‘yilgan bo‘lsa kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «카페에 놓고 올 뻔했지요?» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Xodim",
+        "Aziz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Kafeda qoldirib kelishingizga sal qolgan-a?».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«택시» so‘zining ma’nosi qaysi?",
+      "options": [
+        "stansiya",
+        "taksi",
+        "poyezd",
+        "transport kartasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«택시» — «taksi». Bu so‘z darsdagi «Transport» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«transport kartasi» koreyschada qaysi so‘z?",
+      "options": [
+        "기차",
+        "요금",
+        "교통 카드",
+        "역"
+      ],
+      "correctIndex": 2,
+      "explanation": "«교통 카드» — «transport kartasi». Bu so‘z darsdagi «Transport» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«정문» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘ng tomon",
+        "transport almashtirmoq",
+        "vaqt ketmoq",
+        "asosiy darvoza"
+      ],
+      "correctIndex": 3,
+      "explanation": "«정문» — «asosiy darvoza». Bu so‘z darsdagi «Yo‘l ko‘rsatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«transport almashtirmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "갈아타다",
+        "정문",
+        "오른쪽",
+        "왼쪽"
+      ],
+      "correctIndex": 0,
+      "explanation": "«갈아타다» — «transport almashtirmoq». Bu so‘z darsdagi «Yo‘l ko‘rsatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N에서 N까지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Joydan joygacha",
+        "Niyat qilmoq",
+        "Birov uchun qilib bermoq",
+        "Yo‘nalish yoki vosita"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N에서 N까지» — Joydan joygacha. 에서 va 까지 — xaritadagi A va B nuqtalari.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N(으)로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Niyat qilmoq",
+        "Yo‘nalish yoki vosita",
+        "Joydan joygacha",
+        "Birov uchun qilib bermoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N(으)로» — Yo‘nalish yoki vosita. (으)로 — kompas o‘qi yoki ishlatilgan vosita.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«서울역에 가려고 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "2-yo‘nalishga o‘ting.",
+        "Uydan maktabgacha uzoq.",
+        "Seul vokzaliga bormoqchiman.",
+        "Transport kartasi sotib olmoqchiman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«서울역에 가려고 해요.» — «Seul vokzaliga bormoqchiman.». Bu yerda «V-(으)려고 하다» qolipi ishlatilgan: Niyat qilmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Uydan maktabgacha uzoq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "서울역으로 가 주세요.",
+        "길을 가르쳐 주세요.",
+        "여기에서 역까지 걸어가요.",
+        "집에서 학교까지 멀어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«집에서 학교까지 멀어요.» — «Uydan maktabgacha uzoq.». Bu yerda «N에서 N까지» qolipi ishlatilgan: Joydan joygacha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «집에서 서울역까지 어떻게 가요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Kech qolmang. Soat o‘ngacha keling.",
+        "Avtobusda borib, metroga o‘taman.",
+        "Uydan Seul vokzaligacha qanday borasiz?",
+        "Seul vokzaliga bormoqchiman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «집에서 서울역까지 어떻게 가요?» deydi. Ma’nosi: «Uydan Seul vokzaligacha qanday borasiz?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «늦지 마세요. 열 시까지 와 주세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Seul vokzaliga bormoqchiman.",
+        "Uydan Seul vokzaligacha qanday borasiz?",
+        "Kech qolmang. Soat o‘ngacha keling.",
+        "Avtobusda borib, metroga o‘taman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «늦지 마세요. 열 시까지 와 주세요.» deydi. Ma’nosi: «Kech qolmang. Soat o‘ngacha keling.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기사» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maqola, xabar",
+        "gazeta",
+        "axborot yig‘ish",
+        "fakt"
+      ],
+      "correctIndex": 0,
+      "explanation": "«기사» — «maqola, xabar». Bu so‘z darsdagi «Xabar va matbuot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«muxbir» koreyschada qaysi so‘z?",
+      "options": [
+        "기사",
+        "기자",
+        "제목",
+        "취재"
+      ],
+      "correctIndex": 1,
+      "explanation": "«기자» — «muxbir». Bu so‘z darsdagi «Xabar va matbuot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«사실» so‘zining ma’nosi qaysi?",
+      "options": [
+        "axborot yig‘ish",
+        "fakt",
+        "muxbir",
+        "sarlavha"
+      ],
+      "correctIndex": 1,
+      "explanation": "«사실» — «fakt». Bu so‘z darsdagi «Xabar va matbuot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kim, qachon, qayerda, nima, qanday, nega savollari» koreyschada qaysi so‘z?",
+      "options": [
+        "출처",
+        "경제",
+        "육하원칙",
+        "보도"
+      ],
+      "correctIndex": 2,
+      "explanation": "«육하원칙» — «kim, qachon, qayerda, nima, qanday, nega savollari». Bu so‘z darsdagi «Axborotni tekshirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«경제» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tekshirmoq",
+        "buzib ko‘rsatmoq",
+        "iqtisod",
+        "kim, qachon, qayerda, nima, qanday, nega savollari"
+      ],
+      "correctIndex": 2,
+      "explanation": "«경제» — «iqtisod». Bu so‘z darsdagi «Axborotni tekshirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«buzib ko‘rsatmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "육하원칙",
+        "경제",
+        "왜곡하다",
+        "확인하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«왜곡하다» — «buzib ko‘rsatmoq». Bu so‘z darsdagi «Axborotni tekshirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«뭐니 뭐니 해도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunchalik ...ki",
+        "Nima desa ham, baribir",
+        "Nni burilish nuqtasi qilib",
+        "Burilish nuqtasini eslash"
+      ],
+      "correctIndex": 1,
+      "explanation": "«뭐니 뭐니 해도» — Nima desa ham, baribir. Shovqin ichidan eng baland eshitilgan bitta ovoz.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)리만큼» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nni burilish nuqtasi qilib",
+        "Demak, ... degani",
+        "Shunchalik ...ki",
+        "Nima desa ham, baribir"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)리만큼» — Shunchalik ...ki. Daraja chizig‘ining eng yuqori nuqtasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N을/를 계기로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunchalik ...ki",
+        "Nima desa ham, baribir",
+        "Nni burilish nuqtasi qilib",
+        "...ishi mumkin, tabiiy"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N을/를 계기로» — Nni burilish nuqtasi qilib. Yo‘l yo‘nalishi o‘zgargan chorraha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«뭐니 뭐니 해도 기사에서 가장 중요한 것은 정확성이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Nima desa ham, maqolada eng muhimi aniqlik.",
+        "Baribir avval manbani tekshirish kerak.",
+        "Maqola har kim ishonadigan darajada aniq edi.",
+        "Bu xabar hammani hayron qoldiradigan darajada tez tarqaldi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«뭐니 뭐니 해도 기사에서 가장 중요한 것은 정확성이에요.» — «Nima desa ham, maqolada eng muhimi aniqlik.». Bu yerda «뭐니 뭐니 해도» qolipi ishlatilgan: Nima desa ham, baribir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Bu xabar hammani hayron qoldiradigan darajada tez tarqaldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기사가 누구나 믿으리만큼 구체적이었어요.",
+        "제목이 오래 기억에 남으리만큼 강렬했어요.",
+        "그 소식은 누구나 놀라리만큼 빨리 퍼졌어요.",
+        "그 기사를 계기로 사실 확인을 시작했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그 소식은 누구나 놀라리만큼 빨리 퍼졌어요.» — «Bu xabar hammani hayron qoldiradigan darajada tez tarqaldi.». Bu yerda «A/V-(으)리만큼» qolipi ishlatilgan: Shunchalik ...ki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«그 기사를 계기로 사실 확인을 시작했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Sarlavha uzoq esda qoladigan darajada kuchli edi.",
+        "O‘sha maqoladan so‘ng faktlarni tekshira boshladim.",
+        "Nima desa ham, maqolada eng muhimi aniqlik.",
+        "Intervyu menga muxbir bo‘lish istagini uyg‘otdi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«그 기사를 계기로 사실 확인을 시작했어요.» — «O‘sha maqoladan so‘ng faktlarni tekshira boshladim.». Bu yerda «N을/를 계기로» qolipi ishlatilgan: Nni burilish nuqtasi qilib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Baribir avval manbani tekshirish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "뭐니 뭐니 해도 기사에서 가장 중요한 것은 정확성이에요.",
+        "인터뷰를 계기로 기자가 되고 싶어졌어요.",
+        "그 소식은 누구나 놀라리만큼 빨리 퍼졌어요.",
+        "뭐니 뭐니 해도 출처를 먼저 확인해야 해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«뭐니 뭐니 해도 출처를 먼저 확인해야 해요.» — «Baribir avval manbani tekshirish kerak.». Bu yerda «뭐니 뭐니 해도» qolipi ishlatilgan: Nima desa ham, baribir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«기사가 누구나 믿으리만큼 구체적이었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Maqola har kim ishonadigan darajada aniq edi.",
+        "Xato xabar turtki bo‘lib tahrir qoidasini o‘zgartirdik.",
+        "Baribir avval manbani tekshirish kerak.",
+        "Bu xabar hammani hayron qoldiradigan darajada tez tarqaldi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«기사가 누구나 믿으리만큼 구체적이었어요.» — «Maqola har kim ishonadigan darajada aniq edi.». Bu yerda «A/V-(으)리만큼» qolipi ishlatilgan: Shunchalik ...ki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «문화 행사 기사를 쓰고 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Nima desa ham qatnashchilar ismini tekshiring.",
+        "Tadbir turtki bo‘lib qo‘shnilar yanada yaqinlashdi.",
+        "Bu hikoya ko‘pchilikni qiziqtiradigan darajada yaxshi.",
+        "Madaniyat tadbiri haqida maqola yozyapman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «문화 행사 기사를 쓰고 있어요.» deydi. Ma’nosi: «Madaniyat tadbiri haqida maqola yozyapman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «뭐니 뭐니 해도 참석자 이름을 확인해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu hikoya ko‘pchilikni qiziqtiradigan darajada yaxshi.",
+        "Nima desa ham qatnashchilar ismini tekshiring.",
+        "Tadbir turtki bo‘lib qo‘shnilar yanada yaqinlashdi.",
+        "Madaniyat tadbiri haqida maqola yozyapman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «뭐니 뭐니 해도 참석자 이름을 확인해요.» deydi. Ma’nosi: «Nima desa ham qatnashchilar ismini tekshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «행사를 계기로 동네 사람들이 더 가까워졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Madaniyat tadbiri haqida maqola yozyapman.",
+        "Nima desa ham qatnashchilar ismini tekshiring.",
+        "Bu hikoya ko‘pchilikni qiziqtiradigan darajada yaxshi.",
+        "Tadbir turtki bo‘lib qo‘shnilar yanada yaqinlashdi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «행사를 계기로 동네 사람들이 더 가까워졌어요.» deydi. Ma’nosi: «Tadbir turtki bo‘lib qo‘shnilar yanada yaqinlashdi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그 이야기는 누구나 관심을 가질 만큼 좋아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Madaniyat tadbiri haqida maqola yozyapman.",
+        "Tadbir turtki bo‘lib qo‘shnilar yanada yaqinlashdi.",
+        "Nima desa ham qatnashchilar ismini tekshiring.",
+        "Bu hikoya ko‘pchilikni qiziqtiradigan darajada yaxshi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «그 이야기는 누구나 관심을 가질 만큼 좋아요.» deydi. Ma’nosi: «Bu hikoya ko‘pchilikni qiziqtiradigan darajada yaxshi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «뭐니 뭐니 해도 참석자 이름을 확인해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Nima desa ham qatnashchilar ismini tekshiring.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그 이야기는 누구나 관심을 가질 만큼 좋아요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Bu hikoya ko‘pchilikni qiziqtiradigan darajada yaxshi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

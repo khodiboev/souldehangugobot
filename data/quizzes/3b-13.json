@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«돌잔치» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bir yosh to‘yi",
+        "nikoh marosimi",
+        "dafn marosimi",
+        "voyaga yetish marosimi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«돌잔치» — «bir yosh to‘yi». Bu so‘z darsdagi «Marosimlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«voyaga yetish marosimi» koreyschada qaysi so‘z?",
+      "options": [
+        "돌잔치",
+        "하객",
+        "결혼식",
+        "성년식"
+      ],
+      "correctIndex": 3,
+      "explanation": "«성년식» — «voyaga yetish marosimi». Bu so‘z darsdagi «Marosimlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«양복» so‘zining ma’nosi qaysi?",
+      "options": [
+        "saranjom ko‘rinmoq",
+        "kostyum",
+        "rasmiy kiyim",
+        "milliy kiyim"
+      ],
+      "correctIndex": 1,
+      "explanation": "«양복» — «kostyum». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«milliy kiyim» koreyschada qaysi so‘z?",
+      "options": [
+        "양복",
+        "한복",
+        "화려하다",
+        "정장"
+      ],
+      "correctIndex": 1,
+      "explanation": "«한복» — «milliy kiyim». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«화려하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kostyum",
+        "hashamatli bo‘lmoq",
+        "rasmiy kiyim",
+        "milliy kiyim"
+      ],
+      "correctIndex": 1,
+      "explanation": "«화려하다» — «hashamatli bo‘lmoq». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ까 봐» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishim kerak edi, ammo",
+        "Bo‘lib qolishidan xavotir",
+        "Kiyib turmoq",
+        "...ishi uchun / ...gacha"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)ㄹ까 봐» — Bo‘lib qolishidan xavotir. (으)ㄹ까 봐 — xavf soyasini ko‘rib oldindan qilingan ehtiyot.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-았어야/었어야 했는데» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ishi uchun / ...gacha",
+        "Bo‘lib qolishidan xavotir",
+        "Qilishim kerak edi, ammo",
+        "Kiyib turmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-았어야/었어야 했는데» — Qilishim kerak edi, ammo. 했어야 했는데 — o‘tmishdagi bajarilmagan vazifa yonidagi afsus.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-도록» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bo‘lib qolishidan xavotir",
+        "...ishi uchun / ...gacha",
+        "Kiyib turmoq",
+        "Qilishim kerak edi, ammo"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-도록» — ...ishi uchun / ...gacha. 도록 — natija tomonga cho‘zilgan yo‘l.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«늦을까 봐 일찍 출발했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hozir kiyib turgan kostyumingiz yarashadi.",
+        "Hanbok kiyib turgan odam kelin.",
+        "Kech qolmaslik uchun shoshiling.",
+        "Kech qolishdan xavotirlanib erta chiqdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "«늦을까 봐 일찍 출발했어요.» — «Kech qolishdan xavotirlanib erta chiqdim.». Bu yerda «A/V-(으)ㄹ까 봐» qolipi ishlatilgan: Bo‘lib qolishidan xavotir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hozir kiyib turgan kostyumingiz yarashadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "한복을 입고 있는 사람이 신부예요.",
+        "지금 입고 있는 양복이 잘 어울려요.",
+        "옷이 구겨지지 않도록 조심하세요.",
+        "옷이 안 어울릴까 봐 걱정돼요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«지금 입고 있는 양복이 잘 어울려요.» — «Hozir kiyib turgan kostyumingiz yarashadi.». Bu yerda «V-고 있다» qolipi ishlatilgan: Kiyib turmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«정장을 입었어야 했는데 너무 편하게 왔어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hozir kiyib turgan kostyumingiz yarashadi.",
+        "Rasmiy kiyim kiyishim kerak edi, juda oddiy keldim.",
+        "Kech qolishdan xavotirlanib erta chiqdim.",
+        "Taklifnomani tekshirishim kerak edi, ko‘rmadim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«정장을 입었어야 했는데 너무 편하게 왔어요.» — «Rasmiy kiyim kiyishim kerak edi, juda oddiy keldim.». Bu yerda «A/V-았어야/었어야 했는데» qolipi ishlatilgan: Qilishim kerak edi, ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지금 입고 있는 양복이 너무 어둡지 않아요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Hozir kiygan kostyumim juda qoramtir emasmi?",
+        "Taklifnomani oldin o‘qishim kerak edi, kech ko‘rdim.",
+        "Hashamatli bo‘lishidan xavotirlanish shart emas.",
+        "Suratda yaxshi chiqish uchun oldinda turing."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «지금 입고 있는 양복이 너무 어둡지 않아요?» deydi. Ma’nosi: «Hozir kiygan kostyumim juda qoramtir emasmi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «초대장을 미리 읽었어야 했는데 늦게 봤어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hashamatli bo‘lishidan xavotirlanish shart emas.",
+        "Taklifnomani oldin o‘qishim kerak edi, kech ko‘rdim.",
+        "Suratda yaxshi chiqish uchun oldinda turing.",
+        "Hozir kiygan kostyumim juda qoramtir emasmi?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «초대장을 미리 읽었어야 했는데 늦게 봤어요.» deydi. Ma’nosi: «Taklifnomani oldin o‘qishim kerak edi, kech ko‘rdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사진에 잘 나오도록 앞에 서세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Suratda yaxshi chiqish uchun oldinda turing.",
+        "Taklifnomani oldin o‘qishim kerak edi, kech ko‘rdim.",
+        "Hozir kiygan kostyumim juda qoramtir emasmi?",
+        "Hashamatli bo‘lishidan xavotirlanish shart emas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «사진에 잘 나오도록 앞에 서세요.» deydi. Ma’nosi: «Suratda yaxshi chiqish uchun oldinda turing.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «화려할까 봐 걱정할 필요 없어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Soyon",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Hashamatli bo‘lishidan xavotirlanish shart emas.».",
+      "reviewSection": "s"
+    }
+  ]
+}

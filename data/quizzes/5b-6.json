@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«유행» so‘zining ma’nosi qaysi?",
+      "options": [
+        "an’anaviy koreys kiyimi",
+        "kiyinish uslubi",
+        "mato turi",
+        "moda"
+      ],
+      "correctIndex": 3,
+      "explanation": "«유행» — «moda». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«an’anaviy koreys kiyimi» koreyschada qaysi so‘z?",
+      "options": [
+        "한복",
+        "재킷",
+        "유행",
+        "소재"
+      ],
+      "correctIndex": 0,
+      "explanation": "«한복» — «an’anaviy koreys kiyimi». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«소재» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kiyim madaniyati",
+        "jaket",
+        "mato turi",
+        "an’anaviy koreys kiyimi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«소재» — «mato turi». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«vazifa, qulaylik» koreyschada qaysi so‘z?",
+      "options": [
+        "기능",
+        "개성",
+        "색상",
+        "유행하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«기능» — «vazifa, qulaylik». Bu so‘z darsdagi «Tanlash mezoni» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«소비» so‘zining ma’nosi qaysi?",
+      "options": [
+        "rang",
+        "iste’mol",
+        "vazifa, qulaylik",
+        "o‘ziga xoslik"
+      ],
+      "correctIndex": 1,
+      "explanation": "«소비» — «iste’mol». Bu so‘z darsdagi «Tanlash mezoni» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«urf bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "색상",
+        "유행하다",
+        "가격",
+        "기능"
+      ],
+      "correctIndex": 1,
+      "explanation": "«유행하다» — «urf bo‘lmoq». Bu so‘z darsdagi «Tanlash mezoni» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N은/는 물론이거니와» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N u yoqda tursin, bundan ham tashqari",
+        "Bir vaqtning o‘zida N ham N",
+        "N haqida gapirsam",
+        "N urf bo‘lib ketmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N은/는 물론이거니와» — N u yoqda tursin, bundan ham tashqari. Bir ustun ustiga ikkinchi ustun qo‘yilgan dalil.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N을/를 말하라면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...moqchimi ekan",
+        "N haqida gapirsam",
+        "Bir vaqtning o‘zida N ham N",
+        "N u yoqda tursin, bundan ham tashqari"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N을/를 말하라면» — N haqida gapirsam. Mavzu nomi yozilgan eshikni ochish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N이자 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N u yoqda tursin, bundan ham tashqari",
+        "Bir vaqtning o‘zida N ham N",
+        "Qiyinchilikni yengib uddalamoq",
+        "N haqida gapirsam"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N이자 N» — Bir vaqtning o‘zida N ham N. Bitta odamdagi ikki yorliq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«이 옷은 디자인은 물론이거니와 기능도 좋아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hanbok bilan birga zamonaviy kiyimni ham tanishtiramiz.",
+        "Bu kiyim dizayni yaxshi, qolaversa vazifasi ham yaxshi.",
+        "Hanbok kiyim ham madaniyat ifodasi ham.",
+        "Hanbok haqida gapirsam rang uyg‘unligi yodimga tushadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«이 옷은 디자인은 물론이거니와 기능도 좋아요.» — «Bu kiyim dizayni yaxshi, qolaversa vazifasi ham yaxshi.». Bu yerda «N은/는 물론이거니와» qolipi ishlatilgan: N u yoqda tursin, bundan ham tashqari.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hozirgi moda haqida gapirsam qulay kiyimni chetlab bo‘lmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "좋은 옷을 말하라면 오래 입을 수 있는 옷이에요.",
+        "가격은 물론이거니와 소재도 확인해야 해요.",
+        "한복은 물론이거니와 현대 옷도 소개할게요.",
+        "요즘 유행을 말하라면 편한 옷을 빼놓을 수 없어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«요즘 유행을 말하라면 편한 옷을 빼놓을 수 없어요.» — «Hozirgi moda haqida gapirsam qulay kiyimni chetlab bo‘lmaydi.». Bu yerda «N을/를 말하라면» qolipi ishlatilgan: N haqida gapirsam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«민지는 학생이자 디자이너예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hanbok kiyim ham madaniyat ifodasi ham.",
+        "Hozirgi moda haqida gapirsam qulay kiyimni chetlab bo‘lmaydi.",
+        "Bu kiyim dizayni yaxshi, qolaversa vazifasi ham yaxshi.",
+        "Minji talaba ham dizayner ham."
+      ],
+      "correctIndex": 3,
+      "explanation": "«민지는 학생이자 디자이너예요.» — «Minji talaba ham dizayner ham.». Bu yerda «N이자 N» qolipi ishlatilgan: Bir vaqtning o‘zida N ham N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Narxdan tashqari matoni ham tekshirish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 옷은 디자인은 물론이거니와 기능도 좋아요.",
+        "좋은 옷을 말하라면 오래 입을 수 있는 옷이에요.",
+        "민지는 학생이자 디자이너예요.",
+        "가격은 물론이거니와 소재도 확인해야 해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«가격은 물론이거니와 소재도 확인해야 해요.» — «Narxdan tashqari matoni ham tekshirish kerak.». Bu yerda «N은/는 물론이거니와» qolipi ishlatilgan: N u yoqda tursin, bundan ham tashqari.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«한복을 말하라면 색의 조화를 떠올려요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu jaket kundalik ham ish kiyimi.",
+        "Hozirgi moda haqida gapirsam qulay kiyimni chetlab bo‘lmaydi.",
+        "Hanbok haqida gapirsam rang uyg‘unligi yodimga tushadi.",
+        "Hanbok bilan birga zamonaviy kiyimni ham tanishtiramiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한복을 말하라면 색의 조화를 떠올려요.» — «Hanbok haqida gapirsam rang uyg‘unligi yodimga tushadi.». Bu yerda «N을/를 말하라면» qolipi ishlatilgan: N haqida gapirsam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 학생이자 발표자니까 편한 옷이 필요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men talaba ham taqdimotchi ham, qulay kiyim kerak.",
+        "Unda har kim o‘ziga mos kiyim tanlasin.",
+        "Moda haqida gapirsak shaxsiy did ham muhim.",
+        "Rangdan tashqari harakatga qulay bo‘lsin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «저는 학생이자 발표자니까 편한 옷이 필요해요.» deydi. Ma’nosi: «Men talaba ham taqdimotchi ham, qulay kiyim kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «색은 물론이거니와 움직이기 편해야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men talaba ham taqdimotchi ham, qulay kiyim kerak.",
+        "Moda haqida gapirsak shaxsiy did ham muhim.",
+        "Rangdan tashqari harakatga qulay bo‘lsin.",
+        "Unda har kim o‘ziga mos kiyim tanlasin."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «색은 물론이거니와 움직이기 편해야 해요.» deydi. Ma’nosi: «Rangdan tashqari harakatga qulay bo‘lsin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «유행을 말하라면 개인의 취향도 중요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Moda haqida gapirsak shaxsiy did ham muhim.",
+        "Rangdan tashqari harakatga qulay bo‘lsin.",
+        "Men talaba ham taqdimotchi ham, qulay kiyim kerak.",
+        "Unda har kim o‘ziga mos kiyim tanlasin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «유행을 말하라면 개인의 취향도 중요해요.» deydi. Ma’nosi: «Moda haqida gapirsak shaxsiy did ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그러면 각자 자신에게 맞는 옷을 골라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men talaba ham taqdimotchi ham, qulay kiyim kerak.",
+        "Rangdan tashqari harakatga qulay bo‘lsin.",
+        "Unda har kim o‘ziga mos kiyim tanlasin.",
+        "Moda haqida gapirsak shaxsiy did ham muhim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «그러면 각자 자신에게 맞는 옷을 골라요.» deydi. Ma’nosi: «Unda har kim o‘ziga mos kiyim tanlasin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «색은 물론이거니와 움직이기 편해야 해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Rangdan tashqari harakatga qulay bo‘lsin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그러면 각자 자신에게 맞는 옷을 골라요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Unda har kim o‘ziga mos kiyim tanlasin.».",
+      "reviewSection": "s"
+    }
+  ]
+}

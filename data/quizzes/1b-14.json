@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«치마» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yubka",
+        "tufli",
+        "ko‘ylak",
+        "shim"
+      ],
+      "correctIndex": 0,
+      "explanation": "«치마» — «yubka». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tufli» koreyschada qaysi so‘z?",
+      "options": [
+        "치마",
+        "바지",
+        "옷",
+        "구두"
+      ],
+      "correctIndex": 3,
+      "explanation": "«구두» — «tufli». Bu so‘z darsdagi «Kiyim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«길다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "katta bo‘lmoq",
+        "qulay bo‘lmoq",
+        "uzun bo‘lmoq",
+        "yoqimtoy bo‘lmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«길다» — «uzun bo‘lmoq». Bu so‘z darsdagi «Tashqi ko‘rinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qulay bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "작다",
+        "짧다",
+        "편하다",
+        "예쁘다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«편하다» — «qulay bo‘lmoq». Bu so‘z darsdagi «Tashqi ko‘rinish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kimga",
+        "Sinab ko‘ring",
+        "Sifatni otdan oldin qo‘yish",
+        "ㄹ undoshi tushishi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-(으)ㄴ N» — Sifatni otdan oldin qo‘yish. Sifat otning oldiga kirishda (으)ㄴ “pasport”ini oladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아/어 보세요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kimga",
+        "Sinab ko‘ring",
+        "Sifatni otdan oldin qo‘yish",
+        "ㄹ undoshi tushishi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-아/어 보세요» — Sinab ko‘ring. 아/어 보세요 — xarid qilishdan oldingi “test tugmasi”.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«긴 바지를 입었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uzun shim kiydim.",
+        "Onamga palto oldim.",
+        "Qulay krossovka kiyaman.",
+        "Uzun palto yoqadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«긴 바지를 입었어요.» — «Uzun shim kiydim.». Bu yerda «‘ㄹ’ 탈락» qolipi ishlatilgan: ㄹ undoshi tushishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Bu chiroyli yubka.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "선생님은 옷을 만드세요.",
+        "친구한테 선물을 줬어요.",
+        "예쁜 치마예요.",
+        "거울을 한번 봐 보세요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«예쁜 치마예요.» — «Bu chiroyli yubka.». Bu yerda «A-(으)ㄴ N» qolipi ishlatilgan: Sifatni otdan oldin qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «따뜻한 장갑은 어때요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Issiq qo‘lqop qanday?",
+        "Ustozga nima beramiz?",
+        "Bu chiroyli qo‘lqopni bir ko‘ring.",
+        "Yaxshi. Ustozga yarashadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «따뜻한 장갑은 어때요?» deydi. Ma’nosi: «Issiq qo‘lqop qanday?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋아요. 선생님한테 잘 어울릴 거예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu chiroyli qo‘lqopni bir ko‘ring.",
+        "Ustozga nima beramiz?",
+        "Issiq qo‘lqop qanday?",
+        "Yaxshi. Ustozga yarashadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «좋아요. 선생님한테 잘 어울릴 거예요.» deydi. Ma’nosi: «Yaxshi. Ustozga yarashadi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«선수» so‘zining ma’nosi qaysi?",
+      "options": [
+        "final o‘yini",
+        "ochko, gol",
+        "sportchi",
+        "hakam"
+      ],
+      "correctIndex": 2,
+      "explanation": "«선수» — «sportchi». Bu so‘z darsdagi «Sport musobaqasi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«final o‘yini» koreyschada qaysi so‘z?",
+      "options": [
+        "득점",
+        "심판",
+        "결승전",
+        "종목"
+      ],
+      "correctIndex": 2,
+      "explanation": "«결승전» — «final o‘yini». Bu so‘z darsdagi «Sport musobaqasi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«기록» so‘zining ma’nosi qaysi?",
+      "options": [
+        "final o‘yini",
+        "hakam",
+        "rekord",
+        "sportchi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기록» — «rekord». Bu so‘z darsdagi «Sport musobaqasi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«mag‘lubiyat» koreyschada qaysi so‘z?",
+      "options": [
+        "패배",
+        "탈락하다",
+        "역전하다",
+        "비기다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«패배» — «mag‘lubiyat». Bu so‘z darsdagi «Natija va holat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«역전하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "musobaqadan chiqmoq",
+        "durang o‘ynamoq",
+        "mag‘lubiyat",
+        "hisobni o‘girib yutmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«역전하다» — «hisobni o‘girib yutmoq». Bu so‘z darsdagi «Natija va holat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«durang o‘ynamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "패배",
+        "비기다",
+        "탈락하다",
+        "승리"
+      ],
+      "correctIndex": 1,
+      "explanation": "«비기다» — «durang o‘ynamoq». Bu so‘z darsdagi «Natija va holat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)나 마나» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ga nisbatan",
+        "Kutilmagan sabab tufayli",
+        "Qilsa ham, qilmasa ham",
+        "N deb ataladigan N"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)나 마나» — Qilsa ham, qilmasa ham. Ikki yo‘l ham bir xil manzilga olib boradigan xarita.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-는 바람에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N deb ataladigan N",
+        "Qilsa ham, qilmasa ham",
+        "Kutilmagan sabab tufayli",
+        "...ga nisbatan"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-는 바람에» — Kutilmagan sabab tufayli. Kutilmagan shamol rejani boshqa tomonga uchirib ketdi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)라는 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N deb ataladigan N",
+        "Kutilmagan sabab tufayli",
+        "Qilsa ham, qilmasa ham",
+        "...ga nisbatan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N(이)라는 N» — N deb ataladigan N. Yangi nomga yopishtirilgan tushuntirish yorlig‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N에 비해서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N deb ataladigan N",
+        "...ga nisbatan",
+        "Qilsa ham, qilmasa ham",
+        "Kutilmagan sabab tufayli"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N에 비해서» — ...ga nisbatan. Tarozining bir pallasi mezon bo‘lib turadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«지금 출발하나 마나 경기에는 늦어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Jamoamiz o‘tgan yilga nisbatan kuchaydi.",
+        "Futbolning vaqti beysbolga nisbatan barqaror.",
+        "Ssireum deb ataladigan an’anaviy sportni bilasizmi?",
+        "Hozir chiqsak ham, chiqmasak ham o‘yinga kechikamiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지금 출발하나 마나 경기에는 늦어요.» — «Hozir chiqsak ham, chiqmasak ham o‘yinga kechikamiz.». Bu yerda «V-(으)나 마나» qolipi ishlatilgan: Qilsa ham, qilmasa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Yomg‘ir yog‘gani tufayli o‘yin bekor bo‘ldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "마라톤이라는 종목에 도전하고 싶어요.",
+        "페어플레이라는 원칙이 중요해요.",
+        "주전 선수가 다치는 바람에 전략이 바뀌었어요.",
+        "비가 오는 바람에 경기가 취소됐어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비가 오는 바람에 경기가 취소됐어요.» — «Yomg‘ir yog‘gani tufayli o‘yin bekor bo‘ldi.». Bu yerda «V-는 바람에» qolipi ishlatilgan: Kutilmagan sabab tufayli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«씨름이라는 전통 경기를 아세요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Jamoamiz o‘tgan yilga nisbatan kuchaydi.",
+        "Fair-play deb ataladigan tamoyil muhim.",
+        "Ssireum deb ataladigan an’anaviy sportni bilasizmi?",
+        "Hakam kech kelgani sabab o‘yin kech boshlandi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«씨름이라는 전통 경기를 아세요?» — «Ssireum deb ataladigan an’anaviy sportni bilasizmi?». Bu yerda «N(이)라는 N» qolipi ishlatilgan: N deb ataladigan N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Jamoamiz o‘tgan yilga nisbatan kuchaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "우리 팀은 작년에 비해서 실력이 좋아졌어요.",
+        "그 선수에게 물으나 마나 출전한다고 할 거예요.",
+        "결과는 보나 마나 우리 팀의 승리예요.",
+        "마라톤이라는 종목에 도전하고 싶어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«우리 팀은 작년에 비해서 실력이 좋아졌어요.» — «Jamoamiz o‘tgan yilga nisbatan kuchaydi.». Bu yerda «N에 비해서» qolipi ishlatilgan: ...ga nisbatan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주전 선수가 다치는 바람에 모두 걱정했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunga qaramay, zaxira sportchilari o‘tgan yilga nisbatan kuchli.",
+        "Sportda hisobni o‘girish degan lahza bor-ku.",
+        "Natija aniq deb oldindan aytmaslik kerak.",
+        "Asosiy sportchi jarohatlangani uchun hamma xavotirlandi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «주전 선수가 다치는 바람에 모두 걱정했어요.» deydi. Ma’nosi: «Asosiy sportchi jarohatlangani uchun hamma xavotirlandi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그래도 작년에 비해서 후보 선수들의 실력이 좋아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Asosiy sportchi jarohatlangani uchun hamma xavotirlandi.",
+        "Sportda hisobni o‘girish degan lahza bor-ku.",
+        "Shunga qaramay, zaxira sportchilari o‘tgan yilga nisbatan kuchli.",
+        "Natija aniq deb oldindan aytmaslik kerak."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «그래도 작년에 비해서 후보 선수들의 실력이 좋아요.» deydi. Ma’nosi: «Shunga qaramay, zaxira sportchilari o‘tgan yilga nisbatan kuchli.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «결과는 보나 마나라고 미리 말하면 안 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Natija aniq deb oldindan aytmaslik kerak.",
+        "Shunga qaramay, zaxira sportchilari o‘tgan yilga nisbatan kuchli.",
+        "Asosiy sportchi jarohatlangani uchun hamma xavotirlandi.",
+        "Sportda hisobni o‘girish degan lahza bor-ku."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «결과는 보나 마나라고 미리 말하면 안 돼요.» deydi. Ma’nosi: «Natija aniq deb oldindan aytmaslik kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «스포츠에는 역전이라는 순간이 있으니까요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Asosiy sportchi jarohatlangani uchun hamma xavotirlandi.",
+        "Natija aniq deb oldindan aytmaslik kerak.",
+        "Sportda hisobni o‘girish degan lahza bor-ku.",
+        "Shunga qaramay, zaxira sportchilari o‘tgan yilga nisbatan kuchli."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «스포츠에는 역전이라는 순간이 있으니까요.» deydi. Ma’nosi: «Sportda hisobni o‘girish degan lahza bor-ku.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그래도 작년에 비해서 후보 선수들의 실력이 좋아요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Shunga qaramay, zaxira sportchilari o‘tgan yilga nisbatan kuchli.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «스포츠에는 역전이라는 순간이 있으니까요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Sportda hisobni o‘girish degan lahza bor-ku.».",
+      "reviewSection": "s"
+    }
+  ]
+}

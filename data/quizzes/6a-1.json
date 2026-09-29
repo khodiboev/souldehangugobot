@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«성격» so‘zining ma’nosi qaysi?",
+      "options": [
+        "munosabat",
+        "xarakter",
+        "hamkorlik",
+        "mas’uliyat hissi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«성격» — «xarakter». Bu so‘z darsdagi «Inson fazilatlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«mas’uliyat hissi» koreyschada qaysi so‘z?",
+      "options": [
+        "인재",
+        "책임감",
+        "성격",
+        "태도"
+      ],
+      "correctIndex": 1,
+      "explanation": "«책임감» — «mas’uliyat hissi». Bu so‘z darsdagi «Inson fazilatlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«창의성» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ijodkorlik",
+        "mas’uliyat hissi",
+        "xarakter",
+        "munosabat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«창의성» — «ijodkorlik». Bu so‘z darsdagi «Inson fazilatlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tajriba» koreyschada qaysi so‘z?",
+      "options": [
+        "실수",
+        "평가하다",
+        "경험",
+        "습관"
+      ],
+      "correctIndex": 2,
+      "explanation": "«경험» — «tajriba». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«습관» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xato",
+        "baholamoq",
+        "tajriba",
+        "odat"
+      ],
+      "correctIndex": 3,
+      "explanation": "«습관» — «odat». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«baholamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "기준",
+        "경험",
+        "평가하다",
+        "능력"
+      ],
+      "correctIndex": 2,
+      "explanation": "«평가하다» — «baholamoq». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-건 (간에)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lsin yoki ... bo‘lsin",
+        "...ishi bilan",
+        "Faqat ... xolos",
+        "Ko‘pincha ... qilib qo‘ymoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-건 (간에)» — ... bo‘lsin yoki ... bo‘lsin. Ikki yo‘l bir qoida tomon boradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-기 일쑤(이)다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... deb ishonib / ... bo‘ladi deb",
+        "Ko‘pincha ... qilib qo‘ymoq",
+        "... bo‘lsa ham",
+        "... bo‘lsin yoki ... bo‘lsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-기 일쑤(이)다» — Ko‘pincha ... qilib qo‘ymoq. Qayta-qayta yongan ogohlantirish chirog‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«경험이 많건 적건 서로 배울 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Gap tez bo‘lsin yoki sekin, suhbatdoshni hurmat qilamiz.",
+        "Tajriba ko‘p bo‘lsin yoki kam, bir-birimizdan o‘rgana olamiz.",
+        "Tayyorgarliksiz gapirsa tez-tez xato qiladi.",
+        "Muvaffaqiyat bo‘lsin yoki xato, jarayonni ko‘rib chiqish kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "«경험이 많건 적건 서로 배울 수 있어요.» — «Tajriba ko‘p bo‘lsin yoki kam, bir-birimizdan o‘rgana olamiz.». Bu yerda «A/V-건 (간에)» qolipi ishlatilgan: ... bo‘lsin yoki ... bo‘lsin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Tayyorgarliksiz gapirsa tez-tez xato qiladi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "준비 없이 말하면 실수하기 일쑤예요.",
+        "성공하건 실패하건 과정을 돌아봐야 해요.",
+        "말이 빠르건 느리건 상대를 존중해요.",
+        "경험이 많건 적건 서로 배울 수 있어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«준비 없이 말하면 실수하기 일쑤예요.» — «Tayyorgarliksiz gapirsa tez-tez xato qiladi.». Bu yerda «V-기 일쑤(이)다» qolipi ishlatilgan: Ko‘pincha ... qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«성공하건 실패하건 과정을 돌아봐야 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tayyorgarliksiz gapirsa tez-tez xato qiladi.",
+        "Hamma ishni bir o‘zi qilsa ko‘pincha holdan toyadi.",
+        "Tajriba ko‘p bo‘lsin yoki kam, bir-birimizdan o‘rgana olamiz.",
+        "Muvaffaqiyat bo‘lsin yoki xato, jarayonni ko‘rib chiqish kerak."
+      ],
+      "correctIndex": 3,
+      "explanation": "«성공하건 실패하건 과정을 돌아봐야 해요.» — «Muvaffaqiyat bo‘lsin yoki xato, jarayonni ko‘rib chiqish kerak.». Bu yerda «A/V-건 (간에)» qolipi ishlatilgan: ... bo‘lsin yoki ... bo‘lsin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Charchaganda muhim va’dani unutish ko‘p uchraydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "말이 빠르건 느리건 상대를 존중해요.",
+        "혼자 모든 일을 맡으면 지치기 일쑤예요.",
+        "피곤할 때는 중요한 약속을 잊기 일쑤예요.",
+        "경험이 많건 적건 서로 배울 수 있어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«피곤할 때는 중요한 약속을 잊기 일쑤예요.» — «Charchaganda muhim va’dani unutish ko‘p uchraydi.». Bu yerda «V-기 일쑤(이)다» qolipi ishlatilgan: Ko‘pincha ... qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«말이 빠르건 느리건 상대를 존중해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tajriba ko‘p bo‘lsin yoki kam, bir-birimizdan o‘rgana olamiz.",
+        "Gap tez bo‘lsin yoki sekin, suhbatdoshni hurmat qilamiz.",
+        "Tayyorgarliksiz gapirsa tez-tez xato qiladi.",
+        "Hamma ishni bir o‘zi qilsa ko‘pincha holdan toyadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«말이 빠르건 느리건 상대를 존중해요.» — «Gap tez bo‘lsin yoki sekin, suhbatdoshni hurmat qilamiz.». Bu yerda «A/V-건 (간에)» qolipi ishlatilgan: ... bo‘lsin yoki ... bo‘lsin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Hamma ishni bir o‘zi qilsa ko‘pincha holdan toyadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "말이 빠르건 느리건 상대를 존중해요.",
+        "피곤할 때는 중요한 약속을 잊기 일쑤예요.",
+        "성공하건 실패하건 과정을 돌아봐야 해요.",
+        "혼자 모든 일을 맡으면 지치기 일쑤예요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«혼자 모든 일을 맡으면 지치기 일쑤예요.» — «Hamma ishni bir o‘zi qilsa ko‘pincha holdan toyadi.». Bu yerda «V-기 일쑤(이)다» qolipi ishlatilgan: Ko‘pincha ... qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «경험이 많건 적건 의견을 들어 볼게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tajriba qanday bo‘lishidan qat’i nazar fikrlarni eshitaman.",
+        "Yolg‘iz rejalashtirsak muhim jihatni o‘tkazib yuborish oson.",
+        "Xato qilsak ham birga tuzatamiz.",
+        "Vazifani bo‘lsak yaxshiroq uddalaymiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «경험이 많건 적건 의견을 들어 볼게요.» deydi. Ma’nosi: «Tajriba qanday bo‘lishidan qat’i nazar fikrlarni eshitaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «혼자 계획하면 중요한 점을 놓치기 일쑤예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tajriba qanday bo‘lishidan qat’i nazar fikrlarni eshitaman.",
+        "Vazifani bo‘lsak yaxshiroq uddalaymiz.",
+        "Xato qilsak ham birga tuzatamiz.",
+        "Yolg‘iz rejalashtirsak muhim jihatni o‘tkazib yuborish oson."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «혼자 계획하면 중요한 점을 놓치기 일쑤예요.» deydi. Ma’nosi: «Yolg‘iz rejalashtirsak muhim jihatni o‘tkazib yuborish oson.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «역할을 나누면 더 잘할 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Vazifani bo‘lsak yaxshiroq uddalaymiz.",
+        "Tajriba qanday bo‘lishidan qat’i nazar fikrlarni eshitaman.",
+        "Xato qilsak ham birga tuzatamiz.",
+        "Yolg‘iz rejalashtirsak muhim jihatni o‘tkazib yuborish oson."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «역할을 나누면 더 잘할 수 있어요.» deydi. Ma’nosi: «Vazifani bo‘lsak yaxshiroq uddalaymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «실수해도 함께 고쳐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tajriba qanday bo‘lishidan qat’i nazar fikrlarni eshitaman.",
+        "Yolg‘iz rejalashtirsak muhim jihatni o‘tkazib yuborish oson.",
+        "Xato qilsak ham birga tuzatamiz.",
+        "Vazifani bo‘lsak yaxshiroq uddalaymiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «실수해도 함께 고쳐요.» deydi. Ma’nosi: «Xato qilsak ham birga tuzatamiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «혼자 계획하면 중요한 점을 놓치기 일쑤예요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yolg‘iz rejalashtirsak muhim jihatni o‘tkazib yuborish oson.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «실수해도 함께 고쳐요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Xato qilsak ham birga tuzatamiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

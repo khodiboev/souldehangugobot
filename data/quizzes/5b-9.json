@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«운명» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tanlov",
+        "sa’y-harakat",
+        "natija",
+        "taqdir"
+      ],
+      "correctIndex": 3,
+      "explanation": "«운명» — «taqdir». Bu so‘z darsdagi «Hayot va taqdir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tanlov» koreyschada qaysi so‘z?",
+      "options": [
+        "선택",
+        "우연",
+        "노력",
+        "운명"
+      ],
+      "correctIndex": 0,
+      "explanation": "«선택» — «tanlov». Bu so‘z darsdagi «Hayot va taqdir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«결과» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tanlov",
+        "sa’y-harakat",
+        "natija",
+        "hayot"
+      ],
+      "correctIndex": 2,
+      "explanation": "«결과» — «natija». Bu so‘z darsdagi «Hayot va taqdir» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ehtimol» koreyschada qaysi so‘z?",
+      "options": [
+        "가능성",
+        "여부",
+        "관점",
+        "영향"
+      ],
+      "correctIndex": 0,
+      "explanation": "«가능성» — «ehtimol». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«논쟁» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qarash",
+        "bahs",
+        "ta’sir",
+        "ehtimol"
+      ],
+      "correctIndex": 1,
+      "explanation": "«논쟁» — «bahs». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ta’sir» koreyschada qaysi so‘z?",
+      "options": [
+        "여부",
+        "판단하다",
+        "가능성",
+        "영향"
+      ],
+      "correctIndex": 3,
+      "explanation": "«영향» — «ta’sir». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-기 짝이 없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nmi, Nmi deb sanamoq",
+        "G‘oyat ...",
+        "N u yoqda tursin, bundan ham tashqari",
+        "Nning bor-yo‘qligi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-기 짝이 없다» — G‘oyat .... Sifat darajasini haddan oshirgan ovoz.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N(이)니 N(이)니 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nmi, Nmi deb sanamoq",
+        "Shunchalik ...ki",
+        "Nning bor-yo‘qligi",
+        "G‘oyat ..."
+      ],
+      "correctIndex": 0,
+      "explanation": "«N(이)니 N(이)니 하다» — Nmi, Nmi deb sanamoq. Muhokama stoliga qo‘yilgan ikki variant.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N 여부» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nning bor-yo‘qligi",
+        "G‘oyat ...",
+        "Nmi, Nmi deb sanamoq",
+        "Bir vaqtning o‘zida N ham N"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N 여부» — Nning bor-yo‘qligi. Tekshirilishi kerak bo‘lgan ha/yo‘q katagi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«근거 없는 예언은 답답하기 짝이 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dalilsiz bashorat nihoyatda asabiylashtiradi.",
+        "Qatnashish-qilmasligingizni bugun ayting.",
+        "Natija e’lon qilinishi hali belgilanmagan.",
+        "Do‘stlar natijani mahoratmi omadmi deb tushuntiradi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«근거 없는 예언은 답답하기 짝이 없어요.» — «Dalilsiz bashorat nihoyatda asabiylashtiradi.». Bu yerda «A-기 짝이 없다» qolipi ishlatilgan: G‘oyat ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Odamlar taqdirmi tasodifmi deb gaplashadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "참여 여부를 오늘 알려 주세요.",
+        "사람들은 운명이니 우연이니 하며 이야기해요.",
+        "선택 가능 여부를 먼저 확인해요.",
+        "원인을 환경이니 선택이니 하며 토론했어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«사람들은 운명이니 우연이니 하며 이야기해요.» — «Odamlar taqdirmi tasodifmi deb gaplashadi.». Bu yerda «N(이)니 N(이)니 하다» qolipi ishlatilgan: Nmi, Nmi deb sanamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«참여 여부를 오늘 알려 주세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Sabab muhitmi tanlovmi deb muhokama qildik.",
+        "Qatnashish-qilmasligingizni bugun ayting.",
+        "Odamlar taqdirmi tasodifmi deb gaplashadi.",
+        "Tanlash mumkinmi-yo‘qmi avval tekshiraylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "«참여 여부를 오늘 알려 주세요.» — «Qatnashish-qilmasligingizni bugun ayting.». Bu yerda «N 여부» qolipi ishlatilgan: Nning bor-yo‘qligi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Tanlash imkonim yo‘q degan fikr g‘oyat xavotirli.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "친구들은 실력이니 운이니 하며 결과를 설명해요.",
+        "선택할 기회가 없다는 생각은 불안하기 짝이 없어요.",
+        "결과 발표 여부는 아직 정해지지 않았어요.",
+        "선택 가능 여부를 먼저 확인해요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«선택할 기회가 없다는 생각은 불안하기 짝이 없어요.» — «Tanlash imkonim yo‘q degan fikr g‘oyat xavotirli.». Bu yerda «A-기 짝이 없다» qolipi ishlatilgan: G‘oyat ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«친구들은 실력이니 운이니 하며 결과를 설명해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dalilsiz bashorat nihoyatda asabiylashtiradi.",
+        "Sabab muhitmi tanlovmi deb muhokama qildik.",
+        "Do‘stlar natijani mahoratmi omadmi deb tushuntiradi.",
+        "Qatnashish-qilmasligingizni bugun ayting."
+      ],
+      "correctIndex": 2,
+      "explanation": "«친구들은 실력이니 운이니 하며 결과를 설명해요.» — «Do‘stlar natijani mahoratmi omadmi deb tushuntiradi.». Bu yerda «N(이)니 N(이)니 하다» qolipi ishlatilgan: Nmi, Nmi deb sanamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 만남은 운명이니 우연이니 하며 생각하게 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Dalilsiz qat’iy hukmdan ehtiyot bo‘ling.",
+        "Keyingi suhbat mumkinligini so‘rang.",
+        "Imkon kelganda tanlash ham muhim.",
+        "Bu uchrashuv taqdirmi tasodifmi deb o‘ylayman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «이 만남은 운명이니 우연이니 하며 생각하게 돼요.» deydi. Ma’nosi: «Bu uchrashuv taqdirmi tasodifmi deb o‘ylayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «기회가 왔을 때 선택하는 것도 중요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Keyingi suhbat mumkinligini so‘rang.",
+        "Bu uchrashuv taqdirmi tasodifmi deb o‘ylayman.",
+        "Dalilsiz qat’iy hukmdan ehtiyot bo‘ling.",
+        "Imkon kelganda tanlash ham muhim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Soyon «기회가 왔을 때 선택하는 것도 중요해요.» deydi. Ma’nosi: «Imkon kelganda tanlash ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다음 인터뷰 가능 여부를 여쭤봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Imkon kelganda tanlash ham muhim.",
+        "Bu uchrashuv taqdirmi tasodifmi deb o‘ylayman.",
+        "Keyingi suhbat mumkinligini so‘rang.",
+        "Dalilsiz qat’iy hukmdan ehtiyot bo‘ling."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «다음 인터뷰 가능 여부를 여쭤봐요.» deydi. Ma’nosi: «Keyingi suhbat mumkinligini so‘rang.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «근거 없이 단정하는 일은 조심해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Keyingi suhbat mumkinligini so‘rang.",
+        "Dalilsiz qat’iy hukmdan ehtiyot bo‘ling.",
+        "Bu uchrashuv taqdirmi tasodifmi deb o‘ylayman.",
+        "Imkon kelganda tanlash ham muhim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «근거 없이 단정하는 일은 조심해요.» deydi. Ma’nosi: «Dalilsiz qat’iy hukmdan ehtiyot bo‘ling.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «기회가 왔을 때 선택하는 것도 중요해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Soyon",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Imkon kelganda tanlash ham muhim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «근거 없이 단정하는 일은 조심해요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Dalilsiz qat’iy hukmdan ehtiyot bo‘ling.».",
+      "reviewSection": "s"
+    }
+  ]
+}

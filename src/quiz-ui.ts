@@ -1,6 +1,6 @@
 import { InlineKeyboard } from 'grammy';
 import { esc } from './render.js';
-import { type Quiz, type QuizEntry } from './quiz.js';
+import { quizCounts, type Quiz, type QuizEntry } from './quiz.js';
 
 const letters = ['A', 'B', 'C', 'D'] as const;
 const title = (quiz: Quiz) => `${quiz.bookId.toUpperCase()} · ${quiz.unitId === 'hangul' ? '한글' : quiz.unitId + '과'}`;
@@ -8,9 +8,10 @@ const back = (quiz: Quiz) => `u:${quiz.bookId}:${quiz.unitId}`;
 const questionList = (quiz: Quiz, index: number) => quiz.questions[index].options.map((option, i) => `${letters[i]}) ${esc(option)}`).join('\n');
 
 export function quizIntro(quiz: Quiz, entry: QuizEntry) {
+  const count=quiz.questions.length,groups=quizCounts(quiz.bookId);
   const progress = entry.active ? `\n⏸ Tugallanmagan test: ${entry.active.answers.length + 1}-savoldan davom etasiz.` : '';
-  const history = entry.completed ? `\nOldingi urinishlar: ${entry.completed} · Eng yaxshi natija: ${entry.best}/10` : '';
-  return `🧠 <b>${esc(title(quiz))} · 10 savollik test</b>\n\n4 ta so‘z, 4 ta grammatika va 2 ta vaziyat savoli. Har javobdan keyin qisqa izoh ko‘rasiz. Testni qayta ishlashingiz mumkin.${progress}${history}\n\nBoshlaymizmi?`;
+  const history = entry.completed ? `\nOldingi urinishlar: ${entry.completed} · Eng yaxshi natija: ${entry.best}/${count}` : '';
+  return `🧠 <b>${esc(title(quiz))} · ${count} savollik test</b>\n\n${groups.vocab} ta so‘z, ${groups.grammar} ta grammatika va ${groups.context} ta vaziyat savoli. Har javobdan keyin qisqa izoh ko‘rasiz. Testni qayta ishlashingiz mumkin.${progress}${history}\n\nBoshlaymizmi?`;
 }
 export function quizIntroKeyboard(quiz: Quiz, entry: QuizEntry) {
   const k = new InlineKeyboard();
@@ -21,7 +22,7 @@ export function quizIntroKeyboard(quiz: Quiz, entry: QuizEntry) {
 }
 export function quizQuestion(quiz: Quiz, index: number) {
   const q = quiz.questions[index];
-  return `🧠 <b>${esc(title(quiz))} · ${index + 1}/10</b>\n\n<b>${esc(q.prompt)}</b>\n\n${questionList(quiz, index)}\n\nJavobni tanlang:`;
+  return `🧠 <b>${esc(title(quiz))} · ${index + 1}/${quiz.questions.length}</b>\n\n<b>${esc(q.prompt)}</b>\n\n${questionList(quiz, index)}\n\nJavobni tanlang:`;
 }
 export function quizQuestionKeyboard(quiz: Quiz, token: string, index: number) {
   const k = new InlineKeyboard();
@@ -31,7 +32,7 @@ export function quizQuestionKeyboard(quiz: Quiz, token: string, index: number) {
 export function quizFeedback(quiz: Quiz, index: number, choice: number) {
   const q = quiz.questions[index];
   const correct = choice === q.correctIndex;
-  return `🧠 <b>${esc(title(quiz))} · ${index + 1}/10</b>\n\n<b>${esc(q.prompt)}</b>\n\n${questionList(quiz, index)}\n\n${correct ? '✅ To‘g‘ri!' : `❌ Siz: ${letters[choice]}. To‘g‘ri javob: ${letters[q.correctIndex]}.`}\n💡 ${esc(q.explanation)}`;
+  return `🧠 <b>${esc(title(quiz))} · ${index + 1}/${quiz.questions.length}</b>\n\n<b>${esc(q.prompt)}</b>\n\n${questionList(quiz, index)}\n\n${correct ? '✅ To‘g‘ri!' : `❌ Siz: ${letters[choice]}. To‘g‘ri javob: ${letters[q.correctIndex]}.`}\n💡 ${esc(q.explanation)}`;
 }
 export function quizFeedbackKeyboard(quiz: Quiz, token: string, finished: boolean) {
   return new InlineKeyboard()
@@ -45,10 +46,10 @@ export function wrongIndices(quiz: Quiz, answers: number[]) {
 export function quizResult(quiz: Quiz, entry: QuizEntry) {
   if (!entry.lastAnswers) throw new Error('No completed quiz');
   const wrong = wrongIndices(quiz, entry.lastAnswers);
-  const score = 10 - wrong.length;
-  const advice = score >= 8 ? 'Ajoyib! Keyingi darsga o‘tishingiz mumkin.' : score >= 5 ? 'Yaxshi urinish. Xatolarni ko‘rib, qoidalarni mustahkamlang.' : 'Darsni yana bir bor o‘qib, testni qayta ishlang.';
+  const count=quiz.questions.length,score=count-wrong.length;
+  const advice = score/count >= 0.8 ? 'Ajoyib! Keyingi darsga o‘tishingiz mumkin.' : score/count >= 0.5 ? 'Yaxshi urinish. Xatolarni ko‘rib, qoidalarni mustahkamlang.' : 'Darsni yana bir bor o‘qib, testni qayta ishlang.';
   const mistakes = wrong.length ? `\n\nQayta ko‘rish kerak:\n${wrong.map(i => `• ${i + 1}-savol — ${esc(quiz.questions[i].options[quiz.questions[i].correctIndex])}`).join('\n')}` : '\n\nBarcha javoblar to‘g‘ri!';
-  return `📊 <b>${esc(title(quiz))} · Natija</b>\n\nNatija: <b>${score}/10</b>\nEng yaxshi natija: ${entry.best}/10\nUrinishlar: ${entry.completed}\n\n${advice}${mistakes}`;
+  return `📊 <b>${esc(title(quiz))} · Natija</b>\n\nNatija: <b>${score}/${count}</b>\nEng yaxshi natija: ${entry.best}/${count}\nUrinishlar: ${entry.completed}\n\n${advice}${mistakes}`;
 }
 export function quizResultKeyboard(quiz: Quiz, entry: QuizEntry) {
   const k = new InlineKeyboard();

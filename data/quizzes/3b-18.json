@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "18",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«대본» so‘zining ma’nosi qaysi?",
+      "options": [
+        "rol",
+        "ssenariy",
+        "repetitsiya",
+        "tomoshabin"
+      ],
+      "correctIndex": 1,
+      "explanation": "«대본» — «ssenariy». Bu so‘z darsdagi «Teatr» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«sahna» koreyschada qaysi so‘z?",
+      "options": [
+        "연극",
+        "무대",
+        "대본",
+        "리허설"
+      ],
+      "correctIndex": 1,
+      "explanation": "«무대» — «sahna». Bu so‘z darsdagi «Teatr» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«배우» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sinmoq",
+        "rol ijro etmoq",
+        "aktyor",
+        "ko‘zgu"
+      ],
+      "correctIndex": 2,
+      "explanation": "«배우» — «aktyor». Bu so‘z darsdagi «Ijro va hodisa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«rol ijro etmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "실수하다",
+        "깨지다",
+        "배우",
+        "연기하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«연기하다» — «rol ijro etmoq». Bu so‘z darsdagi «Ijro va hodisa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«거울» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘zgu",
+        "rol so‘zlari",
+        "rol ijro etmoq",
+        "aktyor"
+      ],
+      "correctIndex": 0,
+      "explanation": "«거울» — «ko‘zgu». Bu so‘z darsdagi «Ijro va hodisa» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-다니까(요) · V-ㄴ다니까(요)/는다니까(요) · N(이)라니까(요)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "O‘tmishda davom etgan yoki takrorlangan",
+        "Oxiri qilib qo‘ymoq",
+        "Qilishim kerak edi, ammo",
+        "Aytayapman-ku"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-다니까(요) · V-ㄴ다니까(요)/는다니까(요) · N(이)라니까(요)» — Aytayapman-ku. 다니까요 — xabarni ikkinchi marta qalin chiziq bilan tagiga chizish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-고 말다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Aytayapman-ku",
+        "Oxiri qilib qo‘ymoq",
+        "Boshqaning hissini tasvirlash",
+        "O‘tmishda bo‘lgan va tugagan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-고 말다» — Oxiri qilib qo‘ymoq. 고 말다 — voqeani to‘xtatib bo‘lmay, oxirgi nuqtaga yetkazish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«제가 배우가 아니라 학생이라니까요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Repetitsiya ertaga deyapman-ku.",
+        "Ko‘zgu oxiri sinib qoldi.",
+        "Hayajondan rol so‘zlarini unutib qo‘ydim.",
+        "Men aktyor emas, talabaman deyapman-ku."
+      ],
+      "correctIndex": 3,
+      "explanation": "«제가 배우가 아니라 학생이라니까요.» — «Men aktyor emas, talabaman deyapman-ku.». Bu yerda «A-다니까(요) · V-ㄴ다니까(요)/는다니까(요) · N(이)라니까(요)» qolipi ishlatilgan: Aytayapman-ku.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Ko‘zgu oxiri sinib qoldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "긴장해서 대사를 잊고 말았어요.",
+        "거울이 깨지고 말았어요.",
+        "리허설은 내일이라니까요.",
+        "이번에는 꼭 공연을 성공시키고 말겠어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«거울이 깨지고 말았어요.» — «Ko‘zgu oxiri sinib qoldi.». Bu yerda «V-고 말다» qolipi ishlatilgan: Oxiri qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«거울이 깨졌다니까요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Repetitsiya ertaga deyapman-ku.",
+        "Bu safar tomoshani albatta muvaffaqiyatli qilaman.",
+        "Ko‘zgu sindi deyapman-ku.",
+        "Hayajondan rol so‘zlarini unutib qo‘ydim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«거울이 깨졌다니까요.» — «Ko‘zgu sindi deyapman-ku.». Bu yerda «A-다니까(요) · V-ㄴ다니까(요)/는다니까(요) · N(이)라니까(요)» qolipi ishlatilgan: Aytayapman-ku.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Hayajondan rol so‘zlarini unutib qo‘ydim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이번에는 꼭 공연을 성공시키고 말겠어요.",
+        "거울이 깨지고 말았어요.",
+        "긴장해서 대사를 잊고 말았어요.",
+        "제가 배우가 아니라 학생이라니까요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«긴장해서 대사를 잊고 말았어요.» — «Hayajondan rol so‘zlarini unutib qo‘ydim.». Bu yerda «V-고 말다» qolipi ishlatilgan: Oxiri qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «공연은 한 시간 뒤라니까요. 모두 준비하세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tomosha bir soatdan keyin deyapman-ku. Hamma tayyorlansin.",
+        "Hayajondan birinchi so‘zimni unutib qo‘ydim.",
+        "Bu hali repetitsiya deyapman-ku. Qayta qilsangiz bo‘ladi.",
+        "Asosiy tomoshani albatta muvaffaqiyatli qilaman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «공연은 한 시간 뒤라니까요. 모두 준비하세요.» deydi. Ma’nosi: «Tomosha bir soatdan keyin deyapman-ku. Hamma tayyorlansin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아직 리허설이라니까요. 다시 하면 돼요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hayajondan birinchi so‘zimni unutib qo‘ydim.",
+        "Asosiy tomoshani albatta muvaffaqiyatli qilaman.",
+        "Tomosha bir soatdan keyin deyapman-ku. Hamma tayyorlansin.",
+        "Bu hali repetitsiya deyapman-ku. Qayta qilsangiz bo‘ladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «아직 리허설이라니까요. 다시 하면 돼요.» deydi. Ma’nosi: «Bu hali repetitsiya deyapman-ku. Qayta qilsangiz bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «본 공연은 꼭 성공시키고 말겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hayajondan birinchi so‘zimni unutib qo‘ydim.",
+        "Tomosha bir soatdan keyin deyapman-ku. Hamma tayyorlansin.",
+        "Asosiy tomoshani albatta muvaffaqiyatli qilaman.",
+        "Bu hali repetitsiya deyapman-ku. Qayta qilsangiz bo‘ladi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «본 공연은 꼭 성공시키고 말겠어요.» deydi. Ma’nosi: «Asosiy tomoshani albatta muvaffaqiyatli qilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «본 공연은 꼭 성공시키고 말겠어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Soyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Asosiy tomoshani albatta muvaffaqiyatli qilaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

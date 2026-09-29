@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«식욕» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ishtaha",
+        "yo‘tal",
+        "charchoq",
+        "uyqusizlik"
+      ],
+      "correctIndex": 0,
+      "explanation": "«식욕» — «ishtaha». Bu so‘z darsdagi «Alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«uyqusizlik» koreyschada qaysi so‘z?",
+      "options": [
+        "피로",
+        "불면증",
+        "두통",
+        "낫다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«불면증» — «uyqusizlik». Bu so‘z darsdagi «Alomatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«규칙적» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qaror qilmoq",
+        "muntazam",
+        "uyqu",
+        "sport"
+      ],
+      "correctIndex": 1,
+      "explanation": "«규칙적» — «muntazam». Bu so‘z darsdagi «Sog‘lom odatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ovqatlanish» koreyschada qaysi so‘z?",
+      "options": [
+        "줄이다",
+        "처방",
+        "식사",
+        "결심하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«식사» — «ovqatlanish». Bu so‘z darsdagi «Sog‘lom odatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«줄이다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tekshiruv",
+        "retsept",
+        "kamaytirmoq",
+        "qaror qilmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«줄이다» — «kamaytirmoq». Bu so‘z darsdagi «Sog‘lom odatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«‘ㅅ’ 불규칙» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilsangiz qanday?",
+        "Qaror qilmoq",
+        "Har bir",
+        "ㅅ undoshining tushishi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«‘ㅅ’ 불규칙» — ㅅ undoshining tushishi. Noto‘g‘ri ㅅ unli kelganda yo‘l beradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-는 게 어때요?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilsangiz qanday?",
+        "Qaror qilmoq",
+        "Har bir",
+        "ㅅ undoshining tushishi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-는 게 어때요?» — Qilsangiz qanday?. Maslahatni suhbatdosh oldiga yumshoq qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-기로 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qaror qilmoq",
+        "ㅅ undoshining tushishi",
+        "Qilsangiz qanday?",
+        "Har bir"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-기로 하다» — Qaror qilmoq. 기로 하다 — reja yoniga qo‘yilgan tasdiq belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«감기가 빨리 나았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Shamollash tez tuzaldi.",
+        "Qahvani kamaytirsangiz qanday?",
+        "Qo‘limni toza yuvaman.",
+        "Har kuni yurishga qaror qildim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«감기가 빨리 나았어요.» — «Shamollash tez tuzaldi.». Bu yerda «‘ㅅ’ 불규칙» qolipi ishlatilgan: ㅅ undoshining tushishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Har tong sport qilaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "아침마다 운동해요.",
+        "감기가 빨리 나았어요.",
+        "커피를 줄이는 게 어때요?",
+        "손을 깨끗이 씻어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«아침마다 운동해요.» — «Har tong sport qilaman.». Bu yerda «N마다» qolipi ishlatilgan: Har bir.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«운동을 좀 해 보는 게 어때요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Biroz sport qilib ko‘rsangiz qanday?",
+        "Shamollash tez tuzaldi.",
+        "Oyog‘im shishib, kasalxonaga bordim.",
+        "Har kimning sog‘liq siri turlicha."
+      ],
+      "correctIndex": 0,
+      "explanation": "«운동을 좀 해 보는 게 어때요?» — «Biroz sport qilib ko‘rsangiz qanday?». Bu yerda «V-는 게 어때요?» qolipi ishlatilgan: Qilsangiz qanday?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «요즘 피로가 잘 낫지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi. 30 daqiqadan yurishga qaror qildim.",
+        "Shu kunlarda charchoq yaxshi ketmayapti.",
+        "Har kech yurish qanday?",
+        "Men ham birga qilishga qaror qilaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «요즘 피로가 잘 낫지 않아요.» deydi. Ma’nosi: «Shu kunlarda charchoq yaxshi ketmayapti.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋아요. 삼십 분씩 걷기로 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men ham birga qilishga qaror qilaman.",
+        "Har kech yurish qanday?",
+        "Shu kunlarda charchoq yaxshi ketmayapti.",
+        "Yaxshi. 30 daqiqadan yurishga qaror qildim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «좋아요. 삼십 분씩 걷기로 했어요.» deydi. Ma’nosi: «Yaxshi. 30 daqiqadan yurishga qaror qildim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저도 같이 하기로 할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi. 30 daqiqadan yurishga qaror qildim.",
+        "Shu kunlarda charchoq yaxshi ketmayapti.",
+        "Men ham birga qilishga qaror qilaman.",
+        "Har kech yurish qanday?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «저도 같이 하기로 할게요.» deydi. Ma’nosi: «Men ham birga qilishga qaror qilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «저녁마다 걷는 게 어때요?» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Xodim"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Har kech yurish qanday?».",
+      "reviewSection": "s"
+    }
+  ]
+}

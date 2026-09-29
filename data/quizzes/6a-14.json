@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«전쟁» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qayd, manba",
+        "tarix",
+        "urush",
+        "mafkuraviy qarash"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전쟁» — «urush». Bu so‘z darsdagi «G‘oya va tarix» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tarix» koreyschada qaysi so‘z?",
+      "options": [
+        "기록",
+        "평화",
+        "사회",
+        "역사"
+      ],
+      "correctIndex": 3,
+      "explanation": "«역사» — «tarix». Bu so‘z darsdagi «G‘oya va tarix» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«기록» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mafkuraviy qarash",
+        "urush",
+        "jamiyat",
+        "qayd, manba"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기록» — «qayd, manba». Bu so‘z darsdagi «G‘oya va tarix» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ziddiyat» koreyschada qaysi so‘z?",
+      "options": [
+        "인정하다",
+        "갈등",
+        "대화",
+        "입장"
+      ],
+      "correctIndex": 1,
+      "explanation": "«갈등» — «ziddiyat». Bu so‘z darsdagi «Bahs va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«존중» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ziddiyat",
+        "hurmat",
+        "pozitsiya",
+        "dalil"
+      ],
+      "correctIndex": 1,
+      "explanation": "«존중» — «hurmat». Bu so‘z darsdagi «Bahs va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tan olmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "존중",
+        "근거",
+        "인정하다",
+        "대화"
+      ],
+      "correctIndex": 2,
+      "explanation": "«인정하다» — «tan olmoq». Bu so‘z darsdagi «Bahs va munosabat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N은/는 고사하고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gani sababli",
+        "... bo‘lsa ham",
+        "N u yoqda tursin",
+        "...ishi uchun shunday qilib"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N은/는 고사하고» — N u yoqda tursin. Zinapoyaning yuqori pog‘onasi u yoqda tursin, pastkisi ham yo‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«(비록) A/V-(으)ㄹ망정» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lsa ham",
+        "...dek / go‘yo ...",
+        "N u yoqda tursin",
+        "N jihatidan qaraganda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«(비록) A/V-(으)ㄹ망정» — ... bo‘lsa ham. Bahs bosimida ham uzilmagan ip.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«합의는 고사하고 대화도 시작하지 못했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Fikrlar farq qilsa ham bir-birimizni hurmat qilamiz.",
+        "Xulosa u yoqda tursin, savollar ham tartiblanmadi.",
+        "Kelishuv u yoqda tursin, suhbatni ham boshlamadik.",
+        "Bahs qiyin bo‘lsa ham suhbatni to‘xtatmaymiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "«합의는 고사하고 대화도 시작하지 못했어요.» — «Kelishuv u yoqda tursin, suhbatni ham boshlamadik.». Bu yerda «N은/는 고사하고» qolipi ishlatilgan: N u yoqda tursin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Fikrlar farq qilsa ham bir-birimizni hurmat qilamiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "합의는 고사하고 대화도 시작하지 못했어요.",
+        "시간이 모자랄망정 출처는 확인하겠습니다.",
+        "토론이 어려울망정 대화를 멈추지 않아요.",
+        "비록 의견이 다를망정 서로를 존중해요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비록 의견이 다를망정 서로를 존중해요.» — «Fikrlar farq qilsa ham bir-birimizni hurmat qilamiz.». Bu yerda «(비록) A/V-(으)ㄹ망정» qolipi ishlatilgan: ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«결론은 고사하고 질문도 정리되지 않았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Fikrlar farq qilsa ham bir-birimizni hurmat qilamiz.",
+        "Manbani ko‘rib chiqish u yoqda tursin, manba nomi ham tekshirilmadi.",
+        "Xulosa u yoqda tursin, savollar ham tartiblanmadi.",
+        "Bahs qiyin bo‘lsa ham suhbatni to‘xtatmaymiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "«결론은 고사하고 질문도 정리되지 않았어요.» — «Xulosa u yoqda tursin, savollar ham tartiblanmadi.». Bu yerda «N은/는 고사하고» qolipi ishlatilgan: N u yoqda tursin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Vaqt yetmasa ham manbani tekshiraman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "합의는 고사하고 대화도 시작하지 못했어요.",
+        "토론이 어려울망정 대화를 멈추지 않아요.",
+        "시간이 모자랄망정 출처는 확인하겠습니다.",
+        "자료 검토는 고사하고 출처도 확인하지 않았어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«시간이 모자랄망정 출처는 확인하겠습니다.» — «Vaqt yetmasa ham manbani tekshiraman.». Bu yerda «(비록) A/V-(으)ㄹ망정» qolipi ishlatilgan: ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«자료 검토는 고사하고 출처도 확인하지 않았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bahs qiyin bo‘lsa ham suhbatni to‘xtatmaymiz.",
+        "Manbani ko‘rib chiqish u yoqda tursin, manba nomi ham tekshirilmadi.",
+        "Xulosa u yoqda tursin, savollar ham tartiblanmadi.",
+        "Kelishuv u yoqda tursin, suhbatni ham boshlamadik."
+      ],
+      "correctIndex": 1,
+      "explanation": "«자료 검토는 고사하고 출처도 확인하지 않았어요.» — «Manbani ko‘rib chiqish u yoqda tursin, manba nomi ham tekshirilmadi.». Bu yerda «N은/는 고사하고» qolipi ishlatilgan: N u yoqda tursin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bahs qiyin bo‘lsa ham suhbatni to‘xtatmaymiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "합의는 고사하고 대화도 시작하지 못했어요.",
+        "결론은 고사하고 질문도 정리되지 않았어요.",
+        "비록 의견이 다를망정 서로를 존중해요.",
+        "토론이 어려울망정 대화를 멈추지 않아요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«토론이 어려울망정 대화를 멈추지 않아요.» — «Bahs qiyin bo‘lsa ham suhbatni to‘xtatmaymiz.». Bu yerda «(비록) A/V-(으)ㄹ망정» qolipi ishlatilgan: ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «결론은 고사하고 질문부터 다시 살폈어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Qayd bilan fikrni alohida belgiladim.",
+        "Xulosa u yoqda tursin, savolni qayta ko‘rdim.",
+        "Fikr farq qilsa ham boshqani hurmat qilamiz.",
+        "Endi keyingi kitobda ham birga o‘qiymiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «결론은 고사하고 질문부터 다시 살폈어요.» deydi. Ma’nosi: «Xulosa u yoqda tursin, savolni qayta ko‘rdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «생각이 다를망정 상대를 존중해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Fikr farq qilsa ham boshqani hurmat qilamiz.",
+        "Qayd bilan fikrni alohida belgiladim.",
+        "Xulosa u yoqda tursin, savolni qayta ko‘rdim.",
+        "Endi keyingi kitobda ham birga o‘qiymiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «생각이 다를망정 상대를 존중해요.» deydi. Ma’nosi: «Fikr farq qilsa ham boshqani hurmat qilamiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «기록과 의견을 따로 표시했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Endi keyingi kitobda ham birga o‘qiymiz.",
+        "Xulosa u yoqda tursin, savolni qayta ko‘rdim.",
+        "Fikr farq qilsa ham boshqani hurmat qilamiz.",
+        "Qayd bilan fikrni alohida belgiladim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «기록과 의견을 따로 표시했어요.» deydi. Ma’nosi: «Qayd bilan fikrni alohida belgiladim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이제 다음 책에서도 함께 공부해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Fikr farq qilsa ham boshqani hurmat qilamiz.",
+        "Xulosa u yoqda tursin, savolni qayta ko‘rdim.",
+        "Qayd bilan fikrni alohida belgiladim.",
+        "Endi keyingi kitobda ham birga o‘qiymiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «이제 다음 책에서도 함께 공부해요.» deydi. Ma’nosi: «Endi keyingi kitobda ham birga o‘qiymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «생각이 다를망정 상대를 존중해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Fikr farq qilsa ham boshqani hurmat qilamiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «이제 다음 책에서도 함께 공부해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Endi keyingi kitobda ham birga o‘qiymiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

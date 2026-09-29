@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«변화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘zgarish",
+        "keksayish jarayoni",
+        "ko‘chish",
+        "aholi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«변화» — «o‘zgarish». Bu so‘z darsdagi «Aholi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tug‘ilish» koreyschada qaysi so‘z?",
+      "options": [
+        "고령화",
+        "지역",
+        "변화",
+        "출생"
+      ],
+      "correctIndex": 3,
+      "explanation": "«출생» — «tug‘ilish». Bu so‘z darsdagi «Aholi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«지역» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘chish",
+        "keksayish jarayoni",
+        "o‘zgarish",
+        "hudud"
+      ],
+      "correctIndex": 3,
+      "explanation": "«지역» — «hudud». Bu so‘z darsdagi «Aholi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«uy-joy» koreyschada qaysi so‘z?",
+      "options": [
+        "교통",
+        "돌봄",
+        "정책",
+        "주거"
+      ],
+      "correctIndex": 3,
+      "explanation": "«주거» — «uy-joy». Bu so‘z darsdagi «Jamiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«정책» so‘zining ma’nosi qaysi?",
+      "options": [
+        "siyosat",
+        "uy-joy",
+        "qo‘llab-quvvatlash",
+        "tahlil qilmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«정책» — «siyosat». Bu so‘z darsdagi «Jamiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tahlil qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "분석하다",
+        "교통",
+        "정책",
+        "주거"
+      ],
+      "correctIndex": 0,
+      "explanation": "«분석하다» — «tahlil qilmoq». Bu so‘z darsdagi «Jamiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-느니만 못하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... qilib ko‘rsa ham",
+        "...ga o‘xshaydi",
+        "...gandan ko‘ra yomon",
+        "...ning iloji yo‘q"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-느니만 못하다» — ...gandan ko‘ra yomon. Noto‘g‘ri yordamdan ko‘ra to‘xtash afzal.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아/어 봤자[봤댔자]» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... qilib ko‘rsa ham",
+        "...gandan ko‘ra yomon",
+        "...sa ham, ammo",
+        "... bo‘lsa-da"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-아/어 봤자[봤댔자]» — ... qilib ko‘rsa ham. Eshikni taqillatib, ammo javob kelmasligi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«자료를 확인하지 않고 발표하면 안 하느니만 못해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ma’lumotni tekshirmay taqdim qilish qilmagandan ham yomon.",
+        "Bir hududni o‘rganib butunni bilib bo‘lmaydi.",
+        "Odamlar fikrisiz qaror qilish qaror qilmagandan ham yomon.",
+        "Faqat sonlarni o‘qib ehtiyojni bilib bo‘lmaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«자료를 확인하지 않고 발표하면 안 하느니만 못해요.» — «Ma’lumotni tekshirmay taqdim qilish qilmagandan ham yomon.». Bu yerda «V-느니만 못하다» qolipi ishlatilgan: ...gandan ko‘ra yomon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Bir hududni o‘rganib butunni bilib bo‘lmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "한 지역만 조사해 봤자 전체를 알 수 없어요.",
+        "숫자만 보고 판단하면 판단하지 않느니만 못해요.",
+        "자료를 확인하지 않고 발표하면 안 하느니만 못해요.",
+        "당사자 의견 없이 결정하면 결정하지 않느니만 못해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«한 지역만 조사해 봤자 전체를 알 수 없어요.» — «Bir hududni o‘rganib butunni bilib bo‘lmaydi.». Bu yerda «V-아/어 봤자[봤댔자]» qolipi ishlatilgan: ... qilib ko‘rsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«당사자 의견 없이 결정하면 결정하지 않느니만 못해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Faqat reja tuzib, bajarmasa hech narsa o‘zgarmaydi.",
+        "Faqat songa qarab hukm qilish qilmagandan ham yomon.",
+        "Bir hududni o‘rganib butunni bilib bo‘lmaydi.",
+        "Odamlar fikrisiz qaror qilish qaror qilmagandan ham yomon."
+      ],
+      "correctIndex": 3,
+      "explanation": "«당사자 의견 없이 결정하면 결정하지 않느니만 못해요.» — «Odamlar fikrisiz qaror qilish qaror qilmagandan ham yomon.». Bu yerda «V-느니만 못하다» qolipi ishlatilgan: ...gandan ko‘ra yomon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Faqat sonlarni o‘qib ehtiyojni bilib bo‘lmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "당사자 의견 없이 결정하면 결정하지 않느니만 못해요.",
+        "한 지역만 조사해 봤자 전체를 알 수 없어요.",
+        "숫자만 읽어 봤자 필요한 지원은 보이지 않아요.",
+        "계획만 세워 봤자 실행하지 않으면 달라지지 않아요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«숫자만 읽어 봤자 필요한 지원은 보이지 않아요.» — «Faqat sonlarni o‘qib ehtiyojni bilib bo‘lmaydi.». Bu yerda «V-아/어 봤자[봤댔자]» qolipi ishlatilgan: ... qilib ko‘rsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«숫자만 보고 판단하면 판단하지 않느니만 못해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Faqat reja tuzib, bajarmasa hech narsa o‘zgarmaydi.",
+        "Faqat sonlarni o‘qib ehtiyojni bilib bo‘lmaydi.",
+        "Odamlar fikrisiz qaror qilish qaror qilmagandan ham yomon.",
+        "Faqat songa qarab hukm qilish qilmagandan ham yomon."
+      ],
+      "correctIndex": 3,
+      "explanation": "«숫자만 보고 판단하면 판단하지 않느니만 못해요.» — «Faqat songa qarab hukm qilish qilmagandan ham yomon.». Bu yerda «V-느니만 못하다» qolipi ishlatilgan: ...gandan ko‘ra yomon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Faqat reja tuzib, bajarmasa hech narsa o‘zgarmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "자료를 확인하지 않고 발표하면 안 하느니만 못해요.",
+        "한 지역만 조사해 봤자 전체를 알 수 없어요.",
+        "계획만 세워 봤자 실행하지 않으면 달라지지 않아요.",
+        "당사자 의견 없이 결정하면 결정하지 않느니만 못해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«계획만 세워 봤자 실행하지 않으면 달라지지 않아요.» — «Faqat reja tuzib, bajarmasa hech narsa o‘zgarmaydi.». Bu yerda «V-아/어 봤자[봤댔자]» qolipi ishlatilgan: ... qilib ko‘rsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «통계만 읽어 봤자 이동의 어려움은 몰라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Joyni ko‘rmay hukm qilish qilmagandan yomon.",
+        "Faqat statistikani o‘qib qatnov qiyinligini bilmaysiz.",
+        "Aholi aytgan noqulaylikni xaritaga yozdim.",
+        "Bekat bilan shifoxona oralig‘ini tekshirdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «통계만 읽어 봤자 이동의 어려움은 몰라요.» deydi. Ma’nosi: «Faqat statistikani o‘qib qatnov qiyinligini bilmaysiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «현장 없이 판단하면 안 하느니만 못해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bekat bilan shifoxona oralig‘ini tekshirdim.",
+        "Aholi aytgan noqulaylikni xaritaga yozdim.",
+        "Faqat statistikani o‘qib qatnov qiyinligini bilmaysiz.",
+        "Joyni ko‘rmay hukm qilish qilmagandan yomon."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «현장 없이 판단하면 안 하느니만 못해요.» deydi. Ma’nosi: «Joyni ko‘rmay hukm qilish qilmagandan yomon.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «버스 정류장과 병원의 거리를 확인했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bekat bilan shifoxona oralig‘ini tekshirdim.",
+        "Faqat statistikani o‘qib qatnov qiyinligini bilmaysiz.",
+        "Aholi aytgan noqulaylikni xaritaga yozdim.",
+        "Joyni ko‘rmay hukm qilish qilmagandan yomon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «버스 정류장과 병원의 거리를 확인했어요.» deydi. Ma’nosi: «Bekat bilan shifoxona oralig‘ini tekshirdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주민이 말한 불편을 지도에 적었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bekat bilan shifoxona oralig‘ini tekshirdim.",
+        "Joyni ko‘rmay hukm qilish qilmagandan yomon.",
+        "Faqat statistikani o‘qib qatnov qiyinligini bilmaysiz.",
+        "Aholi aytgan noqulaylikni xaritaga yozdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «주민이 말한 불편을 지도에 적었어요.» deydi. Ma’nosi: «Aholi aytgan noqulaylikni xaritaga yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «현장 없이 판단하면 안 하느니만 못해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Joyni ko‘rmay hukm qilish qilmagandan yomon.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «주민이 말한 불편을 지도에 적었어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Jisu",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Aholi aytgan noqulaylikni xaritaga yozdim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

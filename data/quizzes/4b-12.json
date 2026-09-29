@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«오염» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ifloslanish",
+        "resurs",
+        "atrof-muhit",
+        "iqlim o‘zgarishi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«오염» — «ifloslanish». Bu so‘z darsdagi «Ekologik muammo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«iqlim o‘zgarishi» koreyschada qaysi so‘z?",
+      "options": [
+        "쓰레기",
+        "오염",
+        "기후 변화",
+        "자원"
+      ],
+      "correctIndex": 2,
+      "explanation": "«기후 변화» — «iqlim o‘zgarishi». Bu so‘z darsdagi «Ekologik muammo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«자원» so‘zining ma’nosi qaysi?",
+      "options": [
+        "atrof-muhit",
+        "resurs",
+        "issiq buloq",
+        "iqlim o‘zgarishi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«자원» — «resurs». Bu so‘z darsdagi «Ekologik muammo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«himoya qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "보호하다",
+        "재활용",
+        "낭비하다",
+        "벼룩시장"
+      ],
+      "correctIndex": 0,
+      "explanation": "«보호하다» — «himoya qilmoq». Bu so‘z darsdagi «Himoya va harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«줄이다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kamaytirmoq",
+        "himoya qilmoq",
+        "targ‘ibot aksiyasi",
+        "isrof qilmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«줄이다» — «kamaytirmoq». Bu so‘z darsdagi «Himoya va harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ishlatilgan buyumlar bozori» koreyschada qaysi so‘z?",
+      "options": [
+        "캠페인",
+        "벼룩시장",
+        "보호하다",
+        "줄이다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«벼룩시장» — «ishlatilgan buyumlar bozori». Bu so‘z darsdagi «Himoya va harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)려다(가)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilmoqchi bo‘lib, ammo",
+        "Shundaymi?",
+        "Ehtimol",
+        "Hatto N ham"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)려다(가)» — Qilmoqchi bo‘lib, ammo. Burilish oldida o‘zgargan yo‘l belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ지도 모르다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilmoqchi bo‘lib, ammo",
+        "Hatto N ham",
+        "Ehtimol",
+        "Shundaymi?"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄹ지도 모르다» — Ehtimol. Hali yopilmagan bir nechta kelajak eshigi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ가? · V-는가?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ehtimol",
+        "Qilmoqchi bo‘lib, ammo",
+        "Hatto N ham",
+        "Shundaymi?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-(으)ㄴ가? · V-는가?» — Shundaymi?. Tadqiqot daftaridagi ochiq savol.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N마저» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilmoqchi bo‘lib, ammo",
+        "Hatto N ham",
+        "Shundaymi?",
+        "Ehtimol"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N마저» — Hatto N ham. Oxirgi qolgan tayanch ham tushib ketgan lahza.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«낡은 옷을 버리려다가 벼룩시장에 냈어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dam olish kuni yomg‘ir yog‘ishi mumkin.",
+        "Mashina minmoqchi edim, keyin avtobusga o‘tdim.",
+        "Eski kiyimni tashlamoqchi bo‘lib, keyin bozorda sotdim.",
+        "Qayta ishlash ko‘paysa chiqindi kamayishi mumkin."
+      ],
+      "correctIndex": 2,
+      "explanation": "«낡은 옷을 버리려다가 벼룩시장에 냈어요.» — «Eski kiyimni tashlamoqchi bo‘lib, keyin bozorda sotdim.». Bu yerda «V-(으)려다(가)» qolipi ishlatilgan: Qilmoqchi bo‘lib, ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Hozir harakat qilmasak ifloslanish kuchayishi mumkin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "지금 행동하지 않으면 오염이 심해질지도 몰라요.",
+        "차를 타려다가 버스를 탔어요.",
+        "우리 동네의 공기는 깨끗한가?",
+        "환경 문제를 아이들마저 걱정해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«지금 행동하지 않으면 오염이 심해질지도 몰라요.» — «Hozir harakat qilmasak ifloslanish kuchayishi mumkin.». Bu yerda «A/V-(으)ㄹ지도 모르다» qolipi ishlatilgan: Ehtimol.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«우리 동네의 공기는 깨끗한가?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hatto daryo ham ifloslansa ichimlik suvi kamayadi.",
+        "Hatto bolalar ham ekologiya muammosidan xavotirda.",
+        "Mahallamiz havosi tozami?",
+        "Mashina minmoqchi edim, keyin avtobusga o‘tdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«우리 동네의 공기는 깨끗한가?» — «Mahallamiz havosi tozami?». Bu yerda «A-(으)ㄴ가? · V-는가?» qolipi ishlatilgan: Shundaymi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Hatto daryo ham ifloslansa ichimlik suvi kamayadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "환경 문제를 아이들마저 걱정해요.",
+        "이 캠페인이 쓰레기를 줄이는가?",
+        "강마저 오염되면 식수가 부족해져요.",
+        "낡은 옷을 버리려다가 벼룩시장에 냈어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«강마저 오염되면 식수가 부족해져요.» — «Hatto daryo ham ifloslansa ichimlik suvi kamayadi.». Bu yerda «N마저» qolipi ishlatilgan: Hatto N ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 책을 버리려다가 필요한 사람에게 주기로 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kichik harakat o‘zgarish keltirishi mumkin.",
+        "Hatto bir varaq qog‘ozni ham tejab ishlataylik.",
+        "Biz qancha isrof qilamiz? Bir yozib ko‘raylik.",
+        "Bu kitobni tashlamoqchi edim, kerakli odamga beraman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «이 책을 버리려다가 필요한 사람에게 주기로 했어요.» deydi. Ma’nosi: «Bu kitobni tashlamoqchi edim, kerakli odamga beraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «작은 행동이 변화를 만들지도 몰라요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Kichik harakat o‘zgarish keltirishi mumkin.",
+        "Bu kitobni tashlamoqchi edim, kerakli odamga beraman.",
+        "Hatto bir varaq qog‘ozni ham tejab ishlataylik.",
+        "Biz qancha isrof qilamiz? Bir yozib ko‘raylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «작은 행동이 변화를 만들지도 몰라요.» deydi. Ma’nosi: «Kichik harakat o‘zgarish keltirishi mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리는 얼마나 낭비하는가? 한번 기록해 봅시다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hatto bir varaq qog‘ozni ham tejab ishlataylik.",
+        "Kichik harakat o‘zgarish keltirishi mumkin.",
+        "Bu kitobni tashlamoqchi edim, kerakli odamga beraman.",
+        "Biz qancha isrof qilamiz? Bir yozib ko‘raylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «우리는 얼마나 낭비하는가? 한번 기록해 봅시다.» deydi. Ma’nosi: «Biz qancha isrof qilamiz? Bir yozib ko‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «종이 한 장마저 아껴 써요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Biz qancha isrof qilamiz? Bir yozib ko‘raylik.",
+        "Kichik harakat o‘zgarish keltirishi mumkin.",
+        "Hatto bir varaq qog‘ozni ham tejab ishlataylik.",
+        "Bu kitobni tashlamoqchi edim, kerakli odamga beraman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «종이 한 장마저 아껴 써요.» deydi. Ma’nosi: «Hatto bir varaq qog‘ozni ham tejab ishlataylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «작은 행동이 변화를 만들지도 몰라요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Kichik harakat o‘zgarish keltirishi mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «종이 한 장마저 아껴 써요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Hatto bir varaq qog‘ozni ham tejab ishlataylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

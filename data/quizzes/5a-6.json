@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«가구» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kichik oila",
+        "yolg‘iz yashash holati",
+        "xonadon",
+        "avlod"
+      ],
+      "correctIndex": 2,
+      "explanation": "«가구» — «xonadon». Bu so‘z darsdagi «Oila tuzilishi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«katta oila» koreyschada qaysi so‘z?",
+      "options": [
+        "세대",
+        "대가족",
+        "가구",
+        "독신"
+      ],
+      "correctIndex": 1,
+      "explanation": "«대가족» — «katta oila». Bu so‘z darsdagi «Oila tuzilishi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«독신» so‘zining ma’nosi qaysi?",
+      "options": [
+        "katta oila",
+        "xonadon",
+        "kichik oila",
+        "yolg‘iz yashash holati"
+      ],
+      "correctIndex": 3,
+      "explanation": "«독신» — «yolg‘iz yashash holati». Bu so‘z darsdagi «Oila tuzilishi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«zamonaviy» koreyschada qaysi so‘z?",
+      "options": [
+        "변화",
+        "전통적",
+        "분담하다",
+        "현대적"
+      ],
+      "correctIndex": 3,
+      "explanation": "«현대적» — «zamonaviy». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«변화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "boqish, ta’minlash",
+        "parvarish",
+        "o‘zgarish",
+        "zamonaviy"
+      ],
+      "correctIndex": 2,
+      "explanation": "«변화» — «o‘zgarish». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«parvarish» koreyschada qaysi so‘z?",
+      "options": [
+        "분담하다",
+        "전통적",
+        "부양",
+        "돌봄"
+      ],
+      "correctIndex": 3,
+      "explanation": "«돌봄» — «parvarish». Bu so‘z darsdagi «O‘zgarish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 데(에) 비해» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir tomondan..., boshqa tomondan",
+        "...ga nisbatan",
+        "...ga zid ravishda",
+        "Xususiyati shundaki"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ/V-는 데(에) 비해» — ...ga nisbatan. Ikki davrni yonma-yon qo‘ygan surat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N의 특징은 A/V-다는 데(에) 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ga zid ravishda",
+        "...ga nisbatan",
+        "Xususiyati shundaki",
+        "Bir tomondan..., boshqa tomondan"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N의 특징은 A/V-다는 데(에) 있다» — Xususiyati shundaki. Ta’rif ichidagi eng muhim satrni ajratish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ가/V-는가 하면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir tomondan..., boshqa tomondan",
+        "...ga zid ravishda",
+        "Xususiyati shundaki",
+        "...ga nisbatan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ가/V-는가 하면» — Bir tomondan..., boshqa tomondan. Bitta manzaraning chap va o‘ng tomoni.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 데(에) 반해» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Xususiyati shundaki",
+        "...ga zid ravishda",
+        "...ga nisbatan",
+        "Bir tomondan..., boshqa tomondan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ/V-는 데(에) 반해» — ...ga zid ravishda. Bir yo‘l ikki tomonga ajralgan manzara.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«예전에는 대가족이 많았던 데 비해 지금은 1인 가구가 늘었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Aka sokin, uka esa faol.",
+        "Tug‘ilish kamaymoqda, yolg‘iz xonadonlar esa ortmoqda.",
+        "Ba’zi uy sokin, boshqasi doim gavjum.",
+        "Ilgari katta oila ko‘p edi, hozir esa yolg‘iz xonadon ko‘paydi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«예전에는 대가족이 많았던 데 비해 지금은 1인 가구가 늘었어요.» — «Ilgari katta oila ko‘p edi, hozir esa yolg‘iz xonadon ko‘paydi.». Bu yerda «A-(으)ㄴ/V-는 데(에) 비해» qolipi ishlatilgan: ...ga nisbatan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bu oilaning xususiyati ishni birga bo‘lishishidadir.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 가족의 특징은 일을 함께 나눈다는 데 있어요.",
+        "아버지는 조용한 데 반해 어머니는 활발하세요.",
+        "현대 가족의 특징은 형태가 다양하다는 데 있습니다.",
+        "부모가 일하는가 하면 조부모가 아이를 돌보기도 해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«이 가족의 특징은 일을 함께 나눈다는 데 있어요.» — «Bu oilaning xususiyati ishni birga bo‘lishishidadir.». Bu yerda «N의 특징은 A/V-다는 데(에) 있다» qolipi ishlatilgan: Xususiyati shundaki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«어떤 집은 조용한가 하면 어떤 집은 늘 북적여요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uyimizning afzalligi bir-birimizni tinglashimizdadir.",
+        "Ota-ona ishlaydi, ba’zan buvi-bobo bolaga qaraydi.",
+        "Ba’zi uy sokin, boshqasi doim gavjum.",
+        "Otam sokin, onam esa faol."
+      ],
+      "correctIndex": 2,
+      "explanation": "«어떤 집은 조용한가 하면 어떤 집은 늘 북적여요.» — «Ba’zi uy sokin, boshqasi doim gavjum.». Bu yerda «A-(으)ㄴ가/V-는가 하면» qolipi ishlatilgan: Bir tomondan..., boshqa tomondan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Tug‘ilish kamaymoqda, yolg‘iz xonadonlar esa ortmoqda.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "형은 조용한 데 비해 동생은 활발해요.",
+        "출생률은 줄어드는 데 반해 1인 가구는 늘어요.",
+        "우리 집의 장점은 서로 잘 듣는다는 데 있어요.",
+        "이 가족의 특징은 일을 함께 나눈다는 데 있어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«출생률은 줄어드는 데 반해 1인 가구는 늘어요.» — «Tug‘ilish kamaymoqda, yolg‘iz xonadonlar esa ortmoqda.». Bu yerda «A-(으)ㄴ/V-는 데(에) 반해» qolipi ishlatilgan: ...ga zid ravishda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «대가족이 흔했던 데 비해 지금은 작은 가구가 많아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Uyimizning xususiyati birga ovqatlanishimizda.",
+        "Ba’zi kun hamma yig‘iladi, band kunlar alohida yeydi.",
+        "Shakllar farq qiladi, ammo mehr o‘xshash.",
+        "Ilgari katta oila odatiy edi, hozir kichik xonadon ko‘p."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «대가족이 흔했던 데 비해 지금은 작은 가구가 많아요.» deydi. Ma’nosi: «Ilgari katta oila odatiy edi, hozir kichik xonadon ko‘p.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리 집의 특징은 식사를 함께 한다는 데 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Uyimizning xususiyati birga ovqatlanishimizda.",
+        "Ilgari katta oila odatiy edi, hozir kichik xonadon ko‘p.",
+        "Ba’zi kun hamma yig‘iladi, band kunlar alohida yeydi.",
+        "Shakllar farq qiladi, ammo mehr o‘xshash."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «우리 집의 특징은 식사를 함께 한다는 데 있어요.» deydi. Ma’nosi: «Uyimizning xususiyati birga ovqatlanishimizda.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어떤 날은 모두 모이는가 하면 바쁜 날은 따로 먹어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shakllar farq qiladi, ammo mehr o‘xshash.",
+        "Uyimizning xususiyati birga ovqatlanishimizda.",
+        "Ba’zi kun hamma yig‘iladi, band kunlar alohida yeydi.",
+        "Ilgari katta oila odatiy edi, hozir kichik xonadon ko‘p."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «어떤 날은 모두 모이는가 하면 바쁜 날은 따로 먹어요.» deydi. Ma’nosi: «Ba’zi kun hamma yig‘iladi, band kunlar alohida yeydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «형태가 다른 데 반해 서로 아끼는 마음은 비슷해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ba’zi kun hamma yig‘iladi, band kunlar alohida yeydi.",
+        "Shakllar farq qiladi, ammo mehr o‘xshash.",
+        "Ilgari katta oila odatiy edi, hozir kichik xonadon ko‘p.",
+        "Uyimizning xususiyati birga ovqatlanishimizda."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «형태가 다른 데 반해 서로 아끼는 마음은 비슷해요.» deydi. Ma’nosi: «Shakllar farq qiladi, ammo mehr o‘xshash.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «우리 집의 특징은 식사를 함께 한다는 데 있어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Uyimizning xususiyati birga ovqatlanishimizda.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «형태가 다른 데 반해 서로 아끼는 마음은 비슷해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Shakllar farq qiladi, ammo mehr o‘xshash.».",
+      "reviewSection": "s"
+    }
+  ]
+}

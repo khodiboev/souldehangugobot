@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«산맥» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hudud",
+        "tog‘ tizmasi",
+        "tekislik",
+        "sohil"
+      ],
+      "correctIndex": 1,
+      "explanation": "«산맥» — «tog‘ tizmasi». Bu so‘z darsdagi «Hudud va tabiat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«sohil» koreyschada qaysi so‘z?",
+      "options": [
+        "지형",
+        "지역",
+        "산맥",
+        "해안"
+      ],
+      "correctIndex": 3,
+      "explanation": "«해안» — «sohil». Bu so‘z darsdagi «Hudud va tabiat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«지역» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sohil",
+        "hudud",
+        "orol",
+        "yer shakli"
+      ],
+      "correctIndex": 1,
+      "explanation": "«지역» — «hudud». Bu so‘z darsdagi «Hudud va tabiat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«turmush» koreyschada qaysi so‘z?",
+      "options": [
+        "문화",
+        "달라지다",
+        "생활",
+        "교통"
+      ],
+      "correctIndex": 2,
+      "explanation": "«생활» — «turmush». Bu so‘z darsdagi «Jamiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«환경» so‘zining ma’nosi qaysi?",
+      "options": [
+        "madaniyat",
+        "qatnov",
+        "bog‘lanmoq",
+        "muhit"
+      ],
+      "correctIndex": 3,
+      "explanation": "«환경» — «muhit». Bu so‘z darsdagi «Jamiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«o‘zgarmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "교통",
+        "달라지다",
+        "환경",
+        "생활"
+      ],
+      "correctIndex": 1,
+      "explanation": "«달라지다» — «o‘zgarmoq». Bu so‘z darsdagi «Jamiyat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)니/-느니 A/V-(으)니/-느니 (하다)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan ortiq emas",
+        "... bo‘lsa ham axir",
+        "... deb, ... deb",
+        "... bo‘lsa-da"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)니/-느니 A/V-(으)니/-느니 (하다)» — ... deb, ... deb. Bir-birini bosayotgan turli ovozlar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-건만» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... bo‘lishi mumkin emas",
+        "... bo‘lsa-da",
+        "...ga o‘xshaydi",
+        "... deb, ... deb"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-건만» — ... bo‘lsa-da. “Shunday edi, ammo” burilishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«산이 높으니 낮으니 의견이 많았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tog‘ baland yoki past deb turli fikrlar bo‘ldi.",
+        "Yer shakli murakkab yoki sodda deyishdan ko‘ra xaritaga qaraylik.",
+        "Xaritada yo‘l bor, ammo amalda yopiq.",
+        "Masofa yaqin bo‘lsa-da borishga ko‘p vaqt ketadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«산이 높으니 낮으니 의견이 많았어요.» — «Tog‘ baland yoki past deb turli fikrlar bo‘ldi.». Bu yerda «A/V-(으)니/-느니 A/V-(으)니/-느니 (하다)» qolipi ishlatilgan: ... deb, ... deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Masofa yaqin bo‘lsa-da borishga ko‘p vaqt ketadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "지형이 복잡하니 단순하니 하기보다 지도를 봐요.",
+        "지도에는 길이 있건만 실제로는 막혀 있어요.",
+        "설명을 들었건만 이유를 다시 물었어요.",
+        "거리는 가깝건만 가는 데 시간이 오래 걸려요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«거리는 가깝건만 가는 데 시간이 오래 걸려요.» — «Masofa yaqin bo‘lsa-da borishga ko‘p vaqt ketadi.». Bu yerda «A/V-건만» qolipi ishlatilgan: ... bo‘lsa-da.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«섬에 간다느니 안 간다느니 말이 바뀌었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Orolga boramiz, bormaymiz deb gap o‘zgardi.",
+        "Masofa yaqin bo‘lsa-da borishga ko‘p vaqt ketadi.",
+        "Xaritada yo‘l bor, ammo amalda yopiq.",
+        "Tog‘ baland yoki past deb turli fikrlar bo‘ldi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«섬에 간다느니 안 간다느니 말이 바뀌었어요.» — «Orolga boramiz, bormaymiz deb gap o‘zgardi.». Bu yerda «A/V-(으)니/-느니 A/V-(으)니/-느니 (하다)» qolipi ishlatilgan: ... deb, ... deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Xaritada yo‘l bor, ammo amalda yopiq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설명을 들었건만 이유를 다시 물었어요.",
+        "거리는 가깝건만 가는 데 시간이 오래 걸려요.",
+        "지형이 복잡하니 단순하니 하기보다 지도를 봐요.",
+        "지도에는 길이 있건만 실제로는 막혀 있어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지도에는 길이 있건만 실제로는 막혀 있어요.» — «Xaritada yo‘l bor, ammo amalda yopiq.». Bu yerda «A/V-건만» qolipi ishlatilgan: ... bo‘lsa-da.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«지형이 복잡하니 단순하니 하기보다 지도를 봐요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Izohni eshitgan bo‘lsam-da sababni qayta so‘radim.",
+        "Tog‘ baland yoki past deb turli fikrlar bo‘ldi.",
+        "Yer shakli murakkab yoki sodda deyishdan ko‘ra xaritaga qaraylik.",
+        "Xaritada yo‘l bor, ammo amalda yopiq."
+      ],
+      "correctIndex": 2,
+      "explanation": "«지형이 복잡하니 단순하니 하기보다 지도를 봐요.» — «Yer shakli murakkab yoki sodda deyishdan ko‘ra xaritaga qaraylik.». Bu yerda «A/V-(으)니/-느니 A/V-(으)니/-느니 (하다)» qolipi ishlatilgan: ... deb, ... deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Izohni eshitgan bo‘lsam-da sababni qayta so‘radim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "섬에 간다느니 안 간다느니 말이 바뀌었어요.",
+        "설명을 들었건만 이유를 다시 물었어요.",
+        "지도에는 길이 있건만 실제로는 막혀 있어요.",
+        "산이 높으니 낮으니 의견이 많았어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«설명을 들었건만 이유를 다시 물었어요.» — «Izohni eshitgan bo‘lsam-da sababni qayta so‘radim.». Bu yerda «A/V-건만» qolipi ishlatilgan: ... bo‘lsa-da.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «길이 짧으니 기니 말이 달라서 시간을 쟀어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yo‘l qisqa yoki uzun degan gap turlicha bo‘lgani uchun vaqtni o‘lchadim.",
+        "Yer shakli bilan qatnovni alohida ko‘rsatdim.",
+        "Masofa yaqin bo‘lsa-da qatnov oson emas.",
+        "Aholi izohini ham xarita yoniga yozdim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «길이 짧으니 기니 말이 달라서 시간을 쟀어요.» deydi. Ma’nosi: «Yo‘l qisqa yoki uzun degan gap turlicha bo‘lgani uchun vaqtni o‘lchadim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «거리는 가깝건만 이동은 쉽지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yo‘l qisqa yoki uzun degan gap turlicha bo‘lgani uchun vaqtni o‘lchadim.",
+        "Aholi izohini ham xarita yoniga yozdim.",
+        "Masofa yaqin bo‘lsa-da qatnov oson emas.",
+        "Yer shakli bilan qatnovni alohida ko‘rsatdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «거리는 가깝건만 이동은 쉽지 않아요.» deydi. Ma’nosi: «Masofa yaqin bo‘lsa-da qatnov oson emas.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지형과 교통을 따로 표시했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yo‘l qisqa yoki uzun degan gap turlicha bo‘lgani uchun vaqtni o‘lchadim.",
+        "Yer shakli bilan qatnovni alohida ko‘rsatdim.",
+        "Masofa yaqin bo‘lsa-da qatnov oson emas.",
+        "Aholi izohini ham xarita yoniga yozdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «지형과 교통을 따로 표시했어요.» deydi. Ma’nosi: «Yer shakli bilan qatnovni alohida ko‘rsatdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주민의 설명도 지도 옆에 적었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yer shakli bilan qatnovni alohida ko‘rsatdim.",
+        "Masofa yaqin bo‘lsa-da qatnov oson emas.",
+        "Aholi izohini ham xarita yoniga yozdim.",
+        "Yo‘l qisqa yoki uzun degan gap turlicha bo‘lgani uchun vaqtni o‘lchadim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «주민의 설명도 지도 옆에 적었어요.» deydi. Ma’nosi: «Aholi izohini ham xarita yoniga yozdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «거리는 가깝건만 이동은 쉽지 않아요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Masofa yaqin bo‘lsa-da qatnov oson emas.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «주민의 설명도 지도 옆에 적었어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Aholi izohini ham xarita yoniga yozdim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

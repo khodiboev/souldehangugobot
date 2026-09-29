@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«비행기 표» so‘zining ma’nosi qaysi?",
+      "options": [
+        "pasport",
+        "band qilmoq",
+        "samolyot chiptasi",
+        "sayohat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«비행기 표» — «samolyot chiptasi». Bu so‘z darsdagi «Sayohat tayyorgarligi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«yetib kelmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "도착하다",
+        "비행기 표",
+        "예약하다",
+        "호텔"
+      ],
+      "correctIndex": 0,
+      "explanation": "«도착하다» — «yetib kelmoq». Bu so‘z darsdagi «Sayohat tayyorgarligi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«산» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dengiz",
+        "go‘zal bo‘lmoq",
+        "tog‘",
+        "orol"
+      ],
+      "correctIndex": 2,
+      "explanation": "«산» — «tog‘». Bu so‘z darsdagi «Sayohat joyi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tinch bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "섬",
+        "경치",
+        "조용하다",
+        "관광지"
+      ],
+      "correctIndex": 2,
+      "explanation": "«조용하다» — «tinch bo‘lmoq». Bu so‘z darsdagi «Sayohat joyi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-는 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hozirgi harakatdagi ot",
+        "Men xohlayman",
+        "Agar; qachonki",
+        "U xohlaydi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-는 N» — Hozirgi harakatdagi ot. 는 — fe’lni otga yopishtiradigan yorliq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-고 싶어 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "U xohlaydi",
+        "Men xohlayman",
+        "Agar; qachonki",
+        "Hozirgi harakatdagi ot"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-고 싶어 하다» — U xohlaydi. 싶어 하다 — boshqaning istagini tashqaridan kuzatish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«시간이 있으면 여행을 갈 거예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu biz chiqadigan samolyot.",
+        "Vaqtim bo‘lsa, sayohatga boraman.",
+        "Jejuga bormoqchiman.",
+        "Mehmonxonada dam olmoqchiman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«시간이 있으면 여행을 갈 거예요.» — «Vaqtim bo‘lsa, sayohatga boraman.». Bu yerda «A/V-(으)면» qolipi ishlatilgan: Agar; qachonki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Men boradigan joy Jeju.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "제가 가는 곳은 제주도예요.",
+        "마리아는 산에 가고 싶어 했어요.",
+        "시간이 있으면 여행을 갈 거예요.",
+        "제주도에 가고 싶어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«제가 가는 곳은 제주도예요.» — «Men boradigan joy Jeju.». Bu yerda «V-는 N» qolipi ishlatilgan: Hozirgi harakatdagi ot.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저도 바다를 보고 싶어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hamma yoqtiradigan joyni topaylik.",
+        "Men ham dengizni ko‘rishni xohlayman.",
+        "Men tog‘ga borishni xohlayman.",
+        "Vaqtim bo‘lsa, Jejuga bormoqchiman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «저도 바다를 보고 싶어요.» deydi. Ma’nosi: «Men ham dengizni ko‘rishni xohlayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «모두 좋아하는 곳을 찾아봅시다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men tog‘ga borishni xohlayman.",
+        "Vaqtim bo‘lsa, Jejuga bormoqchiman.",
+        "Men ham dengizni ko‘rishni xohlayman.",
+        "Hamma yoqtiradigan joyni topaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Soyon «모두 좋아하는 곳을 찾아봅시다.» deydi. Ma’nosi: «Hamma yoqtiradigan joyni topaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

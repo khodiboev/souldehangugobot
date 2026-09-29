@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "16",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«장구» so‘zining ma’nosi qaysi?",
+      "options": [
+        "gayagim, koreys torli cholg‘usi",
+        "o‘lcham",
+        "cholg‘u tori",
+        "qumsoat shaklidagi nog‘ora"
+      ],
+      "correctIndex": 3,
+      "explanation": "«장구» — «qumsoat shaklidagi nog‘ora». Bu so‘z darsdagi «Cholg‘u va shakl» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«musiqa ijrosi» koreyschada qaysi so‘z?",
+      "options": [
+        "가야금",
+        "현",
+        "모양",
+        "연주"
+      ],
+      "correctIndex": 3,
+      "explanation": "«연주» — «musiqa ijrosi». Bu so‘z darsdagi «Cholg‘u va shakl» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«전통» so‘zining ma’nosi qaysi?",
+      "options": [
+        "an’ana",
+        "amaliy tajriba",
+        "ochiq havo",
+        "mashhur bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«전통» — «an’ana». Bu so‘z darsdagi «Madaniy tajriba» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«amaliy tajriba» koreyschada qaysi so‘z?",
+      "options": [
+        "체험",
+        "유명하다",
+        "감상하다",
+        "공연"
+      ],
+      "correctIndex": 0,
+      "explanation": "«체험» — «amaliy tajriba». Bu so‘z darsdagi «Madaniy tajriba» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«감상하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "an’ana",
+        "zavq bilan tomosha qilmoq",
+        "amaliy tajriba",
+        "ochiq havo"
+      ],
+      "correctIndex": 1,
+      "explanation": "«감상하다» — «zavq bilan tomosha qilmoq». Bu so‘z darsdagi «Madaniy tajriba» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N만 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Narsadek katta",
+        "Xayolga ham keltirmaslik",
+        "N bilan mashhur",
+        "Bir tomondan..., yana"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N만 하다» — Narsadek katta. N만 하다 — o‘lchagich o‘rniga tanish narsani qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ 만하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishga arziydi",
+        "Xayolga ham keltirmaslik",
+        "Narsadek katta",
+        "Bir tomondan..., yana"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄹ 만하다» — Qilishga arziydi. (으)ㄹ 만하다 — tajribaga sifat muhri: sinab ko‘rsa bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(으)로 유명하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Narsadek katta",
+        "Qilishga arziydi",
+        "N bilan mashhur",
+        "Bir tomondan..., yana"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N(으)로 유명하다» — N bilan mashhur. (으)로 유명하다 — mashhurlik yorlig‘ida sabab nomi yoziladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«가야금이 사람 키만 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Nog‘ora yuzimdek katta.",
+        "U ijrochi gayagim bilan mashhur.",
+        "Gayagim odam bo‘yidek.",
+        "Koreyada gayagim o‘rganaman deb xayolimga ham keltirmagandim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«가야금이 사람 키만 해요.» — «Gayagim odam bo‘yidek.». Bu yerda «N만 하다» qolipi ishlatilgan: Narsadek katta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Koreyada gayagim o‘rganaman deb xayolimga ham keltirmagandim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "전통 악기인가 하면 현대 작품에도 쓰여요.",
+        "이 마을은 야외 공연으로 유명해요.",
+        "한국에서 가야금을 배울 생각도 못 했어요.",
+        "전주는 전통 음악으로 유명해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한국에서 가야금을 배울 생각도 못 했어요.» — «Koreyada gayagim o‘rganaman deb xayolimga ham keltirmagandim.». Bu yerda «V-(으)ㄹ 생각도 못 하다» qolipi ishlatilgan: Xayolga ham keltirmaslik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«이 공연은 꼭 볼 만해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Boshlovchi ham chalib ko‘rsa bo‘ladi.",
+        "Bunchalik katta cholg‘u bo‘lishini tasavvur qilmagandim.",
+        "U varrak mashinadek edi.",
+        "Bu tomoshani albatta ko‘rishga arziydi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이 공연은 꼭 볼 만해요.» — «Bu tomoshani albatta ko‘rishga arziydi.». Bu yerda «V-(으)ㄹ 만하다» qolipi ishlatilgan: Qilishga arziydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 무대에서 연주할 생각도 못 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sahnada chalaman deb o‘ylamagandim.",
+        "Bu festival an’anaviy tajribasi bilan mashhur.",
+        "Gayagim odam bo‘yidek, ammo ovozi mayin.",
+        "Sokin ham, kuchli qismi ham bor, tinglashga arziydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «제가 무대에서 연주할 생각도 못 했어요.» deydi. Ma’nosi: «Sahnada chalaman deb o‘ylamagandim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «조용한가 하면 힘찬 부분도 있어서 들을 만해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sahnada chalaman deb o‘ylamagandim.",
+        "Gayagim odam bo‘yidek, ammo ovozi mayin.",
+        "Bu festival an’anaviy tajribasi bilan mashhur.",
+        "Sokin ham, kuchli qismi ham bor, tinglashga arziydi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «조용한가 하면 힘찬 부분도 있어서 들을 만해요.» deydi. Ma’nosi: «Sokin ham, kuchli qismi ham bor, tinglashga arziydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 축제는 전통 체험으로 유명해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu festival an’anaviy tajribasi bilan mashhur.",
+        "Gayagim odam bo‘yidek, ammo ovozi mayin.",
+        "Sahnada chalaman deb o‘ylamagandim.",
+        "Sokin ham, kuchli qismi ham bor, tinglashga arziydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «이 축제는 전통 체험으로 유명해요.» deydi. Ma’nosi: «Bu festival an’anaviy tajribasi bilan mashhur.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «조용한가 하면 힘찬 부분도 있어서 들을 만해요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Sokin ham, kuchli qismi ham bor, tinglashga arziydi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

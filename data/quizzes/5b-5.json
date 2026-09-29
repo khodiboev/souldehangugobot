@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«밥» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ziravorli sous",
+        "pishgan guruch",
+        "aralash guruch taomi",
+        "achchiq qalampir pastasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«밥» — «pishgan guruch». Bu so‘z darsdagi «Taom» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«achchiq qalampir pastasi» koreyschada qaysi so‘z?",
+      "options": [
+        "나물",
+        "비빔밥",
+        "양념",
+        "고추장"
+      ],
+      "correctIndex": 3,
+      "explanation": "«고추장» — «achchiq qalampir pastasi». Bu so‘z darsdagi «Taom» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«양념» so‘zining ma’nosi qaysi?",
+      "options": [
+        "pishgan guruch",
+        "masalliq",
+        "sabzavotli qo‘shimcha",
+        "ziravorli sous"
+      ],
+      "correctIndex": 3,
+      "explanation": "«양념» — «ziravorli sous». Bu so‘z darsdagi «Taom» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qovurmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "볶다",
+        "조리법",
+        "골고루",
+        "섞다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«볶다» — «qovurmoq». Bu so‘z darsdagi «Tayyorlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«담다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "solmoq, joylamoq",
+        "bir tekis",
+        "qovurmoq",
+        "tayyorlash usuli"
+      ],
+      "correctIndex": 0,
+      "explanation": "«담다» — «solmoq, joylamoq». Bu so‘z darsdagi «Tayyorlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«bir tekis» koreyschada qaysi so‘z?",
+      "options": [
+        "골고루",
+        "조리법",
+        "썰다",
+        "담다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«골고루» — «bir tekis». Bu so‘z darsdagi «Tayyorlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N 바람이 불다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan qat’i nazar",
+        "N kabi",
+        "...ish ehtimoli juda katta, odatda salbiy",
+        "N urf bo‘lib ketmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N 바람이 불다» — N urf bo‘lib ketmoq. G‘oya shaharga shamolday yoyildi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N을/를 막론하고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ndan qat’i nazar",
+        "N urf bo‘lib ketmoq",
+        "N kabi",
+        "N ...ligini ko‘rsatadi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N을/를 막론하고» — Ndan qat’i nazar. Har xil katak ustidan o‘tuvchi bitta chiziq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N 같이» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N kabi",
+        "Ndan qat’i nazar",
+        "Bir vaqtning o‘zida N ham N",
+        "N urf bo‘lib ketmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N 같이» — N kabi. Bir buyum yonidagi namuna rasmi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«요즘 집밥 바람이 불어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Maktabda bibimbap tayyorlash urf bo‘ldi.",
+        "Masalliq qanday bo‘lishidan qat’i nazar allergiya ma’lumotini tekshiramiz.",
+        "Bibimbap kabi masalliqlarni bir tekis aralashtiring.",
+        "Hozir uy taomi urf bo‘lyapti."
+      ],
+      "correctIndex": 3,
+      "explanation": "«요즘 집밥 바람이 불어요.» — «Hozir uy taomi urf bo‘lyapti.». Bu yerda «N 바람이 불다» qolipi ishlatilgan: N urf bo‘lib ketmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yoshidan qat’i nazar birga ovqat pishirish mumkin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "나이를 막론하고 함께 요리할 수 있어요.",
+        "엄마같이 양념을 조금씩 넣어요.",
+        "재료를 막론하고 알레르기 정보를 확인해요.",
+        "동네에 건강식 바람이 불고 있어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«나이를 막론하고 함께 요리할 수 있어요.» — «Yoshidan qat’i nazar birga ovqat pishirish mumkin.». Bu yerda «N을/를 막론하고» qolipi ishlatilgan: Ndan qat’i nazar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«비빔밥 같이 재료를 골고루 섞어 보세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Masalliq qanday bo‘lishidan qat’i nazar allergiya ma’lumotini tekshiramiz.",
+        "Bibimbap kabi masalliqlarni bir tekis aralashtiring.",
+        "Yoshidan qat’i nazar birga ovqat pishirish mumkin.",
+        "Mahallada sog‘lom taomlar urf bo‘lyapti."
+      ],
+      "correctIndex": 1,
+      "explanation": "«비빔밥 같이 재료를 골고루 섞어 보세요.» — «Bibimbap kabi masalliqlarni bir tekis aralashtiring.». Bu yerda «N 같이» qolipi ishlatilgan: N kabi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Maktabda bibimbap tayyorlash urf bo‘ldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "시장같이 다양한 재료가 있는 곳에 가요.",
+        "엄마같이 양념을 조금씩 넣어요.",
+        "학교에 비빔밥 만들기 바람이 불었어요.",
+        "비빔밥 같이 재료를 골고루 섞어 보세요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«학교에 비빔밥 만들기 바람이 불었어요.» — «Maktabda bibimbap tayyorlash urf bo‘ldi.». Bu yerda «N 바람이 불다» qolipi ishlatilgan: N urf bo‘lib ketmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«지역을 막론하고 비빔밥의 형태가 같지는 않아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yoshidan qat’i nazar birga ovqat pishirish mumkin.",
+        "Bibimbap kabi masalliqlarni bir tekis aralashtiring.",
+        "Hududidan qat’i nazar bibimbap bir xil bo‘lavermaydi.",
+        "Hozir uy taomi urf bo‘lyapti."
+      ],
+      "correctIndex": 2,
+      "explanation": "«지역을 막론하고 비빔밥의 형태가 같지는 않아요.» — «Hududidan qat’i nazar bibimbap bir xil bo‘lavermaydi.». Bu yerda «N을/를 막론하고» qolipi ishlatilgan: Ndan qat’i nazar.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리 집에 비빔밥 만들기 바람이 불었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Achchiq pastani sous kabi alohida qo‘yaylik.",
+        "Hamma yoshga yoqadigan ta’m tayyorlaylik.",
+        "Uyimizda bibimbap tayyorlash urf bo‘ldi.",
+        "Men masalliqlarni bir tekis aralashtiraman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «우리 집에 비빔밥 만들기 바람이 불었어요.» deydi. Ma’nosi: «Uyimizda bibimbap tayyorlash urf bo‘ldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 재료를 골고루 섞을게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hamma yoshga yoqadigan ta’m tayyorlaylik.",
+        "Men masalliqlarni bir tekis aralashtiraman.",
+        "Achchiq pastani sous kabi alohida qo‘yaylik.",
+        "Uyimizda bibimbap tayyorlash urf bo‘ldi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «저는 재료를 골고루 섞을게요.» deydi. Ma’nosi: «Men masalliqlarni bir tekis aralashtiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «나이를 막론하고 모두 좋아할 맛으로 만들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Uyimizda bibimbap tayyorlash urf bo‘ldi.",
+        "Men masalliqlarni bir tekis aralashtiraman.",
+        "Achchiq pastani sous kabi alohida qo‘yaylik.",
+        "Hamma yoshga yoqadigan ta’m tayyorlaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «나이를 막론하고 모두 좋아할 맛으로 만들어요.» deydi. Ma’nosi: «Hamma yoshga yoqadigan ta’m tayyorlaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «고추장은 소스 같이 따로 놓아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hamma yoshga yoqadigan ta’m tayyorlaylik.",
+        "Achchiq pastani sous kabi alohida qo‘yaylik.",
+        "Men masalliqlarni bir tekis aralashtiraman.",
+        "Uyimizda bibimbap tayyorlash urf bo‘ldi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «고추장은 소스 같이 따로 놓아요.» deydi. Ma’nosi: «Achchiq pastani sous kabi alohida qo‘yaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «저는 재료를 골고루 섞을게요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Men masalliqlarni bir tekis aralashtiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «고추장은 소스 같이 따로 놓아요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Achchiq pastani sous kabi alohida qo‘yaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

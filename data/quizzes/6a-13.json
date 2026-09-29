@@ -1,0 +1,287 @@
+{
+  "bookId": "6a",
+  "unitId": "13",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«예절» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hurmat shaklidagi nutq",
+        "odob qoidasi",
+        "konfutsiylik",
+        "katta yoshli inson"
+      ],
+      "correctIndex": 1,
+      "explanation": "«예절» — «odob qoidasi». Bu so‘z darsdagi «Qarash va muomala» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«hurmat shaklidagi nutq» koreyschada qaysi so‘z?",
+      "options": [
+        "존댓말",
+        "관계",
+        "예절",
+        "어른"
+      ],
+      "correctIndex": 0,
+      "explanation": "«존댓말» — «hurmat shaklidagi nutq». Bu so‘z darsdagi «Qarash va muomala» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«관계» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hurmat shaklidagi nutq",
+        "konfutsiylik",
+        "odob qoidasi",
+        "munosabat"
+      ],
+      "correctIndex": 3,
+      "explanation": "«관계» — «munosabat». Bu so‘z darsdagi «Qarash va muomala» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«an’ana» koreyschada qaysi so‘z?",
+      "options": [
+        "사상",
+        "변화",
+        "세대",
+        "전통"
+      ],
+      "correctIndex": 3,
+      "explanation": "«전통» — «an’ana». Bu so‘z darsdagi «Talqin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«존중» so‘zining ma’nosi qaysi?",
+      "options": [
+        "hurmat",
+        "an’ana",
+        "avlod",
+        "o‘zgarish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«존중» — «hurmat». Bu so‘z darsdagi «Talqin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«o‘zgarish» koreyschada qaysi so‘z?",
+      "options": [
+        "변화",
+        "세대",
+        "배려",
+        "사상"
+      ],
+      "correctIndex": 0,
+      "explanation": "«변화» — «o‘zgarish». Bu so‘z darsdagi «Talqin» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N더러» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N degani nimasi?",
+        "...sa ham",
+        "... ham, qolaversa",
+        "Nga / Nga qarata"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N더러» — Nga / Nga qarata. Gap yo‘nalgan odamga qaragan ko‘rsatkich.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N이/가 다 뭐예요?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N degani nimasi?",
+        "Nga / Nga qarata",
+        "... qilgandan ko‘ra yaxshisi",
+        "...gandan keyin esa"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N이/가 다 뭐예요?» — N degani nimasi?. Oddiy savol ichidagi kuchli munosabat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«선생님이 저더러 호칭을 다시 확인하라고 하셨어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Minji do‘stiga avval salom ber dedi.",
+        "Bir-birini tinglamasa suhbat degani nimasi?",
+        "Buvi bizga bir-biringizni hurmat qiling dedi.",
+        "Ustoz menga murojaat nomini qayta tekshir dedi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«선생님이 저더러 호칭을 다시 확인하라고 하셨어요.» — «Ustoz menga murojaat nomini qayta tekshir dedi.». Bu yerda «N더러» qolipi ishlatilgan: Nga / Nga qarata.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Suhbatdoshni hurmat qilmasa odobning nima keragi bor?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "선생님이 저더러 호칭을 다시 확인하라고 하셨어요.",
+        "상대를 존중하지 않으면 예절이 다 뭐예요?",
+        "서로 듣지 않는데 대화가 다 뭐예요?",
+        "사람을 불편하게 하면 전통이 다 뭐예요?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«상대를 존중하지 않으면 예절이 다 뭐예요?» — «Suhbatdoshni hurmat qilmasa odobning nima keragi bor?». Bu yerda «N이/가 다 뭐예요?» qolipi ishlatilgan: N degani nimasi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«민지가 친구더러 먼저 인사하라고 했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ustoz menga murojaat nomini qayta tekshir dedi.",
+        "Minji do‘stiga avval salom ber dedi.",
+        "Buvi bizga bir-biringizni hurmat qiling dedi.",
+        "Bir-birini tinglamasa suhbat degani nimasi?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«민지가 친구더러 먼저 인사하라고 했어요.» — «Minji do‘stiga avval salom ber dedi.». Bu yerda «N더러» qolipi ishlatilgan: Nga / Nga qarata.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Odamni noqulay qilsa an’ananing nima keragi bor?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "민지가 친구더러 먼저 인사하라고 했어요.",
+        "할머니가 우리더러 서로 존중하라고 하셨어요.",
+        "상대를 존중하지 않으면 예절이 다 뭐예요?",
+        "사람을 불편하게 하면 전통이 다 뭐예요?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«사람을 불편하게 하면 전통이 다 뭐예요?» — «Odamni noqulay qilsa an’ananing nima keragi bor?». Bu yerda «N이/가 다 뭐예요?» qolipi ishlatilgan: N degani nimasi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«할머니가 우리더러 서로 존중하라고 하셨어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bir-birini tinglamasa suhbat degani nimasi?",
+        "Buvi bizga bir-biringizni hurmat qiling dedi.",
+        "Suhbatdoshni hurmat qilmasa odobning nima keragi bor?",
+        "Odamni noqulay qilsa an’ananing nima keragi bor?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«할머니가 우리더러 서로 존중하라고 하셨어요.» — «Buvi bizga bir-biringizni hurmat qiling dedi.». Bu yerda «N더러» qolipi ishlatilgan: Nga / Nga qarata.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bir-birini tinglamasa suhbat degani nimasi?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "사람을 불편하게 하면 전통이 다 뭐예요?",
+        "상대를 존중하지 않으면 예절이 다 뭐예요?",
+        "할머니가 우리더러 서로 존중하라고 하셨어요.",
+        "서로 듣지 않는데 대화가 다 뭐예요?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«서로 듣지 않는데 대화가 다 뭐예요?» — «Bir-birini tinglamasa suhbat degani nimasi?». Bu yerda «N이/가 다 뭐예요?» qolipi ishlatilgan: N degani nimasi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «선생님이 저더러 질문을 부드럽게 하라고 하셨어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shuning uchun bir kishining tajribasini hammaga tatbiq qilmaymiz.",
+        "Avlodga qarab tanish ifodalar farq qiladi.",
+        "Ustoz savolni muloyim bering dedi.",
+        "Boshqani eshitmasak odobning nima keragi bor?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «선생님이 저더러 질문을 부드럽게 하라고 하셨어요.» deydi. Ma’nosi: «Ustoz savolni muloyim bering dedi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «상대를 듣지 않는다면 예절이 다 뭐예요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshqani eshitmasak odobning nima keragi bor?",
+        "Shuning uchun bir kishining tajribasini hammaga tatbiq qilmaymiz.",
+        "Ustoz savolni muloyim bering dedi.",
+        "Avlodga qarab tanish ifodalar farq qiladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «상대를 듣지 않는다면 예절이 다 뭐예요?» deydi. Ma’nosi: «Boshqani eshitmasak odobning nima keragi bor?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «세대마다 익숙한 표현이 다를 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ustoz savolni muloyim bering dedi.",
+        "Shuning uchun bir kishining tajribasini hammaga tatbiq qilmaymiz.",
+        "Boshqani eshitmasak odobning nima keragi bor?",
+        "Avlodga qarab tanish ifodalar farq qiladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «세대마다 익숙한 표현이 다를 수 있어요.» deydi. Ma’nosi: «Avlodga qarab tanish ifodalar farq qiladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그래서 한 사람의 경험을 모두에게 적용하지 않아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shuning uchun bir kishining tajribasini hammaga tatbiq qilmaymiz.",
+        "Ustoz savolni muloyim bering dedi.",
+        "Boshqani eshitmasak odobning nima keragi bor?",
+        "Avlodga qarab tanish ifodalar farq qiladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «그래서 한 사람의 경험을 모두에게 적용하지 않아요.» deydi. Ma’nosi: «Shuning uchun bir kishining tajribasini hammaga tatbiq qilmaymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «상대를 듣지 않는다면 예절이 다 뭐예요?» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Boshqani eshitmasak odobning nima keragi bor?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «그래서 한 사람의 경험을 모두에게 적용하지 않아요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Shuning uchun bir kishining tajribasini hammaga tatbiq qilmaymiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

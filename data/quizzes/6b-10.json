@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«현상» so‘zining ma’nosi qaysi?",
+      "options": [
+        "namlik",
+        "harorat",
+        "hodisa",
+        "fan"
+      ],
+      "correctIndex": 2,
+      "explanation": "«현상» — «hodisa». Bu so‘z darsdagi «Kundalik fan» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tajriba» koreyschada qaysi so‘z?",
+      "options": [
+        "원리",
+        "온도",
+        "실험",
+        "과학"
+      ],
+      "correctIndex": 2,
+      "explanation": "«실험» — «tajriba». Bu so‘z darsdagi «Kundalik fan» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«습도» so‘zining ma’nosi qaysi?",
+      "options": [
+        "harorat",
+        "namlik",
+        "tajriba",
+        "hodisa"
+      ],
+      "correctIndex": 1,
+      "explanation": "«습도» — «namlik». Bu so‘z darsdagi «Kundalik fan» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ma’lumot» koreyschada qaysi so‘z?",
+      "options": [
+        "결과",
+        "요약하다",
+        "관찰",
+        "자료"
+      ],
+      "correctIndex": 3,
+      "explanation": "«자료» — «ma’lumot». Bu so‘z darsdagi «Tushuntirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«결과» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ma’lumot",
+        "o‘lchamoq",
+        "natija",
+        "xulosa qilmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«결과» — «natija». Bu so‘z darsdagi «Tushuntirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«xulosa qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "자료",
+        "관찰",
+        "요약하다",
+        "결과"
+      ],
+      "correctIndex": 2,
+      "explanation": "«요약하다» — «xulosa qilmoq». Bu so‘z darsdagi «Tushuntirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N인지라» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...moqchi bo‘lsam esa",
+        "N bo‘lgani uchun",
+        "... bo‘lib qolmasin deb",
+        "... qilaman deb"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N인지라» — N bo‘lgani uchun. Natija yonidagi “sababi” yorlig‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-자니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...gandan so‘ng nihoyat",
+        "Hatto ... bo‘lsa ham",
+        "...moqchi bo‘lsam esa",
+        "N bo‘lgani uchun"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-자니» — ...moqchi bo‘lsam esa. Ikki qiyin yo‘l oldida to‘xtash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«처음 하는 실험인지라 조건을 자세히 적었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘zimiz o‘lchaylik desak uskuna yetmaydi.",
+        "Bu birinchi tajribamiz bo‘lgani uchun shartlarni batafsil yozdik.",
+        "Mutaxassis bo‘lmaganimiz uchun mutaxassis izohini eshitdik.",
+        "Namuna kichik bo‘lgani uchun xulosani keng qo‘llamadik."
+      ],
+      "correctIndex": 1,
+      "explanation": "«처음 하는 실험인지라 조건을 자세히 적었어요.» — «Bu birinchi tajribamiz bo‘lgani uchun shartlarni batafsil yozdik.». Bu yerda «N인지라» qolipi ishlatilgan: N bo‘lgani uchun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«O‘zimiz o‘lchaylik desak uskuna yetmaydi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "직접 측정하자니 장비가 부족해요.",
+        "처음 하는 실험인지라 조건을 자세히 적었어요.",
+        "비전문가인지라 전문가의 설명을 들었어요.",
+        "기다리자니 발표 시간이 얼마 없어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«직접 측정하자니 장비가 부족해요.» — «O‘zimiz o‘lchaylik desak uskuna yetmaydi.». Bu yerda «V-자니» qolipi ishlatilgan: ...moqchi bo‘lsam esa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«비전문가인지라 전문가의 설명을 들었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Namuna kichik bo‘lgani uchun xulosani keng qo‘llamadik.",
+        "O‘zimiz o‘lchaylik desak uskuna yetmaydi.",
+        "Kutsak taqdimotgacha vaqt oz.",
+        "Mutaxassis bo‘lmaganimiz uchun mutaxassis izohini eshitdik."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비전문가인지라 전문가의 설명을 들었어요.» — «Mutaxassis bo‘lmaganimiz uchun mutaxassis izohini eshitdik.». Bu yerda «N인지라» qolipi ishlatilgan: N bo‘lgani uchun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Izohni qisqartirsak muhim shart tushib qoladi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비전문가인지라 전문가의 설명을 들었어요.",
+        "처음 하는 실험인지라 조건을 자세히 적었어요.",
+        "기다리자니 발표 시간이 얼마 없어요.",
+        "설명을 줄이자니 중요한 조건이 빠져요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«설명을 줄이자니 중요한 조건이 빠져요.» — «Izohni qisqartirsak muhim shart tushib qoladi.». Bu yerda «V-자니» qolipi ishlatilgan: ...moqchi bo‘lsam esa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«작은 표본인지라 결론을 넓게 적용하지 않았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Namuna kichik bo‘lgani uchun xulosani keng qo‘llamadik.",
+        "Bu birinchi tajribamiz bo‘lgani uchun shartlarni batafsil yozdik.",
+        "Mutaxassis bo‘lmaganimiz uchun mutaxassis izohini eshitdik.",
+        "Izohni qisqartirsak muhim shart tushib qoladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«작은 표본인지라 결론을 넓게 적용하지 않았어요.» — «Namuna kichik bo‘lgani uchun xulosani keng qo‘llamadik.». Bu yerda «N인지라» qolipi ishlatilgan: N bo‘lgani uchun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Kutsak taqdimotgacha vaqt oz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "직접 측정하자니 장비가 부족해요.",
+        "기다리자니 발표 시간이 얼마 없어요.",
+        "설명을 줄이자니 중요한 조건이 빠져요.",
+        "작은 표본인지라 결론을 넓게 적용하지 않았어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«기다리자니 발표 시간이 얼마 없어요.» — «Kutsak taqdimotgacha vaqt oz.». Bu yerda «V-자니» qolipi ishlatilgan: ...moqchi bo‘lsam esa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «작은 실험인지라 결과를 조심해서 말해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Har soatda o‘lchasak yana odam kerak.",
+        "Vazifani bo‘lib, shartni bir xil qilaylik.",
+        "O‘lchov va vaqtni birga yozaman.",
+        "Kichik tajriba bo‘lgani uchun natijani ehtiyotkor aytaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «작은 실험인지라 결과를 조심해서 말해요.» deydi. Ma’nosi: «Kichik tajriba bo‘lgani uchun natijani ehtiyotkor aytaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «시간마다 측정하자니 사람이 더 필요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Vazifani bo‘lib, shartni bir xil qilaylik.",
+        "Har soatda o‘lchasak yana odam kerak.",
+        "Kichik tajriba bo‘lgani uchun natijani ehtiyotkor aytaylik.",
+        "O‘lchov va vaqtni birga yozaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «시간마다 측정하자니 사람이 더 필요해요.» deydi. Ma’nosi: «Har soatda o‘lchasak yana odam kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «역할을 나누고 조건을 똑같이 맞춰요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Har soatda o‘lchasak yana odam kerak.",
+        "Kichik tajriba bo‘lgani uchun natijani ehtiyotkor aytaylik.",
+        "O‘lchov va vaqtni birga yozaman.",
+        "Vazifani bo‘lib, shartni bir xil qilaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «역할을 나누고 조건을 똑같이 맞춰요.» deydi. Ma’nosi: «Vazifani bo‘lib, shartni bir xil qilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «측정값과 시간을 함께 적겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Har soatda o‘lchasak yana odam kerak.",
+        "O‘lchov va vaqtni birga yozaman.",
+        "Vazifani bo‘lib, shartni bir xil qilaylik.",
+        "Kichik tajriba bo‘lgani uchun natijani ehtiyotkor aytaylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «측정값과 시간을 함께 적겠습니다.» deydi. Ma’nosi: «O‘lchov va vaqtni birga yozaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «시간마다 측정하자니 사람이 더 필요해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Har soatda o‘lchasak yana odam kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «측정값과 시간을 함께 적겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «O‘lchov va vaqtni birga yozaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

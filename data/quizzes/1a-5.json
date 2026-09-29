@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«육» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘ttiz",
+        "o‘n",
+        "ikki",
+        "olti"
+      ],
+      "correctIndex": 3,
+      "explanation": "«육» — «olti». Bu so‘z darsdagi «Xitoy-koreys sonlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«juma» koreyschada qaysi so‘z?",
+      "options": [
+        "금요일",
+        "월요일",
+        "수요일",
+        "주말"
+      ],
+      "correctIndex": 0,
+      "explanation": "«금요일» — «juma». Bu so‘z darsdagi «Hafta kunlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«팔월» so‘zining ma’nosi qaysi?",
+      "options": [
+        "aprel",
+        "dekabr",
+        "mart",
+        "avgust"
+      ],
+      "correctIndex": 3,
+      "explanation": "«팔월» — «avgust». Bu so‘z darsdagi «Oylar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bugun» koreyschada qaysi so‘z?",
+      "options": [
+        "오늘",
+        "요일",
+        "생일",
+        "아침"
+      ],
+      "correctIndex": 0,
+      "explanation": "«오늘» — «bugun». Bu so‘z darsdagi «Sana va vaqt so‘zlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N에 (시간)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ikki ishni bog‘lash",
+        "Oldin bo‘lib o‘tgan ish",
+        "Qachon? — vaqtga 에",
+        "Bugun nechanchi sana?"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N에 (시간)» — Qachon? — vaqtga 에. 에 ni “uchrashuv taqvimidagi belgi” deb o‘ylang: ish aynan qaysi kunda bo‘lishini belgilaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bugun nechanchi sana?",
+        "Qachon? — vaqtga 에",
+        "Ikki ishni bog‘lash",
+        "Oldin bo‘lib o‘tgan ish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-고» — Ikki ishni bog‘lash. Ikki qisqa gapni bitta ipga tizgandek: kitob o‘qidim + vazifa qildim → kitob o‘qib, vazifa qildim.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«생일이 언제예요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tug‘ilgan kuningiz qachon?",
+        "Kitob o‘qib, uy vazifasini bajardim.",
+        "Minji qahva ichdi.",
+        "Mariya kitob o‘qidi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«생일이 언제예요?» — «Tug‘ilgan kuningiz qachon?». Bu yerda «날짜와 요일» qolipi ishlatilgan: Bugun nechanchi sana?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Shanba kuni do‘stim bilan uchrashaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "민지 씨는 커피를 마셨어요.",
+        "친구를 만나고 공원에 갔어요.",
+        "옷을 사고 집에 왔어요.",
+        "토요일에 친구를 만나요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«토요일에 친구를 만나요.» — «Shanba kuni do‘stim bilan uchrashaman.». Bu yerda «N에 (시간)» qolipi ishlatilgan: Qachon? — vaqtga 에.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «민지 씨를 만났어요. 공원에 갔어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ha, mashq qilib, oshxonaga bordim.",
+        "Bog‘da mashq qildingizmi?",
+        "Men uyda kitob o‘qib, vazifa bajardim.",
+        "Minji bilan uchrashdim. Bog‘ga bordim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada 아지즈 «민지 씨를 만났어요. 공원에 갔어요.» deydi. Ma’nosi: «Minji bilan uchrashdim. Bog‘ga bordim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 집에서 책을 읽고 숙제를 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men uyda kitob o‘qib, vazifa bajardim.",
+        "Minji bilan uchrashdim. Bog‘ga bordim.",
+        "Bog‘da mashq qildingizmi?",
+        "Aziz, kecha nima qildingiz?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 마리아 «저는 집에서 책을 읽고 숙제를 했어요.» deydi. Ma’nosi: «Men uyda kitob o‘qib, vazifa bajardim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

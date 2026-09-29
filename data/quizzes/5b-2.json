@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«장르» so‘zining ma’nosi qaysi?",
+      "options": [
+        "film",
+        "ssenariy",
+        "janr",
+        "rejissyor"
+      ],
+      "correctIndex": 2,
+      "explanation": "«장르» — «janr». Bu so‘z darsdagi «Kino» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«bosh qahramon» koreyschada qaysi so‘z?",
+      "options": [
+        "주인공",
+        "장르",
+        "영화",
+        "시나리오"
+      ],
+      "correctIndex": 0,
+      "explanation": "«주인공» — «bosh qahramon». Bu so‘z darsdagi «Kino» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«시나리오» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sahna",
+        "rejissyor",
+        "bosh qahramon",
+        "ssenariy"
+      ],
+      "correctIndex": 3,
+      "explanation": "«시나리오» — «ssenariy». Bu so‘z darsdagi «Kino» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«yakun» koreyschada qaysi so‘z?",
+      "options": [
+        "결말",
+        "이해하다",
+        "반전",
+        "그리다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«결말» — «yakun». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«추천하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tushunmoq",
+        "tasvirlamoq",
+        "tavsiya qilmoq",
+        "kutilmagan burilish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«추천하다» — «tavsiya qilmoq». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tasvirlamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "그리다",
+        "결말",
+        "이해하다",
+        "반전"
+      ],
+      "correctIndex": 0,
+      "explanation": "«그리다» — «tasvirlamoq». Bu so‘z darsdagi «Tahlil» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-지(요), 뭐» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Demak, ... degani",
+        "Shunday qilayotganini ko‘rdim / eshitdim",
+        "Mayli-da, shunday-ku",
+        "Nga tayangan holda"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-지(요), 뭐» — Mayli-da, shunday-ku. Yelkani qisib aytilgan “bo‘lar ish bo‘ldi”.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«그러더라고(요)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Mayli-da, shunday-ku",
+        "Shunday qilayotganini ko‘rdim / eshitdim",
+        "Sinchiklab qaralsa",
+        "Demak, ... degani"
+      ],
+      "correctIndex": 1,
+      "explanation": "«그러더라고(요)» — Shunday qilayotganini ko‘rdim / eshitdim. Xotiradagi qisqa video lavha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 거야» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunday qilayotganini ko‘rdim / eshitdim",
+        "Mayli-da, shunday-ku",
+        "Demak, ... degani",
+        "...ish ehtimoli juda katta, odatda salbiy"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-다는 거야» — Demak, ... degani. Murakkab gap ostiga yozilgan oddiy izoh.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«영화가 조금 길지요, 뭐. 그래도 재미있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Rejissyor suhbatda shunday tushuntirdi, eshitdim.",
+        "Aktyor oxirgi sahnada shunday qildi, ko‘rdim.",
+        "Film biroz uzun-da, ammo qiziq.",
+        "Demak, bosh qahramon yolg‘iz ketadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«영화가 조금 길지요, 뭐. 그래도 재미있어요.» — «Film biroz uzun-da, ammo qiziq.». Bu yerda «A/V-지(요), 뭐» qolipi ishlatilgan: Mayli-da, shunday-ku.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Aktyor oxirgi sahnada shunday qildi, ko‘rdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "결말이 예상되었지요, 뭐.",
+        "내 말은 결말이 중요하다는 거야.",
+        "배우가 마지막 장면에서 그러더라고요.",
+        "주인공이 혼자 떠난다는 거야."
+      ],
+      "correctIndex": 2,
+      "explanation": "«배우가 마지막 장면에서 그러더라고요.» — «Aktyor oxirgi sahnada shunday qildi, ko‘rdim.». Bu yerda «그러더라고(요)» qolipi ishlatilgan: Shunday qilayotganini ko‘rdim / eshitdim.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«이 장면은 서로를 믿는다는 거야.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Aytmoqchimanki, yakun muhim.",
+        "Yakunini kutsa bo‘lardi-da.",
+        "Bu sahna bir-biriga ishonishni anglatadi.",
+        "Aktyor oxirgi sahnada shunday qildi, ko‘rdim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«이 장면은 서로를 믿는다는 거야.» — «Bu sahna bir-biriga ishonishni anglatadi.». Bu yerda «A/V-다는 거야» qolipi ishlatilgan: Demak, ... degani.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Yakunini kutsa bo‘lardi-da.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 장면은 서로를 믿는다는 거야.",
+        "감독이 인터뷰에서 그렇게 설명하더라고요.",
+        "결말이 예상되었지요, 뭐.",
+        "친구가 영화를 보고 울더라고요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«결말이 예상되었지요, 뭐.» — «Yakunini kutsa bo‘lardi-da.». Bu yerda «A/V-지(요), 뭐» qolipi ishlatilgan: Mayli-da, shunday-ku.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«친구가 영화를 보고 울더라고요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Aktyor oxirgi sahnada shunday qildi, ko‘rdim.",
+        "Film biroz uzun-da, ammo qiziq.",
+        "Do‘stim filmni ko‘rib yig‘ladi, o‘zim ko‘rdim.",
+        "Bugun shu yerigacha ko‘ramiz-da."
+      ],
+      "correctIndex": 2,
+      "explanation": "«친구가 영화를 보고 울더라고요.» — «Do‘stim filmni ko‘rib yig‘ladi, o‘zim ko‘rdim.». Bu yerda «그러더라고(요)» qolipi ishlatilgan: Shunday qilayotganini ko‘rdim / eshitdim.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주인공이 잘못된 제목을 믿더라고요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Demak, faktni tekshirish kerak degani.",
+        "Oxirida hamma birga kuladigan bo‘lsin.",
+        "Sahna biroz uzun-da.",
+        "Bosh qahramon xato sarlavhaga ishondi, ko‘rdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «주인공이 잘못된 제목을 믿더라고요.» deydi. Ma’nosi: «Bosh qahramon xato sarlavhaga ishondi, ko‘rdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그러면 사실을 확인해야 한다는 거야.» gapining ma’nosi qaysi?",
+      "options": [
+        "Oxirida hamma birga kuladigan bo‘lsin.",
+        "Sahna biroz uzun-da.",
+        "Bosh qahramon xato sarlavhaga ishondi, ko‘rdim.",
+        "Demak, faktni tekshirish kerak degani."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «그러면 사실을 확인해야 한다는 거야.» deydi. Ma’nosi: «Demak, faktni tekshirish kerak degani.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «장면이 조금 길지요, 뭐.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sahna biroz uzun-da.",
+        "Oxirida hamma birga kuladigan bo‘lsin.",
+        "Bosh qahramon xato sarlavhaga ishondi, ko‘rdim.",
+        "Demak, faktni tekshirish kerak degani."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «장면이 조금 길지요, 뭐.» deydi. Ma’nosi: «Sahna biroz uzun-da.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «마지막에는 서로 웃게 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Oxirida hamma birga kuladigan bo‘lsin.",
+        "Sahna biroz uzun-da.",
+        "Demak, faktni tekshirish kerak degani.",
+        "Bosh qahramon xato sarlavhaga ishondi, ko‘rdim."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «마지막에는 서로 웃게 해요.» deydi. Ma’nosi: «Oxirida hamma birga kuladigan bo‘lsin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그러면 사실을 확인해야 한다는 거야.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Demak, faktni tekshirish kerak degani.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «마지막에는 서로 웃게 해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Jisu",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Oxirida hamma birga kuladigan bo‘lsin.».",
+      "reviewSection": "s"
+    }
+  ]
+}

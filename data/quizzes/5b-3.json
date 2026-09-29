@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«소비자» so‘zining ma’nosi qaysi?",
+      "options": [
+        "reklama",
+        "ta’sir",
+        "iste’molchi",
+        "mahsulot"
+      ],
+      "correctIndex": 2,
+      "explanation": "«소비자» — «iste’molchi». Bu so‘z darsdagi «Reklama» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«bo‘rttirish» koreyschada qaysi so‘z?",
+      "options": [
+        "광고",
+        "소비자",
+        "과장",
+        "상품"
+      ],
+      "correctIndex": 2,
+      "explanation": "«과장» — «bo‘rttirish». Bu so‘z darsdagi «Reklama» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«효과» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ta’sir",
+        "bo‘rttirish",
+        "mahsulot",
+        "da’vo"
+      ],
+      "correctIndex": 0,
+      "explanation": "«효과» — «ta’sir». Bu so‘z darsdagi «Reklama» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«narx» koreyschada qaysi so‘z?",
+      "options": [
+        "선택하다",
+        "가격",
+        "근거",
+        "후기"
+      ],
+      "correctIndex": 1,
+      "explanation": "«가격» — «narx». Bu so‘z darsdagi «Tekshiruv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«비교하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tanlamoq",
+        "solishtirmoq",
+        "foydalanuvchi sharhi",
+        "narx"
+      ],
+      "correctIndex": 1,
+      "explanation": "«비교하다» — «solishtirmoq». Bu so‘z darsdagi «Tekshiruv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tanlamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "비교하다",
+        "선택하다",
+        "환불",
+        "근거"
+      ],
+      "correctIndex": 1,
+      "explanation": "«선택하다» — «tanlamoq». Bu so‘z darsdagi «Tekshiruv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-겠거니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunday bo‘lsa kerak deb",
+        "Boshqacha aytganda",
+        "Sinchiklab qaralsa",
+        "Yuqorida ko‘rganimizdek"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-겠거니» — Shunday bo‘lsa kerak deb. Tekshirilmagan taxmin ustidagi vaqtinchalik yorliq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«따지고 보면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sinchiklab qaralsa",
+        "Shunday bo‘lsa kerak deb",
+        "Boshqacha aytganda",
+        "...ish ehtimoli juda katta, odatda salbiy"
+      ],
+      "correctIndex": 0,
+      "explanation": "«따지고 보면» — Sinchiklab qaralsa. Narx yorlig‘i ortidagi mayda yozuvga qarash.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«다시 말해서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Sinchiklab qaralsa",
+        "Shunday bo‘lsa kerak deb",
+        "Burilish nuqtasini eslash",
+        "Boshqacha aytganda"
+      ],
+      "correctIndex": 3,
+      "explanation": "«다시 말해서» — Boshqacha aytganda. Bir fikrning ikkinchi, ravshanroq eshigi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«광고가 사실이겠거니 했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Boshqacha aytganda, reklama matni bilan haqiqiy ishlash farq qilishi mumkin.",
+        "Narxi arzon bo‘lsa kerak deb buyurtma qildim.",
+        "Reklama rost bo‘lsa kerak deb o‘yladim.",
+        "Ya’ni pulni qaytarish shartini o‘qish kerak."
+      ],
+      "correctIndex": 2,
+      "explanation": "«광고가 사실이겠거니 했어요.» — «Reklama rost bo‘lsa kerak deb o‘yladim.». Bu yerda «A/V-겠거니» qolipi ishlatilgan: Shunday bo‘lsa kerak deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Sinchiklab qaralsa, yetkazish bilan qimmatroq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "따지고 보면 배송비까지 더 비싸요.",
+        "따지고 보면 이 광고에는 근거가 없어요.",
+        "가격이 싸겠거니 하고 주문했어요.",
+        "다시 말해서, 광고 문구와 실제 성능은 다를 수 있어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«따지고 보면 배송비까지 더 비싸요.» — «Sinchiklab qaralsa, yetkazish bilan qimmatroq.». Bu yerda «따지고 보면» qolipi ishlatilgan: Sinchiklab qaralsa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«다시 말해서, 광고 문구와 실제 성능은 다를 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Boshqacha aytganda, reklama matni bilan haqiqiy ishlash farq qilishi mumkin.",
+        "Ya’ni arzonligi har doim yaxshi degani emas.",
+        "Foydasi bo‘lsa kerak degandim, ammo dalil yo‘q ekan.",
+        "Sinchiklab qaralsa, bu reklamada dalil yo‘q."
+      ],
+      "correctIndex": 0,
+      "explanation": "«다시 말해서, 광고 문구와 실제 성능은 다를 수 있어요.» — «Boshqacha aytganda, reklama matni bilan haqiqiy ishlash farq qilishi mumkin.». Bu yerda «다시 말해서» qolipi ishlatilgan: Boshqacha aytganda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Narxi arzon bo‘lsa kerak deb buyurtma qildim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가격이 싸겠거니 하고 주문했어요.",
+        "따지고 보면 이 광고에는 근거가 없어요.",
+        "광고가 사실이겠거니 했어요.",
+        "따지고 보면 배송비까지 더 비싸요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«가격이 싸겠거니 하고 주문했어요.» — «Narxi arzon bo‘lsa kerak deb buyurtma qildim.». Bu yerda «A/V-겠거니» qolipi ishlatilgan: Shunday bo‘lsa kerak deb.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«따지고 보면 이 광고에는 근거가 없어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Foydasi bo‘lsa kerak degandim, ammo dalil yo‘q ekan.",
+        "Ya’ni arzonligi har doim yaxshi degani emas.",
+        "Sinchiklab qaralsa, bu reklamada dalil yo‘q.",
+        "Narxi arzon bo‘lsa kerak deb buyurtma qildim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«따지고 보면 이 광고에는 근거가 없어요.» — «Sinchiklab qaralsa, bu reklamada dalil yo‘q.». Bu yerda «따지고 보면» qolipi ishlatilgan: Sinchiklab qaralsa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «조회 수가 높겠거니 했는데 숫자를 잘못 읽었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ya’ni reklamani tuzatish kerak.",
+        "Sinchiklab qaralsa, sana ham yo‘q.",
+        "Ha. Faqat faktlarni yozaylik.",
+        "Ko‘rishlar ko‘p bo‘lsa kerak degandim, raqamni xato o‘qibman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «조회 수가 높겠거니 했는데 숫자를 잘못 읽었어요.» deydi. Ma’nosi: «Ko‘rishlar ko‘p bo‘lsa kerak degandim, raqamni xato o‘qibman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «따지고 보면 날짜도 빠졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ha. Faqat faktlarni yozaylik.",
+        "Sinchiklab qaralsa, sana ham yo‘q.",
+        "Ko‘rishlar ko‘p bo‘lsa kerak degandim, raqamni xato o‘qibman.",
+        "Ya’ni reklamani tuzatish kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «따지고 보면 날짜도 빠졌어요.» deydi. Ma’nosi: «Sinchiklab qaralsa, sana ham yo‘q.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다시 말해서, 광고를 고쳐야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sinchiklab qaralsa, sana ham yo‘q.",
+        "Ko‘rishlar ko‘p bo‘lsa kerak degandim, raqamni xato o‘qibman.",
+        "Ha. Faqat faktlarni yozaylik.",
+        "Ya’ni reklamani tuzatish kerak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «다시 말해서, 광고를 고쳐야 해요.» deydi. Ma’nosi: «Ya’ni reklamani tuzatish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «맞아요. 사실만 쓰도록 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ko‘rishlar ko‘p bo‘lsa kerak degandim, raqamni xato o‘qibman.",
+        "Ha. Faqat faktlarni yozaylik.",
+        "Sinchiklab qaralsa, sana ham yo‘q.",
+        "Ya’ni reklamani tuzatish kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «맞아요. 사실만 쓰도록 해요.» deydi. Ma’nosi: «Ha. Faqat faktlarni yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «따지고 보면 날짜도 빠졌어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Sinchiklab qaralsa, sana ham yo‘q.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «맞아요. 사실만 쓰도록 해요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Ha. Faqat faktlarni yozaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

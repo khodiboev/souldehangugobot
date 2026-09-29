@@ -1,0 +1,287 @@
+{
+  "bookId": "4a",
+  "unitId": "6",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«축제» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ochilish marosimi",
+        "festival",
+        "tomoshabin",
+        "sahna"
+      ],
+      "correctIndex": 1,
+      "explanation": "«축제» — «festival». Bu so‘z darsdagi «Tomosha va festival» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tomoshabin» koreyschada qaysi so‘z?",
+      "options": [
+        "무대",
+        "축제",
+        "참가하다",
+        "관객"
+      ],
+      "correctIndex": 3,
+      "explanation": "«관객» — «tomoshabin». Bu so‘z darsdagi «Tomosha va festival» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«참가하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qatnashmoq",
+        "tomosha",
+        "sahna",
+        "festival"
+      ],
+      "correctIndex": 0,
+      "explanation": "«참가하다» — «qatnashmoq». Bu so‘z darsdagi «Tomosha va festival» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«baho» koreyschada qaysi so‘z?",
+      "options": [
+        "추천하다",
+        "평가",
+        "아리랑",
+        "인상적이다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«평가» — «baho». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«완성도» so‘zining ma’nosi qaysi?",
+      "options": [
+        "baho",
+        "tomosha qilib zavqlanish",
+        "mukammallik darajasi",
+        "Arirang xalq qo‘shig‘i"
+      ],
+      "correctIndex": 2,
+      "explanation": "«완성도» — «mukammallik darajasi». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«Arirang xalq qo‘shig‘i» koreyschada qaysi so‘z?",
+      "options": [
+        "인상적이다",
+        "아리랑",
+        "감상",
+        "추천하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«아리랑» — «Arirang xalq qo‘shig‘i». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-기는요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "G‘oyat, juda",
+        "Qaysi biri bo‘lsa ham",
+        "Aynan N",
+        "Qo‘ysangiz-chi / unday emas"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-기는요» — Qo‘ysangiz-chi / unday emas. Maqtovni muloyim qaytaradigan yumshoq qalqon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-든(지) A/V-든(지) · N(이)든(지) N(이)든(지)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qaysi biri bo‘lsa ham",
+        "Aynan N",
+        "Qo‘ysangiz-chi / unday emas",
+        "G‘oyat, juda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-든(지) A/V-든(지) · N(이)든(지) N(이)든(지)» — Qaysi biri bo‘lsa ham. Ikki eshik ustida ham “kirish mumkin” belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)야말로» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qaysi biri bo‘lsa ham",
+        "Aynan N",
+        "Qo‘ysangiz-chi / unday emas",
+        "G‘oyat, juda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N(이)야말로» — Aynan N. Proyektor nuri barcha orasidan bittasini yoritadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«여간 A-(으)ㄴ 것이 아니다 · 여간 V-는 것이 아니다 · 여간 N인 것이 아니다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qo‘ysangiz-chi / unday emas",
+        "G‘oyat, juda",
+        "Aynan N",
+        "Qaysi biri bo‘lsa ham"
+      ],
+      "correctIndex": 1,
+      "explanation": "«여간 A-(으)ㄴ 것이 아니다 · 여간 V-는 것이 아니다 · 여간 N인 것이 아니다» — G‘oyat, juda. Tashqi ko‘rinishi inkor, ichki ma’nosi undov belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«노래를 잘하기는요. 아직 많이 부족해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Zerikarli qayoqda, juda ta’sirli edi.",
+        "Aynan tomoshabin tomoshaning so‘nggi qahramoni.",
+        "Yaxshi kuylash qayoqda, hali kamchiligim ko‘p.",
+        "Olddan yoki orqadan ko‘rsangiz ham sahna yaxshi ko‘rinadi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«노래를 잘하기는요. 아직 많이 부족해요.» — «Yaxshi kuylash qayoqda, hali kamchiligim ko‘p.». Bu yerda «A/V-기는요» qolipi ishlatilgan: Qo‘ysangiz-chi / unday emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Teatr bo‘ladimi, konsertmi, hammasi yoqadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비가 오든지 눈이 오든지 축제는 열려요.",
+        "연극이든지 음악회든지 모두 좋아요.",
+        "관객들이 여간 기대하는 것이 아니에요.",
+        "이 축제야말로 꼭 가 볼 만해요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«연극이든지 음악회든지 모두 좋아요.» — «Teatr bo‘ladimi, konsertmi, hammasi yoqadi.». Bu yerda «A/V-든(지) A/V-든(지) · N(이)든(지) N(이)든(지)» qolipi ishlatilgan: Qaysi biri bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«아리랑이야말로 한국을 대표하는 노래예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tomoshabinlar juda katta umid bilan kutyapti.",
+        "Aynan Arirang Koreyani ifodalovchi qo‘shiq.",
+        "Men tayyorlaganim qayoqda, hamma birga qildi.",
+        "Bu tomosha g‘oyat ta’sirli edi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«아리랑이야말로 한국을 대표하는 노래예요.» — «Aynan Arirang Koreyani ifodalovchi qo‘shiq.». Bu yerda «N(이)야말로» qolipi ishlatilgan: Aynan N.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Katta sahna tayyorlash g‘oyat qiyin.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "비가 오든지 눈이 오든지 축제는 열려요.",
+        "이 축제야말로 꼭 가 볼 만해요.",
+        "관객이야말로 공연의 마지막 주인공이에요.",
+        "큰 무대를 준비하는 것이 여간 어려운 게 아니에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«큰 무대를 준비하는 것이 여간 어려운 게 아니에요.» — «Katta sahna tayyorlash g‘oyat qiyin.». Bu yerda «여간 A-(으)ㄴ 것이 아니다 · 여간 V-는 것이 아니다 · 여간 N인 것이 아니다» qolipi ishlatilgan: G‘oyat, juda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아리랑이야말로 이번 무대의 중심이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hammasini men qilganim qayoqda, birga yaratdik.",
+        "An’anaviy yoki zamonaviy cholg‘u bo‘lsa ham yarashadi.",
+        "Aranjirovka qilish juda qiyin.",
+        "Aynan Arirang bu sahnaning markazi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Soyon «아리랑이야말로 이번 무대의 중심이에요.» deydi. Ma’nosi: «Aynan Arirang bu sahnaning markazi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «전통 악기든지 현대 악기든지 잘 어울려요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Aynan Arirang bu sahnaning markazi.",
+        "An’anaviy yoki zamonaviy cholg‘u bo‘lsa ham yarashadi.",
+        "Aranjirovka qilish juda qiyin.",
+        "Hammasini men qilganim qayoqda, birga yaratdik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «전통 악기든지 현대 악기든지 잘 어울려요.» deydi. Ma’nosi: «An’anaviy yoki zamonaviy cholg‘u bo‘lsa ham yarashadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «편곡이 여간 어려운 것이 아니에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Aranjirovka qilish juda qiyin.",
+        "An’anaviy yoki zamonaviy cholg‘u bo‘lsa ham yarashadi.",
+        "Aynan Arirang bu sahnaning markazi.",
+        "Hammasini men qilganim qayoqda, birga yaratdik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «편곡이 여간 어려운 것이 아니에요.» deydi. Ma’nosi: «Aranjirovka qilish juda qiyin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 다 하기는요. 우리 모두 함께 만들었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hammasini men qilganim qayoqda, birga yaratdik.",
+        "Aynan Arirang bu sahnaning markazi.",
+        "Aranjirovka qilish juda qiyin.",
+        "An’anaviy yoki zamonaviy cholg‘u bo‘lsa ham yarashadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «제가 다 하기는요. 우리 모두 함께 만들었어요.» deydi. Ma’nosi: «Hammasini men qilganim qayoqda, birga yaratdik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «전통 악기든지 현대 악기든지 잘 어울려요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Mariya",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «An’anaviy yoki zamonaviy cholg‘u bo‘lsa ham yarashadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «제가 다 하기는요. 우리 모두 함께 만들었어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Soyon",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Hammasini men qilganim qayoqda, birga yaratdik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

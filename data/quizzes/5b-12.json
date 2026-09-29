@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«일화» so‘zining ma’nosi qaysi?",
+      "options": [
+        "davr",
+        "olim",
+        "shaxs",
+        "qisqa ibratli voqea"
+      ],
+      "correctIndex": 3,
+      "explanation": "«일화» — «qisqa ibratli voqea». Bu so‘z darsdagi «Tarixiy shaxs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«olim» koreyschada qaysi so‘z?",
+      "options": [
+        "학자",
+        "업적",
+        "시대",
+        "일화"
+      ],
+      "correctIndex": 0,
+      "explanation": "«학자» — «olim». Bu so‘z darsdagi «Tarixiy shaxs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«시대» so‘zining ma’nosi qaysi?",
+      "options": [
+        "shaxs",
+        "yutuq",
+        "davr",
+        "olim"
+      ],
+      "correctIndex": 2,
+      "explanation": "«시대» — «davr». Bu so‘z darsdagi «Tarixiy shaxs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«baho» koreyschada qaysi so‘z?",
+      "options": [
+        "평가",
+        "특징",
+        "태도",
+        "기록"
+      ],
+      "correctIndex": 0,
+      "explanation": "«평가» — «baho». Bu so‘z darsdagi «Baho» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«용기» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xususiyat",
+        "qayd",
+        "jasorat",
+        "munosabat"
+      ],
+      "correctIndex": 2,
+      "explanation": "«용기» — «jasorat». Bu so‘z darsdagi «Baho» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«xususiyat» koreyschada qaysi so‘z?",
+      "options": [
+        "용기",
+        "특징",
+        "태도",
+        "평가"
+      ],
+      "correctIndex": 1,
+      "explanation": "«특징» — «xususiyat». Bu so‘z darsdagi «Baho» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 후에야 (비로소)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Odatda ... bo‘ladi",
+        "...sa ham",
+        "Faqat ...gandan keyingina",
+        "Shunday qilayotganini ko‘rdim / eshitdim"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)ㄴ 후에야 (비로소)» — Faqat ...gandan keyingina. Faqat birinchi eshik ochilgach ochiladigan ikkinchi eshik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄴ들» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham",
+        "Odatda ... bo‘ladi",
+        "Qanday qilishga bog‘liq",
+        "Faqat ...gandan keyingina"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-(으)ㄴ들» — ...sa ham. Qarshi shamol bo‘lsa ham o‘zgarmagan yo‘nalish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 법이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa ham",
+        "Faqat ...gandan keyingina",
+        "Odatda ... bo‘ladi",
+        "Muloyim istakni qaytarish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-(으)ㄴ/V-는 법이다» — Odatda ... bo‘ladi. Tajriba asosida yozilgan qoida, mutlaq qonun emas.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«기록을 읽은 후에야 인물을 이해했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qaydlar ko‘p bo‘lsa ham hammasi aniq degani emas.",
+        "Qaydni o‘qigandan keyingina shaxsni tushundim.",
+        "Inson haqidagi baho davrga qarab o‘zgaradi.",
+        "Ko‘p manba o‘qisa ham solishtirmasa yetmaydi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«기록을 읽은 후에야 인물을 이해했어요.» — «Qaydni o‘qigandan keyingina shaxsni tushundim.». Bu yerda «V-(으)ㄴ 후에야 (비로소)» qolipi ishlatilgan: Faqat ...gandan keyingina.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Qaydlar ko‘p bo‘lsa ham hammasi aniq degani emas.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "기록을 읽은 후에야 인물을 이해했어요.",
+        "상대의 말을 들은 후에야 판단했어요.",
+        "아무리 유명한들 잘못이 없겠어요?",
+        "기록이 많은들 모두 정확한 것은 아니에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«기록이 많은들 모두 정확한 것은 아니에요.» — «Qaydlar ko‘p bo‘lsa ham hammasi aniq degani emas.». Bu yerda «A/V-(으)ㄴ들» qolipi ishlatilgan: ...sa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«사람에 대한 평가는 시대에 따라 변하는 법이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Inson haqidagi baho davrga qarab o‘zgaradi.",
+        "Yangi savol boshida qiyin bo‘ladi.",
+        "Birgina qaydga qaralsa xato tushunish oson.",
+        "Qanchalik mashhur bo‘lsa ham xatosiz bo‘ladimi?"
+      ],
+      "correctIndex": 0,
+      "explanation": "«사람에 대한 평가는 시대에 따라 변하는 법이에요.» — «Inson haqidagi baho davrga qarab o‘zgaradi.». Bu yerda «A-(으)ㄴ/V-는 법이다» qolipi ishlatilgan: Odatda ... bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Ikki manbani solishtirgandan keyingina farqni bildim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "상대의 말을 들은 후에야 판단했어요.",
+        "기록이 많은들 모두 정확한 것은 아니에요.",
+        "아무리 유명한들 잘못이 없겠어요?",
+        "두 자료를 비교한 후에야 비로소 차이를 알았어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«두 자료를 비교한 후에야 비로소 차이를 알았어요.» — «Ikki manbani solishtirgandan keyingina farqni bildim.». Bu yerda «V-(으)ㄴ 후에야 (비로소)» qolipi ishlatilgan: Faqat ...gandan keyingina.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«아무리 유명한들 잘못이 없겠어요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qanchalik mashhur bo‘lsa ham xatosiz bo‘ladimi?",
+        "Boshqa odamni eshitgandan keyingina hukm qildim.",
+        "Ikki manbani solishtirgandan keyingina farqni bildim.",
+        "Birgina qaydga qaralsa xato tushunish oson."
+      ],
+      "correctIndex": 0,
+      "explanation": "«아무리 유명한들 잘못이 없겠어요?» — «Qanchalik mashhur bo‘lsa ham xatosiz bo‘ladimi?». Bu yerda «A/V-(으)ㄴ들» qolipi ishlatilgan: ...sa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «첫 기록을 읽은 후에야 질문이 생겼어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval ikki manbaning umumiy jihatini yozaylik.",
+        "Baho nuqtayi nazarga qarab o‘zgaradi.",
+        "Hikoya ta’sirli bo‘lsa ham faktni tekshirish kerak.",
+        "Birinchi qaydni o‘qigandan keyingina savollar tug‘ildi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «첫 기록을 읽은 후에야 질문이 생겼어요.» deydi. Ma’nosi: «Birinchi qaydni o‘qigandan keyingina savollar tug‘ildi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이야기가 감동적인들 사실 확인은 필요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Birinchi qaydni o‘qigandan keyingina savollar tug‘ildi.",
+        "Hikoya ta’sirli bo‘lsa ham faktni tekshirish kerak.",
+        "Avval ikki manbaning umumiy jihatini yozaylik.",
+        "Baho nuqtayi nazarga qarab o‘zgaradi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «이야기가 감동적인들 사실 확인은 필요해요.» deydi. Ma’nosi: «Hikoya ta’sirli bo‘lsa ham faktni tekshirish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «평가는 관점에 따라 달라지는 법이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Baho nuqtayi nazarga qarab o‘zgaradi.",
+        "Hikoya ta’sirli bo‘lsa ham faktni tekshirish kerak.",
+        "Birinchi qaydni o‘qigandan keyingina savollar tug‘ildi.",
+        "Avval ikki manbaning umumiy jihatini yozaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «평가는 관점에 따라 달라지는 법이에요.» deydi. Ma’nosi: «Baho nuqtayi nazarga qarab o‘zgaradi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «두 자료의 공통점을 먼저 적어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hikoya ta’sirli bo‘lsa ham faktni tekshirish kerak.",
+        "Birinchi qaydni o‘qigandan keyingina savollar tug‘ildi.",
+        "Avval ikki manbaning umumiy jihatini yozaylik.",
+        "Baho nuqtayi nazarga qarab o‘zgaradi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «두 자료의 공통점을 먼저 적어요.» deydi. Ma’nosi: «Avval ikki manbaning umumiy jihatini yozaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «이야기가 감동적인들 사실 확인은 필요해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Soyon",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Hikoya ta’sirli bo‘lsa ham faktni tekshirish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «두 자료의 공통점을 먼저 적어요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Minji",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Avval ikki manbaning umumiy jihatini yozaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

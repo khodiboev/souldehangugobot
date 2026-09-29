@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«입장» so‘zining ma’nosi qaysi?",
+      "options": [
+        "nuqtayi nazar",
+        "xurofot, noto‘g‘ri qarash",
+        "pozitsiya",
+        "talqin"
+      ],
+      "correctIndex": 2,
+      "explanation": "«입장» — «pozitsiya». Bu so‘z darsdagi «Qarashlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«oldindan shakllangan fikr» koreyschada qaysi so‘z?",
+      "options": [
+        "입장",
+        "관점",
+        "선입견",
+        "시각"
+      ],
+      "correctIndex": 2,
+      "explanation": "«선입견» — «oldindan shakllangan fikr». Bu so‘z darsdagi «Qarashlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«해석» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xurofot, noto‘g‘ri qarash",
+        "talqin",
+        "oldindan shakllangan fikr",
+        "pozitsiya"
+      ],
+      "correctIndex": 1,
+      "explanation": "«해석» — «talqin». Bu so‘z darsdagi «Qarashlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«suhbatdosh» koreyschada qaysi so‘z?",
+      "options": [
+        "상대방",
+        "오해",
+        "설득하다",
+        "반박하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«상대방» — «suhbatdosh». Bu so‘z darsdagi «Suhbat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«설득하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tan olmoq",
+        "rol",
+        "ishontirmoq",
+        "e’tiroz bildirmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«설득하다» — «ishontirmoq». Bu so‘z darsdagi «Suhbat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«tan olmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "역할",
+        "오해",
+        "인정하다",
+        "반박하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«인정하다» — «tan olmoq». Bu so‘z darsdagi «Suhbat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-다시피 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... jihatni tan olmoq",
+        "...ishi mumkin, tabiiy",
+        "Deyarli ... qilmoq",
+        "...gani oqibatida"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-다시피 하다» — Deyarli ... qilmoq. To‘lib bo‘lgan, ammo chetida kichik bo‘shliq qolgan idish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄴ 나머지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N bilan birga, qolaversa",
+        "...gani oqibatida",
+        "Deyarli ... qilmoq",
+        "...ishi mumkin, tabiiy"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)ㄴ 나머지» — ...gani oqibatida. Haddan oshgan tuyg‘udan toshib chiqqan natija.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 법하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Deyarli ... qilmoq",
+        "...ishi mumkin, tabiiy",
+        "...gani oqibatida",
+        "Bir tomondan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)ㄹ 법하다» — ...ishi mumkin, tabiiy. Dalilga qarab chiqarilgan ehtiyotkor taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«우리는 거의 매일 만나다시피 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu masalani deyarli tun bo‘yi o‘yladim.",
+        "Jahlim chiqib shoshma-shosharlik bilan javob berdim.",
+        "Biz deyarli har kuni ko‘rishamiz.",
+        "Materialni qayta-qayta o‘qib deyarli yodlab oldim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«우리는 거의 매일 만나다시피 해요.» — «Biz deyarli har kuni ko‘rishamiz.». Bu yerda «V-다시피 하다» qolipi ishlatilgan: Deyarli ... qilmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Juda hayron bo‘lib gapimni unutdim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "우리는 거의 매일 만나다시피 해요.",
+        "너무 놀란 나머지 말을 잊었어요.",
+        "자료를 읽다시피 해서 내용을 외웠어요.",
+        "그 문제를 밤새 생각하다시피 했어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«너무 놀란 나머지 말을 잊었어요.» — «Juda hayron bo‘lib gapimni unutdim.». Bu yerda «A/V-(으)ㄴ 나머지» qolipi ishlatilgan: ...gani oqibatida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«그 말을 들으면 오해할 법해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Materialni qayta-qayta o‘qib deyarli yodlab oldim.",
+        "Suhbatdosh nuqtayi nazaridan jahli chiqishi tabiiy.",
+        "Buni eshitgan odam noto‘g‘ri tushunishi mumkin.",
+        "Biz deyarli har kuni ko‘rishamiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그 말을 들으면 오해할 법해요.» — «Buni eshitgan odam noto‘g‘ri tushunishi mumkin.». Bu yerda «A/V-(으)ㄹ 법하다» qolipi ishlatilgan: ...ishi mumkin, tabiiy.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Bu masalani deyarli tun bo‘yi o‘yladim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "너무 놀란 나머지 말을 잊었어요.",
+        "그 문제를 밤새 생각하다시피 했어요.",
+        "자료를 읽다시피 해서 내용을 외웠어요.",
+        "상대 입장에서는 화가 날 법해요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«그 문제를 밤새 생각하다시피 했어요.» — «Bu masalani deyarli tun bo‘yi o‘yladim.». Bu yerda «V-다시피 하다» qolipi ishlatilgan: Deyarli ... qilmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«걱정한 나머지 상대의 말을 끝까지 듣지 못했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Biz deyarli har kuni ko‘rishamiz.",
+        "Suhbatdosh nuqtayi nazaridan jahli chiqishi tabiiy.",
+        "Materialni qayta-qayta o‘qib deyarli yodlab oldim.",
+        "Xavotir bosib suhbatdoshni oxirigacha tinglay olmadim."
+      ],
+      "correctIndex": 3,
+      "explanation": "«걱정한 나머지 상대의 말을 끝까지 듣지 못했어요.» — «Xavotir bosib suhbatdoshni oxirigacha tinglay olmadim.». Bu yerda «A/V-(으)ㄴ 나머지» qolipi ishlatilgan: ...gani oqibatida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 성급한 나머지 결론을 먼저 썼어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shoshilganim sabab xulosani avval yozibman.",
+        "O‘quvchi boshqacha o‘ylashi mumkin.",
+        "Biz deyarli tun bo‘yi bahslashdik.",
+        "Endi ikki qarashni yonma-yon tanishtiraylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «제가 성급한 나머지 결론을 먼저 썼어요.» deydi. Ma’nosi: «Shoshilganim sabab xulosani avval yozibman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «독자는 다르게 생각할 법해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘quvchi boshqacha o‘ylashi mumkin.",
+        "Biz deyarli tun bo‘yi bahslashdik.",
+        "Endi ikki qarashni yonma-yon tanishtiraylik.",
+        "Shoshilganim sabab xulosani avval yozibman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «독자는 다르게 생각할 법해요.» deydi. Ma’nosi: «O‘quvchi boshqacha o‘ylashi mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우리는 밤새 토론하다시피 했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Biz deyarli tun bo‘yi bahslashdik.",
+        "Shoshilganim sabab xulosani avval yozibman.",
+        "Endi ikki qarashni yonma-yon tanishtiraylik.",
+        "O‘quvchi boshqacha o‘ylashi mumkin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «우리는 밤새 토론하다시피 했어요.» deydi. Ma’nosi: «Biz deyarli tun bo‘yi bahslashdik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이제 두 관점을 나란히 소개해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Biz deyarli tun bo‘yi bahslashdik.",
+        "O‘quvchi boshqacha o‘ylashi mumkin.",
+        "Endi ikki qarashni yonma-yon tanishtiraylik.",
+        "Shoshilganim sabab xulosani avval yozibman."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «이제 두 관점을 나란히 소개해요.» deydi. Ma’nosi: «Endi ikki qarashni yonma-yon tanishtiraylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «독자는 다르게 생각할 법해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Soyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «O‘quvchi boshqacha o‘ylashi mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «이제 두 관점을 나란히 소개해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Mariya",
+        "Aziz",
+        "Soyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Endi ikki qarashni yonma-yon tanishtiraylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

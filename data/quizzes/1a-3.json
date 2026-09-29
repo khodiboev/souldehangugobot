@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«운동하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "taekvondo o‘rganmoq",
+        "kino ko‘rmoq",
+        "mashq qilmoq, sport bilan shug‘ullanmoq",
+        "qahva ichmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«운동하다» — «mashq qilmoq, sport bilan shug‘ullanmoq». Bu so‘z darsdagi «Kundalik harakatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«kitob o‘qimoq» koreyschada qaysi so‘z?",
+      "options": [
+        "옷을 사다",
+        "커피를 마시다",
+        "책을 읽다",
+        "영화를 보다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«책을 읽다» — «kitob o‘qimoq». Bu so‘z darsdagi «Kundalik harakatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«학교» so‘zining ma’nosi qaysi?",
+      "options": [
+        "maktab",
+        "qahvaxona",
+        "oshxona, restoran",
+        "kutubxona"
+      ],
+      "correctIndex": 0,
+      "explanation": "«학교» — «maktab». Bu so‘z darsdagi «Harakat bajariladigan joylar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "숙제",
+        "친구",
+        "영화",
+        "하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«하다» — «qilmoq». Bu so‘z darsdagi «Yordamchi so‘zlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N을/를» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakat nimaga qaratilgan?",
+        "Harakatni inkor qilish",
+        "Kundalik-hurmatli gap oxiri",
+        "Harakat qayerda bo‘ladi?"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N을/를» — Harakat nimaga qaratilgan?. O‘zbekchadagi “kitobni” so‘zidagi -ni ga o‘xshaydi: 책을.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«안 V» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakat nimaga qaratilgan?",
+        "Harakat qayerda bo‘ladi?",
+        "Harakatni inkor qilish",
+        "Kundalik-hurmatli gap oxiri"
+      ],
+      "correctIndex": 2,
+      "explanation": "«안 V» — Harakatni inkor qilish. 안 — fe’l oldidagi “yo‘q” belgisi; lekin ot + 하다 birikmasida belgi 하다 oldiga boradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«저는 한국어를 공부해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Maktabda koreys tilini o‘rganaman.",
+        "Ishxonada ishlayman.",
+        "Aziz sport bilan shug‘ullanadimi?",
+        "Men koreys tilini o‘rganaman."
+      ],
+      "correctIndex": 3,
+      "explanation": "«저는 한국어를 공부해요.» — «Men koreys tilini o‘rganaman.». Bu yerda «V-아요/어요» qolipi ishlatilgan: Kundalik-hurmatli gap oxiri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Men kitob o‘qiyman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "저는 신문을 안 읽어요.",
+        "공원에서 운동해요.",
+        "마리아 씨는 책을 읽어요.",
+        "저는 책을 읽어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«저는 책을 읽어요.» — «Men kitob o‘qiyman.». Bu yerda «N을/를» qolipi ishlatilgan: Harakat nimaga qaratilgan?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «마리아 씨, 지금 뭐 해요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Mariya, hozir nima qilyapsiz?",
+        "Uyda vazifa qilyapman. Siz-chi?",
+        "Men maktabda koreys tilini o‘rganaman.",
+        "Men kutubxonada kitob o‘qiyapman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 아지즈 «마리아 씨, 지금 뭐 해요?» deydi. Ma’nosi: «Mariya, hozir nima qilyapsiz?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 도서관에서 책을 읽어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men maktabda koreys tilini o‘rganaman.",
+        "Men kutubxonada kitob o‘qiyapman.",
+        "Men bugun ishxonada ishlayman. Mashq qilmayman.",
+        "Uyda vazifa qilyapman. Siz-chi?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada 아지즈 «저는 도서관에서 책을 읽어요.» deydi. Ma’nosi: «Men kutubxonada kitob o‘qiyapman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

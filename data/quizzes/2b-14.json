@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "14",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«공중도덕» so‘zining ma’nosi qaysi?",
+      "options": [
+        "taqiq",
+        "jamoat odobi",
+        "hurmatli nutq",
+        "keksalarga imtiyoz"
+      ],
+      "correctIndex": 1,
+      "explanation": "«공중도덕» — «jamoat odobi». Bu so‘z darsdagi «Odob» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«taqiq» koreyschada qaysi so‘z?",
+      "options": [
+        "금지",
+        "공중도덕",
+        "질서",
+        "존댓말"
+      ],
+      "correctIndex": 0,
+      "explanation": "«금지» — «taqiq». Bu so‘z darsdagi «Odob» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«사진 촬영» so‘zining ma’nosi qaysi?",
+      "options": [
+        "suratga olish",
+        "rioya qilmoq",
+        "shovqin qilmoq",
+        "kirib-chiqish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«사진 촬영» — «suratga olish». Bu so‘z darsdagi «Jamoat joyi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«kirib-chiqish» koreyschada qaysi so‘z?",
+      "options": [
+        "휴대 전화",
+        "금연",
+        "지키다",
+        "출입"
+      ],
+      "correctIndex": 3,
+      "explanation": "«출입» — «kirib-chiqish». Bu so‘z darsdagi «Jamoat joyi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«지키다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mobil telefon",
+        "joy bermoq",
+        "rioya qilmoq",
+        "suratga olish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«지키다» — «rioya qilmoq». Bu so‘z darsdagi «Jamoat joyi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 적이 있다/없다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Tajriba bo‘lgan/bo‘lmagan",
+        "Qilsa bo‘ladi",
+        "Qilish mumkin emas",
+        "O‘tgan paytda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄴ 적이 있다/없다» — Tajriba bo‘lgan/bo‘lmagan. 적 — hayot daftaridagi tajriba yozuvi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아도/어도 되다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilish mumkin emas",
+        "O‘tgan paytda",
+        "Qilsa bo‘ladi",
+        "Tajriba bo‘lgan/bo‘lmagan"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-아도/어도 되다» — Qilsa bo‘ladi. 아/어도 되다 — yashil ruxsat chirog‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)면 안 되다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilish mumkin emas",
+        "O‘tgan paytda",
+        "Qilsa bo‘ladi",
+        "Tajriba bo‘lgan/bo‘lmagan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)면 안 되다» — Qilish mumkin emas. (으)면 안 되다 — qizil taqiq chirog‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«한복을 입은 적이 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hanbok kiyganman.",
+        "Tomosha vaqtida telefon qilish mumkin emas.",
+        "Tomosha zalida suratga olmaganman.",
+        "Imtiyozli o‘rindiqqa o‘tirish mumkin emas."
+      ],
+      "correctIndex": 0,
+      "explanation": "«한복을 입은 적이 있어요.» — «Hanbok kiyganman.». Bu yerda «V-(으)ㄴ 적이 있다/없다» qolipi ishlatilgan: Tajriba bo‘lgan/bo‘lmagan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Koreyaga birinchi kelganimda xato qildim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "여기서 사진을 찍어도 돼요?",
+        "한국에 처음 왔을 때 실수했어요.",
+        "한복을 입은 적이 있어요.",
+        "공연장에서 사진을 찍은 적이 없어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한국에 처음 왔을 때 실수했어요.» — «Koreyaga birinchi kelganimda xato qildim.». Bu yerda «A/V-았을/었을 때» qolipi ishlatilgan: O‘tgan paytda.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«여기서 사진을 찍어도 돼요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Imtiyozli o‘rindiqqa o‘tirish mumkin emas.",
+        "Yoshligimda hurmatli nutqni o‘rgandim.",
+        "Koreys odobini o‘rganganman.",
+        "Bu yerda suratga olsa bo‘ladimi?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«여기서 사진을 찍어도 돼요?» — «Bu yerda suratga olsa bo‘ladimi?». Bu yerda «V-아도/어도 되다» qolipi ishlatilgan: Qilsa bo‘ladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여기에서 가방을 가지고 들어가도 돼요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Kichik sumka mumkin, lekin ovqat olib kirish mumkin emas.",
+        "Ilgari muzeyda xato qilganman.",
+        "Qoidani o‘qiganda yaxshi eslab qolish kerak.",
+        "Bu yerga sumka bilan kirsa bo‘ladimi?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «여기에서 가방을 가지고 들어가도 돼요?» deydi. Ma’nosi: «Bu yerga sumka bilan kirsa bo‘ladimi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «예전에 박물관에서 실수한 적이 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ilgari muzeyda xato qilganman.",
+        "Bu yerga sumka bilan kirsa bo‘ladimi?",
+        "Qoidani o‘qiganda yaxshi eslab qolish kerak.",
+        "Kichik sumka mumkin, lekin ovqat olib kirish mumkin emas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «예전에 박물관에서 실수한 적이 있어요.» deydi. Ma’nosi: «Ilgari muzeyda xato qilganman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «규칙을 읽었을 때 잘 기억해야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ilgari muzeyda xato qilganman.",
+        "Kichik sumka mumkin, lekin ovqat olib kirish mumkin emas.",
+        "Bu yerga sumka bilan kirsa bo‘ladimi?",
+        "Qoidani o‘qiganda yaxshi eslab qolish kerak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «규칙을 읽었을 때 잘 기억해야 해요.» deydi. Ma’nosi: «Qoidani o‘qiganda yaxshi eslab qolish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «작은 가방은 괜찮지만 음식을 가져오면 안 돼요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Jisu",
+        "Xodim"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Xodim aytadi. Ma’nosi: «Kichik sumka mumkin, lekin ovqat olib kirish mumkin emas.».",
+      "reviewSection": "s"
+    }
+  ]
+}

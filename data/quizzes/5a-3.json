@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "3",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«기자» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yutuq",
+        "jurnalist",
+        "iste’dod",
+        "ish tajribasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«기자» — «jurnalist». Bu so‘z darsdagi «Inson va kasb» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«iste’dod» koreyschada qaysi so‘z?",
+      "options": [
+        "인터뷰",
+        "업적",
+        "인물",
+        "재능"
+      ],
+      "correctIndex": 3,
+      "explanation": "«재능» — «iste’dod». Bu so‘z darsdagi «Inson va kasb» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«업적» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yutuq",
+        "shaxs, siymo",
+        "suhbat",
+        "iste’dod"
+      ],
+      "correctIndex": 0,
+      "explanation": "«업적» — «yutuq». Bu so‘z darsdagi «Inson va kasb» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«vazifani zimmasiga olmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "존경하다",
+        "거치다",
+        "맡다",
+        "질문하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«맡다» — «vazifani zimmasiga olmoq». Bu so‘z darsdagi «Hayot yo‘li» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«존경하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "vazifani zimmasiga olmoq",
+        "o‘rnak olmoq",
+        "hurmat qilmoq",
+        "bosqichdan o‘tmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«존경하다» — «hurmat qilmoq». Bu so‘z darsdagi «Hayot yo‘li» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«savol bermoq» koreyschada qaysi so‘z?",
+      "options": [
+        "맡다",
+        "존경하다",
+        "질문하다",
+        "데뷔하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«질문하다» — «savol bermoq». Bu so‘z darsdagi «Hayot yo‘li» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-는 등 (N에) 재능을 발휘하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N ekanmi / N bo‘lishi mumkinmi",
+        "Bosqichma-bosqich vazifa olish",
+        "Turli ishda iste’dod ko‘rsatmoq",
+        "Qilgan tajribasi bor"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-는 등 (N에) 재능을 발휘하다» — Turli ishda iste’dod ko‘rsatmoq. Bir qobiliyatning turli sahnalarda ko‘rinishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N을/를 시작으로 N을/를 거쳐 N을/를 맡다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Turli ishda iste’dod ko‘rsatmoq",
+        "Qilgan tajribasi bor",
+        "Bosqichma-bosqich vazifa olish",
+        "N ekanmi / N bo‘lishi mumkinmi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N을/를 시작으로 N을/를 거쳐 N을/를 맡다» — Bosqichma-bosqich vazifa olish. Rezyumedagi uch bekatli yo‘l.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 바 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bosqichma-bosqich vazifa olish",
+        "Turli ishda iste’dod ko‘rsatmoq",
+        "N ekanmi / N bo‘lishi mumkinmi",
+        "Qilgan tajribasi bor"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)ㄴ 바 있다» — Qilgan tajribasi bor. Rezyumedagi tasdiqlangan tajriba satri.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N인지/일까» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilgan tajribasi bor",
+        "Turli ishda iste’dod ko‘rsatmoq",
+        "N ekanmi / N bo‘lishi mumkinmi",
+        "Bosqichma-bosqich vazifa olish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N인지/일까» — N ekanmi / N bo‘lishi mumkinmi. Biri tekshiruv savoli, biri ichki taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«그는 노래하고 작곡하는 등 음악에 재능을 발휘했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Minji yozish kabi ko‘p sohada iste’dod ko‘rsatadi.",
+        "U jurnalistlikdan boshlanib, muharrirlikdan o‘tib boshqaruvni oldi.",
+        "U tadqiqot natijasini ilgari e’lon qilganmiz.",
+        "U kuylash va bastalash kabi ishlarda musiqiy iste’dodini ko‘rsatdi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«그는 노래하고 작곡하는 등 음악에 재능을 발휘했어요.» — «U kuylash va bastalash kabi ishlarda musiqiy iste’dodini ko‘rsatdi.». Bu yerda «V-는 등 (N에) 재능을 발휘하다» qolipi ishlatilgan: Turli ishda iste’dod ko‘rsatmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«U jurnalistlikdan boshlanib, muharrirlikdan o‘tib boshqaruvni oldi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "다음 손님은 누구일까 궁금해요.",
+        "그 연구 결과를 발표한 바 있습니다.",
+        "그는 기자 일을 시작으로 편집자를 거쳐 국장을 맡았어요.",
+        "저는 그분을 인터뷰한 바 있습니다."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그는 기자 일을 시작으로 편집자를 거쳐 국장을 맡았어요.» — «U jurnalistlikdan boshlanib, muharrirlikdan o‘tib boshqaruvni oldi.». Bu yerda «N을/를 시작으로 N을/를 거쳐 N을/를 맡다» qolipi ishlatilgan: Bosqichma-bosqich vazifa olish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«저는 그분을 인터뷰한 바 있습니다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Keyingi mehmon kim bo‘larkin, qiziq.",
+        "Men yo‘naltirishdan boshladim, tarjimadan o‘tib boshlovchilikni oldim.",
+        "U kuylash va bastalash kabi ishlarda musiqiy iste’dodini ko‘rsatdi.",
+        "Men u kishidan intervyu olganman."
+      ],
+      "correctIndex": 3,
+      "explanation": "«저는 그분을 인터뷰한 바 있습니다.» — «Men u kishidan intervyu olganman.». Bu yerda «V-(으)ㄴ 바 있다» qolipi ishlatilgan: Qilgan tajribasi bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«U odam kimligini aniqladim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 일이 우연인지 확인해 봅시다.",
+        "민지는 글을 쓰는 등 여러 분야에서 재능을 발휘해요.",
+        "그 사람이 누구인지 알아봤어요.",
+        "그 연구 결과를 발표한 바 있습니다."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그 사람이 누구인지 알아봤어요.» — «U odam kimligini aniqladim.». Bu yerda «N인지/일까» qolipi ishlatilgan: N ekanmi / N bo‘lishi mumkinmi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그 선생님은 여러 학생을 도운 바 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘qituvchilikdan boshlanib, tadqiqotchilikdan o‘tib dekan bo‘lgan.",
+        "U ustoz ko‘p talabaga yordam bergan.",
+        "Birinchi savol nima bo‘lishini birga o‘ylaylik.",
+        "Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «그 선생님은 여러 학생을 도운 바 있어요.» deydi. Ma’nosi: «U ustoz ko‘p talabaga yordam bergan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «가르치고 상담하는 등 교육에 재능을 발휘하셨지요.» gapining ma’nosi qaysi?",
+      "options": [
+        "U ustoz ko‘p talabaga yordam bergan.",
+        "Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan.",
+        "O‘qituvchilikdan boshlanib, tadqiqotchilikdan o‘tib dekan bo‘lgan.",
+        "Birinchi savol nima bo‘lishini birga o‘ylaylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «가르치고 상담하는 등 교육에 재능을 발휘하셨지요.» deydi. Ma’nosi: «Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «교사를 시작으로 연구자를 거쳐 학장을 맡으셨어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Birinchi savol nima bo‘lishini birga o‘ylaylik.",
+        "U ustoz ko‘p talabaga yordam bergan.",
+        "Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan.",
+        "O‘qituvchilikdan boshlanib, tadqiqotchilikdan o‘tib dekan bo‘lgan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «교사를 시작으로 연구자를 거쳐 학장을 맡으셨어요.» deydi. Ma’nosi: «O‘qituvchilikdan boshlanib, tadqiqotchilikdan o‘tib dekan bo‘lgan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «첫 질문은 무엇일까 같이 생각해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘qituvchilikdan boshlanib, tadqiqotchilikdan o‘tib dekan bo‘lgan.",
+        "Birinchi savol nima bo‘lishini birga o‘ylaylik.",
+        "Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan.",
+        "U ustoz ko‘p talabaga yordam bergan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «첫 질문은 무엇일까 같이 생각해요.» deydi. Ma’nosi: «Birinchi savol nima bo‘lishini birga o‘ylaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «가르치고 상담하는 등 교육에 재능을 발휘하셨지요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Dars va maslahat orqali ta’limdagi iste’dodini ko‘rsatgan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «첫 질문은 무엇일까 같이 생각해요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Birinchi savol nima bo‘lishini birga o‘ylaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

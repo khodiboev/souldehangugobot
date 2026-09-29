@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "18",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«인상» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bahor guli",
+        "taassurot",
+        "tajriba",
+        "xotira"
+      ],
+      "correctIndex": 1,
+      "explanation": "«인상» — «taassurot». Bu so‘z darsdagi «Koreyadagi hayot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«fasl» koreyschada qaysi so‘z?",
+      "options": [
+        "계절",
+        "경험",
+        "인상",
+        "장마"
+      ],
+      "correctIndex": 0,
+      "explanation": "«계절» — «fasl». Bu so‘z darsdagi «Koreyadagi hayot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«벌써» so‘zining ma’nosi qaysi?",
+      "options": [
+        "shu vaqt davomida",
+        "unuta olmaslik",
+        "allaqachon",
+        "esga tushmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«벌써» — «allaqachon». Bu so‘z darsdagi «Vaqt va his» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«esga tushmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "그동안",
+        "기억나다",
+        "잊지 못하다",
+        "벌써"
+      ],
+      "correctIndex": 1,
+      "explanation": "«기억나다» — «esga tushmoq». Bu so‘z darsdagi «Vaqt va his» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«특별하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "unuta olmaslik",
+        "alohida bo‘lmoq",
+        "hali",
+        "esga tushmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«특별하다» — «alohida bo‘lmoq». Bu so‘z darsdagi «Vaqt va his» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄴ 지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Otning yozma bayoni",
+        "Kutilganidan ko‘p",
+        "Qilganiga qancha vaqt bo‘ldi",
+        "Yozma sodda bayon"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-(으)ㄴ 지» — Qilganiga qancha vaqt bo‘ldi. (으)ㄴ 지 — o‘tmishdagi startdan bugungacha tortilgan lenta.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-다 · V-ㄴ다/는다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kutilganidan ko‘p",
+        "Yozma sodda bayon",
+        "Otning yozma bayoni",
+        "Qilganiga qancha vaqt bo‘ldi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-다 · V-ㄴ다/는다» — Yozma sodda bayon. Bu shakl — kundalik va maqolaning xolis ovozi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yozma sodda bayon",
+        "Kutilganidan ko‘p",
+        "Otning yozma bayoni",
+        "Qilganiga qancha vaqt bo‘ldi"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N(이)다» — Otning yozma bayoni. (이)다 — maqoladagi ot hukmining nuqtasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«한국에 온 지 6개월이 됐어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Koreyada allaqachon bir yil yashadim.",
+        "Bu unutilmas xotiradir.",
+        "O‘nta do‘st keldi.",
+        "Koreyaga kelganimga olti oy bo‘ldi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«한국에 온 지 6개월이 됐어요.» — «Koreyaga kelganimga olti oy bo‘ldi.». Bu yerda «V-(으)ㄴ 지» qolipi ishlatilgan: Qilganiga qancha vaqt bo‘ldi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Koreyada allaqachon bir yil yashadim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "민지는 소중한 친구다.",
+        "한국에서 벌써 일 년이나 살았어요.",
+        "친구가 열 명이나 왔어요.",
+        "이것은 잊지 못할 추억이다."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한국에서 벌써 일 년이나 살았어요.» — «Koreyada allaqachon bir yil yashadim.». Bu yerda «N(이)나 ②» qolipi ishlatilgan: Kutilganidan ko‘p.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«한국의 봄은 아름답다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Koreyada allaqachon bir yil yashadim.",
+        "Qishda ko‘p qor yog‘adi.",
+        "Koreyaning bahori go‘zal.",
+        "Bu unutilmas xotiradir."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한국의 봄은 아름답다.» — «Koreyaning bahori go‘zal.». Bu yerda «A-다 · V-ㄴ다/는다» qolipi ishlatilgan: Yozma sodda bayon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한국에 온 지 벌써 6개월이나 됐다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Koreyaga kelganimga allaqachon olti oy bo‘ldi.",
+        "Hozir yaxshi do‘stlarim ko‘p va Koreyadagi hayot zavqli.",
+        "Avval hamma narsa notanish edi.",
+        "Bu vaqt unutilmas xotiradir."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «한국에 온 지 벌써 6개월이나 됐다.» deydi. Ma’nosi: «Koreyaga kelganimga allaqachon olti oy bo‘ldi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지금은 좋은 친구가 많고 한국 생활이 즐겁다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Koreyaga kelganimga allaqachon olti oy bo‘ldi.",
+        "Bu vaqt unutilmas xotiradir.",
+        "Hozir yaxshi do‘stlarim ko‘p va Koreyadagi hayot zavqli.",
+        "Avval hamma narsa notanish edi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «지금은 좋은 친구가 많고 한국 생활이 즐겁다.» deydi. Ma’nosi: «Hozir yaxshi do‘stlarim ko‘p va Koreyadagi hayot zavqli.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 시간은 잊지 못할 추억이다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Koreyaga kelganimga allaqachon olti oy bo‘ldi.",
+        "Avval hamma narsa notanish edi.",
+        "Hozir yaxshi do‘stlarim ko‘p va Koreyadagi hayot zavqli.",
+        "Bu vaqt unutilmas xotiradir."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «이 시간은 잊지 못할 추억이다.» deydi. Ma’nosi: «Bu vaqt unutilmas xotiradir.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «이 시간은 잊지 못할 추억이다.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Jisu",
+        "Xodim"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Bu vaqt unutilmas xotiradir.».",
+      "reviewSection": "s"
+    }
+  ]
+}

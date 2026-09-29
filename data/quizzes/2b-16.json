@@ -1,0 +1,217 @@
+{
+  "bookId": "2b",
+  "unitId": "16",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«추석» so‘zining ma’nosi qaysi?",
+      "options": [
+        "Oy taqvimidagi yangi yil",
+        "Chusok bayrami",
+        "milliy kiyim",
+        "an’anaviy bayram"
+      ],
+      "correctIndex": 1,
+      "explanation": "«추석» — «Chusok bayrami». Bu so‘z darsdagi «Bayramlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«guruch bo‘lakli sho‘rva» koreyschada qaysi so‘z?",
+      "options": [
+        "윷놀이",
+        "송편",
+        "떡국",
+        "명절"
+      ],
+      "correctIndex": 2,
+      "explanation": "«떡국» — «guruch bo‘lakli sho‘rva». Bu so‘z darsdagi «Bayramlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«청소하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "iltimos qilmoq",
+        "idish yuvmoq",
+        "bozorlik qilmoq",
+        "tozalamoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«청소하다» — «tozalamoq». Bu so‘z darsdagi «Uy yumushlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«dasturxon yozmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "대신",
+        "장을 보다",
+        "음식을 차리다",
+        "설거지하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«음식을 차리다» — «dasturxon yozmoq». Bu so‘z darsdagi «Uy yumushlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«미리» so‘zining ma’nosi qaysi?",
+      "options": [
+        "dasturxon yozmoq",
+        "o‘rniga",
+        "oldindan",
+        "bozorlik qilmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«미리» — «oldindan». Bu so‘z darsdagi «Uy yumushlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-아/어 놓다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Men shunday qilaman, shuning uchun...",
+        "Qilsammikan deb turibman",
+        "... o‘rniga",
+        "Oldindan qilib qo‘ymoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-아/어 놓다» — Oldindan qilib qo‘ymoq. 아/어 놓다 — kelajakdagi o‘zingizga tayyorlab qo‘yilgan narsa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ까 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Men shunday qilaman, shuning uchun...",
+        "... o‘rniga",
+        "Oldindan qilib qo‘ymoq",
+        "Qilsammikan deb turibman"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)ㄹ까 하다» — Qilsammikan deb turibman. (으)ㄹ까 하다 — qalam bilan yozilgan, hali siyohlanmagan reja.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ 테니까» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... o‘rniga",
+        "Qilsammikan deb turibman",
+        "Oldindan qilib qo‘ymoq",
+        "Men shunday qilaman, shuning uchun..."
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-(으)ㄹ 테니까» — Men shunday qilaman, shuning uchun.... 테니까 — “bu tomonni men olaman, siz u tomonni qiling” kelishuvi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«명절 음식을 미리 만들어 놓았어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qahva o‘rniga choy bering.",
+        "Yo‘l tirband bo‘ladi, shuning uchun erta chiqing.",
+        "Bayram taomini oldindan tayyorlab qo‘ydik.",
+        "Minjining o‘rniga men idish yuvaman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«명절 음식을 미리 만들어 놓았어요.» — «Bayram taomini oldindan tayyorlab qo‘ydik.». Bu yerda «V-아/어 놓다» qolipi ishlatilgan: Oldindan qilib qo‘ymoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yangi yilda guruch o‘rniga tteokguk yeymiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "제가 요리할 테니까 장을 봐 주세요.",
+        "설날에는 밥 대신 떡국을 먹어요.",
+        "명절 음식을 미리 만들어 놓았어요.",
+        "표를 사 놓았어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«설날에는 밥 대신 떡국을 먹어요.» — «Yangi yilda guruch o‘rniga tteokguk yeymiz.». Bu yerda «N 대신» qolipi ishlatilgan: ... o‘rniga.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«이번 설에는 고향에 갈까 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Men ovqat qilaman, siz bozorlik qiling.",
+        "Yangi yilda guruch o‘rniga tteokguk yeymiz.",
+        "Men tozalayman, siz biroz dam oling.",
+        "Bu yangi yilda yurtimga borsammikan deb turibman."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이번 설에는 고향에 갈까 해요.» — «Bu yangi yilda yurtimga borsammikan deb turibman.». Bu yerda «V-(으)ㄹ까 하다» qolipi ishlatilgan: Qilsammikan deb turibman.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 떡국을 만들 테니까 채소를 씻어 주세요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ovqatdan keyin yut o‘ynasammikan deb turibman.",
+        "Azizning o‘rniga men qilaman.",
+        "Men tteokguk tayyorlayman, sabzavotni yuving.",
+        "Oldindan to‘g‘rab qo‘yaymi?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «제가 떡국을 만들 테니까 채소를 씻어 주세요.» deydi. Ma’nosi: «Men tteokguk tayyorlayman, sabzavotni yuving.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제가 아지즈 씨 대신 할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Oldindan to‘g‘rab qo‘yaymi?",
+        "Azizning o‘rniga men qilaman.",
+        "Ovqatdan keyin yut o‘ynasammikan deb turibman.",
+        "Men tteokguk tayyorlayman, sabzavotni yuving."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «제가 아지즈 씨 대신 할게요.» deydi. Ma’nosi: «Azizning o‘rniga men qilaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «식사 후에 윷놀이를 할까 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Oldindan to‘g‘rab qo‘yaymi?",
+        "Ovqatdan keyin yut o‘ynasammikan deb turibman.",
+        "Azizning o‘rniga men qilaman.",
+        "Men tteokguk tayyorlayman, sabzavotni yuving."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «식사 후에 윷놀이를 할까 해요.» deydi. Ma’nosi: «Ovqatdan keyin yut o‘ynasammikan deb turibman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «제가 아지즈 씨 대신 할게요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Soyon",
+        "Minji",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Azizning o‘rniga men qilaman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

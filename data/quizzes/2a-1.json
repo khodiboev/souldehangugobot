@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "1",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«전공» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ona shahar, yurt",
+        "mutaxassislik",
+        "qiziqish",
+        "chet tili"
+      ],
+      "correctIndex": 1,
+      "explanation": "«전공» — «mutaxassislik». Bu so‘z darsdagi «Tanishtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«qiziqish» koreyschada qaysi so‘z?",
+      "options": [
+        "외국어",
+        "성격",
+        "관심",
+        "전공"
+      ],
+      "correctIndex": 2,
+      "explanation": "«관심» — «qiziqish». Bu so‘z darsdagi «Tanishtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«보통» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mashq qilmoq",
+        "tez-tez",
+        "odatda",
+        "sayr qilmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«보통» — «odatda». Bu so‘z darsdagi «Takroriy ishlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«unchalik; ko‘p emas» koreyschada qaysi so‘z?",
+      "options": [
+        "전혀",
+        "별로",
+        "주말마다",
+        "연습하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«별로» — «unchalik; ko‘p emas». Bu so‘z darsdagi «Takroriy ishlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«산책하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "odatda",
+        "mashq qilmoq",
+        "tez-tez",
+        "sayr qilmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«산책하다» — «sayr qilmoq». Bu so‘z darsdagi «Takroriy ishlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N(이)라고 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yoki: ot tanlovi",
+        "“... deb ataladi”",
+        "Yoki: harakat tanlovi",
+        "Maqsad bilan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N(이)라고 하다» — “... deb ataladi”. Bu qolip otga qo‘shtirnoq qo‘yib, “deb” deydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-거나» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Yoki: harakat tanlovi",
+        "“... deb ataladi”",
+        "Maqsad bilan",
+        "Yoki: ot tanlovi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-거나» — Yoki: harakat tanlovi. 거나 — yo‘l ikkiga ayrilgan joydagi “yoki” belgisi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)나» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Maqsad bilan",
+        "“... deb ataladi”",
+        "Yoki: harakat tanlovi",
+        "Yoki: ot tanlovi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N(이)나» — Yoki: ot tanlovi. (이)나 — ikkita ot orasidagi tanlov tugmasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«저는 아지즈라고 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Choy yoki qahva ichaman.",
+        "Meni Aziz deyishadi.",
+        "Koreys tilini o‘rganish uchun Koreyaga keldim.",
+        "Sport qilish uchun bog‘ga boraman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«저는 아지즈라고 해요.» — «Meni Aziz deyishadi.». Bu yerda «N(이)라고 하다» qolipi ishlatilgan: “... deb ataladi”.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Koreys tilini o‘rganish uchun Koreyaga keldim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "한국어를 배우려고 한국에 왔어요.",
+        "제 전공은 경제학이라고 해요.",
+        "커피를 마시거나 산책해요.",
+        "영화나 드라마를 봐요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«한국어를 배우려고 한국에 왔어요.» — «Koreys tilini o‘rganish uchun Koreyaga keldim.». Bu yerda «V-(으)려고» qolipi ishlatilgan: Maqsad bilan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«주말에 책을 읽거나 운동해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Film yoki serial ko‘raman.",
+        "Hafta oxiri kitob o‘qiyman yoki sport qilaman.",
+        "Buni hanbok deyishadi.",
+        "Uyda dam olaman yoki do‘stim bilan uchrashaman."
+      ],
+      "correctIndex": 1,
+      "explanation": "«주말에 책을 읽거나 운동해요.» — «Hafta oxiri kitob o‘qiyman yoki sport qilaman.». Bu yerda «V-거나» qolipi ishlatilgan: Yoki: harakat tanlovi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 우즈베키스탄에서 온 아지즈라고 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men O‘zbekistondan kelgan Azizman.",
+        "Tarjimon bo‘lish uchun o‘rganaman.",
+        "Hafta oxiri birga o‘qiymiz yoki qahva ichamiz.",
+        "Nega koreys tilini o‘rganasiz?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «저는 우즈베키스탄에서 온 아지즈라고 해요.» deydi. Ma’nosi: «Men O‘zbekistondan kelgan Azizman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «통역사가 되려고 공부해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hafta oxiri birga o‘qiymiz yoki qahva ichamiz.",
+        "Nega koreys tilini o‘rganasiz?",
+        "Men O‘zbekistondan kelgan Azizman.",
+        "Tarjimon bo‘lish uchun o‘rganaman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «통역사가 되려고 공부해요.» deydi. Ma’nosi: «Tarjimon bo‘lish uchun o‘rganaman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주말에 같이 공부하거나 커피를 마셔요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Men O‘zbekistondan kelgan Azizman.",
+        "Tarjimon bo‘lish uchun o‘rganaman.",
+        "Nega koreys tilini o‘rganasiz?",
+        "Hafta oxiri birga o‘qiymiz yoki qahva ichamiz."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «주말에 같이 공부하거나 커피를 마셔요.» deydi. Ma’nosi: «Hafta oxiri birga o‘qiymiz yoki qahva ichamiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «주말에 같이 공부하거나 커피를 마셔요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Aziz",
+        "Soyon",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Hafta oxiri birga o‘qiymiz yoki qahva ichamiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

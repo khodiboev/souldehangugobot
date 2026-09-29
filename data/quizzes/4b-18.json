@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "18",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«놀부» so‘zining ma’nosi qaysi?",
+      "options": [
+        "Hingbu, ertak qahramoni",
+        "Nolbu, ertak qahramoni",
+        "aka-uka",
+        "sahna matni"
+      ],
+      "correctIndex": 1,
+      "explanation": "«놀부» — «Nolbu, ertak qahramoni». Bu so‘z darsdagi «Sahna ertagi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«qovoq» koreyschada qaysi so‘z?",
+      "options": [
+        "흥부",
+        "박",
+        "제비",
+        "형제"
+      ],
+      "correctIndex": 1,
+      "explanation": "«박» — «qovoq». Bu so‘z darsdagi «Sahna ertagi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«대본» so‘zining ma’nosi qaysi?",
+      "options": [
+        "Nolbu, ertak qahramoni",
+        "qovoq",
+        "sahna matni",
+        "Hingbu, ertak qahramoni"
+      ],
+      "correctIndex": 2,
+      "explanation": "«대본» — «sahna matni». Bu so‘z darsdagi «Sahna ertagi» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ochko‘zlik» koreyschada qaysi so‘z?",
+      "options": [
+        "흉내 내다",
+        "펄쩍펄쩍",
+        "착하다",
+        "욕심"
+      ],
+      "correctIndex": 3,
+      "explanation": "«욕심» — «ochko‘zlik». Bu so‘z darsdagi «Xarakter va harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«흉내 내다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sapchib-sapchib",
+        "taqlid qilmoq",
+        "hap-hap ichish tovushi",
+        "ochko‘zlik"
+      ],
+      "correctIndex": 1,
+      "explanation": "«흉내 내다» — «taqlid qilmoq». Bu so‘z darsdagi «Xarakter va harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«sapchib-sapchib» koreyschada qaysi so‘z?",
+      "options": [
+        "벌컥벌컥",
+        "흉내 내다",
+        "나누다",
+        "펄쩍펄쩍"
+      ],
+      "correctIndex": 3,
+      "explanation": "«펄쩍펄쩍» — «sapchib-sapchib». Bu so‘z darsdagi «Xarakter va harakat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-아/어 대다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Buni Ndan bilish mumkin",
+        "...deyishdan ko‘ra",
+        "Tinmay qilaverish",
+        "N ham, N ham"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-아/어 대다» — Tinmay qilaverish. Bir tugma qayta-qayta bosilgandek harakat kuchayadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N(이)며 N(이)며» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilishi bilanoq",
+        "N ham, N ham",
+        "N orasida / N bo‘la turib",
+        "Tinmay qilaverish"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N(이)며 N(이)며» — N ham, N ham. Sahnaga rekvizitlarni birma-bir qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«놀부 역 배우가 계속 소리를 질러 댔어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Nolbu rolidagi aktyor tinmay baqiraverdi.",
+        "Kostyum ham, sahna matni ham tayyor.",
+        "Sahna ham, yoritish ham tuzatishga muhtoj.",
+        "Bolalar ham, kattalar ham tomoshani yoqtirdi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«놀부 역 배우가 계속 소리를 질러 댔어요.» — «Nolbu rolidagi aktyor tinmay baqiraverdi.». Bu yerda «V-아/어 대다» qolipi ishlatilgan: Tinmay qilaverish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Kostyum ham, sahna matni ham tayyor.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "놀부 역 배우가 계속 소리를 질러 댔어요.",
+        "관객들이 웃어 대서 대사가 안 들렸어요.",
+        "의상이며 대본이며 모두 준비했어요.",
+        "아이들이며 어른들이며 모두 공연을 좋아했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«의상이며 대본이며 모두 준비했어요.» — «Kostyum ham, sahna matni ham tayyor.». Bu yerda «N(이)며 N(이)며» qolipi ishlatilgan: N ham, N ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«관객들이 웃어 대서 대사가 안 들렸어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bolalar savol beraverdi, aktyorlar xursand bo‘ldi.",
+        "Tomoshabinlar tinmay kulgani uchun so‘zlar eshitilmadi.",
+        "Nolbu rolidagi aktyor tinmay baqiraverdi.",
+        "Sahna ham, yoritish ham tuzatishga muhtoj."
+      ],
+      "correctIndex": 1,
+      "explanation": "«관객들이 웃어 대서 대사가 안 들렸어요.» — «Tomoshabinlar tinmay kulgani uchun so‘zlar eshitilmadi.». Bu yerda «V-아/어 대다» qolipi ishlatilgan: Tinmay qilaverish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Bolalar ham, kattalar ham tomoshani yoqtirdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "놀부 역 배우가 계속 소리를 질러 댔어요.",
+        "아이들이 질문을 해 대서 배우들이 즐거웠어요.",
+        "아이들이며 어른들이며 모두 공연을 좋아했어요.",
+        "의상이며 대본이며 모두 준비했어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«아이들이며 어른들이며 모두 공연을 좋아했어요.» — «Bolalar ham, kattalar ham tomoshani yoqtirdi.». Bu yerda «N(이)며 N(이)며» qolipi ishlatilgan: N ham, N ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«아이들이 질문을 해 대서 배우들이 즐거웠어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Kostyum ham, sahna matni ham tayyor.",
+        "Sahna ham, yoritish ham tuzatishga muhtoj.",
+        "Tomoshabinlar tinmay kulgani uchun so‘zlar eshitilmadi.",
+        "Bolalar savol beraverdi, aktyorlar xursand bo‘ldi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«아이들이 질문을 해 대서 배우들이 즐거웠어요.» — «Bolalar savol beraverdi, aktyorlar xursand bo‘ldi.». Bu yerda «V-아/어 대다» qolipi ishlatilgan: Tinmay qilaverish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Sahna ham, yoritish ham tuzatishga muhtoj.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "놀부 역 배우가 계속 소리를 질러 댔어요.",
+        "무대며 조명이며 손볼 곳이 많아요.",
+        "관객들이 웃어 대서 대사가 안 들렸어요.",
+        "아이들이 질문을 해 대서 배우들이 즐거웠어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«무대며 조명이며 손볼 곳이 많아요.» — «Sahna ham, yoritish ham tuzatishga muhtoj.». Bu yerda «N(이)며 N(이)며» qolipi ishlatilgan: N ham, N ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «무대며 조명이며 모두 준비됐어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sahna ham, yoritish ham tayyor.",
+        "Tugagach ham suhbatlashamiz. Axir yana uchrashamiz.",
+        "Bolalar ham, kattalar ham birga kulsa yaxshi.",
+        "Tomoshabinlar ko‘p savol bersa ham shoshmay javob bering."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «무대며 조명이며 모두 준비됐어요.» deydi. Ma’nosi: «Sahna ham, yoritish ham tayyor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «관객들이 질문을 해 대도 천천히 대답해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Sahna ham, yoritish ham tayyor.",
+        "Tugagach ham suhbatlashamiz. Axir yana uchrashamiz.",
+        "Tomoshabinlar ko‘p savol bersa ham shoshmay javob bering.",
+        "Bolalar ham, kattalar ham birga kulsa yaxshi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «관객들이 질문을 해 대도 천천히 대답해요.» deydi. Ma’nosi: «Tomoshabinlar ko‘p savol bersa ham shoshmay javob bering.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아이들이며 어른들이며 함께 웃으면 좋겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bolalar ham, kattalar ham birga kulsa yaxshi.",
+        "Tomoshabinlar ko‘p savol bersa ham shoshmay javob bering.",
+        "Tugagach ham suhbatlashamiz. Axir yana uchrashamiz.",
+        "Sahna ham, yoritish ham tayyor."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «아이들이며 어른들이며 함께 웃으면 좋겠어요.» deydi. Ma’nosi: «Bolalar ham, kattalar ham birga kulsa yaxshi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «끝나고도 모두 이야기를 나눠요. 또 만날 거니까요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Tugagach ham suhbatlashamiz. Axir yana uchrashamiz.",
+        "Bolalar ham, kattalar ham birga kulsa yaxshi.",
+        "Tomoshabinlar ko‘p savol bersa ham shoshmay javob bering.",
+        "Sahna ham, yoritish ham tayyor."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «끝나고도 모두 이야기를 나눠요. 또 만날 거니까요.» deydi. Ma’nosi: «Tugagach ham suhbatlashamiz. Axir yana uchrashamiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «관객들이 질문을 해 대도 천천히 대답해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Tomoshabinlar ko‘p savol bersa ham shoshmay javob bering.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «끝나고도 모두 이야기를 나눠요. 또 만날 거니까요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Tugagach ham suhbatlashamiz. Axir yana uchrashamiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

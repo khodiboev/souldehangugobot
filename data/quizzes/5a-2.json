@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«외향적» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mukammallikka intilish",
+        "ichki dunyosiga moyil, kamgap",
+        "kirishimli",
+        "samimiy, ochiq bo‘lmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«외향적» — «kirishimli». Bu so‘z darsdagi «Fe’l-atvor» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ehtiyotkor bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "성격",
+        "외향적",
+        "내향적",
+        "신중하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«신중하다» — «ehtiyotkor bo‘lmoq». Bu so‘z darsdagi «Fe’l-atvor» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«완벽주의» so‘zining ma’nosi qaysi?",
+      "options": [
+        "mukammallikka intilish",
+        "ehtiyotkor bo‘lmoq",
+        "ichki dunyosiga moyil, kamgap",
+        "kirishimli"
+      ],
+      "correctIndex": 0,
+      "explanation": "«완벽주의» — «mukammallikka intilish». Bu so‘z darsdagi «Fe’l-atvor» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«noto‘g‘ri tushunish» koreyschada qaysi so‘z?",
+      "options": [
+        "오해",
+        "상처",
+        "비교하다",
+        "인상"
+      ],
+      "correctIndex": 0,
+      "explanation": "«오해» — «noto‘g‘ri tushunish». Bu so‘z darsdagi «Taassurot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«장점» so‘zining ma’nosi qaysi?",
+      "options": [
+        "taassurot",
+        "kuchli tomon",
+        "ko‘ngil yarasi",
+        "taqqoslamoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«장점» — «kuchli tomon». Bu so‘z darsdagi «Taassurot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ko‘ngil yarasi» koreyschada qaysi so‘z?",
+      "options": [
+        "장점",
+        "상처",
+        "인상",
+        "비교하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«상처» — «ko‘ngil yarasi». Bu so‘z darsdagi «Taassurot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 소리를 듣다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Shunday taassurot qoldirmoq",
+        "Shunday deyishlarini eshitmoq",
+        "Nomigagina qilmoq",
+        "Hatto ... qilishga to‘g‘ri kelsa ham"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-다는 소리를 듣다» — Shunday deyishlarini eshitmoq. Odam ortidan yuradigan “yorliq”.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-다는 인상을 주다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nafaqat, balki",
+        "Hatto ... qilishga to‘g‘ri kelsa ham",
+        "Shunday deyishlarini eshitmoq",
+        "Shunday taassurot qoldirmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-다는 인상을 주다» — Shunday taassurot qoldirmoq. Uchrashuvdan keyin odam ongida qolgan surat.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-는 한이 있어도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N orqali",
+        "Shunday taassurot qoldirmoq",
+        "Shunday deyishlarini eshitmoq",
+        "Hatto ... qilishga to‘g‘ri kelsa ham"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-는 한이 있어도» — Hatto ... qilishga to‘g‘ri kelsa ham. Maqsad sari yo‘lda eng qimmat to‘lovni ham to‘lashga tayyorlik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«저는 차분하다는 소리를 자주 들어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Oxirigacha savol berishi tirishqoq taassurot beradi.",
+        "U do‘stni mukammallikka haddan ziyod intiladi deyishdi.",
+        "Meni ko‘pincha bosiq deyishadi.",
+        "Uning tabassumi mehribon taassurot qoldirdi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«저는 차분하다는 소리를 자주 들어요.» — «Meni ko‘pincha bosiq deyishadi.». Bu yerda «A/V-다는 소리를 듣다» qolipi ishlatilgan: Shunday deyishlarini eshitmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Sokin ohang ehtiyotkor degan taassurot beradi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "그 친구는 너무 완벽을 추구한다는 소리를 들었어요.",
+        "조용한 말투가 신중하다는 인상을 줘요.",
+        "오해를 받는 한이 있어도 사실을 말하겠어요.",
+        "저는 차분하다는 소리를 자주 들어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«조용한 말투가 신중하다는 인상을 줘요.» — «Sokin ohang ehtiyotkor degan taassurot beradi.». Bu yerda «A/V-다는 인상을 주다» qolipi ishlatilgan: Shunday taassurot qoldirmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«밤을 새우는 한이 있어도 약속을 지킬게요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Tun bo‘yi uxlamasam ham va’damda turaman.",
+        "Ko‘proq vaqt ketsa ham bir-birimizni hurmat qilaylik.",
+        "Noto‘g‘ri tushunishsa ham rostini aytaman.",
+        "Sokin ohang ehtiyotkor degan taassurot beradi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«밤을 새우는 한이 있어도 약속을 지킬게요.» — «Tun bo‘yi uxlamasam ham va’damda turaman.». Bu yerda «V-는 한이 있어도» qolipi ishlatilgan: Hatto ... qilishga to‘g‘ri kelsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Minjini yaxshi tinglovchi deyishadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "저는 차분하다는 소리를 자주 들어요.",
+        "민지는 말을 잘 들어 준다는 소리를 들어요.",
+        "끝까지 질문하는 모습이 열심히 공부한다는 인상을 줘요.",
+        "그의 미소는 친절하다는 인상을 줬어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«민지는 말을 잘 들어 준다는 소리를 들어요.» — «Minjini yaxshi tinglovchi deyishadi.». Bu yerda «A/V-다는 소리를 듣다» qolipi ishlatilgan: Shunday deyishlarini eshitmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«그의 미소는 친절하다는 인상을 줬어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Noto‘g‘ri tushunishsa ham rostini aytaman.",
+        "Uning tabassumi mehribon taassurot qoldirdi.",
+        "Sokin ohang ehtiyotkor degan taassurot beradi.",
+        "Oxirigacha savol berishi tirishqoq taassurot beradi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«그의 미소는 친절하다는 인상을 줬어요.» — «Uning tabassumi mehribon taassurot qoldirdi.». Bu yerda «A/V-다는 인상을 주다» qolipi ishlatilgan: Shunday taassurot qoldirmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 외향적이라는 소리를 들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ammo avval sokin taassurot qoldirgansiz.",
+        "Meni kirishimli deyishadi.",
+        "Noto‘g‘ri tushunishsa ham ochiq gapiraman.",
+        "Odamni tez hukm qilsak adashishimiz mumkin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «저는 외향적이라는 소리를 들어요.» deydi. Ma’nosi: «Meni kirishimli deyishadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «하지만 처음에는 조용하다는 인상을 줬어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Noto‘g‘ri tushunishsa ham ochiq gapiraman.",
+        "Meni kirishimli deyishadi.",
+        "Ammo avval sokin taassurot qoldirgansiz.",
+        "Odamni tez hukm qilsak adashishimiz mumkin."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «하지만 처음에는 조용하다는 인상을 줬어요.» deydi. Ma’nosi: «Ammo avval sokin taassurot qoldirgansiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사람을 빨리 판단하면 오해할 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Noto‘g‘ri tushunishsa ham ochiq gapiraman.",
+        "Meni kirishimli deyishadi.",
+        "Ammo avval sokin taassurot qoldirgansiz.",
+        "Odamni tez hukm qilsak adashishimiz mumkin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «사람을 빨리 판단하면 오해할 수 있어요.» deydi. Ma’nosi: «Odamni tez hukm qilsak adashishimiz mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오해를 받는 한이 있어도 솔직하게 말할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Odamni tez hukm qilsak adashishimiz mumkin.",
+        "Noto‘g‘ri tushunishsa ham ochiq gapiraman.",
+        "Ammo avval sokin taassurot qoldirgansiz.",
+        "Meni kirishimli deyishadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «오해를 받는 한이 있어도 솔직하게 말할게요.» deydi. Ma’nosi: «Noto‘g‘ri tushunishsa ham ochiq gapiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «사람을 빨리 판단하면 오해할 수 있어요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Odamni tez hukm qilsak adashishimiz mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «오해를 받는 한이 있어도 솔직하게 말할게요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Soyon",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Noto‘g‘ri tushunishsa ham ochiq gapiraman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

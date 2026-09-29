@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«횡단보도» so‘zining ma’nosi qaysi?",
+      "options": [
+        "piyodalar yo‘lagi",
+        "tor ko‘cha",
+        "yer usti ko‘prigi",
+        "to‘rt yo‘l kesishmasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«횡단보도» — «piyodalar yo‘lagi». Bu so‘z darsdagi «Transport va joy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«to‘rt yo‘l kesishmasi» koreyschada qaysi so‘z?",
+      "options": [
+        "근처",
+        "사거리",
+        "건너편",
+        "교차로"
+      ],
+      "correctIndex": 1,
+      "explanation": "«사거리» — «to‘rt yo‘l kesishmasi». Bu so‘z darsdagi «Transport va joy» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«직진하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kesib o‘tmoq",
+        "to‘g‘ri yurmoq",
+        "chiqmoq",
+        "burilib bormoq; aylanib bormoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«직진하다» — «to‘g‘ri yurmoq». Bu so‘z darsdagi «Yo‘l harakatlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«yonidan o‘tmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "나오다",
+        "돌아가다",
+        "보이다",
+        "지나가다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«지나가다» — «yonidan o‘tmoq». Bu so‘z darsdagi «Yo‘l harakatlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«찾다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "topmoq",
+        "yonidan o‘tmoq",
+        "kesib o‘tmoq",
+        "burilib bormoq; aylanib bormoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«찾다» — «topmoq». Bu so‘z darsdagi «Yo‘l harakatlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄴ/는 것 같다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Agar qilmoqchi bo‘lsangiz",
+        "...ligini bilish/bilmaslik",
+        "Hozirgi holatni taxmin qilish",
+        "Ish o‘rtasida o‘zgarish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄴ/는 것 같다» — Hozirgi holatni taxmin qilish. Xaritaga qarab aytilgan yumshoq taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)려면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ish o‘rtasida o‘zgarish",
+        "Agar qilmoqchi bo‘lsangiz",
+        "...ligini bilish/bilmaslik",
+        "Hozirgi holatni taxmin qilish"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)려면» — Agar qilmoqchi bo‘lsangiz. (으)려면 — maqsaddan orqaga qarab topilgan yo‘l.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-다가» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Agar qilmoqchi bo‘lsangiz",
+        "Ish o‘rtasida o‘zgarish",
+        "...ligini bilish/bilmaslik",
+        "Hozirgi holatni taxmin qilish"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-다가» — Ish o‘rtasida o‘zgarish. 다가 — film o‘rtasidagi kutilmagan sahna almashishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«길이 복잡한 것 같아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yo‘l murakkab ko‘rinadi.",
+        "Taksiga chiqmoqchi bo‘lsangiz u tomonga boring.",
+        "Hanok qishlog‘i qayerdaligini bilasizmi?",
+        "Yo‘lda yurib, do‘stimni uchratdim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«길이 복잡한 것 같아요.» — «Yo‘l murakkab ko‘rinadi.». Bu yerda «A/V-(으)ㄴ/는 것 같다» qolipi ishlatilgan: Hozirgi holatni taxmin qilish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hanok qishlog‘i qayerdaligini bilasizmi?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "길을 찾으려면 지도를 보세요.",
+        "지도를 보다가 길을 물었어요.",
+        "한옥마을이 어디에 있는지 알아요?",
+        "여기가 맞는 것 같아요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한옥마을이 어디에 있는지 알아요?» — «Hanok qishlog‘i qayerdaligini bilasizmi?». Bu yerda «V-는지 알다/모르다 · N인지» qolipi ishlatilgan: ...ligini bilish/bilmaslik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«한옥마을에 가려면 어디에서 내려요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yo‘l murakkab ko‘rinadi.",
+        "Hanok qishlog‘iga bormoqchi bo‘lsam qayerda tushaman?",
+        "Yo‘lda yurib, do‘stimni uchratdim.",
+        "Avtobusda ketayotib tushdim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«한옥마을에 가려면 어디에서 내려요?» — «Hanok qishlog‘iga bormoqchi bo‘lsam qayerda tushaman?». Bu yerda «V-(으)려면» qolipi ishlatilgan: Agar qilmoqchi bo‘lsangiz.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어느 골목으로 가는지 모르겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Belgiga qarayotib bu xaritani topdim.",
+        "Endi yo‘l to‘g‘riga o‘xshaydi.",
+        "Hanok qishlog‘iga bormoqchi bo‘lsak qarshi tomonga o‘tishimiz kerak.",
+        "Qaysi tor ko‘chadan borishni bilmayapman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «어느 골목으로 가는지 모르겠어요.» deydi. Ma’nosi: «Qaysi tor ko‘chadan borishni bilmayapman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한옥마을에 가려면 건너편으로 가야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hanok qishlog‘iga bormoqchi bo‘lsak qarshi tomonga o‘tishimiz kerak.",
+        "Belgiga qarayotib bu xaritani topdim.",
+        "Qaysi tor ko‘chadan borishni bilmayapman.",
+        "Endi yo‘l to‘g‘riga o‘xshaydi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «한옥마을에 가려면 건너편으로 가야 해요.» deydi. Ma’nosi: «Hanok qishlog‘iga bormoqchi bo‘lsak qarshi tomonga o‘tishimiz kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이제 길이 맞는 것 같아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Belgiga qarayotib bu xaritani topdim.",
+        "Qaysi tor ko‘chadan borishni bilmayapman.",
+        "Endi yo‘l to‘g‘riga o‘xshaydi.",
+        "Hanok qishlog‘iga bormoqchi bo‘lsak qarshi tomonga o‘tishimiz kerak."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «이제 길이 맞는 것 같아요.» deydi. Ma’nosi: «Endi yo‘l to‘g‘riga o‘xshaydi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «표지판을 보다가 이 지도를 찾았어요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Belgiga qarayotib bu xaritani topdim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

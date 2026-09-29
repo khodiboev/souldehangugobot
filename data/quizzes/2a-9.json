@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«안내» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ma’lumot, yo‘riqnoma",
+        "ariza, ro‘yxatdan o‘tish",
+        "e’lonlar doskasi",
+        "so‘rov, murojaat"
+      ],
+      "correctIndex": 0,
+      "explanation": "«안내» — «ma’lumot, yo‘riqnoma». Bu so‘z darsdagi «Ma’lumot va murojaat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«ariza, ro‘yxatdan o‘tish» koreyschada qaysi so‘z?",
+      "options": [
+        "접수",
+        "안내",
+        "신청",
+        "상담"
+      ],
+      "correctIndex": 2,
+      "explanation": "«신청» — «ariza, ro‘yxatdan o‘tish». Bu so‘z darsdagi «Ma’lumot va murojaat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«연결하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "pullik",
+        "ulamoq",
+        "mumkin bo‘lmoq",
+        "faoliyat yuritmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«연결하다» — «ulamoq». Bu so‘z darsdagi «Telefon ma’lumoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«faoliyat yuritmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "운영하다",
+        "연결하다",
+        "유료",
+        "이용하다"
+      ],
+      "correctIndex": 0,
+      "explanation": "«운영하다» — «faoliyat yuritmoq». Bu so‘z darsdagi «Telefon ma’lumoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«무료» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bepul",
+        "foydalanmoq",
+        "ulamoq",
+        "qidirmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«무료» — «bepul». Bu so‘z darsdagi «Telefon ma’lumoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ데요 · V-는데요 · N인데요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faqat, boshqa yo‘q",
+        "Vaziyatni yumshoq ochish",
+        "Muloyim ma’lumot savoli",
+        "Jarayonning ayni o‘rtasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ데요 · V-는데요 · N인데요» — Vaziyatni yumshoq ochish. 는데요 — eshikni taqillatib, keyingi gapga joy ochadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ가요? · V-나요? · N인가요?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Muloyim ma’lumot savoli",
+        "Faqat, boshqa yo‘q",
+        "Vaziyatni yumshoq ochish",
+        "Jarayonning ayni o‘rtasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ가요? · V-나요? · N인가요?» — Muloyim ma’lumot savoli. Bu qolip savolning burchaklarini yumaloqlaydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N밖에» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Vaziyatni yumshoq ochish",
+        "Jarayonning ayni o‘rtasi",
+        "Faqat, boshqa yo‘q",
+        "Muloyim ma’lumot savoli"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N밖에» — Faqat, boshqa yo‘q. 밖에 — doira tashqarisida hech narsa qolmaganini ko‘rsatadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«문의할 게 있는데요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Chet ellikman. Ariza bera olamanmi?",
+        "Qayerda ariza beriladi?",
+        "Veb-sahifa ochilmayapti...",
+        "So‘raydigan narsam bor edi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«문의할 게 있는데요.» — «So‘raydigan narsam bor edi.». Bu yerda «A-(으)ㄴ데요 · V-는데요 · N인데요» qolipi ishlatilgan: Vaziyatni yumshoq ochish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hozir tekshirish jarayonidaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "어디에서 신청하나요?",
+        "외국인인데요. 신청할 수 있어요?",
+        "담당자가 상담 중이에요.",
+        "지금 확인하는 중이에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지금 확인하는 중이에요.» — «Hozir tekshirish jarayonidaman.». Bu yerda «V-는 중이다 · N 중이다» qolipi ishlatilgan: Jarayonning ayni o‘rtasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«외국인도 가능한가요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qayerda ariza beriladi?",
+        "Chet elliklar uchun ham mumkinmi?",
+        "Faqat bitta chipta qolibdi.",
+        "Mas’ul xodim maslahatlashuvda."
+      ],
+      "correctIndex": 1,
+      "explanation": "«외국인도 가능한가요?» — «Chet elliklar uchun ham mumkinmi?». Bu yerda «A-(으)ㄴ가요? · V-나요? · N인가요?» qolipi ishlatilgan: Muloyim ma’lumot savoli.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «지금 무엇을 하는 중이에요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Turmush ma’lumotlarini tekshiryapmiz.",
+        "Murojaat uchun faqat bitta raqam bormi?",
+        "Yaxshi. Endi 2A mazmunini ham yaxshi tushuntira olasizlar.",
+        "Hozir nima qilyapsizlar?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Soyon «지금 무엇을 하는 중이에요?» deydi. Ma’nosi: «Hozir nima qilyapsizlar?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «문의할 전화번호가 하나밖에 없나요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Murojaat uchun faqat bitta raqam bormi?",
+        "Yaxshi. Endi 2A mazmunini ham yaxshi tushuntira olasizlar.",
+        "Hozir nima qilyapsizlar?",
+        "Turmush ma’lumotlarini tekshiryapmiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «문의할 전화번호가 하나밖에 없나요?» deydi. Ma’nosi: «Murojaat uchun faqat bitta raqam bormi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋아요. 이제 2A 내용도 잘 설명할 수 있겠어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hozir nima qilyapsizlar?",
+        "Yo‘q, bepul maslahat raqami ham bor.",
+        "Murojaat uchun faqat bitta raqam bormi?",
+        "Yaxshi. Endi 2A mazmunini ham yaxshi tushuntira olasizlar."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Soyon «좋아요. 이제 2A 내용도 잘 설명할 수 있겠어요.» deydi. Ma’nosi: «Yaxshi. Endi 2A mazmunini ham yaxshi tushuntira olasizlar.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «문의할 전화번호가 하나밖에 없나요?» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Soyon",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Murojaat uchun faqat bitta raqam bormi?».",
+      "reviewSection": "s"
+    }
+  ]
+}

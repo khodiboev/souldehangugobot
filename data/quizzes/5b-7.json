@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«개발» so‘zining ma’nosi qaysi?",
+      "options": [
+        "turar joy",
+        "transport",
+        "atrof-muhit",
+        "rivojlantirish"
+      ],
+      "correctIndex": 3,
+      "explanation": "«개발» — «rivojlantirish». Bu so‘z darsdagi «Shahar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«transport» koreyschada qaysi so‘z?",
+      "options": [
+        "개발",
+        "환경",
+        "교통",
+        "도시"
+      ],
+      "correctIndex": 2,
+      "explanation": "«교통» — «transport». Bu so‘z darsdagi «Shahar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«환경» so‘zining ma’nosi qaysi?",
+      "options": [
+        "atrof-muhit",
+        "transport",
+        "bog‘",
+        "rivojlantirish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«환경» — «atrof-muhit». Bu so‘z darsdagi «Shahar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«shovqin» koreyschada qaysi so‘z?",
+      "options": [
+        "공청회",
+        "예산",
+        "소음",
+        "주민"
+      ],
+      "correctIndex": 2,
+      "explanation": "«소음» — «shovqin». Bu so‘z darsdagi «Muammo va yechim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«예산» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yashil hudud",
+        "aholi",
+        "budjet",
+        "taklif qilmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«예산» — «budjet». Bu so‘z darsdagi «Muammo va yechim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«taklif qilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "공청회",
+        "제안하다",
+        "소음",
+        "녹지"
+      ],
+      "correctIndex": 1,
+      "explanation": "«제안하다» — «taklif qilmoq». Bu so‘z darsdagi «Muammo va yechim» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«한편으로(는)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qiyinchilikni yengib uddalamoq",
+        "Bir tomondan",
+        "...ib yursangiz, bora-bora",
+        "...gani bois / ...darajasida"
+      ],
+      "correctIndex": 1,
+      "explanation": "«한편으로(는)» — Bir tomondan. Tanganing ikkinchi tomonini aylantirish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아/어 내다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bir tomondan",
+        "...gani bois / ...darajasida",
+        "Boshqacha aytganda",
+        "Qiyinchilikni yengib uddalamoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-아/어 내다» — Qiyinchilikni yengib uddalamoq. To‘siqdan o‘tib yetib borilgan marra.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 만큼» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "G‘oyat ...",
+        "Bir tomondan",
+        "...gani bois / ...darajasida",
+        "Qiyinchilikni yengib uddalamoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-(으)ㄴ/V-는 만큼» — ...gani bois / ...darajasida. O‘lchov tarozisidagi teng keladigan ikkinchi pallacha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«새 도로는 편해요. 한편으로는 소음이 걱정돼요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yangi yo‘l qulay. Bir tomondan shovqin tashvishlantiradi.",
+        "Jamoa cheklangan budjet bilan bog‘ni barpo qila oldi.",
+        "Bog‘ muhim bo‘lgani uchun uni yaxshi parvarishlash kerak.",
+        "Bog‘ kengayadi. Boshqa tomondan ko‘p mablag‘ ketadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«새 도로는 편해요. 한편으로는 소음이 걱정돼요.» — «Yangi yo‘l qulay. Bir tomondan shovqin tashvishlantiradi.». Bu yerda «한편으로(는)» qolipi ishlatilgan: Bir tomondan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Aholi yaxshi yechimni topib uddaladi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "사람이 많이 사는 만큼 교통이 중요해요.",
+        "공원은 넓어져요. 한편으로 예산이 많이 들어요.",
+        "주민들이 좋은 해결책을 찾아냈어요.",
+        "우리는 긴 토론 끝에 합의를 이끌어 냈어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«주민들이 좋은 해결책을 찾아냈어요.» — «Aholi yaxshi yechimni topib uddaladi.». Bu yerda «V-아/어 내다» qolipi ishlatilgan: Qiyinchilikni yengib uddalamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«사람이 많이 사는 만큼 교통이 중요해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Aholi ko‘p yashagani bois transport muhim.",
+        "Bog‘ muhim bo‘lgani uchun uni yaxshi parvarishlash kerak.",
+        "Bog‘ kengayadi. Boshqa tomondan ko‘p mablag‘ ketadi.",
+        "Aholi yaxshi yechimni topib uddaladi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사람이 많이 사는 만큼 교통이 중요해요.» — «Aholi ko‘p yashagani bois transport muhim.». Bu yerda «A-(으)ㄴ/V-는 만큼» qolipi ishlatilgan: ...gani bois / ...darajasida.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Bog‘ kengayadi. Boshqa tomondan ko‘p mablag‘ ketadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "팀이 제한된 예산으로 공원을 만들어 냈어요.",
+        "공원이 중요한 만큼 잘 관리해야 해요.",
+        "공원은 넓어져요. 한편으로 예산이 많이 들어요.",
+        "새 도로는 편해요. 한편으로는 소음이 걱정돼요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«공원은 넓어져요. 한편으로 예산이 많이 들어요.» — «Bog‘ kengayadi. Boshqa tomondan ko‘p mablag‘ ketadi.». Bu yerda «한편으로(는)» qolipi ishlatilgan: Bir tomondan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«팀이 제한된 예산으로 공원을 만들어 냈어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yangi yo‘l qulay. Bir tomondan shovqin tashvishlantiradi.",
+        "Jamoa cheklangan budjet bilan bog‘ni barpo qila oldi.",
+        "Shahar o‘sadi. Shu bilan birga yashil hududni asrash kerak.",
+        "Aholi ko‘p yashagani bois transport muhim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«팀이 제한된 예산으로 공원을 만들어 냈어요.» — «Jamoa cheklangan budjet bilan bog‘ni barpo qila oldi.». Bu yerda «V-아/어 내다» qolipi ishlatilgan: Qiyinchilikni yengib uddalamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아이들이 많은 만큼 안전한 공간이 필요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bolalar ko‘pligi bois xavfsiz joy kerak.",
+        "Ikkisini ham ko‘rib yechim topaylik.",
+        "Avval aholini tinglayman.",
+        "Boshqa tomondan mashina to‘xtash joyi ham kerak emish."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «아이들이 많은 만큼 안전한 공간이 필요해요.» deydi. Ma’nosi: «Bolalar ko‘pligi bois xavfsiz joy kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한편으로는 자동차를 세울 곳도 필요하대요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshqa tomondan mashina to‘xtash joyi ham kerak emish.",
+        "Ikkisini ham ko‘rib yechim topaylik.",
+        "Bolalar ko‘pligi bois xavfsiz joy kerak.",
+        "Avval aholini tinglayman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «한편으로는 자동차를 세울 곳도 필요하대요.» deydi. Ma’nosi: «Boshqa tomondan mashina to‘xtash joyi ham kerak emish.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «둘 다 고려해 해결책을 찾아내요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Avval aholini tinglayman.",
+        "Boshqa tomondan mashina to‘xtash joyi ham kerak emish.",
+        "Bolalar ko‘pligi bois xavfsiz joy kerak.",
+        "Ikkisini ham ko‘rib yechim topaylik."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «둘 다 고려해 해결책을 찾아내요.» deydi. Ma’nosi: «Ikkisini ham ko‘rib yechim topaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주민의 말을 먼저 듣겠습니다.» gapining ma’nosi qaysi?",
+      "options": [
+        "Boshqa tomondan mashina to‘xtash joyi ham kerak emish.",
+        "Bolalar ko‘pligi bois xavfsiz joy kerak.",
+        "Ikkisini ham ko‘rib yechim topaylik.",
+        "Avval aholini tinglayman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Jisu «주민의 말을 먼저 듣겠습니다.» deydi. Ma’nosi: «Avval aholini tinglayman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «한편으로는 자동차를 세울 곳도 필요하대요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Aziz",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Boshqa tomondan mashina to‘xtash joyi ham kerak emish.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «주민의 말을 먼저 듣겠습니다.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Avval aholini tinglayman.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«품질» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ombordagi zaxira",
+        "sifat",
+        "nuqson",
+        "material"
+      ],
+      "correctIndex": 1,
+      "explanation": "«품질» — «sifat». Bu so‘z darsdagi «O‘lcham va mahsulot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«nuqson» koreyschada qaysi so‘z?",
+      "options": [
+        "불량",
+        "상품평",
+        "치수",
+        "소재"
+      ],
+      "correctIndex": 0,
+      "explanation": "«불량» — «nuqson». Bu so‘z darsdagi «O‘lcham va mahsulot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«교환» so‘zining ma’nosi qaysi?",
+      "options": [
+        "chek",
+        "talab qilmoq",
+        "almashtirish",
+        "mahsulotni qaytarish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«교환» — «almashtirish». Bu so‘z darsdagi «Almashtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«mahsulotni qaytarish» koreyschada qaysi so‘z?",
+      "options": [
+        "영수증",
+        "포장",
+        "반품",
+        "요구하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«반품» — «mahsulotni qaytarish». Bu so‘z darsdagi «Almashtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«포장» so‘zining ma’nosi qaysi?",
+      "options": [
+        "chek",
+        "qadoq",
+        "almashtirish",
+        "mahsulotni qaytarish"
+      ],
+      "correctIndex": 1,
+      "explanation": "«포장» — «qadoq». Bu so‘z darsdagi «Almashtirish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ까 말까 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilaymi-qilmaymi",
+        "Hech bo‘lmasa",
+        "Qilsangiz-chi?",
+        "Qilsam bo‘larkan edi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄹ까 말까 하다» — Qilaymi-qilmaymi. Qaror tarozisi ikki tomonga bir xil tortadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ걸 (그랬다)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hech bo‘lmasa",
+        "Qilsangiz-chi?",
+        "Qilaymi-qilmaymi",
+        "Qilsam bo‘larkan edi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«V-(으)ㄹ걸 (그랬다)» — Qilsam bo‘larkan edi. (으)ㄹ걸 — yopilgan eshik oldidagi “koshki”.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N(이)라도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hech bo‘lmasa",
+        "Qilaymi-qilmaymi",
+        "Qilsangiz-chi?",
+        "Qilsam bo‘larkan edi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N(이)라도» — Hech bo‘lmasa. (이)라도 — mukammal bo‘lmasa ham ishlaydigan zaxira reja.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«이 옷을 살까 말까 고민했어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "O‘lchamni almashtirsangiz-chi?",
+        "Qaytaraymi-yo‘qmi deb turibman.",
+        "Bu kiyimni olaymi-yo‘qmi deb o‘yladim.",
+        "Hech bo‘lmasa boshqa rangni ko‘rsating."
+      ],
+      "correctIndex": 2,
+      "explanation": "«이 옷을 살까 말까 고민했어요.» — «Bu kiyimni olaymi-yo‘qmi deb o‘yladim.». Bu yerda «V-(으)ㄹ까 말까 하다» qolipi ishlatilgan: Qilaymi-qilmaymi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«O‘lchamni almashtirsangiz-chi?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "더 작은 것을 주문할걸 그랬어요.",
+        "입어 보고 살걸 그랬어요.",
+        "직원에게 물어보지 그래요?",
+        "사이즈를 바꾸지 그래요?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«사이즈를 바꾸지 그래요?» — «O‘lchamni almashtirsangiz-chi?». Bu yerda «V-지 그래요?» qolipi ishlatilgan: Qilsangiz-chi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«입어 보고 살걸 그랬어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Kiyib ko‘rib olishim kerak ekan.",
+        "Hech bo‘lmasa boshqa rangni ko‘rsating.",
+        "Xodimdan so‘rasangiz-chi?",
+        "Hech bo‘lmasa kichik o‘lcham bo‘lsa yaxshi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«입어 보고 살걸 그랬어요.» — «Kiyib ko‘rib olishim kerak ekan.». Bu yerda «V-(으)ㄹ걸 (그랬다)» qolipi ishlatilgan: Qilsam bo‘larkan edi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «입어 보지 않고 살까 말까 하다가 샀어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "O‘lchamni tekshirishim kerak ekan.",
+        "Kiyib ko‘rmay olaymi deb turib oldim.",
+        "Hech bo‘lmasa boshqa rangga almashtirishni so‘rang.",
+        "Juda katta bo‘lsa qaytarsangiz-chi?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «입어 보지 않고 살까 말까 하다가 샀어요.» deydi. Ma’nosi: «Kiyib ko‘rmay olaymi deb turib oldim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «치수를 확인할걸 그랬어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Juda katta bo‘lsa qaytarsangiz-chi?",
+        "Hech bo‘lmasa boshqa rangga almashtirishni so‘rang.",
+        "O‘lchamni tekshirishim kerak ekan.",
+        "Kiyib ko‘rmay olaymi deb turib oldim."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «치수를 확인할걸 그랬어요.» deydi. Ma’nosi: «O‘lchamni tekshirishim kerak ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «다른 색이라도 교환할 수 있는지 물어봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Hech bo‘lmasa boshqa rangga almashtirishni so‘rang.",
+        "O‘lchamni tekshirishim kerak ekan.",
+        "Kiyib ko‘rmay olaymi deb turib oldim.",
+        "Juda katta bo‘lsa qaytarsangiz-chi?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «다른 색이라도 교환할 수 있는지 물어봐요.» deydi. Ma’nosi: «Hech bo‘lmasa boshqa rangga almashtirishni so‘rang.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «다른 색이라도 교환할 수 있는지 물어봐요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Mariya",
+        "Soyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Hech bo‘lmasa boshqa rangga almashtirishni so‘rang.».",
+      "reviewSection": "s"
+    }
+  ]
+}

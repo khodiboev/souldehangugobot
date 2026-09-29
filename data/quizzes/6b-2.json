@@ -1,0 +1,287 @@
+{
+  "bookId": "6b",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«평등» so‘zining ma’nosi qaysi?",
+      "options": [
+        "kamsitish",
+        "mezon",
+        "tenglik",
+        "imkon"
+      ],
+      "correctIndex": 2,
+      "explanation": "«평등» — «tenglik». Bu so‘z darsdagi «Adolat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«imkon» koreyschada qaysi so‘z?",
+      "options": [
+        "평등",
+        "기회",
+        "권리",
+        "편견"
+      ],
+      "correctIndex": 1,
+      "explanation": "«기회» — «imkon». Bu so‘z darsdagi «Adolat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«편견» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tenglik",
+        "imkon",
+        "noto‘g‘ri qarash",
+        "kamsitish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«편견» — «noto‘g‘ri qarash». Bu so‘z darsdagi «Adolat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«dalil» koreyschada qaysi so‘z?",
+      "options": [
+        "근거",
+        "공정하다",
+        "구별하다",
+        "사례"
+      ],
+      "correctIndex": 0,
+      "explanation": "«근거» — «dalil». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«영향» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ta’sir",
+        "adolatli bo‘lmoq",
+        "dalil",
+        "farqlamoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«영향» — «ta’sir». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«adolatli bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "사례",
+        "근거",
+        "공정하다",
+        "구별하다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«공정하다» — «adolatli bo‘lmoq». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N와/과 맞먹다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Hatto ... bo‘lsa ham",
+        "... deyishga hali erta",
+        "Nning o‘ziyoq",
+        "N bilan tenglashmoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N와/과 맞먹다» — N bilan tenglashmoq. Ikki tarozi pallasi bir chiziqqa keladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«설사[설령/가령] A/V-다(고) 해도» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N bilan tenglashmoq",
+        "N bo‘lgani uchun",
+        "...sa ham, ammo",
+        "Hatto ... bo‘lsa ham"
+      ],
+      "correctIndex": 3,
+      "explanation": "«설사[설령/가령] A/V-다(고) 해도» — Hatto ... bo‘lsa ham. Bahsda sinovdan o‘tadigan qat’iy mezon.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«올해 지원자의 수가 지난해와 맞먹어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qoida o‘zgarsa ham sababini tushuntirish kerak.",
+        "Vaqt kam bo‘lsa ham fikrni eshitish kerak.",
+        "Ikki hududning qatnashish darajasi deyarli teng.",
+        "Bu yilgi arizachilar soni o‘tgan yilgiga tenglashadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«올해 지원자의 수가 지난해와 맞먹어요.» — «Bu yilgi arizachilar soni o‘tgan yilgiga tenglashadi.». Bu yerda «N와/과 맞먹다» qolipi ishlatilgan: N bilan tenglashmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Vaqt kam bo‘lsa ham fikrni eshitish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "올해 지원자의 수가 지난해와 맞먹어요.",
+        "두 지역의 참여율이 서로 맞먹어요.",
+        "설사 시간이 부족하다 해도 의견은 들어야 해요.",
+        "그 사업의 비용이 전체 예산과 맞먹어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«설사 시간이 부족하다 해도 의견은 들어야 해요.» — «Vaqt kam bo‘lsa ham fikrni eshitish kerak.». Bu yerda «설사[설령/가령] A/V-다(고) 해도» qolipi ishlatilgan: Hatto ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«그 사업의 비용이 전체 예산과 맞먹어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu yilgi arizachilar soni o‘tgan yilgiga tenglashadi.",
+        "Loyiha narxi umumiy budjetga tenglashadi.",
+        "Vaqt kam bo‘lsa ham fikrni eshitish kerak.",
+        "Natija bir xil bo‘lsa ham jarayonni tekshirish kerak."
+      ],
+      "correctIndex": 1,
+      "explanation": "«그 사업의 비용이 전체 예산과 맞먹어요.» — «Loyiha narxi umumiy budjetga tenglashadi.». Bu yerda «N와/과 맞먹다» qolipi ishlatilgan: N bilan tenglashmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Qoida o‘zgarsa ham sababini tushuntirish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가령 결과가 같다 해도 과정은 살펴봐야 해요.",
+        "그 사업의 비용이 전체 예산과 맞먹어요.",
+        "설령 규칙이 바뀐다 해도 이유를 설명해야 해요.",
+        "두 지역의 참여율이 서로 맞먹어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«설령 규칙이 바뀐다 해도 이유를 설명해야 해요.» — «Qoida o‘zgarsa ham sababini tushuntirish kerak.». Bu yerda «설사[설령/가령] A/V-다(고) 해도» qolipi ishlatilgan: Hatto ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«두 지역의 참여율이 서로 맞먹어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ikki hududning qatnashish darajasi deyarli teng.",
+        "Bu yilgi arizachilar soni o‘tgan yilgiga tenglashadi.",
+        "Vaqt kam bo‘lsa ham fikrni eshitish kerak.",
+        "Qoida o‘zgarsa ham sababini tushuntirish kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "«두 지역의 참여율이 서로 맞먹어요.» — «Ikki hududning qatnashish darajasi deyarli teng.». Bu yerda «N와/과 맞먹다» qolipi ishlatilgan: N bilan tenglashmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Natija bir xil bo‘lsa ham jarayonni tekshirish kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "설사 시간이 부족하다 해도 의견은 들어야 해요.",
+        "가령 결과가 같다 해도 과정은 살펴봐야 해요.",
+        "두 지역의 참여율이 서로 맞먹어요.",
+        "설령 규칙이 바뀐다 해도 이유를 설명해야 해요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«가령 결과가 같다 해도 과정은 살펴봐야 해요.» — «Natija bir xil bo‘lsa ham jarayonni tekshirish kerak.». Bu yerda «설사[설령/가령] A/V-다(고) 해도» qolipi ishlatilgan: Hatto ... bo‘lsa ham.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «두 수치가 맞먹지만 경험은 다를 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ikki ko‘rsatkich teng, ammo tajriba farq qilishi mumkin.",
+        "Jadvalga son va shartni birga qo‘ydim.",
+        "Avval tegishli kishining gapini eshitdim.",
+        "Natija teng bo‘lsa ham jarayonni ko‘rish kerak."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «두 수치가 맞먹지만 경험은 다를 수 있어요.» deydi. Ma’nosi: «Ikki ko‘rsatkich teng, ammo tajriba farq qilishi mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «설령 결과가 같다 해도 과정도 봐야 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ikki ko‘rsatkich teng, ammo tajriba farq qilishi mumkin.",
+        "Jadvalga son va shartni birga qo‘ydim.",
+        "Avval tegishli kishining gapini eshitdim.",
+        "Natija teng bo‘lsa ham jarayonni ko‘rish kerak."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «설령 결과가 같다 해도 과정도 봐야 해요.» deydi. Ma’nosi: «Natija teng bo‘lsa ham jarayonni ko‘rish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «당사자의 말을 먼저 들었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Natija teng bo‘lsa ham jarayonni ko‘rish kerak.",
+        "Ikki ko‘rsatkich teng, ammo tajriba farq qilishi mumkin.",
+        "Jadvalga son va shartni birga qo‘ydim.",
+        "Avval tegishli kishining gapini eshitdim."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «당사자의 말을 먼저 들었어요.» deydi. Ma’nosi: «Avval tegishli kishining gapini eshitdim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «표에는 수치와 조건을 같이 넣었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ikki ko‘rsatkich teng, ammo tajriba farq qilishi mumkin.",
+        "Avval tegishli kishining gapini eshitdim.",
+        "Jadvalga son va shartni birga qo‘ydim.",
+        "Natija teng bo‘lsa ham jarayonni ko‘rish kerak."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «표에는 수치와 조건을 같이 넣었어요.» deydi. Ma’nosi: «Jadvalga son va shartni birga qo‘ydim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «설령 결과가 같다 해도 과정도 봐야 해요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Mariya",
+        "Aziz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Natija teng bo‘lsa ham jarayonni ko‘rish kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «표에는 수치와 조건을 같이 넣었어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Jadvalga son va shartni birga qo‘ydim.».",
+      "reviewSection": "s"
+    }
+  ]
+}

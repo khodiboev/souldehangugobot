@@ -1,0 +1,147 @@
+{
+  "bookId": "1b",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«반» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tushlik payti",
+        "soat",
+        "ertalab",
+        "yarim"
+      ],
+      "correctIndex": 3,
+      "explanation": "«반» — «yarim». Bu so‘z darsdagi «Vaqt» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«tushlik payti» koreyschada qaysi so‘z?",
+      "options": [
+        "점심",
+        "시",
+        "반",
+        "오전"
+      ],
+      "correctIndex": 0,
+      "explanation": "«점심» — «tushlik payti». Bu so‘z darsdagi «Vaqt» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«영화관» so‘zining ma’nosi qaysi?",
+      "options": [
+        "boshlamoq",
+        "kinoteatr",
+        "kech qolmoq",
+        "uchrashmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«영화관» — «kinoteatr». Bu so‘z darsdagi «Reja va uchrashuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«uchrashmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "약속",
+        "주말",
+        "영화관",
+        "만나다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«만나다» — «uchrashmoq». Bu so‘z darsdagi «Reja va uchrashuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N부터 N까지» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ketma-ket harakat",
+        "Soatni aytish",
+        "...dan ...gacha",
+        "Kelajak reja"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N부터 N까지» — ...dan ...gacha. 부터 — start, 까지 — finish chizig‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ 거예요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ketma-ket harakat",
+        "Kelajak reja",
+        "Soatni aytish",
+        "...dan ...gacha"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)ㄹ 거예요» — Kelajak reja. 거예요 — taqvimdagi hali kelmagan katak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«지금 두 시 반이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Uyga borib, kechki ovqat yeyman.",
+        "Dars birdan uchgacha.",
+        "Soat nechada jo‘naysiz?",
+        "Hozir soat ikki yarim."
+      ],
+      "correctIndex": 3,
+      "explanation": "«지금 두 시 반이에요.» — «Hozir soat ikki yarim.». Bu yerda «시간» qolipi ishlatilgan: Soatni aytish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Soat to‘qqizdan boshlab o‘qiyman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "카페에 앉아서 이야기해요.",
+        "월요일부터 금요일까지 일해요.",
+        "아홉 시부터 공부해요.",
+        "집에 가서 저녁을 먹어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«아홉 시부터 공부해요.» — «Soat to‘qqizdan boshlab o‘qiyman.». Bu yerda «N부터 N까지» qolipi ishlatilgan: ...dan ...gacha.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «오후에는 무엇을 할 거예요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Tushdan keyin nima qilamiz?",
+        "Unda soat o‘n ikkida uchrashamiz.",
+        "Soat o‘n ikkida uchrashib tushlik qilaylik.",
+        "Ikkidan to‘rtgacha muzeyni tomosha qilamiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «오후에는 무엇을 할 거예요?» deydi. Ma’nosi: «Tushdan keyin nima qilamiz?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그럼 열두 시에 만나요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Unda soat o‘n ikkida uchrashamiz.",
+        "Tushdan keyin nima qilamiz?",
+        "Soat o‘n ikkida uchrashib tushlik qilaylik.",
+        "Ikkidan to‘rtgacha muzeyni tomosha qilamiz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «그럼 열두 시에 만나요.» deydi. Ma’nosi: «Unda soat o‘n ikkida uchrashamiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«유연성» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jismoniy quvvat",
+        "egiluvchanlik",
+        "mushak kuchi",
+        "cho‘zilish mashqi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«유연성» — «egiluvchanlik». Bu so‘z darsdagi «Mashq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«nafas» koreyschada qaysi so‘z?",
+      "options": [
+        "스트레칭",
+        "호흡",
+        "근력",
+        "유연성"
+      ],
+      "correctIndex": 1,
+      "explanation": "«호흡» — «nafas». Bu so‘z darsdagi «Mashq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«뻐근하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bo‘shashmoq",
+        "yozmoq, rostlamoq",
+        "bukmoq",
+        "qotishib og‘rimoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«뻐근하다» — «qotishib og‘rimoq». Bu so‘z darsdagi «Tana holati» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bo‘shashmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "붓다",
+        "뻐근하다",
+        "풀리다",
+        "구부리다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«풀리다» — «bo‘shashmoq». Bu so‘z darsdagi «Tana holati» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«구부리다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "bukmoq",
+        "shishmoq",
+        "yozmoq, rostlamoq",
+        "tiklanmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«구부리다» — «bukmoq». Bu so‘z darsdagi «Tana holati» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«V-았더니/었더니» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qanchalik ekanini tasavvur qilmaysiz",
+        "Belgiga qarab taxmin",
+        "Qildim, natijada",
+        "Faqat shunda"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-았더니/었더니» — Qildim, natijada. 았더니 — tajriba tugmasi bosilgach ko‘ringan natija.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ 모양이다 · V-는 모양이다 · N인 모양이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Faqat shunda",
+        "Qanchalik ekanini tasavvur qilmaysiz",
+        "Qildim, natijada",
+        "Belgiga qarab taxmin"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-(으)ㄴ 모양이다 · V-는 모양이다 · N인 모양이다» — Belgiga qarab taxmin. 모양이다 — tashqi izlardan tuzilgan taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-아야/어야 · N이어야/여야» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Belgiga qarab taxmin",
+        "Qildim, natijada",
+        "Qanchalik ekanini tasavvur qilmaysiz",
+        "Faqat shunda"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A/V-아야/어야 · N이어야/여야» — Faqat shunda. 아야 — eshikni ochadigan yagona shart kaliti.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«운동을 했더니 몸이 좋아졌어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ko‘p mashq qilgan ko‘rinasiz.",
+        "Mashq qilsam tanam yaxshilandi.",
+        "A’zo bo‘lsagina foydalanish mumkin.",
+        "Mashqdan keyin naqadar tetik ekanini bilmaysiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "«운동을 했더니 몸이 좋아졌어요.» — «Mashq qilsam tanam yaxshilandi.». Bu yerda «V-았더니/었더니» qolipi ishlatilgan: Qildim, natijada.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Mashqdan keyin naqadar tetik ekanini bilmaysiz.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "꾸준히 운동해야 효과가 있어요.",
+        "일찍 잤더니 피곤하지 않아요.",
+        "운동 후에 얼마나 상쾌한지 몰라요.",
+        "운동을 많이 한 모양이에요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«운동 후에 얼마나 상쾌한지 몰라요.» — «Mashqdan keyin naqadar tetik ekanini bilmaysiz.». Bu yerda «얼마나 A-(으)ㄴ지/V-는지 모르다» qolipi ishlatilgan: Qanchalik ekanini tasavvur qilmaysiz.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«운동을 많이 한 모양이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yelka qotishgan ko‘rinadi.",
+        "Gavda holati to‘g‘ri bo‘lsagina jarohatlanmaysiz.",
+        "Ko‘p mashq qilgan ko‘rinasiz.",
+        "Mashq qilsam tanam yaxshilandi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«운동을 많이 한 모양이에요.» — «Ko‘p mashq qilgan ko‘rinasiz.». Bu yerda «A-(으)ㄴ 모양이다 · V-는 모양이다 · N인 모양이다» qolipi ishlatilgan: Belgiga qarab taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «한 달 동안 걸었더니 체력이 좋아졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yelkangiz ancha bo‘shashgan ko‘rinadi.",
+        "Bir oy yursam quvvatim yaxshilandi.",
+        "Muntazam bo‘lsagina foyda uzoq davom etadi.",
+        "Qanchalik astoydil qilganini bilmaysiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Aziz «한 달 동안 걸었더니 체력이 좋아졌어요.» deydi. Ma’nosi: «Bir oy yursam quvvatim yaxshilandi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어깨가 많이 풀린 모양이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir oy yursam quvvatim yaxshilandi.",
+        "Muntazam bo‘lsagina foyda uzoq davom etadi.",
+        "Yelkangiz ancha bo‘shashgan ko‘rinadi.",
+        "Qanchalik astoydil qilganini bilmaysiz."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «어깨가 많이 풀린 모양이에요.» deydi. Ma’nosi: «Yelkangiz ancha bo‘shashgan ko‘rinadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «꾸준해야 효과가 오래가요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yelkangiz ancha bo‘shashgan ko‘rinadi.",
+        "Muntazam bo‘lsagina foyda uzoq davom etadi.",
+        "Bir oy yursam quvvatim yaxshilandi.",
+        "Qanchalik astoydil qilganini bilmaysiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Soyon «꾸준해야 효과가 오래가요.» deydi. Ma’nosi: «Muntazam bo‘lsagina foyda uzoq davom etadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «어깨가 많이 풀린 모양이에요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Soyon",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Yelkangiz ancha bo‘shashgan ko‘rinadi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

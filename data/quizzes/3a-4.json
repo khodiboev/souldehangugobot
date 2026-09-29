@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "4",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«양념» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xamir",
+        "dengiz mahsuloti",
+        "ziravorli sous",
+        "masalliq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«양념» — «ziravorli sous». Bu so‘z darsdagi «Taom va masalliq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«dengiz mahsuloti» koreyschada qaysi so‘z?",
+      "options": [
+        "재료",
+        "떡",
+        "해물",
+        "양념"
+      ],
+      "correctIndex": 2,
+      "explanation": "«해물» — «dengiz mahsuloti». Bu so‘z darsdagi «Taom va masalliq» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«썰다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qovurmoq",
+        "ta’mini rostlamoq",
+        "to‘g‘ramoq",
+        "qaynatmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«썰다» — «to‘g‘ramoq». Bu so‘z darsdagi «Tayyorlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qovurmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "간을 하다",
+        "썰다",
+        "볶다",
+        "끓이다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«볶다» — «qovurmoq». Bu so‘z darsdagi «Tayyorlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«굽다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "aralashtirmoq",
+        "qaynatmoq",
+        "pishirmoq, grilda",
+        "qovurmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«굽다» — «pishirmoq, grilda». Bu so‘z darsdagi «Tayyorlash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ가 보다 · V-나 보다 · N인가 보다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ko‘rinishdan shunday",
+        "Qilib ko‘rsam",
+        "Taxminiy yoki katta miqdor",
+        "O‘zim ko‘rgan fon"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A-(으)ㄴ가 보다 · V-나 보다 · N인가 보다» — Ko‘rinishdan shunday. 나 보다 — dalilni ko‘rib chiqarilgan yumshoq xulosa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-아/어 보니(까)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Taxminiy yoki katta miqdor",
+        "Qilib ko‘rsam",
+        "O‘zim ko‘rgan fon",
+        "Ko‘rinishdan shunday"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-아/어 보니(까)» — Qilib ko‘rsam. Sinovdan keyin ochilgan natija oynasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-던데(요)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ko‘rinishdan shunday",
+        "Qilib ko‘rsam",
+        "O‘zim ko‘rgan fon",
+        "Taxminiy yoki katta miqdor"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-던데(요)» — O‘zim ko‘rgan fon. 던데요 — xotiradan olingan dalilni stolga qo‘yadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«사람들이 많은가 봐요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Odam ko‘pga o‘xshaydi.",
+        "Sousni solib ko‘rsam yanada achchiq bo‘ldi.",
+        "Ikki soat ham ketdi.",
+        "Uchta tamaddi ham yedim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«사람들이 많은가 봐요.» — «Odam ko‘pga o‘xshaydi.». Bu yerda «A-(으)ㄴ가 보다 · V-나 보다 · N인가 보다» qolipi ishlatilgan: Ko‘rinishdan shunday.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Ikki soat ham ketdi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "두 시간이나 걸렸어요.",
+        "이것은 떡인가 봐요.",
+        "양념을 넣어 보니까 더 매웠어요.",
+        "설탕을 한 컵이나 넣었어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«두 시간이나 걸렸어요.» — «Ikki soat ham ketdi.». Bu yerda «N(이)나» qolipi ishlatilgan: Taxminiy yoki katta miqdor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«먹어 보니까 정말 맛있었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Odam ko‘pga o‘xshaydi.",
+        "Yeb ko‘rsam juda mazali ekan.",
+        "U restoran taomi mazali edi-ku.",
+        "Odamlar navbatda turishgan edi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«먹어 보니까 정말 맛있었어요.» — «Yeb ko‘rsam juda mazali ekan.». Bu yerda «V-아/어 보니(까)» qolipi ishlatilgan: Qilib ko‘rsam.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «반죽에 양념을 넣어 보니까 맛이 특별해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xamirga sous solib ko‘rsam ta’mi alohida ekan.",
+        "Hozir odamlar mazza qilib yeyayotgan edi.",
+        "Biroz achchiq bo‘lsa kerak.",
+        "Yigirmata ham tamaddi tayyorladik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «반죽에 양념을 넣어 보니까 맛이 특별해요.» deydi. Ma’nosi: «Xamirga sous solib ko‘rsam ta’mi alohida ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «아까 사람들이 맛있게 먹던데요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yigirmata ham tamaddi tayyorladik.",
+        "Biroz achchiq bo‘lsa kerak.",
+        "Xamirga sous solib ko‘rsam ta’mi alohida ekan.",
+        "Hozir odamlar mazza qilib yeyayotgan edi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «아까 사람들이 맛있게 먹던데요.» deydi. Ma’nosi: «Hozir odamlar mazza qilib yeyayotgan edi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «간식을 스무 개나 만들었어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Xamirga sous solib ko‘rsam ta’mi alohida ekan.",
+        "Biroz achchiq bo‘lsa kerak.",
+        "Yigirmata ham tamaddi tayyorladik.",
+        "Hozir odamlar mazza qilib yeyayotgan edi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «간식을 스무 개나 만들었어요.» deydi. Ma’nosi: «Yigirmata ham tamaddi tayyorladik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «아까 사람들이 맛있게 먹던데요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Minji",
+        "Jisu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Hozir odamlar mazza qilib yeyayotgan edi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

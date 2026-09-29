@@ -1,0 +1,217 @@
+{
+  "bookId": "2a",
+  "unitId": "5",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«항공권» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sayyohlik",
+        "jo‘nash kuni",
+        "aviachipta",
+        "borib-kelish"
+      ],
+      "correctIndex": 2,
+      "explanation": "«항공권» — «aviachipta». Bu so‘z darsdagi «Sayohat ma’lumoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«sayyohlik» koreyschada qaysi so‘z?",
+      "options": [
+        "일정",
+        "관광",
+        "예약",
+        "출발일"
+      ],
+      "correctIndex": 1,
+      "explanation": "«관광» — «sayyohlik». Bu so‘z darsdagi «Sayohat ma’lumoti» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«추천하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qaror qilmoq",
+        "ichiga kiritilmoq",
+        "tavsiya qilmoq",
+        "to‘g‘ridan-to‘g‘ri reys"
+      ],
+      "correctIndex": 2,
+      "explanation": "«추천하다» — «tavsiya qilmoq». Bu so‘z darsdagi «Tavsiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«ichiga kiritilmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "직항",
+        "포함되다",
+        "편리하다",
+        "추천하다"
+      ],
+      "correctIndex": 1,
+      "explanation": "«포함되다» — «ichiga kiritilmoq». Bu so‘z darsdagi «Tavsiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«직항» so‘zining ma’nosi qaysi?",
+      "options": [
+        "to‘g‘ridan-to‘g‘ri reys",
+        "qulay bo‘lmoq",
+        "ichiga kiritilmoq",
+        "hamyonbop bo‘lmoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«직항» — «to‘g‘ridan-to‘g‘ri reys». Bu so‘z darsdagi «Tavsiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ까요?» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Kelajak reja yoki taxmin",
+        "Sabab va asos",
+        "Taklif yoki yumshoq savol",
+        "Qilgandan keyin"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)ㄹ까요?» — Taklif yoki yumshoq savol. (으)ㄹ까요? — qarorni stol o‘rtasiga qo‘yish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)니까 · N(이)니까» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Taklif yoki yumshoq savol",
+        "Kelajak reja yoki taxmin",
+        "Sabab va asos",
+        "Qilgandan keyin"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-(으)니까 · N(이)니까» — Sabab va asos. (으)니까 — qaror ortidagi sabab kartasi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-고 나서» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qilgandan keyin",
+        "Kelajak reja yoki taxmin",
+        "Sabab va asos",
+        "Taklif yoki yumshoq savol"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-고 나서» — Qilgandan keyin. 고 나서 — bir eshik yopilib, keyingisi ochiladi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«어디에 가면 좋을까요?» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qayerga borsak yaxshi?",
+        "Mehmonxonani band qilgach chipta oldim.",
+        "Yetib kelgach qo‘ng‘iroq qilaman.",
+        "Qaysi mehmonxonani band qilamiz?"
+      ],
+      "correctIndex": 0,
+      "explanation": "«어디에 가면 좋을까요?» — «Qayerga borsak yaxshi?». Bu yerda «A/V-(으)ㄹ까요?» qolipi ishlatilgan: Taklif yoki yumshoq savol.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Keyingi oy sayohat qilaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "성수기니까 미리 예약하세요.",
+        "다음 달에 여행할 거예요.",
+        "직항이 더 편리할 거예요.",
+        "일정을 확인하고 나서 결정하세요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«다음 달에 여행할 거예요.» — «Keyingi oy sayohat qilaman.». Bu yerda «A/V-(으)ㄹ 거예요» qolipi ishlatilgan: Kelajak reja yoki taxmin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«날씨가 좋으니까 제주도에 갑시다.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qaysi mehmonxonani band qilamiz?",
+        "Ob-havo yaxshi, shuning uchun Jejuga boraylik.",
+        "Yetib kelgach qo‘ng‘iroq qilaman.",
+        "Qayerga borsak yaxshi?"
+      ],
+      "correctIndex": 1,
+      "explanation": "«날씨가 좋으니까 제주도에 갑시다.» — «Ob-havo yaxshi, shuning uchun Jejuga boraylik.». Bu yerda «A/V-(으)니까 · N(이)니까» qolipi ishlatilgan: Sabab va asos.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «제주도에 언제 갈까요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Mehmonxonani surishtirgach aviachiptani band qilaylik.",
+        "Keyingi oy yuqori mavsum emas, shuning uchun yaxshi bo‘ladi.",
+        "Yaxshi. Jadvalni men tekshiraman.",
+        "Jejuga qachon boramiz?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Minji «제주도에 언제 갈까요?» deydi. Ma’nosi: «Jejuga qachon boramiz?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «호텔을 알아보고 나서 항공권을 예약해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi. Jadvalni men tekshiraman.",
+        "Mehmonxonani surishtirgach aviachiptani band qilaylik.",
+        "Keyingi oy yuqori mavsum emas, shuning uchun yaxshi bo‘ladi.",
+        "Jejuga qachon boramiz?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «호텔을 알아보고 나서 항공권을 예약해요.» deydi. Ma’nosi: «Mehmonxonani surishtirgach aviachiptani band qilaylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋아요. 제가 일정을 확인할게요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi. Jadvalni men tekshiraman.",
+        "Keyingi oy yuqori mavsum emas, shuning uchun yaxshi bo‘ladi.",
+        "Jejuga qachon boramiz?",
+        "Mehmonxonani surishtirgach aviachiptani band qilaylik."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «좋아요. 제가 일정을 확인할게요.» deydi. Ma’nosi: «Yaxshi. Jadvalni men tekshiraman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «호텔을 알아보고 나서 항공권을 예약해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Soyon",
+        "Minji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Mariya aytadi. Ma’nosi: «Mehmonxonani surishtirgach aviachiptani band qilaylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

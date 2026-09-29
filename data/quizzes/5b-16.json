@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "16",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«주인공» so‘zining ma’nosi qaysi?",
+      "options": [
+        "roman, badiiy hikoya",
+        "bosh qahramon",
+        "umid",
+        "momaqaymoq guli"
+      ],
+      "correctIndex": 1,
+      "explanation": "«주인공» — «bosh qahramon». Bu so‘z darsdagi «Adabiyot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«jasorat» koreyschada qaysi so‘z?",
+      "options": [
+        "장면",
+        "민들레꽃",
+        "용기",
+        "주인공"
+      ],
+      "correctIndex": 2,
+      "explanation": "«용기» — «jasorat». Bu so‘z darsdagi «Adabiyot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«민들레꽃» so‘zining ma’nosi qaysi?",
+      "options": [
+        "jasorat",
+        "roman, badiiy hikoya",
+        "sahna",
+        "momaqaymoq guli"
+      ],
+      "correctIndex": 3,
+      "explanation": "«민들레꽃» — «momaqaymoq guli». Bu so‘z darsdagi «Adabiyot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«taskin» koreyschada qaysi so‘z?",
+      "options": [
+        "극복하다",
+        "불안",
+        "성장",
+        "위로"
+      ],
+      "correctIndex": 3,
+      "explanation": "«위로» — «taskin». Bu so‘z darsdagi «Hislar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«마음» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xavotir",
+        "xotira",
+        "o‘sish",
+        "ko‘ngil"
+      ],
+      "correctIndex": 3,
+      "explanation": "«마음» — «ko‘ngil». Bu so‘z darsdagi «Hislar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«yengib o‘tmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "불안",
+        "성장",
+        "기억",
+        "극복하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«극복하다» — «yengib o‘tmoq». Bu so‘z darsdagi «Hislar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-았으면/었으면 하다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa edi deb istamoq",
+        "... edi-yu, ammo",
+        "N deb ataladigan / Ndan boshqa",
+        "... lekin / ... sharti bilan"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-았으면/었으면 하다» — ...sa edi deb istamoq. Yurakdagi kichik tilak yozilgan qog‘oz.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N(이)라고는» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa edi deb istamoq",
+        "Shunchalik ...ki",
+        "N deb ataladigan / Ndan boshqa",
+        "... edi-yu, ammo"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N(이)라고는» — N deb ataladigan / Ndan boshqa. Bo‘sh xonadagi bitta nomlangan buyum.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)련만» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...sa edi deb istamoq",
+        "... edi-yu, ammo",
+        "N deb ataladigan / Ndan boshqa",
+        "Nga tayangan holda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)련만» — ... edi-yu, ammo. Umit bilan voqelik orasidagi yoriq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«모두가 안전한 곳을 찾았으면 해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hamma xavfsiz joy topsa edi.",
+        "Xonada gul degani bittagina kichik tuvak edi.",
+        "Bosh qahramon yordam olsa edi.",
+        "Bu hikoya kimdirga taskin bo‘lsa edi."
+      ],
+      "correctIndex": 0,
+      "explanation": "«모두가 안전한 곳을 찾았으면 해요.» — «Hamma xavfsiz joy topsa edi.». Bu yerda «A/V-았으면/었으면 하다» qolipi ishlatilgan: ...sa edi deb istamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Xonada gul degani bittagina kichik tuvak edi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "모두가 안전한 곳을 찾았으면 해요.",
+        "방에 꽃이라고는 작은 화분 하나뿐이었어요.",
+        "친구라고는 한 사람밖에 없었어요.",
+        "함께하면 좋으련만 모두 바빴어요."
+      ],
+      "correctIndex": 1,
+      "explanation": "«방에 꽃이라고는 작은 화분 하나뿐이었어요.» — «Xonada gul degani bittagina kichik tuvak edi.». Bu yerda «N(이)라고는» qolipi ishlatilgan: N deb ataladigan / Ndan boshqa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«함께하면 좋으련만 모두 바빴어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Xonada gul degani bittagina kichik tuvak edi.",
+        "Bosh qahramon yordam olsa edi.",
+        "Hamma xavfsiz joy topsa edi.",
+        "Birga bo‘lsa yaxshi edi-yu, hamma band edi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«함께하면 좋으련만 모두 바빴어요.» — «Birga bo‘lsa yaxshi edi-yu, hamma band edi.». Bu yerda «A/V-(으)련만» qolipi ishlatilgan: ... edi-yu, ammo.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Bosh qahramon yordam olsa edi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "주인공이 도움을 받았으면 해요.",
+        "방에 꽃이라고는 작은 화분 하나뿐이었어요.",
+        "위로라고는 짧은 편지 한 장뿐이었어요.",
+        "이 이야기가 누군가에게 위로가 되었으면 해요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«주인공이 도움을 받았으면 해요.» — «Bosh qahramon yordam olsa edi.». Bu yerda «A/V-았으면/었으면 하다» qolipi ishlatilgan: ...sa edi deb istamoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«친구라고는 한 사람밖에 없었어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Birga bo‘lsa yaxshi edi-yu, hamma band edi.",
+        "Do‘st degani bittagina odam edi.",
+        "Jasorat qilsa oson bo‘lardi-yu, birinchi qadam qiyin edi.",
+        "Xonada gul degani bittagina kichik tuvak edi."
+      ],
+      "correctIndex": 1,
+      "explanation": "«친구라고는 한 사람밖에 없었어요.» — «Do‘st degani bittagina odam edi.». Bu yerda «N(이)라고는» qolipi ishlatilgan: N deb ataladigan / Ndan boshqa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «주인공이 편지를 받았으면 해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Birga o‘qisak yaxshi edi-yu, bugun vaqt yo‘q.",
+        "Ertaga uchrashib oxirigacha o‘qiymiz.",
+        "Bosh qahramon xat olsa edi.",
+        "Xonada gul degani faqat bitta kichik tuvak bo‘lsin."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «주인공이 편지를 받았으면 해요.» deydi. Ma’nosi: «Bosh qahramon xat olsa edi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «방에 꽃이라고는 작은 화분 하나만 두어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Birga o‘qisak yaxshi edi-yu, bugun vaqt yo‘q.",
+        "Xonada gul degani faqat bitta kichik tuvak bo‘lsin.",
+        "Bosh qahramon xat olsa edi.",
+        "Ertaga uchrashib oxirigacha o‘qiymiz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «방에 꽃이라고는 작은 화분 하나만 두어요.» deydi. Ma’nosi: «Xonada gul degani faqat bitta kichik tuvak bo‘lsin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «함께 읽으면 좋으련만 오늘은 시간이 없네요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ertaga uchrashib oxirigacha o‘qiymiz.",
+        "Xonada gul degani faqat bitta kichik tuvak bo‘lsin.",
+        "Birga o‘qisak yaxshi edi-yu, bugun vaqt yo‘q.",
+        "Bosh qahramon xat olsa edi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Mariya «함께 읽으면 좋으련만 오늘은 시간이 없네요.» deydi. Ma’nosi: «Birga o‘qisak yaxshi edi-yu, bugun vaqt yo‘q.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «내일 만나서 끝까지 읽어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Birga o‘qisak yaxshi edi-yu, bugun vaqt yo‘q.",
+        "Xonada gul degani faqat bitta kichik tuvak bo‘lsin.",
+        "Ertaga uchrashib oxirigacha o‘qiymiz.",
+        "Bosh qahramon xat olsa edi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «내일 만나서 끝까지 읽어요.» deydi. Ma’nosi: «Ertaga uchrashib oxirigacha o‘qiymiz.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «방에 꽃이라고는 작은 화분 하나만 두어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Xonada gul degani faqat bitta kichik tuvak bo‘lsin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «내일 만나서 끝까지 읽어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Jisu",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Ertaga uchrashib oxirigacha o‘qiymiz.».",
+      "reviewSection": "s"
+    }
+  ]
+}

@@ -8,7 +8,8 @@ import {splitHtml,explanation,render,sectionNames,type Section} from '../src/ren
 import {createBot} from '../src/bot.js';
 import {unitKeyboard} from '../src/keyboards.js';
 import {createStats} from '../src/stats.js';
-import {createQuizProgress,loadQuizzes,progressKey,quizSchema} from '../src/quiz.js';
+import {createQuizProgress,loadQuizzes,progressKey,quizCounts,quizSchema} from '../src/quiz.js';
+import {loadPlacement,placementScore} from '../src/placement.js';
 const books=loadBooks();
 function plain(s:string){return s.replace(/<[^>]+>/g,'').replaceAll('&lt;','<').replaceAll('&gt;','>').replaceAll('&amp;','&');}
 function balanced(s:string){const stack:string[]=[];for(const t of s.match(/<[^>]+>/g)??[]){if(t.startsWith('</'))assert.equal(stack.pop(),t.slice(2,-1));else stack.push(t.slice(1,-1));}assert.equal(stack.length,0);}
@@ -189,19 +190,91 @@ test('only the configured owner sees stats in a private chat',async()=>{
   assert.equal(stats.snapshot().total,2);
  }finally{rmSync(dir,{recursive:true});}
 });
-test('pilot quiz banks have ten valid original questions for Hangul and 1A lesson one',()=>{
+test('every ready unit has a valid quiz with increasing question count',()=>{
  const quizzes=loadQuizzes(books);
- assert.deepEqual([...quizzes.keys()].sort(),['1a:1','1a:hangul']);
+ assert.equal(quizzes.size,133);
+ assert.equal([...quizzes.values()].reduce((n,q)=>n+q.questions.length,0),2310);
  for(const quiz of quizzes.values()){
-  assert.equal(quiz.questions.length,10);
-  assert.equal(quiz.questions.filter(q=>q.topic==='vocab').length,4);
-  assert.equal(quiz.questions.filter(q=>q.topic==='grammar').length,4);
-  assert.equal(quiz.questions.filter(q=>q.topic==='context').length,2);
+  const counts=quizCounts(quiz.bookId);
+  assert.equal(quiz.questions.length,counts.vocab+counts.grammar+counts.context);
+  for(const [topic,count] of Object.entries(counts))assert.equal(quiz.questions.filter(q=>q.topic===topic).length,count);
   assert.ok(quiz.questions.every(q=>q.explanation && q.options[q.correctIndex]));
  }
  const broken=structuredClone(quizzes.get('1a:1')!);
  broken.questions[0].options[1]=broken.questions[0].options[0];
  assert.equal(quizSchema.safeParse(broken).success,false);
+});
+test('placement draws two questions per book and gives an approximate starting point',()=>{
+ const placement=loadPlacement(loadQuizzes(books));
+ assert.equal(placement.assessment.questions.length,24);
+ assert.equal(new Set(placement.assessment.questions.map(q=>q.id)).size,24);
+ const allCorrect=placement.assessment.questions.map(q=>q.correctIndex);
+ assert.equal(placementScore(placement,allCorrect).bookId,'6b');
+ const allWrong=allCorrect.map(choice=>(choice+1)%4);
+ assert.equal(placementScore(placement,allWrong).bookId,'1a');
+ const throughThree=allCorrect.map((choice,i)=>i<12?choice:(choice+1)%4);
+ assert.equal(placementScore(placement,throughThree).bookId,'4a');
+});
+test('placement buttons resume, finish, recommend a book and reject old answers',async()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-placement-bot-'));
+ try{
+  const progress=createQuizProgress(join(dir,'progress.json'));
+  const quizzes=loadQuizzes(books),placement=loadPlacement(quizzes);
+  const bot=createBot('123:test-only',books,{quizzes,placement,quizProgress:progress});
+  bot.botInfo={id:123,is_bot:true,first_name:'Test',username:'test_bot',can_join_groups:true,can_read_all_group_messages:false,supports_inline_queries:false,can_connect_to_business:false,has_main_web_app:false};
+  const calls:{method:string,payload:any}[]=[];
+  bot.api.config.use(async(_prev,method,payload)=>{calls.push({method,payload});return {ok:true,result:true} as any;});
+  let update=0;
+  async function click(data:string,chatType:'private'|'group'='private'){
+   calls.length=0;
+   await bot.handleUpdate({update_id:++update,callback_query:{id:String(update),from:{id:101,is_bot:false,first_name:'User'},chat_instance:'placement-test',data,message:{message_id:2,date:0,chat:{id:chatType==='private'?101:-1,type:chatType},text:'Menu'}}});
+   return calls.at(-1);
+  }
+  assert.equal((await click('pt','group'))?.method,'answerCallbackQuery');
+  assert.match((await click('pt'))?.payload.text,/24 ta savol/);
+  assert.match((await click('pts'))?.payload.text,/1\/24/);
+  const key=progressKey(placement.assessment),token=progress.get(101,key).active!.token;
+  assert.match((await click(`pta:${token}:0:${placement.assessment.questions[0].correctIndex}`))?.payload.text,/2\/24/);
+  assert.equal((await click(`pta:${token}:0:1`))?.method,'answerCallbackQuery');
+  assert.match((await click('pt'))?.payload.text,/2-savoldan davom/);
+  assert.match((await click(`ptn:${token}`))?.payload.text,/2\/24/);
+  for(let i=1;i<24;i++)await click(`pta:${token}:${i}:${placement.assessment.questions[i].correctIndex}`);
+  assert.match(calls.at(-1)?.payload.text,/24\/24/);
+  assert.match(calls.at(-1)?.payload.text,/6B/);
+  assert.equal(progress.get(101,key).completed,1);
+  assert.match((await click('ptres'))?.payload.text,/6B/);
+  assert.match((await click('pts'))?.payload.text,/1\/24/);
+  assert.equal((await click(`pta:${token}:0:1`))?.method,'answerCallbackQuery');
+ }finally{rmSync(dir,{recursive:true});}
+});
+test('twenty-question result and per-user progress survive a restart',()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-quiz-advanced-'));
+ try{
+  const file=join(dir,'quizzes.json'),quiz=loadQuizzes(books).get('6b:1')!;
+  const key=progressKey(quiz);
+  let progress=createQuizProgress(file);
+  const active=progress.begin(101,key);
+  for(let i=0;i<quiz.questions.length;i++){
+   const result=progress.answer(101,quiz,active.token,i,quiz.questions[i].correctIndex);
+   assert.equal(result.kind,'accepted');
+   assert.equal(result.finished,i===quiz.questions.length-1);
+  }
+  progress=createQuizProgress(file);
+  assert.equal(progress.get(101,key).best,20);
+  assert.equal(progress.get(101,key).lastAnswers?.length,20);
+  assert.equal(progress.get(202,key).completed,0);
+ }finally{rmSync(dir,{recursive:true});}
+});
+test('pilot progress migrates from the old shared file without losing attempts',()=>{
+ const dir=mkdtempSync(join(tmpdir(),'korean-quiz-migrate-'));
+ try{
+  const file=join(dir,'quizzes.json'),quiz=loadQuizzes(books).get('1a:1')!,key=progressKey(quiz);
+  writeFileSync(file,JSON.stringify({version:1,users:{'101':{[key]:{completed:1,best:8,lastAnswers:Array(10).fill(0)}}}}));
+  const progress=createQuizProgress(file);
+  assert.equal(progress.get(101,key).completed,1);
+  assert.equal(progress.get(101,key).best,8);
+  assert.equal(createQuizProgress(file).get(101,key).best,8);
+ }finally{rmSync(dir,{recursive:true});}
 });
 test('quiz progress survives restart and ignores duplicate or old answers',()=>{
  const dir=mkdtempSync(join(tmpdir(),'korean-quiz-'));

@@ -1,0 +1,217 @@
+{
+  "bookId": "3a",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«한글날» so‘zining ma’nosi qaysi?",
+      "options": [
+        "tadbir",
+        "xotira kuni",
+        "Hangul kuni",
+        "Voyaga yetganlar kuni"
+      ],
+      "correctIndex": 2,
+      "explanation": "«한글날» — «Hangul kuni». Bu so‘z darsdagi «Xotira kunlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«Daraxt ekish kuni» koreyschada qaysi so‘z?",
+      "options": [
+        "식목일",
+        "행사",
+        "성년의 날",
+        "기념일"
+      ],
+      "correctIndex": 0,
+      "explanation": "«식목일» — «Daraxt ekish kuni». Bu so‘z darsdagi «Xotira kunlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«기념하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "faxrli bo‘lmoq",
+        "ta’sis etmoq",
+        "ma’no",
+        "xotirlamoq"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기념하다» — «xotirlamoq». Bu so‘z darsdagi «Ma’no va taassurot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«xotirasini ulug‘lamoq» koreyschada qaysi so‘z?",
+      "options": [
+        "자랑스럽다",
+        "제정하다",
+        "기념하다",
+        "기리다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«기리다» — «xotirasini ulug‘lamoq». Bu so‘z darsdagi «Ma’no va taassurot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«자랑스럽다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "xotirasini ulug‘lamoq",
+        "ma’no",
+        "faxrli bo‘lmoq",
+        "ta’sis etmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«자랑스럽다» — «faxrli bo‘lmoq». Bu so‘z darsdagi «Ma’no va taassurot» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N을/를 위해(서) · V-기 위해(서)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Harakat o‘z-o‘zidan o‘zgarishi",
+        "... haqida",
+        "...ga qaramay",
+        "... uchun"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N을/를 위해(서) · V-기 위해(서)» — ... uchun. 위해서 — maqsadga qaragan yo‘nalish o‘qi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ데도 불구하고 · V-는데도 불구하고 · N인데도 불구하고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... uchun",
+        "...ga qaramay",
+        "... haqida",
+        "Harakat o‘z-o‘zidan o‘zgarishi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A-(으)ㄴ데도 불구하고 · V-는데도 불구하고 · N인데도 불구하고» — ...ga qaramay. 불구하고 — katta to‘siqqa qaramay o‘tgan ko‘prik.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«N에 대해서 · N에 대한 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... uchun",
+        "... haqida",
+        "Harakat o‘z-o‘zidan o‘zgarishi",
+        "...ga qaramay"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N에 대해서 · N에 대한 N» — ... haqida. 대해서 gapga, 대한 esa keyingi otga qaraydi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«한글을 기념하기 위해서 행사를 열어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Hangul qadri keng tanildi.",
+        "Yomg‘irga qaramay tadbir o‘tkazildi.",
+        "Qiyin bo‘lishiga qaramay oxirigacha o‘qidim.",
+        "Hangulni xotirlash uchun tadbir o‘tkaziladi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«한글을 기념하기 위해서 행사를 열어요.» — «Hangulni xotirlash uchun tadbir o‘tkaziladi.». Bu yerda «N을/를 위해(서) · V-기 위해(서)» qolipi ishlatilgan: ... uchun.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Hangul qadri keng tanildi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "어려운데도 불구하고 끝까지 읽었어요.",
+        "학생들을 위해서 강연을 준비했어요.",
+        "한글의 가치가 널리 알려졌어요.",
+        "휴일인데도 불구하고 사람이 적었어요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«한글의 가치가 널리 알려졌어요.» — «Hangul qadri keng tanildi.». Bu yerda «V-아지다/어지다» qolipi ishlatilgan: Harakat o‘z-o‘zidan o‘zgarishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«비가 오는데도 불구하고 행사가 열렸어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Dam olish kuni bo‘lishiga qaramay odam kam edi.",
+        "Yurtim tarixi haqida taqdimot qildim.",
+        "Hangulni xotirlash uchun tadbir o‘tkaziladi.",
+        "Yomg‘irga qaramay tadbir o‘tkazildi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«비가 오는데도 불구하고 행사가 열렸어요.» — «Yomg‘irga qaramay tadbir o‘tkazildi.». Bu yerda «A-(으)ㄴ데도 불구하고 · V-는데도 불구하고 · N인데도 불구하고» qolipi ishlatilgan: ...ga qaramay.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «고향의 독립 기념일에 대한 사진을 준비했어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Turli davlatlar tarixi yaxshi tanildi.",
+        "Madaniyatni tanishtirish uchun izoh ham qo‘ydik.",
+        "Yurtim mustaqillik kuni haqidagi suratlarni tayyorladim.",
+        "Yomg‘irga qaramay mehmon ko‘p keldi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Aziz «고향의 독립 기념일에 대한 사진을 준비했어요.» deydi. Ma’nosi: «Yurtim mustaqillik kuni haqidagi suratlarni tayyorladim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «문화를 소개하기 위해서 설명도 붙였어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Madaniyatni tanishtirish uchun izoh ham qo‘ydik.",
+        "Yurtim mustaqillik kuni haqidagi suratlarni tayyorladim.",
+        "Turli davlatlar tarixi yaxshi tanildi.",
+        "Yomg‘irga qaramay mehmon ko‘p keldi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «문화를 소개하기 위해서 설명도 붙였어요.» deydi. Ma’nosi: «Madaniyatni tanishtirish uchun izoh ham qo‘ydik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여러 나라의 역사가 잘 알려졌어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yurtim mustaqillik kuni haqidagi suratlarni tayyorladim.",
+        "Turli davlatlar tarixi yaxshi tanildi.",
+        "Madaniyatni tanishtirish uchun izoh ham qo‘ydik.",
+        "Yomg‘irga qaramay mehmon ko‘p keldi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Soyon «여러 나라의 역사가 잘 알려졌어요.» deydi. Ma’nosi: «Turli davlatlar tarixi yaxshi tanildi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «문화를 소개하기 위해서 설명도 붙였어요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Jisu",
+        "Aziz",
+        "Soyon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Madaniyatni tanishtirish uchun izoh ham qo‘ydik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

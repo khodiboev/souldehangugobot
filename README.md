@@ -16,7 +16,7 @@ A lightweight Telegram study companion for the Seoul Korean 1A–6B sequence: vo
 ![Zod](https://img.shields.io/badge/Content-Zod-3E67B1?logo=zod&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
 
-**12 books** · **133 learning units** · **1,942 vocabulary entries** · **442 grammar modules** · **267 original dialogues**
+**12 books** · **133 learning units** · **2,310 lesson quiz questions** · **24-question placement test**
 
 </div>
 
@@ -60,7 +60,8 @@ These are real Telegram screenshots with only the empty margins and app sidebar 
 - **Learn, then reveal:** Uzbek translations of examples and dialogues are hidden behind Telegram spoilers.
 - **Read comfortably:** long sections are split into Telegram-sized pages with previous/next controls.
 - **Keep the thread:** the original story follows the same characters across lessons; Hangul has its own beginner section in 1A.
-- **Practice after a lesson:** the first quiz pilot covers Hangul and 1A lesson 1 with 10 explained questions each, saved results and mistake review.
+- **Practice after every lesson:** all 133 units have quizzes with explanations, saved results and mistake review. Question counts rise with the level: 10, 15 or 20.
+- **Find a starting point:** an optional 24-question test in `/start` suggests a book from 1A to 6B. It is a rough guide, not a formal proficiency assessment.
 - **Stay lightweight:** lessons are prepared JSON files. The running bot does not call an AI model, process PDFs or need a database.
 - **See basic usage:** the owner can see unique private-chat users and recent activity with `/stats` after setting `ADMIN_USER_ID`.
 
@@ -86,7 +87,9 @@ flowchart LR
 
 Each unit contains themed words with pronunciation and Uzbek meaning, grammar patterns with formation rules and common mistakes, two short dialogues, and a story scene. The linked sections in [the combined course document](docs/COURSE_CONTENT.md) are readable exports with source and editorial notes; `data/*.json` is what the bot loads.
 
-The quiz pilot is available under **1A → 한글** and **1A → 1과**. Open **🧠 10 savollik test** in a private chat. Each answer gets an explanation; the result shows the score, best attempt and mistakes, with a link back to the relevant lesson section. An unfinished attempt resumes after a restart. Quiz questions are original and live in `data/quizzes/*.json`. The optional placement test and the remaining lesson quizzes are planned for later, after reviewing this pilot. When changing a quiz's correct answers, increment its `version` so old attempts are not scored against new questions.
+Every ready unit has a private-chat quiz under **🧠 10/15/20 savollik test**. The question mix is 4 words, 4 grammar, 2 context at level 1; 5/6/4 at levels 2–3; and 6/8/6 at levels 4–6. Each answer has an explanation and a link to the relevant lesson section. Results include the latest score, best attempt and mistake review. An unfinished attempt resumes after a restart. There are **2,310 lesson questions** in `data/quizzes/*.json`.
+
+The **🧭 Darajani aniqlash** button on `/start` opens an optional 24-question placement test, drawing two questions from each book. Its 1A–6B suggestion is approximate; users can choose any book regardless of the result. The 1A Hangul and 1A lesson 1 quizzes were written as the original pilot. The remaining static quiz files were generated from this project's prepared lesson words, grammar examples and story lines, then sampled for review. Run `npm run quiz:generate` to create missing quiz files; use `npm run quiz:generate -- --refresh` to rebuild generated files while preserving the two pilot files. Review generated wording before publishing edits. When changing a quiz's correct answers, increment its `version` so old attempts are not scored against new questions.
 
 **Content boundary:** lesson themes, vocabulary topics and grammar patterns follow the supplied *Seoul Korean Student's Books*. Uzbek explanations, translations, examples, dialogues and stories were written for this project. Textbook pages and dialogues are not bundled. This is an adapted study companion, not a copy of the books or every workbook exercise.
 
@@ -105,7 +108,7 @@ npm test
 npm run dev
 ```
 
-Send `/start` to your bot. `/books` opens the book list, `/help` explains the controls, and `/myid` shows your Telegram numeric ID in a private chat. Put that ID in `ADMIN_USER_ID` in `.env` to enable the owner-only `/stats` command. Only **one polling instance** may use a token at a time. `npm run dev` runs in the foreground: closing the terminal stops it.
+Send `/start` to your bot to see the optional placement test and book list. `/books` opens the same menu, `/help` explains the controls, and `/myid` shows your Telegram numeric ID in a private chat. Put that ID in `ADMIN_USER_ID` in `.env` to enable the owner-only `/stats` command. Only **one polling instance** may use a token at a time. `npm run dev` runs in the foreground: closing the terminal stops it.
 
 For compiled execution:
 
@@ -123,7 +126,7 @@ docker compose up -d --build
 docker compose logs --tail=30
 ```
 
-Compose uses `restart: unless-stopped`; the container is separate from the terminal. The production bot runs on an Ubuntu VPS, so closing the Mac terminal does not stop it. Docker's named `bot-state` volume keeps usage data and quiz progress across container rebuilds. This does not replace server monitoring or backups.
+Compose uses `restart: unless-stopped`; the container is separate from the terminal. The production bot runs on an Ubuntu VPS, so closing the Mac terminal does not stop it. Docker's named `bot-state` volume keeps usage data and per-user quiz progress across container rebuilds. Existing progress in the earlier `state/quizzes.json` format is migrated on startup; that file remains as a backup. This does not replace server monitoring or backups.
 
 `/stats` reports total unique users plus users active in the last 24 hours, 7 days and 30 days. Only private-chat interactions from the time tracking was enabled are counted; opening the link without starting the bot is not visible. The bot stores only Telegram numeric IDs and first/last activity times in the private state volume, not names or message text. Without `ADMIN_USER_ID`, `/stats` is unavailable to everyone. The state file is excluded from Git.
 
@@ -133,14 +136,15 @@ After changing a lesson JSON file, restart the running bot. Do not run the local
 
 ```text
 src/             Telegram handlers, keyboards, rendering and content validation
-data/            Prepared JSON lessons for 1A–6B
+data/            Prepared JSON lessons, quiz banks and placement selections
+scripts/         Static quiz generator for missing or refreshed lesson quizzes
 tests/           Pagination, safety, navigation and content checks
 docs/            Combined lesson export and curriculum review notes
 state/           Local usage counts and quiz progress (ignored by Git; Docker uses a named volume)
 Dockerfile        Multi-stage Node 22 image
 ```
 
-`npm run check` validates lesson and quiz JSON, message lengths and callback data. `npm test` covers Unicode-safe pagination, HTML escaping, navigation, quiz progress and lesson structure. `npm run build` type-checks the TypeScript app. The bot uses long polling, so it needs no webhook or domain.
+`npm run check` validates lesson and quiz JSON, full quiz coverage, placement selections, message lengths and callback data. `npm test` covers Unicode-safe pagination, HTML escaping, navigation, quiz progress, placement and lesson structure. `npm run build` type-checks the TypeScript app. The bot uses long polling, so it needs no webhook or domain.
 
 ## Credentials and contributions
 

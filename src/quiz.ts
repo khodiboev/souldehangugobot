@@ -1,10 +1,17 @@
 import { randomBytes } from 'node:crypto';
-import { mkdirSync, readFileSync, readdirSync, renameSync, writeFileSync } from 'node:fs';
-import { dirname } from 'node:path';
+import { existsSync, mkdirSync, readFileSync, readdirSync, renameSync, writeFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
 import { z } from 'zod';
 import type { Book } from './content.js';
 
 const text = z.string().min(1);
+export function quizCounts(bookId: string) {
+  const level = Number(bookId[0]);
+  if (level === 1) return { vocab: 4, grammar: 4, context: 2 };
+  if (level === 2 || level === 3) return { vocab: 5, grammar: 6, context: 4 };
+  if (level >= 4 && level <= 6) return { vocab: 6, grammar: 8, context: 6 };
+  throw new Error(`Unknown quiz level: ${bookId}`);
+}
 const question = z.object({
   id: z.string().regex(/^[a-z0-9_-]{1,12}$/),
   topic: z.enum(['vocab', 'grammar', 'context']),
@@ -19,18 +26,25 @@ export const quizSchema = z.object({
   bookId: z.string().regex(/^[a-z0-9_-]{1,12}$/),
   unitId: z.string().regex(/^[a-z0-9_-]{1,12}$/),
   version: z.number().int().positive(),
-  questions: z.array(question).length(10)
+  questions: z.array(question).min(10).max(20)
 }).superRefine((quiz, ctx) => {
   if (new Set(quiz.questions.map(q => q.id)).size !== quiz.questions.length)
     ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Duplicate question IDs' });
-  for (const [topic, count] of [['vocab', 4], ['grammar', 4], ['context', 2]] as const)
+  let counts: ReturnType<typeof quizCounts>;
+  try { counts = quizCounts(quiz.bookId); }
+  catch { ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Unsupported book level' }); return; }
+  if (quiz.questions.length !== counts.vocab + counts.grammar + counts.context)
+    ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'Wrong question count for this level' });
+  for (const [topic, count] of Object.entries(counts))
     if (quiz.questions.filter(q => q.topic === topic).length !== count)
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Expected ${count} ${topic} questions` });
 });
 export type Quiz = z.infer<typeof quizSchema>;
+export type QuizQuestion = Quiz['questions'][number];
+export type Assessment = { bookId: string; unitId: string; version: number; questions: QuizQuestion[] };
 export type QuizBank = Map<string, Quiz>;
 export const quizKey = (bookId: string, unitId: string) => `${bookId}:${unitId}`;
-export const progressKey = (quiz: Quiz) => `${quizKey(quiz.bookId, quiz.unitId)}:v${quiz.version}`;
+export const progressKey = (quiz: Assessment) => `${quizKey(quiz.bookId, quiz.unitId)}:v${quiz.version}`;
 
 export function loadQuizzes(books: Book[], directory = 'data/quizzes'): QuizBank {
   const quizzes: QuizBank = new Map();
@@ -43,37 +57,56 @@ export function loadQuizzes(books: Book[], directory = 'data/quizzes'): QuizBank
     if (quizzes.has(key)) throw new Error(`Duplicate quiz: ${key}`);
     quizzes.set(key, quiz);
   }
+  for (const book of books) for (const unit of book.units)
+    if (unit.available && !quizzes.has(quizKey(book.book.id, unit.id)))
+      throw new Error(`Missing quiz: ${quizKey(book.book.id, unit.id)}`);
   return quizzes;
 }
 
-const activeSchema = z.object({ token: z.string().regex(/^[a-f0-9]{8}$/), answers: z.array(z.number().int().min(0).max(3)).max(9), startedAt: z.string().datetime() });
-const entrySchema = z.object({ completed: z.number().int().nonnegative(), best: z.number().int().min(0).max(10), lastAnswers: z.array(z.number().int().min(0).max(3)).length(10).optional(), active: activeSchema.optional() });
+const activeSchema = z.object({ token: z.string().regex(/^[a-f0-9]{8}$/), answers: z.array(z.number().int().min(0).max(3)).max(23), startedAt: z.string().datetime() });
+const entrySchema = z.object({ completed: z.number().int().nonnegative(), best: z.number().int().min(0).max(24), lastAnswers: z.array(z.number().int().min(0).max(3)).min(10).max(24).optional(), active: activeSchema.optional() });
 const progressSchema = z.object({ version: z.literal(1), users: z.record(z.string().regex(/^\d+$/), z.record(entrySchema)) });
-type Progress = z.infer<typeof progressSchema>;
+const userProgressSchema = z.record(entrySchema);
+type UserProgress = z.infer<typeof userProgressSchema>;
 type Entry = z.infer<typeof entrySchema>;
 export type QuizEntry = Entry;
 const emptyEntry = (): Entry => ({ completed: 0, best: 0 });
 
-export function createQuizProgress(file = 'state/quizzes.json') {
-  let state: Progress = { version: 1, users: {} };
-  try {
-    state = progressSchema.parse(JSON.parse(readFileSync(file, 'utf8')));
-  } catch (error) {
-    if (!(error instanceof Error && 'code' in error && error.code === 'ENOENT')) throw error;
-  }
-
-  function save(userId: number, key: string, entry: Entry) {
-    const id = String(userId);
-    const next: Progress = { version: 1, users: { ...state.users, [id]: { ...state.users[id], [key]: entry } } };
-    mkdirSync(dirname(file), { recursive: true });
-    const temporary = `${file}.${process.pid}.tmp`;
-    writeFileSync(temporary, JSON.stringify(next), { mode: 0o600 });
+export function createQuizProgress(legacyFile = 'state/quizzes.json') {
+  const directory = join(dirname(legacyFile), 'quiz-users');
+  const cache = new Map<string, UserProgress>();
+  const idFor = (userId: number) => {
+    if (!Number.isSafeInteger(userId) || userId <= 0) throw new Error('Invalid Telegram user ID');
+    return String(userId);
+  };
+  const pathFor = (id: string) => join(directory, `${id}.json`);
+  function writeUser(id: string, data: UserProgress) {
+    mkdirSync(directory, { recursive: true, mode: 0o700 });
+    const file = pathFor(id),temporary = `${file}.${process.pid}.tmp`;
+    writeFileSync(temporary, JSON.stringify(data), { mode: 0o600 });
     renameSync(temporary, file);
-    state = next;
+    cache.set(id, data);
   }
-
+  // Keep the pilot's old shared JSON as a backup while moving each user to an
+  // independent file. A later restart skips files already migrated or updated.
+  if (existsSync(legacyFile)) {
+    const legacy = progressSchema.parse(JSON.parse(readFileSync(legacyFile, 'utf8')));
+    for (const [id, data] of Object.entries(legacy.users))
+      if (!existsSync(pathFor(id))) writeUser(id, data);
+  }
+  function userData(id: string): UserProgress {
+    if (!cache.has(id)) {
+      const file = pathFor(id);
+      cache.set(id, existsSync(file) ? userProgressSchema.parse(JSON.parse(readFileSync(file, 'utf8'))) : {});
+    }
+    return cache.get(id)!;
+  }
+  function save(userId: number, key: string, entry: Entry) {
+    const id = idFor(userId);
+    writeUser(id, { ...userData(id), [key]: entry });
+  }
   function get(userId: number, key: string): Entry {
-    return structuredClone(state.users[String(userId)]?.[key] ?? emptyEntry());
+    return structuredClone(userData(idFor(userId))[key] ?? emptyEntry());
   }
 
   function begin(userId: number, key: string) {
@@ -84,7 +117,7 @@ export function createQuizProgress(file = 'state/quizzes.json') {
     return active;
   }
 
-  function answer(userId: number, quiz: Quiz, token: string, index: number, choice: number) {
+  function answer(userId: number, quiz: Assessment, token: string, index: number, choice: number) {
     const key = progressKey(quiz);
     const entry = get(userId, key);
     if (!entry.active || entry.active.token !== token || entry.active.answers.length !== index ||

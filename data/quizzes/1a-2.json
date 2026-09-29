@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "2",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«공책» so‘zining ma’nosi qaysi?",
+      "options": [
+        "sumka",
+        "daftar",
+        "stul",
+        "ruchka"
+      ],
+      "correctIndex": 1,
+      "explanation": "«공책» — «daftar». Bu so‘z darsdagi «O‘quv buyumlari» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«bosh kiyim» koreyschada qaysi so‘z?",
+      "options": [
+        "신문",
+        "시계",
+        "모자",
+        "휴대폰"
+      ],
+      "correctIndex": 2,
+      "explanation": "«모자» — «bosh kiyim». Bu so‘z darsdagi «Kundalik buyumlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«이거» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yo‘q bo‘lmoq",
+        "bor bo‘lmoq",
+        "mana, marhamat",
+        "bu narsa"
+      ],
+      "correctIndex": 3,
+      "explanation": "«이거» — «bu narsa». Bu so‘z darsdagi «Suhbat uchun yordamchi birliklar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«bering, iltimos» koreyschada qaysi so‘z?",
+      "options": [
+        "있다",
+        "없다",
+        "판매원",
+        "주세요"
+      ],
+      "correctIndex": 3,
+      "explanation": "«주세요» — «bering, iltimos». Bu so‘z darsdagi «Suhbat uchun yordamchi birliklar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«이거는 / 그거는 / 저거는 N이에요/예요» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bor yoki yo‘q",
+        "Otlarni “va” bilan bog‘lash",
+        "Bu, u va anavi nima?",
+        "Biror narsa so‘rash"
+      ],
+      "correctIndex": 2,
+      "explanation": "«이거는 / 그거는 / 저거는 N이에요/예요» — Bu, u va anavi nima?. Qo‘l bilan o‘zingizdagi, suhbatdoshingizdagi va uzoqdagi buyumni navbat bilan ko‘rsatayotgandek tasavvur qiling.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N하고 N / N과/와 N» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Bor yoki yo‘q",
+        "Bu, u va anavi nima?",
+        "Biror narsa so‘rash",
+        "Otlarni “va” bilan bog‘lash"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N하고 N / N과/와 N» — Otlarni “va” bilan bog‘lash. “Qalam va daftar”dagi “va” koreyschada birinchi otga yopishadi: 연필하고 공책.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«공책이 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Daftar bering, iltimos.",
+        "Ruchka va daftar bering.",
+        "Soyabon va bosh kiyim yo‘q.",
+        "Daftar bor."
+      ],
+      "correctIndex": 3,
+      "explanation": "«공책이 있어요.» — «Daftar bor.». Bu yerda «N이/가 있어요 / 없어요» qolipi ishlatilgan: Bor yoki yo‘q.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Bu daftar.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "네, 안경이 있어요.",
+        "책과 사전이 있어요.",
+        "우산하고 모자가 없어요.",
+        "이거는 공책이에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«이거는 공책이에요.» — «Bu daftar.». Bu yerda «이거는 / 그거는 / 저거는 N이에요/예요» qolipi ishlatilgan: Bu, u va anavi nima?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이거는 공책이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bu daftar.",
+        "Anavi nima?",
+        "Daftar va ruchka bering, iltimos.",
+        "Aziz, sumkangiz bormi?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 민지 «이거는 공책이에요.» deydi. Ma’nosi: «Bu daftar.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «여기 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mana, marhamat.",
+        "Anavi nima?",
+        "Anavi lug‘at.",
+        "Daftar va ruchka bering, iltimos."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 판매원 «여기 있어요.» deydi. Ma’nosi: «Mana, marhamat.».",
+      "reviewSection": "s"
+    }
+  ]
+}

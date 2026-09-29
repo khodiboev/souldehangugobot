@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "12",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«가르침» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ta’lim, o‘git",
+        "mehnat, intilish",
+        "ona",
+        "ta’limga ishtiyoq"
+      ],
+      "correctIndex": 0,
+      "explanation": "«가르침» — «ta’lim, o‘git». Bu so‘z darsdagi «Ta’lim va tarbiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«mashq, tayyorgarlik» koreyschada qaysi so‘z?",
+      "options": [
+        "재능",
+        "훈련",
+        "어머니",
+        "노력"
+      ],
+      "correctIndex": 1,
+      "explanation": "«훈련» — «mashq, tayyorgarlik». Bu so‘z darsdagi «Ta’lim va tarbiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«노력» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ta’lim, o‘git",
+        "mehnat, intilish",
+        "mashq, tayyorgarlik",
+        "ta’limga ishtiyoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«노력» — «mehnat, intilish». Bu so‘z darsdagi «Ta’lim va tarbiya» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qarshilik» koreyschada qaysi so‘z?",
+      "options": [
+        "격려",
+        "부담",
+        "반대",
+        "실패"
+      ],
+      "correctIndex": 2,
+      "explanation": "«반대» — «qarshilik». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«성취» so‘zining ma’nosi qaysi?",
+      "options": [
+        "qarshilik",
+        "yutuq",
+        "bosim",
+        "dalda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«성취» — «yutuq». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«muvaffaqiyatsizlik» koreyschada qaysi so‘z?",
+      "options": [
+        "실패",
+        "찬성",
+        "부담",
+        "격려"
+      ],
+      "correctIndex": 0,
+      "explanation": "«실패» — «muvaffaqiyatsizlik». Bu so‘z darsdagi «Bahs» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A-(으)ㄴ/V-는 탓» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nafaqat, balki",
+        "Bunday qilib ... bo‘ladimi?",
+        "...ning aybi / sababi",
+        "...sa kifoya"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A-(으)ㄴ/V-는 탓» — ...ning aybi / sababi. Muammo yoniga qo‘yilgan javobgarlik yorlig‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)면 그만이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nafaqat, balki",
+        "...sa kifoya",
+        "Bunday qilib ... bo‘ladimi?",
+        "...ning aybi / sababi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-(으)면 그만이다» — ...sa kifoya. Masala ustiga qo‘yilgan “shu yetarli” tamg‘asi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-(으)ㄹ뿐더러» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nafaqat, balki",
+        "Bunday qilib ... bo‘ladimi?",
+        "...ning aybi / sababi",
+        "...sa kifoya"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-(으)ㄹ뿐더러» — Nafaqat, balki. Bitta dalil yoniga ikkinchi kuchli dalil.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«이래 가지고(서)(야)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ning aybi / sababi",
+        "Bunday qilib ... bo‘ladimi?",
+        "...sa kifoya",
+        "Nafaqat, balki"
+      ],
+      "correctIndex": 1,
+      "explanation": "«이래 가지고(서)(야)» — Bunday qilib ... bo‘ladimi?. Maqsadga ketayotgan mashinaning bo‘sh baki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«너무 서두르는 탓에 실수가 났어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ona talabchan, shu bilan birga mehribon edi.",
+        "Usul mos kelmasa almashtirsak bo‘ladi.",
+        "Juda shoshilgani sabab xato chiqdi.",
+        "Uyqu yetmagani sabab diqqat jamlay olmadim."
+      ],
+      "correctIndex": 2,
+      "explanation": "«너무 서두르는 탓에 실수가 났어요.» — «Juda shoshilgani sabab xato chiqdi.». Bu yerda «A-(으)ㄴ/V-는 탓» qolipi ishlatilgan: ...ning aybi / sababi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Xato bo‘lsa qayta o‘rgansak kifoya.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "힘들면 쉬면 그만이라고 쉽게 말할 수 없어요.",
+        "계획이 없는데 이래 가지고서야 성과가 나겠어요?",
+        "그 방법은 재미있을뿐더러 기억에도 남아요.",
+        "틀리면 다시 배우면 그만이에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«틀리면 다시 배우면 그만이에요.» — «Xato bo‘lsa qayta o‘rgansak kifoya.». Bu yerda «A/V-(으)면 그만이다» qolipi ishlatilgan: ...sa kifoya.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«그 방법은 재미있을뿐더러 기억에도 남아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bahs fikrni kengaytiradi, tinglashni ham rivojlantiradi.",
+        "Usul mos kelmasa almashtirsak bo‘ladi.",
+        "Bu usul qiziq, ustiga-ustak esda qoladi.",
+        "Qiynalsa dam olsin deb yengil aytib bo‘lmaydi."
+      ],
+      "correctIndex": 2,
+      "explanation": "«그 방법은 재미있을뿐더러 기억에도 남아요.» — «Bu usul qiziq, ustiga-ustak esda qoladi.». Bu yerda «A/V-(으)ㄹ뿐더러» qolipi ishlatilgan: Nafaqat, balki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Bunday qilib imtihonga tayyorlana olamizmi?» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "너무 서두르는 탓에 실수가 났어요.",
+        "어머니는 엄격할뿐더러 따뜻했어요.",
+        "부담이 큰 탓에 아이가 공부를 싫어해요.",
+        "이래 가지고서야 시험을 준비할 수 있겠어요?"
+      ],
+      "correctIndex": 3,
+      "explanation": "«이래 가지고서야 시험을 준비할 수 있겠어요?» — «Bunday qilib imtihonga tayyorlana olamizmi?». Bu yerda «이래 가지고(서)(야)» qolipi ishlatilgan: Bunday qilib ... bo‘ladimi?.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «압박이 심한 탓에 자신감이 줄 수도 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bosim kuchli bo‘lgani sabab ishonch kamayishi mumkin.",
+        "Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?",
+        "Mashq mahoratni oshiradi, odat ham yaratadi.",
+        "Muvaffaqiyatsiz bo‘lsa qayta qilsa bo‘ladi deb qo‘ya qolmang."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «압박이 심한 탓에 자신감이 줄 수도 있어요.» deydi. Ma’nosi: «Bosim kuchli bo‘lgani sabab ishonch kamayishi mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그래도 연습은 실력을 높일뿐더러 습관도 만들어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Mashq mahoratni oshiradi, odat ham yaratadi.",
+        "Bosim kuchli bo‘lgani sabab ishonch kamayishi mumkin.",
+        "Muvaffaqiyatsiz bo‘lsa qayta qilsa bo‘ladi deb qo‘ya qolmang.",
+        "Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «그래도 연습은 실력을 높일뿐더러 습관도 만들어요.» deydi. Ma’nosi: «Mashq mahoratni oshiradi, odat ham yaratadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «실패하면 다시 하면 그만이라고만 말하지 마요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?",
+        "Muvaffaqiyatsiz bo‘lsa qayta qilsa bo‘ladi deb qo‘ya qolmang.",
+        "Bosim kuchli bo‘lgani sabab ishonch kamayishi mumkin.",
+        "Mashq mahoratni oshiradi, odat ham yaratadi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «실패하면 다시 하면 그만이라고만 말하지 마요.» deydi. Ma’nosi: «Muvaffaqiyatsiz bo‘lsa qayta qilsa bo‘ladi deb qo‘ya qolmang.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «서로의 마음을 모르는데 이래 가지고서야 좋은 교육이 되겠어요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Mashq mahoratni oshiradi, odat ham yaratadi.",
+        "Bosim kuchli bo‘lgani sabab ishonch kamayishi mumkin.",
+        "Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?",
+        "Muvaffaqiyatsiz bo‘lsa qayta qilsa bo‘ladi deb qo‘ya qolmang."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Soyon «서로의 마음을 모르는데 이래 가지고서야 좋은 교육이 되겠어요?» deydi. Ma’nosi: «Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «그래도 연습은 실력을 높일뿐더러 습관도 만들어요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Soyon",
+        "Minji",
+        "Aziz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Aziz aytadi. Ma’nosi: «Mashq mahoratni oshiradi, odat ham yaratadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «서로의 마음을 모르는데 이래 가지고서야 좋은 교육이 되겠어요?» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Minji",
+        "Mariya",
+        "Soyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Bir-birining ko‘nglini bilmay, yaxshi ta’lim bo‘ladimi?».",
+      "reviewSection": "s"
+    }
+  ]
+}

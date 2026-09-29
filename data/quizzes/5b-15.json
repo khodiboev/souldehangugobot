@@ -1,0 +1,287 @@
+{
+  "bookId": "5b",
+  "unitId": "15",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«발명가» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ixtirochi",
+        "sinov namunasi",
+        "vazifa",
+        "mahsulot"
+      ],
+      "correctIndex": 0,
+      "explanation": "«발명가» — «ixtirochi». Bu so‘z darsdagi «Ixtiro» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«mahsulot» koreyschada qaysi so‘z?",
+      "options": [
+        "발명가",
+        "제품",
+        "아이디어",
+        "발명품"
+      ],
+      "correctIndex": 1,
+      "explanation": "«제품» — «mahsulot». Bu so‘z darsdagi «Ixtiro» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«시제품» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ixtirochi",
+        "sinov namunasi",
+        "mahsulot",
+        "ixtiro buyumi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«시제품» — «sinov namunasi». Bu so‘z darsdagi «Ixtiro» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qulaylik» koreyschada qaysi so‘z?",
+      "options": [
+        "개선",
+        "문제점",
+        "사용자",
+        "편의"
+      ],
+      "correctIndex": 3,
+      "explanation": "«편의» — «qulaylik». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«문제점» so‘zining ma’nosi qaysi?",
+      "options": [
+        "muammo",
+        "foydalanuvchi",
+        "ko‘rgazma",
+        "tekshiruv"
+      ],
+      "correctIndex": 0,
+      "explanation": "«문제점» — «muammo». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«ko‘rgazma» koreyschada qaysi so‘z?",
+      "options": [
+        "사용자",
+        "검사",
+        "전시회",
+        "문제점"
+      ],
+      "correctIndex": 2,
+      "explanation": "«전시회» — «ko‘rgazma». Bu so‘z darsdagi «Baholash» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N은/는 물론이려니와» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Qanday qilishga bog‘liq",
+        "...gani bois / ...darajasida",
+        "...ish tendensiyasi bor",
+        "N bilan birga, qolaversa"
+      ],
+      "correctIndex": 3,
+      "explanation": "«N은/는 물론이려니와» — N bilan birga, qolaversa. Bir mahsulot yorlig‘idagi ikkinchi muhim xossa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-기 나름이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "...ish tendensiyasi bor",
+        "N bilan birga, qolaversa",
+        "Qanday qilishga bog‘liq",
+        "Nmi, Nmi deb sanamoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-기 나름이다» — Qanday qilishga bog‘liq. Bir xil asbob turli qo‘lda turlicha natija beradi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-는 추세이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N bilan birga, qolaversa",
+        "Qanday qilishga bog‘liq",
+        "...ish tendensiyasi bor",
+        "Shunday bo‘lsa kerak deb"
+      ],
+      "correctIndex": 2,
+      "explanation": "«V-는 추세이다» — ...ish tendensiyasi bor. Grafikdagi asta o‘zgargan chiziq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«이 제품은 기능은 물론이려니와 디자인도 좋아요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ko‘rgazmada avval sinov namunasi tekshirilishi urfga aylanyapti.",
+        "Bu mahsulotning vazifasi yaxshi, qolaversa dizayni ham.",
+        "Ixcham mahsulot izlovchilar ko‘payish tendensiyasida.",
+        "Noqulaylikni ham qanday tuzatishga bog‘liq."
+      ],
+      "correctIndex": 1,
+      "explanation": "«이 제품은 기능은 물론이려니와 디자인도 좋아요.» — «Bu mahsulotning vazifasi yaxshi, qolaversa dizayni ham.». Bu yerda «N은/는 물론이려니와» qolipi ishlatilgan: N bilan birga, qolaversa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Yangi qurilma qanday ishlatishga bog‘liq.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "아이디어의 성공은 시험해 보기 나름이에요.",
+        "수리해서 오래 쓰는 사람이 많아지는 추세예요.",
+        "불편한 점도 고치기 나름이에요.",
+        "새 기계도 어떻게 쓰기 나름이에요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«새 기계도 어떻게 쓰기 나름이에요.» — «Yangi qurilma qanday ishlatishga bog‘liq.». Bu yerda «V-기 나름이다» qolipi ishlatilgan: Qanday qilishga bog‘liq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«작은 제품을 찾는 사람이 늘어나는 추세예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Noqulaylikni ham qanday tuzatishga bog‘liq.",
+        "Ixcham mahsulot izlovchilar ko‘payish tendensiyasida.",
+        "Ta’mirlab uzoq ishlatuvchilar ko‘paymoqda.",
+        "Qulaylik bilan birga xavfsizlik ham muhim."
+      ],
+      "correctIndex": 1,
+      "explanation": "«작은 제품을 찾는 사람이 늘어나는 추세예요.» — «Ixcham mahsulot izlovchilar ko‘payish tendensiyasida.». Bu yerda «V-는 추세이다» qolipi ishlatilgan: ...ish tendensiyasi bor.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Qulaylik bilan birga xavfsizlik ham muhim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "새 기계도 어떻게 쓰기 나름이에요.",
+        "작은 제품을 찾는 사람이 늘어나는 추세예요.",
+        "편의는 물론이려니와 안전도 중요해요.",
+        "가격은 물론이려니와 수리 방법도 확인해야 해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«편의는 물론이려니와 안전도 중요해요.» — «Qulaylik bilan birga xavfsizlik ham muhim.». Bu yerda «N은/는 물론이려니와» qolipi ishlatilgan: N bilan birga, qolaversa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«아이디어의 성공은 시험해 보기 나름이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qulaylik bilan birga xavfsizlik ham muhim.",
+        "G‘oyaning muvaffaqiyati sinab ko‘rishga bog‘liq.",
+        "Bu mahsulotning vazifasi yaxshi, qolaversa dizayni ham.",
+        "Noqulaylikni ham qanday tuzatishga bog‘liq."
+      ],
+      "correctIndex": 1,
+      "explanation": "«아이디어의 성공은 시험해 보기 나름이에요.» — «G‘oyaning muvaffaqiyati sinab ko‘rishga bog‘liq.». Bu yerda «V-기 나름이다» qolipi ishlatilgan: Qanday qilishga bog‘liq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «안내 기능은 물론이려니와 소리도 분명해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yo‘l ko‘rsatishi yaxshi, qolaversa tovushi ham aniq.",
+        "Foydalanuvchi fikrini albatta so‘raylik.",
+        "Hammaga qulay bo‘lishni ko‘zlagan ixtirolar ko‘paymoqda.",
+        "Yaxshi mahsulotligini bilish foydalanib ko‘rishga bog‘liq."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «안내 기능은 물론이려니와 소리도 분명해요.» deydi. Ma’nosi: «Yo‘l ko‘rsatishi yaxshi, qolaversa tovushi ham aniq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋은 제품인지는 직접 써 보기 나름이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi mahsulotligini bilish foydalanib ko‘rishga bog‘liq.",
+        "Foydalanuvchi fikrini albatta so‘raylik.",
+        "Hammaga qulay bo‘lishni ko‘zlagan ixtirolar ko‘paymoqda.",
+        "Yo‘l ko‘rsatishi yaxshi, qolaversa tovushi ham aniq."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Minji «좋은 제품인지는 직접 써 보기 나름이에요.» deydi. Ma’nosi: «Yaxshi mahsulotligini bilish foydalanib ko‘rishga bog‘liq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «접근성을 생각하는 발명품이 늘어나는 추세예요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi mahsulotligini bilish foydalanib ko‘rishga bog‘liq.",
+        "Hammaga qulay bo‘lishni ko‘zlagan ixtirolar ko‘paymoqda.",
+        "Yo‘l ko‘rsatishi yaxshi, qolaversa tovushi ham aniq.",
+        "Foydalanuvchi fikrini albatta so‘raylik."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Mariya «접근성을 생각하는 발명품이 늘어나는 추세예요.» deydi. Ma’nosi: «Hammaga qulay bo‘lishni ko‘zlagan ixtirolar ko‘paymoqda.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «사용자 의견을 꼭 물어봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi mahsulotligini bilish foydalanib ko‘rishga bog‘liq.",
+        "Foydalanuvchi fikrini albatta so‘raylik.",
+        "Hammaga qulay bo‘lishni ko‘zlagan ixtirolar ko‘paymoqda.",
+        "Yo‘l ko‘rsatishi yaxshi, qolaversa tovushi ham aniq."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Jisu «사용자 의견을 꼭 물어봐요.» deydi. Ma’nosi: «Foydalanuvchi fikrini albatta so‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «좋은 제품인지는 직접 써 보기 나름이에요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Mariya",
+        "Jisu",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Yaxshi mahsulotligini bilish foydalanib ko‘rishga bog‘liq.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «사용자 의견을 꼭 물어봐요.» gapini kim aytadi?",
+      "options": [
+        "Minji",
+        "Aziz",
+        "Jisu",
+        "Mariya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Foydalanuvchi fikrini albatta so‘raylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

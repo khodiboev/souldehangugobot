@@ -1,0 +1,287 @@
+{
+  "bookId": "5a",
+  "unitId": "9",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«직장» so‘zining ma’nosi qaysi?",
+      "options": [
+        "texnik mutaxassis",
+        "biznes boshlash",
+        "kasb",
+        "ish joyi"
+      ],
+      "correctIndex": 3,
+      "explanation": "«직장» — «ish joyi». Bu so‘z darsdagi «Kasb va mehnat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«mutaxassis» koreyschada qaysi so‘z?",
+      "options": [
+        "기술자",
+        "창업",
+        "직장",
+        "전문가"
+      ],
+      "correctIndex": 3,
+      "explanation": "«전문가» — «mutaxassis». Bu so‘z darsdagi «Kasb va mehnat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«창업» so‘zining ma’nosi qaysi?",
+      "options": [
+        "biznes boshlash",
+        "kasb",
+        "texnik mutaxassis",
+        "xodim"
+      ],
+      "correctIndex": 0,
+      "explanation": "«창업» — «biznes boshlash». Bu so‘z darsdagi «Kasb va mehnat» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«istiqbol» koreyschada qaysi so‘z?",
+      "options": [
+        "전망",
+        "안정성",
+        "조건",
+        "적성"
+      ],
+      "correctIndex": 0,
+      "explanation": "«전망» — «istiqbol». Bu so‘z darsdagi «Tanlov» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«적성» so‘zining ma’nosi qaysi?",
+      "options": [
+        "moyillik",
+        "barqarorlik",
+        "istiqbol",
+        "qoniqish darajasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "«적성» — «moyillik». Bu so‘z darsdagi «Tanlov» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«qoniqish darajasi» koreyschada qaysi so‘z?",
+      "options": [
+        "전망",
+        "선택",
+        "만족도",
+        "안정성"
+      ],
+      "correctIndex": 2,
+      "explanation": "«만족도» — «qoniqish darajasi». Bu so‘z darsdagi «Tanlov» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«N의 (대표적인) 예로 N을/를 들다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Agar shunday bo‘lsa",
+        "Bosqichma-bosqich vazifa olish",
+        "Misol sifatida Nni keltirmoq",
+        "Ndan tashqari"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N의 (대표적인) 예로 N을/를 들다» — Misol sifatida Nni keltirmoq. Xulosaga tayanch bo‘ladigan bitta aniq g‘isht.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N 외» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Misol sifatida Nni keltirmoq",
+        "Ndan tashqari",
+        "Shunday taassurot qoldirmoq",
+        "Agar shunday bo‘lsa"
+      ],
+      "correctIndex": 1,
+      "explanation": "«N 외» — Ndan tashqari. Ro‘yxat doirasidan tashqaridagi qo‘shimcha katak.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A/V-다면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Misol sifatida Nni keltirmoq",
+        "Ndan tashqari",
+        "Agar shunday bo‘lsa",
+        "Quyidagicha"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-다면» — Agar shunday bo‘lsa. Qaror oldidagi xayoliy sinov sharti.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«새로운 직업의 예로 데이터 분석가를 들 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Yangi kasbga misol sifatida ma’lumot tahlilchisini keltirish mumkin.",
+        "Mutaxassislikdan tashqari tajriba ham baholanadi.",
+        "Moslashuvchan ishga misol sifatida uydan ishlashni aytaman.",
+        "Barqaror ish joyiga misol sifatida davlat muassasasini keltiraman."
+      ],
+      "correctIndex": 0,
+      "explanation": "«새로운 직업의 예로 데이터 분석가를 들 수 있어요.» — «Yangi kasbga misol sifatida ma’lumot tahlilchisini keltirish mumkin.». Bu yerda «N의 (대표적인) 예로 N을/를 들다» qolipi ishlatilgan: Misol sifatida Nni keltirmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Maoshdan tashqari o‘qish imkoniyati ham muhim.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "급여 외에 교육 기회도 중요해요.",
+        "다른 일을 선택한다면 무엇을 고려할 거예요?",
+        "전공 외의 경험도 평가해요.",
+        "직원 외에도 자원봉사자가 있어요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«급여 외에 교육 기회도 중요해요.» — «Maoshdan tashqari o‘qish imkoniyati ham muhim.». Bu yerda «N 외» qolipi ishlatilgan: Ndan tashqari.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«안정적인 직장을 원한다면 조건을 비교하세요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Barqaror ish istasangiz shartlarni solishtiring.",
+        "Mutaxassislikdan tashqari tajriba ham baholanadi.",
+        "Qoniqish past bo‘lsa sababini izlang.",
+        "Maoshdan tashqari o‘qish imkoniyati ham muhim."
+      ],
+      "correctIndex": 0,
+      "explanation": "«안정적인 직장을 원한다면 조건을 비교하세요.» — «Barqaror ish istasangiz shartlarni solishtiring.». Bu yerda «A/V-다면» qolipi ishlatilgan: Agar shunday bo‘lsa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«Moslashuvchan ishga misol sifatida uydan ishlashni aytaman.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "직원 외에도 자원봉사자가 있어요.",
+        "전공 외의 경험도 평가해요.",
+        "유연한 근무의 예로 재택근무를 들어요.",
+        "급여 외에 교육 기회도 중요해요."
+      ],
+      "correctIndex": 2,
+      "explanation": "«유연한 근무의 예로 재택근무를 들어요.» — «Moslashuvchan ishga misol sifatida uydan ishlashni aytaman.». Bu yerda «N의 (대표적인) 예로 N을/를 들다» qolipi ishlatilgan: Misol sifatida Nni keltirmoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«전공 외의 경험도 평가해요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Barqaror ish istasangiz shartlarni solishtiring.",
+        "Qoniqish past bo‘lsa sababini izlang.",
+        "Xodimlardan tashqari ko‘ngillilar ham bor.",
+        "Mutaxassislikdan tashqari tajriba ham baholanadi."
+      ],
+      "correctIndex": 3,
+      "explanation": "«전공 외의 경험도 평가해요.» — «Mutaxassislikdan tashqari tajriba ham baholanadi.». Bu yerda «N 외» qolipi ishlatilgan: Ndan tashqari.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «미래 직업의 예로 환경 기술자를 들 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shu sohada ishlovchi odamdan bevosita so‘raylik.",
+        "Bu ishni tanlasak nimani o‘rganish kerak?",
+        "Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak.",
+        "Kelajak kasbiga misol sifatida ekologiya texnikini aytish mumkin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «미래 직업의 예로 환경 기술자를 들 수 있어요.» deydi. Ma’nosi: «Kelajak kasbiga misol sifatida ekologiya texnikini aytish mumkin.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «기술 외에 협력 능력도 필요해요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shu sohada ishlovchi odamdan bevosita so‘raylik.",
+        "Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak.",
+        "Bu ishni tanlasak nimani o‘rganish kerak?",
+        "Kelajak kasbiga misol sifatida ekologiya texnikini aytish mumkin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hikoyada Minji «기술 외에 협력 능력도 필요해요.» deydi. Ma’nosi: «Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «이 일을 선택한다면 무엇을 배워야 할까요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak.",
+        "Kelajak kasbiga misol sifatida ekologiya texnikini aytish mumkin.",
+        "Shu sohada ishlovchi odamdan bevosita so‘raylik.",
+        "Bu ishni tanlasak nimani o‘rganish kerak?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Mariya «이 일을 선택한다면 무엇을 배워야 할까요?» deydi. Ma’nosi: «Bu ishni tanlasak nimani o‘rganish kerak?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «현장에서 일하는 사람에게 직접 물어봐요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shu sohada ishlovchi odamdan bevosita so‘raylik.",
+        "Bu ishni tanlasak nimani o‘rganish kerak?",
+        "Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak.",
+        "Kelajak kasbiga misol sifatida ekologiya texnikini aytish mumkin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Jisu «현장에서 일하는 사람에게 직접 물어봐요.» deydi. Ma’nosi: «Shu sohada ishlovchi odamdan bevosita so‘raylik.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «기술 외에 협력 능력도 필요해요.» gapini kim aytadi?",
+      "options": [
+        "Aziz",
+        "Jisu",
+        "Mariya",
+        "Minji"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Texnikadan tashqari hamkorlik ko‘nikmasi ham kerak.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «현장에서 일하는 사람에게 직접 물어봐요.» gapini kim aytadi?",
+      "options": [
+        "Jisu",
+        "Minji",
+        "Aziz",
+        "Mariya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bu gapni Jisu aytadi. Ma’nosi: «Shu sohada ishlovchi odamdan bevosita so‘raylik.».",
+      "reviewSection": "s"
+    }
+  ]
+}

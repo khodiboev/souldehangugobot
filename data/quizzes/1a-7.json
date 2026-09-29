@@ -1,0 +1,147 @@
+{
+  "bookId": "1a",
+  "unitId": "7",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«따뜻하다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "issiq bo‘lmoq",
+        "iliq bo‘lmoq",
+        "ochiq, musaffo bo‘lmoq",
+        "yomg‘ir yog‘moq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«따뜻하다» — «iliq bo‘lmoq». Bu so‘z darsdagi «Ob-havo» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«oson bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "겨울",
+        "무겁다",
+        "쉽다",
+        "가을"
+      ],
+      "correctIndex": 2,
+      "explanation": "«쉽다» — «oson bo‘lmoq». Bu so‘z darsdagi «Fasllar va belgilar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«꽃» so‘zining ma’nosi qaysi?",
+      "options": [
+        "yoqtirmoq",
+        "qanday bo‘lmoq",
+        "biroz",
+        "gul"
+      ],
+      "correctIndex": 3,
+      "explanation": "«꽃» — «gul». Bu so‘z darsdagi «Suhbatni to‘ldiruvchi so‘zlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«qiziqarsiz bo‘lmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "곱다",
+        "아주",
+        "재미없다",
+        "살다"
+      ],
+      "correctIndex": 2,
+      "explanation": "«재미없다» — «qiziqarsiz bo‘lmoq». Bu so‘z darsdagi «Suhbatni to‘ldiruvchi so‘zlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-지만» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "... lekin ...",
+        "ㅂ ning 우/오 ga o‘zgarishi",
+        "Rasmiy-hurmatli ma’lumot",
+        "Belgilarni birga aytish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-지만» — ... lekin .... “Qimmat, lekin yaxshi” deyishdagi “lekin” koreyschada birinchi sifatga yopishadi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«A/V-고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Rasmiy-hurmatli ma’lumot",
+        "Belgilarni birga aytish",
+        "... lekin ...",
+        "ㅂ ning 우/오 ga o‘zgarishi"
+      ],
+      "correctIndex": 1,
+      "explanation": "«A/V-고» — Belgilarni birga aytish. Taomga ikkita yorliq qo‘yayotgandek: arzon + mazali → 싸고 맛있어요.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«오늘은 조금 더워요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bugun biroz issiq.",
+        "Qishda sovuq.",
+        "Qahva ichasizmi? (rasmiy)",
+        "Bugun sovuq va bulutli."
+      ],
+      "correctIndex": 0,
+      "explanation": "«오늘은 조금 더워요.» — «Bugun biroz issiq.». Bu yerda «ㅂ 불규칙» qolipi ishlatilgan: ㅂ ning 우/오 ga o‘zgarishi.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«Qahva qimmat, lekin mazali.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "가방이 무거워요.",
+        "오늘은 춥지만 날씨가 맑아요.",
+        "이거는 싸고 맛있어요.",
+        "커피가 비싸지만 맛있어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«커피가 비싸지만 맛있어요.» — «Qahva qimmat, lekin mazali.». Bu yerda «A/V-지만» qolipi ishlatilgan: ... lekin ....",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «우산이 있어요?» gapining ma’nosi qaysi?",
+      "options": [
+        "Soyaboningiz bormi?",
+        "Ha, yaxshi.",
+        "Bitta soyabon bering, iltimos.",
+        "Bugun sovuq va yomg‘ir yog‘yapti."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada 민지 «우산이 있어요?» deydi. Ma’nosi: «Soyaboningiz bormi?».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «네, 좋아요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Bitta soyabon bering, iltimos.",
+        "Yo‘q. Maktab oldidagi do‘konga boraman.",
+        "Ha, yaxshi.",
+        "Bugun sovuq va yomg‘ir yog‘yapti."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada 민지 «네, 좋아요.» deydi. Ma’nosi: «Ha, yaxshi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

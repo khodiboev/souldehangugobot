@@ -1,0 +1,287 @@
+{
+  "bookId": "4b",
+  "unitId": "11",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«외래어» so‘zining ma’nosi qaysi?",
+      "options": [
+        "o‘zlashma so‘z",
+        "qisqartma so‘z",
+        "til",
+        "koreyscha-inglizcha aralash ifoda"
+      ],
+      "correctIndex": 0,
+      "explanation": "«외래어» — «o‘zlashma so‘z». Bu so‘z darsdagi «Til ishlatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«koreyscha-inglizcha aralash ifoda» koreyschada qaysi so‘z?",
+      "options": [
+        "콩글리시",
+        "표현",
+        "외래어",
+        "욕설"
+      ],
+      "correctIndex": 0,
+      "explanation": "«콩글리시» — «koreyscha-inglizcha aralash ifoda». Bu so‘z darsdagi «Til ishlatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«욕설» so‘zining ma’nosi qaysi?",
+      "options": [
+        "til",
+        "so‘kinish",
+        "o‘zlashma so‘z",
+        "ifoda"
+      ],
+      "correctIndex": 1,
+      "explanation": "«욕설» — «so‘kinish». Bu so‘z darsdagi «Til ishlatish» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«fikr» koreyschada qaysi so‘z?",
+      "options": [
+        "의견",
+        "세대",
+        "조사",
+        "말투"
+      ],
+      "correctIndex": 0,
+      "explanation": "«의견» — «fikr». Bu so‘z darsdagi «Bahs va kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«조사» so‘zining ma’nosi qaysi?",
+      "options": [
+        "noto‘g‘ri tushunmoq",
+        "fikr",
+        "avlod",
+        "tadqiqot"
+      ],
+      "correctIndex": 3,
+      "explanation": "«조사» — «tadqiqot». Bu so‘z darsdagi «Bahs va kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v06",
+      "topic": "vocab",
+      "prompt": "«noto‘g‘ri tushunmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "말투",
+        "조사",
+        "의견",
+        "오해하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«오해하다» — «noto‘g‘ri tushunmoq». Bu so‘z darsdagi «Bahs va kuzatuv» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-더라고(요)» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Nga ko‘ra",
+        "Buni Ndan bilish mumkin",
+        "Ko‘rib bildimki",
+        "N orasida / N bo‘la turib"
+      ],
+      "correctIndex": 2,
+      "explanation": "«A/V-더라고(요)» — Ko‘rib bildimki. Ko‘z bilan ko‘rilgan sahnadan qilingan xulosa.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«N치고» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N orasida / N bo‘la turib",
+        "Buni Ndan bilish mumkin",
+        "Ko‘rib bildimki",
+        "Nga ko‘ra"
+      ],
+      "correctIndex": 0,
+      "explanation": "«N치고» — N orasida / N bo‘la turib. Guruh ichida odatdan chetga chiqqan nuqtani ajratish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«A-다는 것은 N에서/N(으)로 알 수 있다 · V-ㄴ/는다는 것은 N에서/N(으)로 알 수 있다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "N orasida / N bo‘la turib",
+        "Ko‘rib bildimki",
+        "Nga ko‘ra",
+        "Buni Ndan bilish mumkin"
+      ],
+      "correctIndex": 3,
+      "explanation": "«A-다는 것은 N에서/N(으)로 알 수 있다 · V-ㄴ/는다는 것은 N에서/N(으)로 알 수 있다» — Buni Ndan bilish mumkin. Xulosa yoniga manbasi ko‘rsatilgan dalil.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«N에 의하면» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Ko‘rib bildimki",
+        "N orasida / N bo‘la turib",
+        "Nga ko‘ra",
+        "Buni Ndan bilish mumkin"
+      ],
+      "correctIndex": 2,
+      "explanation": "«N에 의하면» — Nga ko‘ra. Gap oldiga qo‘yilgan manba yorlig‘i.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«학생들이 줄임말을 많이 쓰더라고요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Bu ifoda notanishligini savollardan anglash mumkin.",
+        "Qisqartma keng ishlatilishini tadqiqot natijasidan bilish mumkin.",
+        "Talabalar qisqartmani ko‘p ishlatar ekan.",
+        "U ifoda hududga qarab farq qilar ekan."
+      ],
+      "correctIndex": 2,
+      "explanation": "«학생들이 줄임말을 많이 쓰더라고요.» — «Talabalar qisqartmani ko‘p ishlatar ekan.». Bu yerda «A/V-더라고(요)» qolipi ishlatilgan: Ko‘rib bildimki.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«Tarjimonlar orasida aniq ifodani yoqtirmaydigan bo‘lmasa kerak.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "이 표현이 낯설다는 것은 질문으로 알 수 있어요.",
+        "줄임말이 널리 쓰인다는 것은 조사 결과에서 알 수 있어요.",
+        "초보자치고 발음이 아주 좋아요.",
+        "통역사치고 정확한 표현을 싫어하는 사람은 없어요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«통역사치고 정확한 표현을 싫어하는 사람은 없어요.» — «Tarjimonlar orasida aniq ifodani yoqtirmaydigan bo‘lmasa kerak.». Bu yerda «N치고» qolipi ishlatilgan: N orasida / N bo‘la turib.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g07",
+      "topic": "grammar",
+      "prompt": "«줄임말이 널리 쓰인다는 것은 조사 결과에서 알 수 있어요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Qisqartma keng ishlatilishini tadqiqot natijasidan bilish mumkin.",
+        "Boshlovchi bo‘la turib talaffuzi juda yaxshi.",
+        "Maqolaga ko‘ra yangi lug‘at chiqibdi.",
+        "Ustozning gapiga ko‘ra bu ifoda norasmiy."
+      ],
+      "correctIndex": 0,
+      "explanation": "«줄임말이 널리 쓰인다는 것은 조사 결과에서 알 수 있어요.» — «Qisqartma keng ishlatilishini tadqiqot natijasidan bilish mumkin.». Bu yerda «A-다는 것은 N에서/N(으)로 알 수 있다 · V-ㄴ/는다는 것은 N에서/N(으)로 알 수 있다» qolipi ishlatilgan: Buni Ndan bilish mumkin.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g08",
+      "topic": "grammar",
+      "prompt": "«Tadqiqotga ko‘ra yosh avlod qisqartmani tez-tez ishlatadi.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "조사에 의하면 젊은 세대가 줄임말을 자주 써요.",
+        "초보자치고 발음이 아주 좋아요.",
+        "줄임말이 널리 쓰인다는 것은 조사 결과에서 알 수 있어요.",
+        "선생님 말씀에 의하면 이 표현은 비격식적이에요."
+      ],
+      "correctIndex": 0,
+      "explanation": "«조사에 의하면 젊은 세대가 줄임말을 자주 써요.» — «Tadqiqotga ko‘ra yosh avlod qisqartmani tez-tez ishlatadi.». Bu yerda «N에 의하면» qolipi ishlatilgan: Nga ko‘ra.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «어르신들은 이 줄임말을 모르시더라고요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Keksalar bu qisqartmani bilmas ekan.",
+        "Yaxshi tarjimon tinglovchini albatta hisobga oladi.",
+        "Ifodalar farq qilishini javoblardan bilsa bo‘ladi.",
+        "So‘rovga ko‘ra yoshlar uni ko‘p ishlatadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «어르신들은 이 줄임말을 모르시더라고요.» deydi. Ma’nosi: «Keksalar bu qisqartmani bilmas ekan.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «조사에 의하면 젊은 세대는 자주 써요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi tarjimon tinglovchini albatta hisobga oladi.",
+        "Ifodalar farq qilishini javoblardan bilsa bo‘ladi.",
+        "So‘rovga ko‘ra yoshlar uni ko‘p ishlatadi.",
+        "Keksalar bu qisqartmani bilmas ekan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Minji «조사에 의하면 젊은 세대는 자주 써요.» deydi. Ma’nosi: «So‘rovga ko‘ra yoshlar uni ko‘p ishlatadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «표현이 다르다는 것은 답변에서 알 수 있어요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Ifodalar farq qilishini javoblardan bilsa bo‘ladi.",
+        "Yaxshi tarjimon tinglovchini albatta hisobga oladi.",
+        "Keksalar bu qisqartmani bilmas ekan.",
+        "So‘rovga ko‘ra yoshlar uni ko‘p ishlatadi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Mariya «표현이 다르다는 것은 답변에서 알 수 있어요.» deydi. Ma’nosi: «Ifodalar farq qilishini javoblardan bilsa bo‘ladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyadagi «좋은 통역사치고 듣는 사람을 배려하지 않는 사람은 없지요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Yaxshi tarjimon tinglovchini albatta hisobga oladi.",
+        "So‘rovga ko‘ra yoshlar uni ko‘p ishlatadi.",
+        "Ifodalar farq qilishini javoblardan bilsa bo‘ladi.",
+        "Keksalar bu qisqartmani bilmas ekan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Soyon «좋은 통역사치고 듣는 사람을 배려하지 않는 사람은 없지요.» deydi. Ma’nosi: «Yaxshi tarjimon tinglovchini albatta hisobga oladi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c05",
+      "topic": "context",
+      "prompt": "Hikoyada «조사에 의하면 젊은 세대는 자주 써요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Soyon",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «So‘rovga ko‘ra yoshlar uni ko‘p ishlatadi.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c06",
+      "topic": "context",
+      "prompt": "Hikoyada «좋은 통역사치고 듣는 사람을 배려하지 않는 사람은 없지요.» gapini kim aytadi?",
+      "options": [
+        "Mariya",
+        "Minji",
+        "Aziz",
+        "Soyon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bu gapni Soyon aytadi. Ma’nosi: «Yaxshi tarjimon tinglovchini albatta hisobga oladi.».",
+      "reviewSection": "s"
+    }
+  ]
+}

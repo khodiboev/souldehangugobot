@@ -1,0 +1,217 @@
+{
+  "bookId": "3b",
+  "unitId": "10",
+  "version": 1,
+  "questions": [
+    {
+      "id": "v01",
+      "topic": "vocab",
+      "prompt": "«결혼» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ko‘r-ko‘rona uchrashuv",
+        "nikoh",
+        "birinchi taassurot",
+        "sevgi izhori"
+      ],
+      "correctIndex": 1,
+      "explanation": "«결혼» — «nikoh». Bu so‘z darsdagi «Munosabatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v02",
+      "topic": "vocab",
+      "prompt": "«birinchi taassurot» koreyschada qaysi so‘z?",
+      "options": [
+        "첫인상",
+        "이상형",
+        "연애",
+        "소개팅"
+      ],
+      "correctIndex": 0,
+      "explanation": "«첫인상» — «birinchi taassurot». Bu so‘z darsdagi «Munosabatlar» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v03",
+      "topic": "vocab",
+      "prompt": "«사귀다» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ajrashmoq",
+        "ehtiyotkor bo‘lmoq",
+        "uchrashib yurmoq",
+        "tayyorlanmoq"
+      ],
+      "correctIndex": 2,
+      "explanation": "«사귀다» — «uchrashib yurmoq». Bu so‘z darsdagi «Jarayon va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v04",
+      "topic": "vocab",
+      "prompt": "«tayyorlanmoq» koreyschada qaysi so‘z?",
+      "options": [
+        "헤어지다",
+        "약혼하다",
+        "사귀다",
+        "준비하다"
+      ],
+      "correctIndex": 3,
+      "explanation": "«준비하다» — «tayyorlanmoq». Bu so‘z darsdagi «Jarayon va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "v05",
+      "topic": "vocab",
+      "prompt": "«예정» so‘zining ma’nosi qaysi?",
+      "options": [
+        "ehtiyotkor bo‘lmoq",
+        "reja qilingan holat",
+        "unashtirilmoq",
+        "tayyorlanmoq"
+      ],
+      "correctIndex": 1,
+      "explanation": "«예정» — «reja qilingan holat». Bu so‘z darsdagi «Jarayon va reja» guruhiga kiradi.",
+      "reviewSection": "v"
+    },
+    {
+      "id": "g01",
+      "topic": "grammar",
+      "prompt": "«A/V-던» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "O‘tmishda davom etgan yoki takrorlangan",
+        "Hali ancha bor",
+        "Axir bilasiz-ku",
+        "Niyat, reja, belgilangan ish"
+      ],
+      "correctIndex": 0,
+      "explanation": "«A/V-던» — O‘tmishda davom etgan yoki takrorlangan. 던 — xotirada hali iz qoldirgan eski kadr.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g02",
+      "topic": "grammar",
+      "prompt": "«V-(으)ㄹ 생각/계획/예정이다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Niyat, reja, belgilangan ish",
+        "O‘tmishda davom etgan yoki takrorlangan",
+        "Hali ancha bor",
+        "Axir bilasiz-ku"
+      ],
+      "correctIndex": 0,
+      "explanation": "«V-(으)ㄹ 생각/계획/예정이다» — Niyat, reja, belgilangan ish. Uch pog‘ona: o‘y → reja → taqvimdagi sana.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g03",
+      "topic": "grammar",
+      "prompt": "«V-(으)려면 멀었다» qolipi qanday ma’noni bildiradi?",
+      "options": [
+        "Niyat, reja, belgilangan ish",
+        "Hali ancha bor",
+        "Axir bilasiz-ku",
+        "O‘tmishda davom etgan yoki takrorlangan"
+      ],
+      "correctIndex": 1,
+      "explanation": "«V-(으)려면 멀었다» — Hali ancha bor. Maqsad ko‘rinadi, lekin yo‘l hali uzoq.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g04",
+      "topic": "grammar",
+      "prompt": "«예전에 자주 만나던 친구예요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Ular uchrashib yurgan vaqtni eslayman.",
+        "Turmush qurishimga hali ancha bor.",
+        "Oldin tez-tez uchrashgan do‘stim.",
+        "Ishga kirgach turmush qurmoqchiman."
+      ],
+      "correctIndex": 2,
+      "explanation": "«예전에 자주 만나던 친구예요.» — «Oldin tez-tez uchrashgan do‘stim.». Bu yerda «A/V-던» qolipi ishlatilgan: O‘tmishda davom etgan yoki takrorlangan.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g05",
+      "topic": "grammar",
+      "prompt": "«Axir biz hali talabamiz-ku.» ma’nosiga qaysi koreyscha gap mos?",
+      "options": [
+        "취직한 후에 결혼할 생각이에요.",
+        "결혼하려면 아직 멀었어요.",
+        "두 사람이 사귀던 때를 기억해요.",
+        "우리는 아직 학생이잖아요."
+      ],
+      "correctIndex": 3,
+      "explanation": "«우리는 아직 학생이잖아요.» — «Axir biz hali talabamiz-ku.». Bu yerda «A/V-잖아(요)» qolipi ishlatilgan: Axir bilasiz-ku.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "g06",
+      "topic": "grammar",
+      "prompt": "«내년에 졸업할 예정이에요.» gapining o‘zbekcha ma’nosi qaysi?",
+      "options": [
+        "Mutaxassis bo‘lishimga hali ancha bor.",
+        "Bu oy ota-onam bilan uchrashish rejam bor.",
+        "Axir nikoh tayyorgarligi uzoq davom etadi-ku.",
+        "Kelasi yil bitirish rejalashtirilgan."
+      ],
+      "correctIndex": 3,
+      "explanation": "«내년에 졸업할 예정이에요.» — «Kelasi yil bitirish rejalashtirilgan.». Bu yerda «V-(으)ㄹ 생각/계획/예정이다» qolipi ishlatilgan: Niyat, reja, belgilangan ish.",
+      "reviewSection": "g"
+    },
+    {
+      "id": "c01",
+      "topic": "context",
+      "prompt": "Hikoyadagi «저는 졸업한 후에 통역사가 될 생각이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday bo‘lsa ham, bu oldindan orzu qilganim.",
+        "Kelasi yil malaka imtihonini topshirish rejam bor.",
+        "Mutaxassis bo‘lishga hali ancha bor-ku.",
+        "Bitirgach tarjimon bo‘lmoqchiman."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hikoyada Aziz «저는 졸업한 후에 통역사가 될 생각이에요.» deydi. Ma’nosi: «Bitirgach tarjimon bo‘lmoqchiman.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c02",
+      "topic": "context",
+      "prompt": "Hikoyadagi «그래도 예전부터 바라던 꿈이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday bo‘lsa ham, bu oldindan orzu qilganim.",
+        "Mutaxassis bo‘lishga hali ancha bor-ku.",
+        "Kelasi yil malaka imtihonini topshirish rejam bor.",
+        "Bitirgach tarjimon bo‘lmoqchiman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hikoyada Aziz «그래도 예전부터 바라던 꿈이에요.» deydi. Ma’nosi: «Shunday bo‘lsa ham, bu oldindan orzu qilganim.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c03",
+      "topic": "context",
+      "prompt": "Hikoyadagi «내년에는 자격시험을 볼 계획이에요.» gapining ma’nosi qaysi?",
+      "options": [
+        "Shunday bo‘lsa ham, bu oldindan orzu qilganim.",
+        "Bitirgach tarjimon bo‘lmoqchiman.",
+        "Kelasi yil malaka imtihonini topshirish rejam bor.",
+        "Mutaxassis bo‘lishga hali ancha bor-ku."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hikoyada Jisu «내년에는 자격시험을 볼 계획이에요.» deydi. Ma’nosi: «Kelasi yil malaka imtihonini topshirish rejam bor.».",
+      "reviewSection": "s"
+    },
+    {
+      "id": "c04",
+      "topic": "context",
+      "prompt": "Hikoyada «전문가가 되려면 아직 멀었잖아요.» gapini kim aytadi?",
+      "options": [
+        "Soyon",
+        "Minji",
+        "Jisu",
+        "Aziz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bu gapni Minji aytadi. Ma’nosi: «Mutaxassis bo‘lishga hali ancha bor-ku.».",
+      "reviewSection": "s"
+    }
+  ]
+}
